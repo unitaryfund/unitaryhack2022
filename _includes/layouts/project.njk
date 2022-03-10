@@ -7,7 +7,15 @@ section: project
     {% if emoji %}
       <span class="project-card__emoji">{{ emoji }}</span>
     {% endif %}
-    {{title}}</h1>
+    <a href = {{project_url}}>{{title}}</a></h1>
+  <hr>
+  <strong>Bounties:</strong>
+  {% if bounties %}
+    {% for issue in bounties %}         
+      {% set issueUrl %}{{project_url}}/issues/{{issue}}{% endset %}
+      <a class="tag" href="{{ issueUrl | url }}" rel="issue">{{ issue }}</a>
+    {% endfor %}
+  {% endif %}
   <hr>
   {{ layoutContent | safe }}
   <nav>

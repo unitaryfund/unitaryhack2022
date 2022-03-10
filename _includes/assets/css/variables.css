@@ -1,12 +1,12 @@
 :root {
   /* Brand Colors */
   --color-primary: #222222;
-  --color-secondary: #2f5bc2;
+  --color-secondary: #38642a;
 
   /* Background Colors */
   --color-bg: #ffffff;
   --color-bg-secondary: #f7f7f7;
-  --color-bg-accent: #c79191;
+  --color-bg-accent: #99955d;
 
   /* Text and Border Colors */
   --color-text: #222222;
@@ -19,7 +19,8 @@
   /* Typography */
   --font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-  --font-family-heading: var(--font-family-base);
+  /* --font-family-heading: var(--font-family-base); */
+  --font-family-heading:"Press Start 2P", var(--font-family-base); 
 
   /* Sizes */
   --site-width: 850px;
