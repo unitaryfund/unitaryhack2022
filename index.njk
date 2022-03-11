@@ -7,19 +7,21 @@ section: home
 
   <div class="hero">
     <div class="hero__col">
-      <h1 class="hero__title gradient-text">{{ home.title }}</h1>
+      <h1 class="hero__title ">{{ home.title }}</h1> 
+      {# gradient-text #}
       {% if home.subtitle %}
         <h2 class="hero__subtitle">{{ home.subtitle }}</h2>
       {% endif %}
     </div>
     <div class="hero__col">
-      <video class="hero__video" autoplay loop muted
+      <image 
         class="hero__image shadow"
         src="{% if home.image %}{{ home.image }}{% else %}https://source.unsplash.com/random/600x600{% endif %}"
         alt="{{ home.image_alt }}"
         width="1000px"
         height="1000px"
         loading="lazy">
+      <a href="/signup/index.html" ><button class="hero__image form__submit btn">PRESS START to get hacking!</button></a>
     </div>
   </div>
 

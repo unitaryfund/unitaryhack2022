@@ -1,17 +1,17 @@
 :root {
     /* Brand Colors */
-    --color-primary: #222222;
-    --color-secondary: #38642a;
+    --color-primary: #242424;
+    --color-secondary: #5E8534;
     /* Background Colors */
     --color-bg: #ffffff;
-    --color-bg-secondary: #f7f7f7;
-    --color-bg-accent: #99955d;
+    --color-bg-secondary: #F6F8E6;
+    --color-bg-accent: #EFEEE1;
     /* Text and Border Colors */
     --color-text: #222222;
     --color-text-alt: #ffffff;
-    --color-border: rgba(0, 0, 0, 0.06);
+    --color-border: #9c8579;
     /* Status Colors */
-    --color-danger: #e03e3e;
+    --color-danger: #FFFF00;
     /* Typography */
     --font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
     /* --font-family-heading: var(--font-family-base); */
@@ -19,6 +19,6 @@
     /* Sizes */
     --site-width: 850px;
     /* Other */
-    --border-radius: 12px;
+    --border-radius: 5px;
     --border-radius-sm: 5px;
 }
