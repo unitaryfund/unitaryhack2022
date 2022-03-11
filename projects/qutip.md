@@ -1,7 +1,7 @@
 ---
 title: QuTiP
 emoji: 🐍
-project-url: https://github.com/qutip/qutip
+project_url: https://github.com/qutip/qutip
 metaDescription: Quantum toolbox for quantum in python
 date: 2022-03-09
 summary: Quantum toolbox for quantum in python
