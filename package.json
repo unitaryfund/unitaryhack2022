@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/crazy4pi314/unitaryhack2022"
+        "url": "https://github.com/unitaryfund/unitaryhackdev"
     },
     "author": {
         "name": "Sarah Kaiser",
@@ -17,9 +17,9 @@
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/crazy4pi314/unitaryhack2022/issues"
+        "url": "https://github.com/unitaryfund/unitaryhackdev/issues"
     },
-    "homepage": "https://github.com/crazy4pi314/unitaryhack2022",
+    "homepage": "https://github.com/unitaryfund/unitaryhackdev",
     "devDependencies": {
         "@11ty/eleventy": "^1.0.0",
         "luxon": "^1.25.0",

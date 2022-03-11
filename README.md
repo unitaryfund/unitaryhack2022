@@ -49,7 +49,7 @@ The website is built with [11ty](https://www.11ty.dev/) and hosted on GitHub Pag
 The [Fernfolio](https://fernfolio.netlify.app/) template was used to bootstrap the design.
 Here are some basic local setup steps to get you started:
 ### Local environment
-- Clone the repo locally `git clone https://github.com/crazy4pi314/unitaryhack2022.git`
+- Clone the repo locally `git clone https://github.com/unitaryfund/unitaryhackdev.git`
 - Navigate to root folder `cd untitaryhack2022`
 - Install the goods `npm install`
 - Run it `npm start`
