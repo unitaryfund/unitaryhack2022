@@ -9,7 +9,7 @@
 
 #[[redirects]]
 #  from = "/*"
-#  to = "/blog/:splat"
+#  to = "/news/:splat"
 
 # The default HTTP status code is 301, but you can define a different one e.g.
 # status = 302

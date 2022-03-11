@@ -1,11 +1,11 @@
 ---
-layout: layouts/blog.njk
-title: Articles
+layout: layouts/news.njk
+title: News and updates
 date: 2017-01-01
-permalink: /blog/index.html
-metaDescription: A sample Blog page listing various posts and authors.
-subtitle: A collection of technical blog posts and random thoughts
+permalink: /news/index.html
+metaDescription: Updates from the team of OSS developers and maintainers running unitaryHACK.
+subtitle: News and updates
 eleventyNavigation:
-  key: Blog
+  key: News
   order: 2
 ---
