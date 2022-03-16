@@ -19,20 +19,27 @@
     padding: 15px 30px;
     background-color: var(--color-bg-secondary);
     border: 2px solid var(--color-border);
+    font-family: "EXEPixelPerfect";
+    font-size: 32px;
 }
 
 .project-card__title {
-    color: var(--color-text);
+    color: var(--color-secondary);
+    position: relative;
+    top: 8px;
 }
 
 .project-card__tag {
     background-color: var(--color-secondary);
     color: var(--color-text-alt);
+    font-family: "EXEPixelPerfect";
+    font-size: 24px;
 }
 
 .project-card__tag:hover {
     color: var(--color-text-alt);
-    filter: brightness(90%);
+    font-family: "EXEPixelPerfect";
+    filter: brightness(120%);
 }
 
 .project-card__emoji {

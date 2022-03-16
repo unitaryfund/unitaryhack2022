@@ -18,10 +18,10 @@ section: home
         class="hero__image shadow"
         src="{% if home.image %}{{ home.image }}{% else %}https://source.unsplash.com/random/600x600{% endif %}"
         alt="{{ home.image_alt }}"
-        width="1000px"
-        height="1000px"
+        width="600px"
+        height="600px"
         loading="lazy">
-      <a href="/signup/index.html" ><button class="hero__image form__submit btn">PRESS START to get hacking!</button></a>
+      <a href="/signup/index.html" ><button class="btn hero_btn" onclick="window.location.href='/signup/index.html';">PRESS START to get hacking!</button></a>
     </div>
   </div>
 
