@@ -15,7 +15,13 @@
     /* Typography */
     --font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
     /* --font-family-heading: var(--font-family-base); */
-    --font-family-heading: "EXEPixelPerfect", var(--font-family-base);
+    --font-family-default: "EXEPixelPerfect", var(--font-family-base);
+    --font-family-title: "Pixelmania", var(--font-family-base);
+    --font-size-title: 4rem;
+    --font-size-h1: 4rem;
+    --font-size-h2: 3.5rem;
+    --font-size-h3: 2.5rem;
+    --font-size-p: 3rem;
     /* Sizes */
     --site-width: 850px;
     /* Other */

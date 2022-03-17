@@ -6,14 +6,7 @@ section: home
 	<div class="home-page__bg-square"></div>
 
   <div class="hero">
-    <div class="hero__col">
-      <h1 class="hero__title ">{{ home.title }}</h1> 
-      {# gradient-text #}
-      {% if home.subtitle %}
-        <h2 class="hero__subtitle">{{ home.subtitle }}</h2>
-      {% endif %}
-    </div>
-    <div class="hero__col">
+   <div class="hero__col">
       <image 
         class="hero__image shadow"
         src="{% if home.image %}{{ home.image }}{% else %}https://source.unsplash.com/random/600x600{% endif %}"
@@ -21,8 +14,16 @@ section: home
         width="600px"
         height="600px"
         loading="lazy">
-      <a href="/signup/index.html" ><button class="btn hero_btn" onclick="window.location.href='/signup/index.html';">PRESS START to get hacking!</button></a>
+    <button class="btn hero_btn" onclick="window.location.href='/signup/index.html';">PRESS START to get hacking!</button>
     </div>
+    <div class="hero__col">
+      <h1 class="hero__title ">{{ home.title }}</h1> 
+      {# gradient-text #}
+      {% if home.subtitle %}
+        <h2 class="hero__subtitle">{{ home.subtitle }}</h2>
+      {% endif %}
+    </div>
+   
   </div>
 
   

@@ -29,7 +29,7 @@
   border-radius: var(--border-radius-sm);
   background-color: var(--color-secondary);
   color: var(--color-text-alt);
-  font-size: 14px;
+  font-size: var(--font-size-h2);
   white-space: nowrap;
 }
 
@@ -43,8 +43,8 @@
 .btn--danger {
   background-color: var(--color-danger);
   color: black;
-  font-family: "EXEPixelPerfect";
-  font-size: 24px;
+  font-family: var(--font-family-default);
+  font-size: var(--font-size-h2);
 }
 
 .btn--danger:hover,
@@ -64,8 +64,8 @@
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  font-family: "EXEPixelPerfect";
-  font-size: xx-large;
+  font-family: var(--font-family-default);
+  font-size: var(--font-size-h2);
 }
 
 .hero_btn:hover,

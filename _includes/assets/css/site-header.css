@@ -55,14 +55,13 @@
 .site-header__item {
 	margin: 0 6px;
   font-weight: 500;
-  font-family: "EXEPixelPerfect";
-  font-size: 24px;
+  font-family: var(--font-family-default);
+  font-size: var(--font-size-h2);
 }
 
 @media (min-width: 1024px) {
   .site-header__item {
     margin: 0 20px;
-    font-size: 28px;
   }
 }
 
@@ -70,9 +69,10 @@
   display: flex;
   align-items: center;
   color: var(--color-text);
+  font-family: var(--font-family-default);
+  font-size: var(--font-size-h2);
 }
 
 .site-header__link:hover {
   border-bottom: none;
 }
-

@@ -19,8 +19,8 @@
     padding: 15px 30px;
     background-color: var(--color-bg-secondary);
     border: 2px solid var(--color-border);
-    font-family: "EXEPixelPerfect";
-    font-size: 32px;
+    font-family: var(--font-family-default);
+    font-size: var(--font-size-h2);
 }
 
 .project-card__title {
@@ -32,13 +32,12 @@
 .project-card__tag {
     background-color: var(--color-secondary);
     color: var(--color-text-alt);
-    font-family: "EXEPixelPerfect";
-    font-size: 24px;
+    font-family: var(--font-family-default);
+    font-size: var(--font-size-h3);
 }
 
 .project-card__tag:hover {
     color: var(--color-text-alt);
-    font-family: "EXEPixelPerfect";
     filter: brightness(120%);
 }
 

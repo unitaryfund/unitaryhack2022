@@ -6,7 +6,7 @@
 /* Body */
 html {
   font-size: 62.5%;
-  font-family: var(--font-family-base); }
+  font-family: var(--font-family-default); }
 
 body {
   display: flex;
@@ -41,7 +41,7 @@ footer {
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
-  font-family: var(--font-family-heading);
+  font-family: var(--font-family-default);
   font-weight: 700;
   margin-top: 3rem;
   margin-bottom: 1.5rem;
@@ -51,10 +51,10 @@ h1, h2, h3, h4, h5, h6 {
   word-break: break-word; }
 
 h1 {
-  font-size: 2.35em; }
+  font-size: 7rem; }
 
 h2 {
-  font-size: 2.00em; }
+  font-size: 5rem; }
 
 h3 {
   font-size: 1.75em; }
@@ -70,7 +70,8 @@ h6 {
 
 p {
   margin-top: 0px;
-  margin-bottom: 2.5rem; }
+  margin-bottom: 2.5rem;
+  font-size: 3rem }
 
 small, sub, sup {
   font-size: 75%; }
@@ -91,10 +92,12 @@ a:hover {
 ul {
   padding-left: 1.4em;
   margin-top: 0px;
-  margin-bottom: 2.5rem; }
+  margin-bottom: 2.5rem;
+  font-size: var(--font-size-p); }
 
 li {
-  margin-bottom: 0.4em; }
+  margin-bottom: 0.4em;
+  font-size: var(--font-size-p); }
 
 blockquote {
   margin-left: 0px;

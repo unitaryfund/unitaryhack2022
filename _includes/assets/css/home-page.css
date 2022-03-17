@@ -42,13 +42,14 @@
 
 .hero__title {
   margin-top: 0;
-  font-family: "Pixelmania";
+  font-family: var(--font-family-title);
+  font-size: var(--font-size-title);
   line-height: normal;
 }
 
 @media (min-width: 1024px) {
   .hero__title {
-    font-size: 2em;
+    font-size: var(--font-size-title);
   }
 }
 
@@ -59,12 +60,14 @@
 @media (min-width: 1024px) {
   .hero__subtitle {
     margin-top: 3rem;
+    font-family: var(--font-family-default);
+    font-size: var(--font-size-h1);
   }
 }
 
 .home-page__project-card__tag {
   background-color: var(--color-secondary);
   color: var(--color-text-alt);
-  font-family: "EXEPixelPerfect";
+  font-family: var(--font-family-heading);
   font-size: var(--font-size-h2);
 }
