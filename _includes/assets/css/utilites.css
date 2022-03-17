@@ -52,6 +52,7 @@
   border: none;
   background-color: var(--color-danger);
   filter: brightness(120%);
+  color: black;
   transform: scale(1.1);
 }
 

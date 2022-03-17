@@ -50,12 +50,12 @@
   border-radius: var(--border-radius-sm);
   color: var(--color-secondary);
   white-space: nowrap;
-  font-size: 13px;
-  font-weight: 500;
+  font-size: var(--font-size-h3);
 }
 
 .tag:hover {
   border: none;
+  filter: brightness(90%);
 }
 
 .tag:first-child {
