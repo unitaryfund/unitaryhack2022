@@ -19,7 +19,15 @@
     font-family: "Pixelmania";
     font-style: normal;
     font-weight: 500;
-    src: local("Pixelmania"), local("Pixelmania"), url("../../fonts/Pixelmania.woff2") format("ttf");
+    src: url("../../fonts/Pixelmania.woff2") format("woff2"), url("../../fonts/Pixelmania.ttf") format("truetype"), local("Pixelmania");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "EXEPixelPerfect";
+    font-style: normal;
+    font-weight: 500;
+    src: url("../../fonts/EXEPixelPerfect.woff2") format("woff2"), url("../../fonts/EXEPixelPerfect.ttf") format("truetype"), local("EXEPixelPerfect");
     font-display: swap;
 }
 
