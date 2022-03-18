@@ -9,15 +9,15 @@ eleventyNavigation:
   order: 2
 ---
 
-The Unitary Fund invites you to participate in our first quantum open source hackathon!
+Unitary Fund invites project maintainers and owners to participate in unitaryhack, one of the largest quantum open source hackathons!
 
 Our goal at the Unitary Fund is to build a quantum technology ecosystem that benefits the most people.
 That starts by supporting and growing the great ecosystem of projects already out there that is maintained by amazing folks like you.
 
 It is always important for projects to find skilled and committed contributors that can do things like help develop new functionality, maintain existing tools, and write tests and documentation that helps new users and contributors.
-This can be challenging in open source in general, but can be especially difficult for open source projects that need specialized skillsets like quantum computing.
+This can be challenging in open source in general, but can be especially difficult for open source projects that need specialized skill sets like quantum computing.
 
-We want this event to show folks in the open source software community what amazing projects are already out there, helping to drive the field of quantum computing forward, and helping you find new ways and people to help grow your projects.
+This hackathon shows folks in the open source software community what amazing projects are already out there, helping to drive the field of quantum computing forward, and helping you find new contributions and contributors to help grow your projects.
 
 We have some outlines below for what you can expect before and during the event, as well as [the rules for the event](./rules.md).
 
