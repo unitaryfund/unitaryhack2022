@@ -23,7 +23,7 @@ Error mitigation seeks to reduce these effects at the software level by compilin
 You can watch some videos about Mitiq on the [Unitary Fund YouTube channel](https://www.youtube.com/watch?v=5KDQtWzJcfw&list=PL-VMs2BCTI_lklMMfY4iMdETT19rgZe5o).
 
 
-> General issues we are looking for help with during [unitaryHACK](https://github.com/unitaryfund/mitiq/labels/unitaryhack)
+> General issues we are looking for help with during [unitaryhack](https://github.com/unitaryfund/mitiq/labels/unitaryhack)
 
 ### Bounties
 
@@ -39,6 +39,6 @@ You can watch some videos about Mitiq on the [Unitary Fund YouTube channel](http
 
 - [Add an XACC executor example and item to software list](https://github.com/unitaryfund/mitiq/issues/357)
 - ~~[Warn users when their programs are too short](https://github.com/unitaryfund/mitiq/issues/275)~~
-  - **[Yash-10](https://github.com/Yash-10)** HACKED [Warning for short programs [unitaryHACK]](https://github.com/unitaryfund/mitiq/issues/275)
+  - **[Yash-10](https://github.com/Yash-10)** HACKED [Warning for short programs [unitaryhack]](https://github.com/unitaryfund/mitiq/issues/275)
 - ~~[Improve braket support](https://github.com/unitaryfund/mitiq/issues/679)~~
   - **[maxtremblay](https://github.com/maxtremblay)** HACKED [[UnitaryHACK] Improve conversion from braket to cirq](https://github.com/unitaryfund/mitiq/pull/688)

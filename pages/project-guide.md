@@ -1,7 +1,7 @@
 ---
 title: Project Guide
-subtitle: Get your quantum open source project added to unitaryHACK
-metaDescription: Helpful information for project maintainers participating in unitaryHACK
+subtitle: Get your quantum open source project added to unitaryhack
+metaDescription: Helpful information for project maintainers participating in unitaryhack
 date: 2022-03-09
 permalink: /project-guide/index.html
 eleventyNavigation:
