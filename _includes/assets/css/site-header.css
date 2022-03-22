@@ -5,6 +5,7 @@
   justify-content: space-between;
   padding: 15px;
   border-top: 3px solid var(--color-secondary);
+  font-size: var(--38px);
 }
 
 @media (min-width: 1024px) {
@@ -69,6 +70,7 @@
   display: flex;
   align-items: center;
   color: var(--color-text);
+  font-size: var(--font-size-h2);
 }
 
 .site-header__link:hover {

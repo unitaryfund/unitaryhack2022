@@ -31,13 +31,12 @@ We have some outlines below for what you can expect before and during the event,
 
 ## ⌚ Before the Hack ⌚
 
-1. Tag your repo with `unitaryhack` as well as tag any issues on your project(s) you would like to bounty with `#unitaryhack-bounty`. We are looking for ~4 issues bountied for each project (totally can be more or less, just a place to start) of a variety of difficulty levels.
-2. Add/update the `#good-first-issue` (or similar) label on your project(s) issues to help guide more novice hackers to good places to start on your project.
-3. Make sure you have  `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` at the root of your repo so folks can learn how they should make their contributions.
-4. Make a PR to [this repo](https://github.com/unitaryfund/unitaryhackdev) adding a markdown file for your project to the [`projects` directory](https://github.com/unitaryfund/unitaryhackdev/tree/main/projects) with:
-   1. Completed yml header (the project url, slug, tags and bounties are the most important)
-   2. A short description of your project in the body of the markdown file,
-   3. If you have bountied issues, you can include a short description if you want of the associated issue (not necessary).
+1. Add the `unitaryhack` to the [list of topics for your repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics#adding-topics-to-your-repository). as well as any issues on your projects you would like people to work on (#unitaryhack). We are looking for ~4 issues for each project (totally can be more, just a place to start) of a variety of difficulty levels.
+2. Identify if there are any issues you want to put a bounty on to specifically encourage participants to tackle them. Our goal is to have at least one bounty issue per project, and we can scale that based on the size of your project’s codebase.
+3. Make sure you have  `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` at the root of your repo (or similar) so folks can learn how they should make their contributions to make your life easy.
+4. Make a PR to [this repo](https://github.com/unitaryfund/unitaryhack) adding your project to the [participating projects](./participating-projects.md) list with:
+   1. A short description of your project with links to it,
+   2. Links to the issues you would like to put bounties on, an a short description if you want of the associated issue (not necessary). We will work with you to make sure we get the bounty values correct.
 
     > You can see an example of a project listing by checking out the one for our project [Mitiq]([{{ '/projects/mitiq' | url }})](https://github.com/unitaryfund/unitaryhackdev/blob/main/projects/mitiq.md).
 
