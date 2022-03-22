@@ -7,5 +7,5 @@ metaDescription: Updates from the team of OSS developers and maintainers running
 subtitle: News and updates
 eleventyNavigation:
   key: News
-  order: 2
+  order: 6
 ---
