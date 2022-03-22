@@ -49,12 +49,12 @@ If you have any questions/comments/suggestions for this event we would love to h
 ## 🔨 During the Hack 🔨
 
 As the hackathon progresses (and sometimes right away if there are eager folks who read up on the project), you should get some useful PRs!
-If a PR does not meet a minimum bar for quality, or if another PR has been accepted, please communicate on the PR conversation that it is not accepted, and tag it as rejected or duplicate as appropriate.
+Hackers should put `[unitaryhack]` in the title of their PRs, if they haven't please update it so they can get credit.
+If a PR does not meet a minimum bar for quality, or if another PR has been accepted, please communicate on the PR conversation that it is not accepted, and tag it as `rejected` or `duplicate` as appropriate.
 
-For bountied issues, mark the PR you want it awarded to with unitaryhack-accepted and we will take care of sending out the bounty!
+For bountied issues, mark the PR you want it awarded to with `unitaryhack-accepted and we will take care of sending out the bounty!
 
 If you want a way to chat more synchronously with folks working on PRs we will be hosting workspaces on our [Discord](http://discord.unitary.fund/) channels for people to hangout and work on the hackathon together!
-
 
 ## Helpful resources
 
