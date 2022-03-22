@@ -8,5 +8,5 @@ subtitle: Check out all of the quantum open source projects participating in thi
 emoji: 💻
 eleventyNavigation:
   key: Participating Projects
-  order: 1
+  order: 3
 ---

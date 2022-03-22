@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: layouts/news.njk
 title: News and updates
 date: 2017-01-01
@@ -8,4 +8,4 @@ subtitle: News and updates
 eleventyNavigation:
   key: News
   order: 6
----
+--- -->

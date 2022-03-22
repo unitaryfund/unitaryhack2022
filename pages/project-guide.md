@@ -1,11 +1,11 @@
 ---
-title: Hackathon project maintainer guide
+title: Project Maintainer Guide
 metaDescription: Helpful information for project maintainers participating in unitaryhack
 date: 2022-03-09
 permalink: /project-guide/index.html
 eleventyNavigation:
   key: Maintainers
-  order: 3
+  order: 4
 ---
 
 <!-- ### Unitary Fund invites OSS project maintainers and owners to participate in unitaryhack, one of the largest quantum open source hackathons! -->

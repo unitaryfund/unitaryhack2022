@@ -5,15 +5,12 @@ date: 2022-03-09
 permalink: /hacker-guide/index.html
 eleventyNavigation:
   key: Hackers
-  order: 4
+  order: 2
 ---
 
 
-No matter your experience in quantum tech or open source communities, **you** can help make quantum open source better (and get PRIZES!)
+No matter your experience in quantum tech or open source communities, **you** can help make quantum open source better (and get PRIZES!). This guide will help you understand more about the event and how you can make the most of it!
 
-This guide will help you understand more about the event and how you can make the most of it!
-
----
 ## ⌚ Before the Hack ⌚
 
 <button class="hero__image form__submit btn" onclick="location='{{ '/signup/' | url }}'">REGISTER HERE!</button>
