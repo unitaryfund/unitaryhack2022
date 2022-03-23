@@ -26,20 +26,21 @@ section: home
    
   </div>
 
-  
-  <h2>Participating Projects</h2>
+  <hr>
+  <h2>  Participating Projects</h2>
+  <hr>
   {% set projectlist = collections.project %}
   {% include "components/projectlist.njk" %}
-
-  <hr>
+<hr>
   <h2>Latest Hacks</h2>
+  <hr>
   <a class="twitter-timeline" href="https://twitter.com/unitaryHACK?ref_src=twsrc%5Etfw">Tweets by unitaryHACK</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  
+  <hr>
   <h2>Hackathon News</h2>
+  <hr>
   {% set postslist = collections.post %}
   {% set show_postslist_tags = false %}
   {% set limit = 3 %}
   {% include "components/postslist.njk" %}
-  <hr>
 
 </div>

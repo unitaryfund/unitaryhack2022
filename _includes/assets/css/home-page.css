@@ -64,10 +64,3 @@
     font-size: var(--font-size-h1);
   }
 }
-
-.home-page__project-card__tag {
-  background-color: var(--color-secondary);
-  color: var(--color-text-alt);
-  font-family: var(--font-family-heading);
-  font-size: var(--font-size-h2);
-}

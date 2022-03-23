@@ -6,10 +6,12 @@
     --color-bg: #ffffff;
     --color-bg-secondary: #F6F8E6;
     --color-bg-accent: #EFEEE1;
+    --color-bg-footer: #AFACB0;
     /* Text and Border Colors */
     --color-text: #222222;
+    --color-text-title: #F6F2B1;
     --color-text-alt: #ffffff;
-    --color-border: #9c8579;
+    --color-border: #BB896C;
     /* Status Colors */
     --color-danger: #FFFF00;
     /* Typography */
