@@ -62,9 +62,8 @@
   text-align: center;
   margin-top: 20px;
   margin-bottom: auto;
-  margin-left: auto;
+  margin-left: 0;
   margin-right: auto;
-  text-align: center;
   font-family: var(--font-family-default);
   font-size: var(--font-size-h2);
 }
