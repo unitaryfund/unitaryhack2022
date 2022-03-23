@@ -40,7 +40,7 @@
     background-color: var(--color-text-title);
     color: var(--color-secondary);
     font-family: var(--font-family-default);
-    font-size: var(--font-size-h3);
+    font-size: var(--font-size-tag);
 }
 
 .project-card__tag:hover {
