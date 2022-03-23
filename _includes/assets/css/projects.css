@@ -55,3 +55,7 @@
 .project-card__metaDescription {
     color: var(--color-text-title);
 }
+
+.page-container {
+    max-width: 1024px;
+}
