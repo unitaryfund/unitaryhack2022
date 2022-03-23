@@ -4,7 +4,6 @@
   align-items: center;
   justify-content: center;
   padding: 15px;
-  border-top: 1px solid var(--color-border);
   font-family: var(--font-family-default);
   font-size: var(--font-size-h3);
 }

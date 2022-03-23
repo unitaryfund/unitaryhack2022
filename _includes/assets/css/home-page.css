@@ -1,5 +1,5 @@
 .home-page {
-  max-width: 1024px;
+  max-width: 1448px;
   margin: 0 auto;
   padding: 0 20px 20px;
 }
@@ -16,7 +16,7 @@
   grid-template-rows: auto auto;
   grid-row-gap: 50px;
   grid-column-gap: 70px;
-  max-width: 1100px;
+  max-width: 1448px;
   margin: 0 auto;
 }
 
@@ -41,7 +41,7 @@
 }
 
 .hero__title {
-  margin-top: 0;
+  margin-top: 80px;
   font-family: var(--font-family-title);
   font-size: var(--font-size-title);
   line-height: normal;
@@ -63,11 +63,4 @@
     font-family: var(--font-family-default);
     font-size: var(--font-size-h1);
   }
-}
-
-.home-page__project-card__tag {
-  background-color: var(--color-secondary);
-  color: var(--color-text-alt);
-  font-family: var(--font-family-heading);
-  font-size: var(--font-size-h2);
 }

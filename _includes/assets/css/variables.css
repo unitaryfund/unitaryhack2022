@@ -6,10 +6,12 @@
     --color-bg: #ffffff;
     --color-bg-secondary: #F6F8E6;
     --color-bg-accent: #EFEEE1;
+    --color-bg-footer: #AFACB0;
     /* Text and Border Colors */
     --color-text: #222222;
+    --color-text-title: #F6F2B1;
     --color-text-alt: #ffffff;
-    --color-border: #9c8579;
+    --color-border: #BB896C;
     /* Status Colors */
     --color-danger: #FFFF00;
     /* Typography */
@@ -20,7 +22,8 @@
     --font-size-title: 4rem;
     --font-size-h1: 4rem;
     --font-size-h2: 3.5rem;
-    --font-size-h3: 2.5rem;
+    --font-size-h3: 3rem;
+    --font-size-tag: 2.3rem;
     --font-size-p: 3rem;
     /* Sizes */
     --site-width: 850px;
