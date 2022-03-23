@@ -21,12 +21,18 @@
     border: 30px solid var(--color-border);
     font-family: var(--font-family-default);
     font-size: var(--font-size-h2);
-    color: var(--color-bg);
+    color: var(--color-text-title);
 }
 
 .project-card__title {
     color: var(--color-text-title);
     position: relative;
+    top: 8px;
+}
+
+.project-card__title:hover {
+    position: relative;
+    color: var(--color-bg);
     top: 8px;
 }
 
