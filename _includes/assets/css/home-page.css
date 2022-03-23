@@ -16,7 +16,7 @@
   grid-template-rows: auto auto;
   grid-row-gap: 50px;
   grid-column-gap: 70px;
-  max-width: 1100px;
+  max-width: 1448px;
   margin: 0 auto;
 }
 
@@ -41,7 +41,7 @@
 }
 
 .hero__title {
-  margin-top: 0;
+  margin-top: 80px;
   font-family: var(--font-family-title);
   font-size: var(--font-size-title);
   line-height: normal;
