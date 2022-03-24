@@ -5,14 +5,14 @@
 <figcaption style="max-width: 60%;
         height: auto; margin: auto;
   display: block;font-size:.8em">
-<br>Quantum computing isn’t just unitary, it’s open source!
 </figcaption>
-<a href="https://unitaryhack.dev/signup"><img style="max-width: 80%;
-        height: auto; margin: auto;
-  display: block;" src="https://img.shields.io/badge/signup-PRESS%20PLAY-FFFF00?style=flat-square" alt="unitaryhack 2022" /></a>
 </figure>
 
 ### [Unitary Fund](https://unitary.fund) is proud to host unitaryhack 2022, a quantum open source hackathon with SWAG and BOUNTIES on **June 3-17th**!
+
+<a href="https://unitaryhack.dev/signup"><img style="max-width: 80%;
+        height: auto; margin: auto;
+  display: block;" src="https://img.shields.io/badge/signup-PRESS%20PLAY-FFFF00?style=flat-square" alt="unitaryhack 2022" /></a>
 
 - 💰 Over ???$K USD in bounties for resolving tagged issues in [participating quantum open source projects](unitaryhack.dev/projects/).
 
