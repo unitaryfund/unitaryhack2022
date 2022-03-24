@@ -17,24 +17,45 @@
     flex-direction: column;
     justify-content: center;
     padding: 15px 30px;
-    background-color: var(--color-bg-secondary);
-    border: 2px solid var(--color-border);
+    background-color: var(--color-secondary);
+    border: 30px solid var(--color-border);
+    font-family: var(--font-family-default);
+    font-size: var(--font-size-h2);
+    color: var(--color-text-title);
 }
 
 .project-card__title {
-    color: var(--color-text);
+    color: var(--color-text-title);
+    position: relative;
+    top: 8px;
+}
+
+.project-card__title:hover {
+    position: relative;
+    color: var(--color-bg);
+    top: 8px;
 }
 
 .project-card__tag {
-    background-color: var(--color-secondary);
-    color: var(--color-text-alt);
+    background-color: var(--color-text-title);
+    color: var(--color-secondary);
+    font-family: var(--font-family-default);
+    font-size: var(--font-size-tag);
 }
 
 .project-card__tag:hover {
-    color: var(--color-text-alt);
-    filter: brightness(90%);
+    color: var(--color-secondary);
+    filter: brightness(115%);
 }
 
 .project-card__emoji {
     margin-right: 8px;
+}
+
+.project-card__metaDescription {
+    color: var(--color-text-title);
+}
+
+.page-container {
+    max-width: 1448px;
 }

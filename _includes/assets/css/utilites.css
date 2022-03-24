@@ -29,25 +29,49 @@
   border-radius: var(--border-radius-sm);
   background-color: var(--color-secondary);
   color: var(--color-text-alt);
-  font-size: 14px;
+  font-size: var(--font-size-h2);
   white-space: nowrap;
 }
 
 .btn:hover,
 .btn:focus {
   border: none;
-  filter: brightness(90%);
+  filter: brightness(120%);
+  transform: scale(1.1);
 }
 
 .btn--danger {
   background-color: var(--color-danger);
-  color: var(--color-text-alt);
+  color: black;
+  font-family: var(--font-family-default);
+  font-size: var(--font-size-h2);
 }
 
 .btn--danger:hover,
 .btn--danger:focus {
   border: none;
   background-color: var(--color-danger);
-  color: var(--color-text-alt);
-  filter: brightness(90%);
+  filter: brightness(120%);
+  color: black;
+  transform: scale(1.1);
+}
+
+.hero_btn {
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: auto;
+  margin-left: 0;
+  margin-right: auto;
+  font-family: var(--font-family-default);
+  font-size: var(--font-size-h2);
+}
+
+.hero_btn:hover,
+.hero_btn:focus {
+  border: none;
+  filter: brightness(120%);
+  text-decoration: none;
+  transform: scale(1.1);
 }
