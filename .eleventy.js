@@ -79,7 +79,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("favicon.ico");
     eleventyConfig.addPassthroughCopy("static/img");
     eleventyConfig.addPassthroughCopy("static/fonts");
-    eleventyConfig.addPassthroughCopy("admin");
+    eleventyConfig.addPassthroughCopy("CNAME");
     eleventyConfig.addPassthroughCopy("_includes/assets/");
 
     /* Markdown Plugins */
