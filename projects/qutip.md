@@ -20,11 +20,11 @@ You can watch the Quantum Software Talk on QuTiP on [YouTube](https://www.youtub
 
 #### $25
 - ~~[Fix error raised by ffmpeg command from User Guide](https://github.com/qutip/qutip/issues/799)~~
-  - **[Yash-10](https://github.com/Yash-10)** HACKED [Fix ffmpeg error [unitaryHACK]](https://github.com/qutip/qutip/pull/1557)
+  - **[Yash-10](https://github.com/Yash-10)** HACKED [Fix ffmpeg error [unitaryhack]](https://github.com/qutip/qutip/pull/1557)
 - ~~[Bloch sphere requires matplotlib >= 3.3](https://github.com/qutip/qutip/issues/1502)~~
-  - **[Yash-10](https://github.com/Yash-10)** HACKED [Version checks for matplotlib [unitaryHACK]](https://github.com/qutip/qutip/pull/1556)
+  - **[Yash-10](https://github.com/Yash-10)** HACKED [Version checks for matplotlib [unitaryhack]](https://github.com/qutip/qutip/pull/1556)
 - ~~[Address deprecation warnings in Matplotlib 3.4](https://github.com/qutip/qutip/issues/1503)~~
-  - **[Yash-10](https://github.com/Yash-10)** HACKED [Version checks for matplotlib [unitaryHACK]](https://github.com/qutip/qutip/pull/1556)
+  - **[Yash-10](https://github.com/Yash-10)** HACKED [Version checks for matplotlib [unitaryhack]](https://github.com/qutip/qutip/pull/1556)
 
 #### $75
 - [Address "malloc: Incorrect checksum" error in qutip.testing qt.run()](https://github.com/qutip/qutip/issues/1160)
