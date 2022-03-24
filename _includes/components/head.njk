@@ -5,6 +5,7 @@
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or summary or metadata.description }}">
   {% set css %}
     {% include "assets/css/normalize.css" %}
+    {% include "assets/css/fonts.css" %}
     {% include "assets/css/variables.css" %}
     {% include "assets/css/base-styles.css" %}
     {% include "assets/css/utilites.css" %}
@@ -20,6 +21,7 @@
     {% if page.url == '/contact/' %}
       {% include "assets/css/contact.css" %}
     {% endif %}
+    {# {% include "assets/css/style.css" %} #}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
   {% set js %}
