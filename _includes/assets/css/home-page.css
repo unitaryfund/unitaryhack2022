@@ -55,12 +55,14 @@
 
 .hero__subtitle {
   margin-top: 0;
+  font-size: var(--font-size-h1);
+  font-family: var(--font-family-pixel);
 }
 
 @media (min-width: 1024px) {
   .hero__subtitle {
     margin-top: 3rem;
-    font-family: var(--font-family-default);
+    font-family: var(--font-family-pixel);
     font-size: var(--font-size-h1);
   }
 }
