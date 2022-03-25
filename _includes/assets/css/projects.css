@@ -19,13 +19,14 @@
     padding: 15px 30px;
     background-color: var(--color-secondary);
     border: 30px solid var(--color-border);
-    font-family: var(--font-family-default);
+    font-family: var(--font-family-pixel);
     font-size: var(--font-size-h2);
     color: var(--color-text-title);
 }
 
 .project-card__title {
     color: var(--color-text-title);
+    font-family: var(--font-family-pixel);
     position: relative;
     top: 8px;
 }
@@ -39,7 +40,7 @@
 .project-card__tag {
     background-color: var(--color-text-title);
     color: var(--color-secondary);
-    font-family: var(--font-family-default);
+    font-family: var(--font-family-pixel);
     font-size: var(--font-size-tag);
 }
 
