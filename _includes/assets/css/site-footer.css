@@ -6,6 +6,7 @@
   padding: 15px;
   font-family: var(--font-family-pixel);
   font-size: var(--font-size-h3);
+  letter-spacing: 1px;
 }
 
 @media (min-width: 1024px) {
