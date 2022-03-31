@@ -70,7 +70,7 @@
     display: flex;
     align-items: center;
     color: var(--color-text);
-    font-size: var(--font-size-h2);
+    font-size: var(--font-size-nav);
 }
 
 .site-header__link:hover {

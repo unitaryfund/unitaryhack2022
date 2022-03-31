@@ -13,7 +13,7 @@ No matter your experience in quantum tech or open source communities, **you** ca
 
 ## ⌚ Before the Hack ⌚
 
-<button class="hero__image form__submit btn" onclick="location='{{ '/signup/' | url }}'">REGISTER HERE!</button>
+<button class="btn reg_btn" onclick="window.location.href='/signup/index.html';">REGISTER HERE!</button>
 
 ### Brush up on your open source contribution skills
 

@@ -1,17 +1,17 @@
-.page-container {
+/* .page-container {
   max-width: var(--site-width);
   margin-right: auto;
   margin-left: auto;
   padding: 1rem;
 }
-
-.page-container img {
+ */
+/* .page-container img {
   display: flex;
   width: 100%;
   max-width: 700px;
   margin: 4rem auto;
 }
-
+ */
 .shadow {
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
     0 4px 6px -2px rgba(0, 0, 0, 0.05);
@@ -29,7 +29,7 @@
   border-radius: var(--border-radius-sm);
   background-color: var(--color-secondary);
   color: var(--color-text-alt);
-  font-size: var(--font-size-h2);
+  font-size: var(--font-size-btn);
   white-space: nowrap;
 }
 
@@ -43,8 +43,9 @@
 .btn--danger {
   background-color: var(--color-danger);
   color: black;
-  font-family: var(--font-family-default);
-  font-size: var(--font-size-h2);
+  font-family: var(--font-family-pixel);
+  font-size: var(--font-size-btndgr);
+  letter-spacing: 1.5px;
 }
 
 .btn--danger:hover,
@@ -65,7 +66,8 @@
   margin-left: 0;
   margin-right: auto;
   font-family: var(--font-family-pixel);
-  font-size: var(--font-size-h2);
+  font-size: var(--font-size-btn);
+  letter-spacing: 2px;
 }
 
 .hero_btn:hover,
@@ -74,4 +76,10 @@
   filter: brightness(120%);
   text-decoration: none;
   transform: scale(1.1);
+}
+
+.reg_btn {
+  font-family: var(--font-family-pixel);
+  font-size: var(--font-size-btn);
+  letter-spacing: 2px;
 }
