@@ -73,7 +73,7 @@ h6 {
 p {
   margin-top: 0px;
   margin-bottom: 2.5rem;
-  var(--font-size-p);}
+  font-size: var(--font-size-p);}
 
 small, sub, sup {
   font-size: 75%; }
