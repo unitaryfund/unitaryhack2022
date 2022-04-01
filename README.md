@@ -36,7 +36,7 @@ Would you like to help us support more contributors and projects? [Get in touch]
 ### Want your project to participate in unitaryhack2022?
 
 We would love to support your quantum open source project by connecting eager hackers to issues you need help with!
-Check out our [maintainer guide](unitaryhack.dev/maintainers)
+Check out our [maintainer guide](https://unitaryhack.dev/project-guide/)
 ## Stay tuned for details on the next unitaryhack!
 
 You can find some tips on how to prepare for the hackathon the next event in our [hacker guide](unitaryhack.dev/hackers) as well as the [hackathon rules](unitaryhack.dev/rules). You can always ask questions of the Unitary Fund team on our [Discord](http://discord.unitary.fund), and make sure to check out [our code of conduct](CODE_OF_CONDUCT.md).
