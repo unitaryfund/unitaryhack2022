@@ -10,8 +10,8 @@
     display: block;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    padding: 15px 30px;
+    justify-content: top;
+    padding: 30px 30px;
     background-color: var(--color-secondary);
     border: 30px solid var(--color-border);
     font-family: var(--font-family-default);
@@ -47,6 +47,8 @@
 
 .project-card__emoji {
     margin-right: 8px;
+    vertical-align: middle;
+    font-size: var(--font-size-emoji);
 }
 
 .page-container {

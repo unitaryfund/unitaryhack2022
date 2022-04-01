@@ -39,7 +39,6 @@ Whether you are new to quantum technologies or work on them every day, here is a
 
 If there is a project from the [participating projects]({{ '/projects/' | url }}) that you think you want to work on, go through their docs and see if you can setup a project with the tool/software on your computer. If you have trouble with that then you can ask questions either by filing issues on the project repo, or on the #help-me channel on the [Unitary Fund discord](http://discord.unitary.fund).
 
----
 ## 🔨 During the Hack 🔨
 
 ### Join the discord

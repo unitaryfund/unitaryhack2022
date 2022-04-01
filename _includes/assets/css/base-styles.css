@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   font-family: var(--font-family-default);
   font-weight: 700;
-  margin-top: 3rem;
+  margin-top: 1.5rem;
   margin-bottom: 1.5rem;
   overflow-wrap: break-word;
   word-wrap: break-word;
@@ -56,10 +56,17 @@ h1 {
   letter-spacing: 2.5px; }
 
 h2 {
-  font-size: var(--font-size-h2); }
+  font-size: var(--font-size-h2);
+  margin-top: 80px;
+  margin-bottom: 28px;
+  padding: 10px 0 10px 0;
+  border-top: 2px solid var(--color-secondary);
+  border-bottom: 2px solid var(--color-secondary);
+}
 
 h3 {
-  font-size: var(--font-size-h3); }
+  font-size: var(--font-size-h3);
+  margin-top: 40px; }
 
 h4 {
   font-size: var(--font-size-h3);}
