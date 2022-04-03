@@ -1,3 +1,4 @@
+/* Desktop CSS */
 .project-grid {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -5,36 +6,31 @@
     margin: 40px 0;
 }
 
-@media (min-width: 1024px) {
-    .project-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-
 .project-card {
     display: block;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    padding: 15px 30px;
+    justify-content: top;
+    padding: 30px 30px;
     background-color: var(--color-secondary);
     border: 30px solid var(--color-border);
-    font-family: var(--font-family-pixel);
-    font-size: var(--font-size-h2);
+    font-family: var(--font-family-default);
+    font-size: var(--font-size-p);
+    letter-spacing: 1.5px;
     color: var(--color-text-title);
 }
 
 .project-card__title {
     color: var(--color-text-title);
     font-family: var(--font-family-pixel);
+    font-size: var(--font-size-h1);
+    letter-spacing: 4px;
     position: relative;
-    top: 8px;
 }
 
 .project-card__title:hover {
     position: relative;
     color: var(--color-bg);
-    top: 8px;
 }
 
 .project-card__tag {
@@ -51,12 +47,36 @@
 
 .project-card__emoji {
     margin-right: 8px;
-}
-
-.project-card__metaDescription {
-    color: var(--color-text-title);
+    vertical-align: middle;
+    font-size: var(--font-size-emoji);
 }
 
 .page-container {
-    max-width: 1448px;
+    max-width: 1200px;
+    margin: 0 10%;
+}
+
+
+
+/* Widescreen CSS */
+@media (min-width: 1600px) {
+    .page-container {
+        max-width: 1200px;
+        margin: 0 25%;
+    }
+  }
+
+
+
+/* Tablet CSS */
+@media (max-width: 912px) {}
+
+
+
+/* Mobile CSS */
+@media (max-width: 414px) {}
+@media (min-width: 1024px) {
+    .project-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }

@@ -35,7 +35,7 @@
 
 /* Remove default margin */
 
-body,
+/* body,
 h1,
 h2,
 h3,
@@ -44,7 +44,7 @@ h5,
 h6 {
     margin: 0;
 }
-
+ */
 html {
     overflow-x: hidden;
 }
@@ -90,15 +90,15 @@ select {
     }
 }
 
-h1,
+/* h1,
 h2,
 h3,
 h4 {
     font-weight: var(--font-weight-strong);
     line-height: 1;
-    margin-bottom: 0.65em;
-}
-
+    margin: 0;
+} */
+/* 
 h1 {
     font-size: var(--font-size-h1);
     font-size: clamp(2rem, 7vw, var(--font-size-h1));
@@ -108,15 +108,15 @@ h2 {
     font-size: var(--font-size-h2);
     font-size: clamp(2rem, 7vw, var(--font-size-h2));
     text-align: center;
-}
-
+} */
+/* 
 #main h2 {
     background-color: var(--color-secondary);
     align-self: center;
     color: var(--color-background);
     padding: 0.25em 0.5em;
 }
-
+ */
 h3 {
     font-size: var(--font-size-h3);
 }
@@ -127,11 +127,7 @@ h4 {
 
 p,
 li {
-    font-size: var(--font-size-text);
-}
-
-p {
-    margin: 0 0 1rem;
+    font-size: var(--font-size-p);
 }
 
 article .container>ul:not(.features)>li+li,
@@ -140,7 +136,7 @@ article .container>ol>li+li {
 }
 
 article .container *+h2 {
-    margin-top: 4rem;
+    margin-top: 2rem;
 }
 
 article .container *+h3 {

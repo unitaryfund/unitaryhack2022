@@ -20,12 +20,34 @@
     --font-family-pixel: "EXEPixelPerfect", var(--font-family-base);
     --font-family-title: "Pixelmania", var(--font-family-base);
     --font-family-default: "SairaSemiCondensed-Regular", var(--font-family-base);
+    /* Font Sizes */
+    --font-size-vw: 2vw;
+    /* Desktop */
     --font-size-title: 4rem;
-    --font-size-h1: 4rem;
-    --font-size-h2: 3.5rem;
-    --font-size-h3: 3rem;
+    --font-size-subtitle: 3.5rem;
+    --font-size-nav: 3.5rem;
     --font-size-tag: 2.3rem;
-    --font-size-p: 3rem;
+    --font-size-btn: 3rem;
+    --font-size-btndgr: 2.5rem;
+    --font-size-emoji: 3.5rem;
+    --font-size-h1: 5rem;
+    --font-size-h2: 3rem;
+    --font-size-h3: 2.5rem;
+    --font-size-p: 2rem;
+     /* Tablet */
+     --font-size-ttitle: 3.5rem;
+     --font-size-th1: 3rem;
+     --font-size-th2: 3.5rem;
+     --font-size-th3: 3rem;
+     --font-size-ttag: 2.3rem;
+     --font-size-tp: 3rem;
+    /* Mobile */
+    --font-size-mtitle: 3rem;
+    --font-size-mh1: 2.5rem;
+    --font-size-mh2: 3.5rem;
+    --font-size-mh3: 3rem;
+    --font-size-mtag: 2.3rem;
+    --font-size-mp: 3rem;
     /* Sizes */
     --site-width: 850px;
     /* Other */

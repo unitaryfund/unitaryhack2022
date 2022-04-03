@@ -4,10 +4,11 @@ section: projects
 ---
 <div class="page-container">
   <h1>{{title}}</h1>
+  <hr>
   {% if subtitle %}
     <p>{{ subtitle }}</p>
   {% endif %}
-  <hr>
+  
   {{ layoutContent | safe }}
 
   {% set projectlist = collections.project %}
