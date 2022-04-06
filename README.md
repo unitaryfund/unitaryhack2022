@@ -14,13 +14,13 @@
         height: auto; margin: auto;
   display: block;" src="https://img.shields.io/badge/signup-PRESS%20PLAY-FFFF00?style=flat-square" alt="unitaryhack 2022" /></a>
 
-- 💰 Over ???$K USD in bounties for resolving tagged issues in [participating quantum open source projects](unitaryhack.dev/projects/).
+- 💰 Over ???$K USD in bounties for resolving tagged issues in [participating quantum open source projects](https://unitaryhack.dev/projects/).
 
 - 💿 Digital swag for all participants that successfully make Pull Requests (PR)s
 
-- 🎁 Random participants that make at least 1 **quality** Pull Request (PR)s to a participating open source project got a [swag pack in the mail!*](unitaryhack.dev/rules)
+- 🎁 Random participants that make at least 1 **quality** Pull Request (PR)s to a participating open source project got a [swag pack in the mail!*](https://unitaryhack.dev/rules)
 
-<!-- <button style="max-width: 60%;height: auto; margin: auto;display: block;background-color:#ffff00;border-width:0em;font:'Lucida Console', monospace, !default;font-size:2em;" type="button" onclick="location='unitaryhack.dev/signup'"><b>PRESS START</b>
+<!-- <button style="max-width: 60%;height: auto; margin: auto;display: block;background-color:#ffff00;border-width:0em;font:'Lucida Console', monospace, !default;font-size:2em;" type="button" onclick="location='https://unitaryhack.dev/signup'"><b>PRESS START</b>
 <p>and get hacking!</p></button> -->
 
 
@@ -39,7 +39,7 @@ We would love to support your quantum open source project by connecting eager ha
 Check out our [maintainer guide](https://unitaryhack.dev/project-guide/)
 ## Stay tuned for details on the next unitaryhack!
 
-You can find some tips on how to prepare for the hackathon the next event in our [hacker guide](unitaryhack.dev/hackers) as well as the [hackathon rules](unitaryhack.dev/rules). You can always ask questions of the Unitary Fund team on our [Discord](http://discord.unitary.fund), and make sure to check out [our code of conduct](CODE_OF_CONDUCT.md).
+You can find some tips on how to prepare for the hackathon the next event in our [hacker guide](https://unitaryhack.dev/hackers) as well as the [hackathon rules](https://unitaryhack.dev/rules). You can always ask questions of the Unitary Fund team on our [Discord](http://discord.unitary.fund), and make sure to check out [our code of conduct](CODE_OF_CONDUCT.md).
 
 
 ## 🚀 Local website development
