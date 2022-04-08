@@ -1,16 +1,16 @@
 ---
 title: QCOR
-emoji: ⚡
+emoji: 🚅
 project_url: https://github.com/qir-alliance/qcor
 metaDescription: C++ Quantum-Classical Compiler
 date: 2022-04-08
 summary: QCOR provides a C++ frontend for single-source quantum-classical programming
 tags:
   - c++
-  - intermediate representations
+  - QIR
   - compilation
   - MLIR
-  - openqasm 3
+  - OpenQASM 3
 ---
 
 QCOR promotes a kernel-based programming model for quantum-classical computing in C++. The QCOR runtime provides a robust set of data structures enabling variational 
