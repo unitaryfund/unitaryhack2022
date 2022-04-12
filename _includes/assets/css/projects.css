@@ -20,6 +20,11 @@
     color: var(--color-text-title);
 }
 
+.project-card:hover{
+    transform: scale(1.1);
+    filter: brightness(115%);
+}
+
 .project-card__title {
     color: var(--color-text-title);
     font-family: var(--font-family-pixel);
