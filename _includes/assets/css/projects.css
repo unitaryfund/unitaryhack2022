@@ -33,11 +33,6 @@
     position: relative;
 }
 
-.project-card__title:hover {
-    position: relative;
-    color: var(--color-bg);
-}
-
 .project-card__tag {
     background-color: var(--color-text-title);
     color: var(--color-secondary);

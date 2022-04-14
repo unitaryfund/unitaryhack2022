@@ -80,7 +80,8 @@ h6 {
 p {
   margin-top: 0px;
   margin-bottom: 2.5rem;
-  font-size: var(--font-size-p);}
+  font-size: var(--font-size-p);
+  font-family: var(--font-family-default);}
 
 small, sub, sup {
   font-size: 75%; }
@@ -129,7 +130,10 @@ blockquote h6 {
 }
 
 blockquote p {
-  margin-bottom: 0;
+  margin-bottom: 0
+  margin-top: 0px;
+  margin-bottom: 2.5rem;
+  font-size: var(--font-size-p);
 }
 
 img, video {
