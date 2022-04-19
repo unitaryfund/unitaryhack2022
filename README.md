@@ -14,7 +14,7 @@
         height: auto; margin: auto;
   display: block;" src="https://img.shields.io/badge/signup-PRESS%20PLAY-FFFF00?style=flat-square" alt="unitaryhack 2022" /></a>
 
-- 💰 Over 300$ USD per project in bounties for resolving tagged issues in [participating quantum open source projects](https://unitaryhack.dev/projects/).
+- 💰 Over 8,000 USD in bounties for resolving tagged issues in [participating quantum open source projects](https://unitaryhack.dev/projects/).
 
 - 💿 Digital swag for all participants that successfully make Pull Requests (PR)s
 
