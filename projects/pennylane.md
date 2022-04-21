@@ -1,6 +1,6 @@
 ---
 title: PennyLane
-emoji: 🪙
+emoji: 💰
 project_url: https://github.com/PennyLaneAI/pennylane
 metaDescription: A cross-platform Python library for differentiable programming of quantum computers.
 date: 2022-03-28

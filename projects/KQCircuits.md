@@ -1,6 +1,6 @@
 ---
 title: KQCircuits
-emoji: :chipmunk: 
+emoji: 🐿️
 project_url: https://github.com/iqm-finland/KQCircuits
 metaDescription: KLayout Python library for integrated quantum circuit design.
 date: 2022-04-12
