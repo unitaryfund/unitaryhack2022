@@ -14,7 +14,7 @@ eleventyNavigation:
 
 ### Q. When is the hackathon, and is there a registration deadline?
 
-The hackathon will run from May 14-30th, and you can register at any point before the event is over.
+The hackathon will run from June 3-17th, and you can register at any point before the event is over.
 
 ### Q. Does it cost anything?
 
@@ -23,7 +23,7 @@ See the list of [participating projects]({{ '/projects/' | url }}) to see the bo
 
 ### Q. How does the hackathon work?
 
-**tl;dr**: Make an approved contribution to a [participating open source project]({{ '/projects/' | url }}) between May 14-30th and you will win SWAG. If your contribution to a bountied issue is deemed the satisfactory solution by the maintainers of the project, we will send you cash via PayPal.
+**tl;dr**: Make an approved contribution to a [participating open source project]({{ '/projects/' | url }}) between June 3-17th and you will win SWAG. If your contribution to a bountied issue is deemed the satisfactory solution by the maintainers of the project, we will send you cash via PayPal.
 
 ### Q. Can I work on a team? If I want a team, how can I find one?
 
@@ -40,7 +40,7 @@ If you are having trouble finding issues you want to work on, be sure to ask on 
 
 ### Q. What are qualifying pull requests?
 
-Hackers can make contributions anytime between May 14th and May 30th. Just be sure to [sign up here](https://airtable.com/embed/shrTG20PLC5cjVIPr) and make sure that you put `[unitaryhack]` in the title of your pull request so the bots can find your contributions and make sure you get credit!
+Hackers can make contributions anytime between June 3rd and June 17th. Just be sure to [sign up here](https://airtable.com/embed/shrTG20PLC5cjVIPr) and make sure that you put `[unitaryhack]` in the title of your pull request so the bots can find your contributions and make sure you get credit!
 
 ### Q. Will there be mentors who can help us during the event?
 
