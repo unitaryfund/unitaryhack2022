@@ -1,5 +1,5 @@
 ---
-title: quantum algorithms
+title: quantumalgorithms.org
 emoji: 🎸
 project_url: "https://github.com/scinawa/quantumalgorithms.org"
 metaDescription: Learn the state-of-the-art quantum algorithms for machine learning
