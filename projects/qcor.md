@@ -10,7 +10,7 @@ tags:
   - QIR
   - compilation
   - MLIR
-  - OpenQASM 3
+  - OpenQASM3
 ---
 
 QCOR promotes a kernel-based programming model for quantum-classical computing in C++. The QCOR runtime provides a robust set of data structures enabling variational 

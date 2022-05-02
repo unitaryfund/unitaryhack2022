@@ -10,8 +10,8 @@ tags:
   - python
   - run-on-hardware
   - compilation
-  - OpenQASM 3
-  - Pulse-level
+  - OpenQASM3
+  - pulse-level
 
 ---
 

@@ -8,8 +8,8 @@ summary: A cross-platform Python library for differentiable programming of quant
 tags:
   - python
   - qml
-  - quantum chemistry
-  - quantum computing
+  - quantum-chemistry
+  - quantum-computing
 ---
 
 

@@ -8,7 +8,7 @@ summary: Quantify pulse-level experiments framework
 tags:
   - python
   - pulse-level
-  - control hardware backends
+  - control-hardware-backends
   - Data acquisition
   - QCoDeS
 ---

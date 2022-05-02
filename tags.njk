@@ -1,30 +1,20 @@
 ---
-pagination:
-  data: collections
-  size: 1
-  alias: tag
-  filter:
-    - all
-    - nav
-    - post
-    - posts
-permalink: /tags/{{ tag }}/
+title: Project tags
+metaDescription: This page lists all of the projets tags.
 layout: layouts/base.njk
-renderData:
-  title: "Tagged “{{ tag }}”"
-  metaDescription: "All updates tagged with “{{ tag }}”"
+permalink: "tags/index.html"
 ---
 <div class="page-container">
-  <div class="tag-list tag-list--no-wrap">
-    <h3 class="tag-list__title">Updates Tagged: "{{ tag | capitalize }}"</h3>
-    <a class="btn btn--danger" href="/blog">Remove Filter</a>
+  <h1>{{ title }}</h1>
+<section>
+  <div class="tag-list">
+    {% for tag in collections.tagList | filterTagList %}
+      <a class="tag" href="/tags/{{ tag | slug }}">{{ tag | safe }}</a>
+    {% endfor %}
   </div>
-
-  {% set postslist = collections[tag] %}
-  {% set show_postslist_tags = true %}
-  {% include "components/postslist.njk" %}
-
-  <nav>
-    <a href="{{ '/blog/' | url }}">← View All Updates</a>
-  </nav>
+  <hr>
+    <nav>
+      <a href="{{ '/projects/' | url }}">← View All Projects</a>
+    </nav>
+  </section>
 </div>
