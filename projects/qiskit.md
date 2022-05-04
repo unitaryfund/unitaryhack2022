@@ -23,7 +23,7 @@ bounties:
 
 The `qiskit-terra` component is the foundation on which the rest of Qiskit is built. It includes tools to build circuits and transpile them, as well as a quantum information module and visualization tools. It also comes with a circuit library.
 
-If it is the first time contributing to `qiskit-terra`, please take a look at our [contribution guidelines](CONTRIBUTING.md).
+If it is your first time contributing to `qiskit-terra`, please take a look at our [contribution guidelines](CONTRIBUTING.md).
 
 > If you want to participate with a simpler issue, check our [list unassigned `good first issues`](https://github.com/Qiskit/qiskit-terra/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3A%22good+first+issue%22) out.
 
