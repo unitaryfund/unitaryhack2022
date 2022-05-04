@@ -1,6 +1,10 @@
 ---
 layout: layouts/base.njk
 section: home
+pagination:
+    data: collections.project
+    size: 4
+    alias: projects
 ---
 <div class="home-page">
 	<div class="home-page__bg-square"></div>
@@ -27,22 +31,25 @@ section: home
   </div>
 
   <hr>
-  <h1>Participating Projects</h1>
+  <h1>Recently added projects:</h1>
   <hr>
-  {% set projectlist = collections.project %}
+  {% set projectlist = projects %}
+    {% set show_postslist_tags = true %}
   {% include "components/projectlist.njk" %}
-
-  <hr>
-  <h1>Latest Hacks</h1>
+    <nav>
+      <a href="{{ '/projects/' | url }}" class="tag">See all projects ▶</a>
+    </nav>
+  {# <hr> #}
+  {# <h1>Latest Hacks</h1>
   <hr>
 
   <a class="twitter-timeline" href="https://twitter.com/unitaryHACK?ref_src=twsrc%5Etfw">Tweets by unitaryHACK</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  <hr>
-  <h1>Hackathon News</h1>
+  <hr> #}
+  {# <h1>Hackathon News</h1>
   <hr>
   {% set postslist = collections.post %}
   {% set show_postslist_tags = false %}
   {% set limit = 3 %}
-  {% include "components/postslist.njk" %}
+  {% include "components/postslist.njk" %} #}
 
 </div>

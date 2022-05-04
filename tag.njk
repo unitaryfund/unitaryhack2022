@@ -8,7 +8,10 @@ pagination:
     - nav
     - post
     - posts
-permalink: /project-tags/{{ tag }}/
+    - tagList
+    - project
+  addAllPagesToCollections: true
+permalink: /tags/{{ tag | slug }}/
 layout: layouts/base.njk
 renderData:
   title: "Tagged “{{ tag }}”"
@@ -16,14 +19,15 @@ renderData:
 ---
 <div class="page-container">
   <div class="tag-list tag-list--no-wrap">
-    <h3 class="tag-list__title">Projects Tagged: "{{ tag | capitalize }}"</h3>
-    <a class="btn btn--danger" href="/projects">Remove Tag</a>
+    <h3 class="tag-list__title">Projects Tagged: "{{ tag }}"</h3>
+    {# <a class="btn btn--danger" href="/projects">Remove Filter</a> #}
   </div>
 
-  {% set projectlist = collections[tag] %}
+  {% set projectlist = collections[ tag ] %}
+  {% set show_postslist_tags = false %}
   {% include "components/projectlist.njk" %}
 
   <nav>
-    <a href="{{ '/projects/' | url }}">← View All Projects</a>
+    <a href="{{ '/tags/' | url }}">← View all tags</a>
   </nav>
 </div>

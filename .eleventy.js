@@ -3,8 +3,12 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const {
+    fortawesomeBrandsPlugin,
+} = require('@vidhill/fortawesome-brands-11ty-shortcode');
 
 module.exports = function(eleventyConfig) {
+    eleventyConfig.addPlugin(fortawesomeBrandsPlugin);
 
     // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -35,6 +39,22 @@ module.exports = function(eleventyConfig) {
             coll[author].push(post.data);
             return coll;
         }, {});
+    });
+
+
+    eleventyConfig.addFilter("filterTagList", tags => {
+        // should match the list in tags.njk
+        return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+    })
+
+    // Create an array of all tags
+    eleventyConfig.addCollection("tagList", function(collection) {
+        let tagSet = new Set();
+        collection.getAll().forEach(item => {
+            (item.data.tags || []).forEach(tag => tagSet.add(tag));
+        });
+
+        return [...tagSet];
     });
 
     // Date formatting (human readable)

@@ -11,10 +11,12 @@ section: project
 
   <strong>Open bounties:</strong>
   {% if bounties %}
+  <ul>
     {% for issue in bounties %}         
       {% set issueUrl %}{{project_url}}/issues/{{issue.issue_num}}{% endset %}
-      <a class="tag" href="{{ issueUrl | url }}" rel="issue">${{ issue.value }}</a>
+      <li><a class="tag" href="{{ issueUrl | url }}" rel="issue">${{ issue.value }} | {{issue.name}}</a></li>
     {% endfor %}
+  </ul>
   {% endif %}
   <hr>
   {{ layoutContent | safe }}

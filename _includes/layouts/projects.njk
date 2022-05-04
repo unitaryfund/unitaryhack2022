@@ -1,6 +1,14 @@
 ---
 layout: layouts/base.njk
 section: projects
+pagination:
+  data: collections
+  size: Infinity
+  filter:
+    - all
+    - nav
+    - project
+    - projects
 ---
 <div class="page-container">
   <h1>{{title}}</h1>
@@ -10,7 +18,13 @@ section: projects
   {% endif %}
   
   {{ layoutContent | safe }}
+  <h4><details>
+    <summary class="">See all topics</summary>
+    {% set taglist = pagination.items %}
+    {% include "components/taglist.njk" %}
+  </details></h4>
 
   {% set projectlist = collections.project %}
+  {% set show_postslist_tags = true %}
   {% include "components/projectlist.njk" %}
 </div>

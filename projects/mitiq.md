@@ -11,15 +11,20 @@ tags:
   - run-on-hardware
   - python
 bounties:
-  - issue_num: 1179
+  - name: Avoid ignoring silently bad inputs in fold_gates_at_random
+    issue_num: 1179
     value: 25
-  - issue_num: 1168
+  - name: Add support to the GH pages documentation pipeline for selecting different mitiq versions
+    issue_num: 1168
     value: 25
-  - issue_num: 1165
+  - name: Qrack extended stabilizer for CDR and other near-Clifford applications
+    issue_num: 1165
     value: 50
-  - issue_num: 1094
+  - name: Improve H2 example
+    issue_num: 1094
     value: 100
-  - issue_num: 1062
+  - name: Using a CZPowGate produces an error with CDR
+    issue_num: 1062
     value: 100
 ---
 

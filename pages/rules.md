@@ -18,4 +18,4 @@ If you have any questions about the event or want to get in touch with others wo
 ## Terms and Conditions
 
 We will do our best to ensure that we can get swag and bounties sent to all who qualify for, but there are some challenges associated with sending money or physical swag packs to countries that have restrictions on shipping or sanctions from the USA.
-We are able to send bounties and ship physical swag packs to most countries with the following exception: Cuba, Iran, Libya, North Korea, Sierra Leone, Somalia, Sudan, Syria, Venezuela, and Yemen.
+For more info on what countries might be affected, please see the [US Treasury](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information?msclkid=0a2ace1ec70211ec8a9a702bf749a778).

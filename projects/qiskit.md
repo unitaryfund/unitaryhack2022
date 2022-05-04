@@ -10,12 +10,13 @@ tags:
   - python
   - run-on-hardware
   - compilation
-  - OpenQASM 3
-  - Pulse-level
+  - OpenQASM3
+  - pulse-level
 bounties:
   - name: Refactor commutative analysis
     issue_num: 8020
     value: 125
+
 ---
 
 [Qiskit](https://qiskit.org) is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules.
