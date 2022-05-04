@@ -21,7 +21,7 @@ bounties:
 
 [Qiskit](https://qiskit.org) is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules.
 
-The `qiskit-terra` component is the foundation on which the rest of Qiskit is built. Includes tools to build circuits and transpile them, besides a quantum information module and visualization tools. It also comes with a circuit library.
+The `qiskit-terra` component is the foundation on which the rest of Qiskit is built. It includes tools to build circuits and transpile them, as well as a quantum information module and visualization tools. It also comes with a circuit library.
 
 If it is the first time contributing to `qiskit-terra`, please take a look at our [contribution guidelines](CONTRIBUTING.md).
 
