@@ -25,7 +25,7 @@ The `qiskit-terra` component is the foundation on which the rest of Qiskit is bu
 
 If it is your first time contributing to `qiskit-terra`, please take a look at our [contribution guidelines](CONTRIBUTING.md).
 
-> If you want to participate with a simpler issue, check our [list unassigned `good first issues`](https://github.com/Qiskit/qiskit-terra/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3A%22good+first+issue%22) out.
+> If you want to participate with a simpler issue, check out our [list of unassigned `good first issues`](https://github.com/Qiskit/qiskit-terra/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3A%22good+first+issue%22).
 
 > For support from the community, please [join the Qiskit Slack community](https://ibm.co/joinqiskitslack) and use our [Qiskit Slack channel](https://qiskit.slack.com) for discussion. The channels `qiskit-dev` and `qiskit-pr-help` might be a good place for questions on the development and the PRing process respectively.
 
