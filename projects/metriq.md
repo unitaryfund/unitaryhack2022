@@ -10,6 +10,22 @@ tags:
   - node
   - postgres
   - benchmarking
+bounties:
+  - name: Add a submission URL as either an arXiv or GitHub link
+    issue_num: 45
+    value: 100
+  - name: Check URL validity for image and content URLs on submission 
+    issue_num: 234
+    value: 50
+  - name: Sorting child-tasks by upvotes 
+    issue_num: 473
+    value: 50
+  - name: Scirate ‘Scite!’ counts for submission
+    issue_num: 191
+    value: 50
+  - name: Publish updates via RSS 
+    issue_num: 238
+    value: 50
 ---
 
 
