@@ -10,6 +10,20 @@ tags:
   - quantum-machine-learning
   - fault-tolerant
   - provable-speedups
+bounties:
+  - name: Fix "back" button of most of browsers 
+    issue_num: 72
+    value: 75
+  - name: Edit .css to make the website more readable
+    issue_num: 69
+    value: 50
+  - name: Work on error propagation section in appendices
+    issue_num: 3
+    value: 75
+  - name: Finish section on concentration inequalities
+    issue_num: 1
+    value: 100
+    
 ---
 
 The website https://quantumalgorithms.org is an open-source book on quantum algorithms. We have two goals. 
