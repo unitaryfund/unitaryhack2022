@@ -10,6 +10,16 @@ tags:
   - quantum-network
   - distributed-quantum-computing
   - simulation
+bounties:
+  - name: Implement an example of a parallelized version of quantum K-Means clustering
+    issue_num: 53
+    value: 100
+  - name: Export gate logic to NetQASM
+    issue_num: 37
+    value: 100
+  - name: Map a pyQuirk circuit to an Interlin-q circuit
+    issue_num: 35
+    value: 100
 ---
 
 A Quantum Interconnect Simulator for Distributed Quantum Algorithms.
