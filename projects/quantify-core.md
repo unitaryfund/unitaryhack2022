@@ -1,10 +1,10 @@
 ---
-title: Quantify
+title: Quantify-core
 emoji: 🚀
-project_url: https://gitlab.com/quantify-os
-metaDescription: Quantum Computing operating system
-date: 2022-04-28
-summary: Quantify pulse-level experiments framework
+project_url: https://gitlab.com/quantify-os/quantify-core
+metaDescription: Quantify pulse-level experiments framework
+date: 2022-05-10
+summary: Quantify pulse-level experiments framework: data acquisition and experiment execution
 tags:
   - python
   - pulse-level
@@ -14,10 +14,10 @@ tags:
   - gitlab
 bounties:
   - name: Create a jupyter-lab extension for realtime visualization
-    issue_url: https://gitlab.com/quantify-os/quantify-core/-/issues/203
+    issue_num: https://gitlab.com/quantify-os/quantify-core/-/issues/203
     value: 100
   - name: Create an interactive data browser
-    issue_url: https://gitlab.com/quantify-os/quantify-core/-/issues/204
+    issue_num: https://gitlab.com/quantify-os/quantify-core/-/issues/204
     value: 100
 ---
 
