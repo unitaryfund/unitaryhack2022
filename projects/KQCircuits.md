@@ -9,8 +9,8 @@ tags:
   - python
   - eda
   - klayout
-  - superconducting qubits
-  - quantum computing
+  - superconducting-qubits
+  - quantum-computing
 ---
 
 

@@ -6,10 +6,10 @@ metaDescription: Jax
 date: 2022-04-21
 summary: "The Machine-Learning toolbox for Many-Body Quantum Physics: Neural-Network Quantum states and much more"
 tags:
-  - Python
-  - Jax
-  - Neural Quantum States
-  - Machine-Learning
+  - python
+  - jax
+  - neural-quantum-states
+  - machine-learning
 ---
 
 NetKet uses Machine-Learning ideas to address some hard problems in Quantum Physics, such as finding the ground-state or solving the dynamics of a quantum system, or enhancing a tomographic reconstruction from some experimental data. It is built around neural-network quantum states and provides efficient algorithms for their evaluation and optimization.  NetKet is a Python package based on Google's Jax library. 

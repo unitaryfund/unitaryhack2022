@@ -22,11 +22,11 @@
             {{ post.data.summary }}
           </p>
         {% endif %}
-        {% if post.data.tags %}
+        {% if post.data.tags and show_postslist_tags %}
           <p class="tag-list">
             {% for tag in post.data.tags %}
               {%- if tag != "project" -%}
-                {% set tagUrl %}/project-tags/{{ tag }}/{% endset %}
+                {% set tagUrl %}/tags/{{ tag }}/{% endset %}
               <a class="project-card__tag tag" href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
               {%- endif -%}
             {% endfor %}
