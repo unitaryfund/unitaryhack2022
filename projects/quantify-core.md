@@ -4,9 +4,10 @@ emoji: 🚀
 project_url: https://gitlab.com/quantify-os/quantify-core
 metaDescription: Quantify pulse-level experiments framework
 date: 2022-05-10
-summary: Quantify pulse-level experiments framework: data acquisition and experiment execution
+summary: Quantum experiments data acquisition and execution
 tags:
   - python
+  - gate-level
   - pulse-level
   - control-hardware-backends
   - data-acquisition
@@ -14,14 +15,14 @@ tags:
   - gitlab
 bounties:
   - name: Create a jupyter-lab extension for realtime visualization
-    issue_num: https://gitlab.com/quantify-os/quantify-core/-/issues/203
+    issue_num: 203
     value: 100
   - name: Create an interactive data browser
-    issue_num: https://gitlab.com/quantify-os/quantify-core/-/issues/204
+    issue_num: 204
     value: 100
 ---
 
-Quantify enables quantum computing users to program `pulse-level` physics experiments  
+Quantify enables quantum computing users to program hybrid `gate-level` / `pulse-level` physics experiments  
 - in a hardware-agnostic manner through [`quantify-scheduler`](https://gitlab.com/quantify-os/quantify-scheduler) (currently supporting Qblox and Zurich Instruments `control hardware`), 
 - and to automate `data acquisition` and execution of these experiments with [`quantify-core`](https://gitlab.com/quantify-os/quantify-core).
 
