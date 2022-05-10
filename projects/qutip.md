@@ -10,7 +10,7 @@ tags:
   - simulation
   - algorithms
 bounties:
-  - name: ENH: Hyperlinks to QuTiP functions and classes 
+  - name: Hyperlinks to QuTiP functions and classes 
     issue_num: 1526
     value: 50
 ---
