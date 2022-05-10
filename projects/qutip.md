@@ -9,6 +9,10 @@ tags:
   - python
   - simulation
   - algorithms
+bounties:
+  - name: ENH: Hyperlinks to QuTiP functions and classes 
+    issue_num: 1526
+    value: 50
 ---
 
 QuTiP is an open-source Python library for simulating the dynamics of closed
