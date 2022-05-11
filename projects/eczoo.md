@@ -13,6 +13,12 @@ bounties:
   - name: A true, better code graph
     issue_num: 5
     value: 200
+  - name: Improve listing of contributors for individual code entries
+    issue_num: 6
+    value: 60
+  - name: Add more relevant codes to the zoo
+    issue_num: 7
+    value: 40
 ---
 
 # The Error Correction Zoo collects and organizes error-correcting codes.
@@ -30,3 +36,5 @@ lists of codes that have a given property, a code graph that displays relations 
 All the information about the error-correction codes that are in the zoo are stored as YaML data files
 on [github.com](https://github.com/errorcorrectionzoo/eczoo_data/), and we have some simple code to
 [build the site](https://github.com/errorcorrectionzoo/eczoo_generator/).
+
+Thanks for your contributions!
