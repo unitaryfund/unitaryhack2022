@@ -10,6 +10,19 @@ tags:
   - pulse-level
   - simulation
   - neutral-atoms
+bounties:
+  - name: Automatic packaging
+    issue_num: 363
+    value: 50
+  - name: Automatize docstrings types
+    issue_num: 359
+    value: 75
+  - name: Changing the device of a Sequence
+    issue_num: 135
+    value: 75
+  - name: More flexible sequence drawing
+    issue_num: 332
+    value: 100
 ---
 
 Pulser is a framework for composing, simulating and executing pulse sequences
