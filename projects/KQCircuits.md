@@ -11,6 +11,28 @@ tags:
   - klayout
   - superconducting-qubits
   - quantum-computing
+bounties:
+  - name: Macro for snapping refpoints
+    issue_num: 15
+    value: 70
+  - name: produce_waveguide_to_port does not infer side for EdgePort
+    issue_num: 8
+    value: 40
+  - name: Links to files in documentation
+    issue_num: 9
+    value: 40
+  - name: super().build() always needed in chips
+    issue_num: 12
+    value: 40
+  - name: Macro for generating a list of refpoints from all hierarchy levels
+    issue_num: 13
+    value: 40
+  - name: Manual steps in code refresh
+    issue_num: 14
+    value: 40
+  - name: Point-and-click workflow tutorial outdated
+    issue_num: 11
+    value: 30
 ---
 
 
