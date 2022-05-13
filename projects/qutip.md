@@ -13,6 +13,9 @@ bounties:
   - name: Hyperlinks to QuTiP functions and classes 
     issue_num: 1526
     value: 50
+  - name: Setting qutip-qip as an optional package for qutip-5
+    issue_num: 1893
+    value: 100
 ---
 
 QuTiP is an open-source Python library for simulating the dynamics of closed
