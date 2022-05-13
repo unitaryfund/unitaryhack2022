@@ -21,7 +21,7 @@ bounties:
 
 [Qiskit](https://qiskit.org) is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules.
 
-The `qiskit-nature` a Qiskit application module for chemistry, physics, and biology.
+The `qiskit-nature` package is a Qiskit application module for chemistry, physics, and biology.
 
 If it is your first time contributing to `qiskit-nature`, please take a look at our [contribution guidelines](https://github.com/Qiskit/qiskit-nature/blob/main/CONTRIBUTING.md).
 
