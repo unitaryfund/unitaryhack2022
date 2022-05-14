@@ -32,5 +32,5 @@ bounties:
 
 More information about scqubits can be found via the [documentation](https://scqubits.readthedocs.io/en/latest/), or this [YouTube talk](https://www.youtube.com/watch?v=ZccDfs-_40Y), which provides an overview of the library's key features. 
 
-> Open scqubits GitHub issues are [here](https://github.com/scqubits/scqubits/issues).
+> All open scqubits GitHub issues are [here](https://github.com/scqubits/scqubits/issues).
 
