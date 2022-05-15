@@ -10,6 +10,13 @@ tags:
   - jax
   - neural-quantum-states
   - machine-learning
+bounties:
+  - name: Add support for a single-file HDF5 log
+    issue_num: 1200
+    value: 75
+  - name: Use colors to signal sampling issues in expectation values
+    issue_num: 1201
+    value: 50
 ---
 
 NetKet uses Machine-Learning ideas to address some hard problems in Quantum Physics, such as finding the ground-state or solving the dynamics of a quantum system, or enhancing a tomographic reconstruction from some experimental data. It is built around neural-network quantum states and provides efficient algorithms for their evaluation and optimization.  NetKet is a Python package based on Google's Jax library. 
