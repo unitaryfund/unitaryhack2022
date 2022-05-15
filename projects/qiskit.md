@@ -15,10 +15,13 @@ tags:
 bounties:
   - name: Refactor commutative analysis
     issue_num: 8020
-    value: 150
+    value: 175
   - name: Template library needs to be reorganized
     issue_num: 5275
-    value: 25
+    value: 50
+  - name: Arbitrary order in circuit drawers
+    issue_num: 8063
+    value: 30
 ---
 
 [Qiskit](https://qiskit.org) is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules.
@@ -29,5 +32,5 @@ If it is your first time contributing to `qiskit-terra`, please take a look at o
 
 > If you want to participate with a simpler issue, check out our [list of unassigned `good first issues`](https://github.com/Qiskit/qiskit-terra/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3A%22good+first+issue%22).
 
-> For support from the community, please [join the Qiskit Slack community](https://ibm.co/joinqiskitslack) and use our [Qiskit Slack channel](https://qiskit.slack.com) for discussion. The channels `qiskit-dev` and `qiskit-pr-help` might be a good place for questions on the development and the PRing process respectively.
+> For support from the community, please [join the Qiskit Slack community](https://ibm.co/joinqiskitslack) and use our [Qiskit Slack channel](https://qiskit.slack.com) for discussion. The channels `#qiskit-dev` and `#qiskit-pr-help` might be a good place for questions on the development and the PRing process respectively.
 

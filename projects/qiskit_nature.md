@@ -27,5 +27,5 @@ If it is your first time contributing to `qiskit-nature`, please take a look at 
 
 > If you want to participate with a simpler issue, check out our [list of unassigned `good first issues`](https://github.com/Qiskit/qiskit-nature/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+label%3A%22good+first+issue%22).
 
-> For support from the community, please [join the Qiskit Slack community](https://ibm.co/joinqiskitslack) and use our [Qiskit Slack channel](https://qiskit.slack.com) for discussion. The channels `qiskit-dev` and `qiskit-pr-help` might be a good place for questions on the development and the PRing process respectively.
+> For support from the community, please [join the Qiskit Slack community](https://ibm.co/joinqiskitslack) and use our [Qiskit Slack channel](https://qiskit.slack.com) for discussion. The channels `#qiskit-dev` and `#qiskit-pr-help` might be a good place for questions on the development and the PRing process respectively.
 
