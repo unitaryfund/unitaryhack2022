@@ -10,11 +10,14 @@ tags:
   - simulation
   - algorithms
 bounties:
-  - name: Hyperlinks to QuTiP functions and classes 
+  - name: Hyperlinks to QuTiP functions and classes
     issue_num: 1526
     value: 50
   - name: Setting qutip-qip as an optional package for qutip-5
     issue_num: 1893
+    value: 100
+  - name: Set up towncrier for managing the changelog
+    issue_num: 1894
     value: 100
 ---
 
