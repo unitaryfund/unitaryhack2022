@@ -15,9 +15,12 @@ tags:
 bounties:
   - name: Refactor commutative analysis
     issue_num: 8020
-    value: 175
+    value: 170
   - name: Template library needs to be reorganized
     issue_num: 5275
+    value: 50
+  - name: Improve type hinting
+    issue_num: 6905
     value: 50
   - name: Arbitrary order in circuit drawers
     issue_num: 8063
