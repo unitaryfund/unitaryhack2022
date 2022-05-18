@@ -23,6 +23,9 @@ bounties:
   - name: Improve H2 example
     issue_num: 1094
     value: 100
+  - name: Test issue (maintainers only)
+    issue_num: 1298
+    value: 0  
 
 ---
 
