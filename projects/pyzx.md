@@ -1,6 +1,6 @@
 ---
 title: PyZX
-emoji: 💰
+emoji: 🕷️
 project_url: https://github.com/Quantomatic/pyzx
 metaDescription: Python library for quantum circuit rewriting and optimisation using the ZX-calculus
 date: 2022-03-28
