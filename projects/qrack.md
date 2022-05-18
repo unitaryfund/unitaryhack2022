@@ -10,6 +10,16 @@ tags:
   - opencl
   - python
   - simulation
+bounties:
+  - name: (Qrack) Coverage update
+    issue_num: 612
+    value: 100
+  - name: (PyQrack) Unit tests: mirror circuits
+    issue_num: 13
+    value: 100
+  - name: (PyQrack) Official PyQrack Documentation
+    issue_num: 16
+    value: 100
 ---
 
 
