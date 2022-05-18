@@ -14,7 +14,7 @@ bounties:
   - name: (Qrack) Coverage update
     issue_num: 612
     value: 100
-  - name: (PyQrack) Unit tests: mirror circuits
+  - name: "(PyQrack) Unit tests: mirror circuits"
     issue_num: 13
     value: 100
   - name: (PyQrack) Official PyQrack Documentation
