@@ -11,8 +11,8 @@ tags:
   - run-on-hardware
   - python
 bounties:
-  - name: Redundant information in citation file
-    issue_num: 1227
+  - name: Add thumbnail images to documentation examples
+    issue_num: 1283
     value: 50
   - name: Use consistent citation style in docs and function doctrings.
     issue_num: 1250
