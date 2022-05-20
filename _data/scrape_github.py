@@ -9,7 +9,7 @@ from urllib import parse
 # using an access token
 g = Github(os.getenv('GITHUB_TOKEN'))
 
-project_path = "..\projects"
+project_path = "../projects"
 projects = {}
 tags = ["[unitaryHACK]", "[unitaryhack]", "[UnitaryHACK]", "[UnitaryHack]"]
 
