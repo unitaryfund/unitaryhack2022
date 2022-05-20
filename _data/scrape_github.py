@@ -15,7 +15,7 @@ tags = ["[unitaryHACK]", "[unitaryhack]", "[UnitaryHACK]", "[UnitaryHack]"]
 
 def pr_info(pr):
     keys = ['number', 'state', 'title', 'user', 'merged', 'merged_by', 'created_at', 'merged_at', 'closed_at']
-    info = {key : pr[key] for key in keys if key in pr}
+    info = {key : getattr(pr, key) for key in keys if key in pr}
     return {key : i.strftime('%d/%m/%Y %H:%M:%S') if type(i)==datetime.datetime else i for key, i in info.items()} 
 
 
