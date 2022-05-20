@@ -1,0 +1,10 @@
+name: unitaryhack
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pip
+  - pip:
+    - frontmatter
+    - PyGithub
