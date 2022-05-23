@@ -2,7 +2,7 @@
 from github import Github
 import json
 import os
-from datetime import datetime
+import datetime
 import frontmatter
 from urllib import parse
 
@@ -13,10 +13,13 @@ project_path = "../projects"
 projects = {}
 tags = ["[unitaryHACK]", "[unitaryhack]", "[UnitaryHACK]", "[UnitaryHack]"]
 
+def date_to_string(date):
+    return date.strftime('%d/%m/%Y %H:%M:%S') if type(date)==datetime.datetime else date
+
 def pr_info(pr):
     keys = ['number', 'state', 'title', 'user', 'merged', 'merged_by', 'created_at', 'merged_at', 'closed_at']
     info = {key : getattr(pr, key) for key in keys}
-    return {key : i.strftime('%d/%m/%Y %H:%M:%S') if type(i)==datetime.datetime else i for key, i in info.items()} 
+    return {key : date_to_string(i) for key, i in info.items()} 
 
 
 
