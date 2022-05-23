@@ -25,7 +25,7 @@ def pr_info(pr):
 
 # Scrape the md project files for the yaml metadata
 for filename in os.listdir(project_path):
-    if filename.endswith(".md"):
+    if filename.endswith(".md") and not filename.startswith("quantify"):
         print(os.path.join(project_path,filename))
         p = frontmatter.load(os.path.join(project_path,filename))
         projects[p["title"]] = p.metadata
