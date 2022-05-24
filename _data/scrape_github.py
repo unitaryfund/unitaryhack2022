@@ -92,7 +92,7 @@ for project, meta in projects.items():
             issue_data = project_data.get_issue(bounty["issue_num"])
             bounty.update(filter_info(
                 issue_keys, issue_data.__dict__["_rawData"]))
-            print(f"updated {project} bounty # {bounty}")
+            print(f"updated {project} bounty # { bounty['issue_num'] }")
 
 with open("gh.json", "w") as f:
     json.dump(projects, f)
