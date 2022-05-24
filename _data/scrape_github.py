@@ -75,7 +75,7 @@ for filename in os.listdir(project_path):
 for project, meta in projects.items():
     # Get the GH data for the repo
     project_data = g.get_repo(meta["full_title"])
-    print(f"\n Loaded {project} repo data")
+    print(f"\n-----\nLoaded {project} repo data")
     # Add the GH data to the projects dict
     meta.update(filter_info(repo_keys, project_data.__dict__["_rawData"]))
     print(f"Added {project} repo data")
