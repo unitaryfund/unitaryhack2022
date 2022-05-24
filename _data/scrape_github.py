@@ -25,7 +25,6 @@ repo_keys = ['name', 'full_name', 'owner', 'html_url', 'description',
 
 
 def filter_info(keys, data):
-    print(data)
     info = {key: data[key] for key in keys}
     return {key: to_json_serializable(i) for key, i in info.items()}
 
@@ -76,19 +75,24 @@ for filename in os.listdir(project_path):
 for project, meta in projects.items():
     # Get the GH data for the repo
     project_data = g.get_repo(meta["full_title"])
+    print(f"\n Loaded {project} repo data")
     # Add the GH data to the projects dict
     meta.update(filter_info(repo_keys, project_data.__dict__["_rawData"]))
+    print(f"Added {project} repo data")
     # Get the PRs for the repo
     prs = project_data.get_pulls(sort='created')
+    print(f"Loaded {project} PR data")
     # Add the PRs with the hackathon tag to the projects dict
     meta["uh_prs"] = [filter_info(pr_keys, pr.__dict__["_rawData"])
                       for pr in prs if any(x in pr.title for x in tags)]
+    print(f"Added {project} PR data")
     # Look up the bountied issues and check on status
     if "bounties" in meta:
         for bounty in meta["bounties"]:
             issue_data = project_data.get_issue(bounty["issue_num"])
             bounty.update(filter_info(
                 issue_keys, issue_data.__dict__["_rawData"]))
+            print(f"updated {project} bounty # {bounty}")
 
 with open("gh.json", "w") as f:
     json.dump(projects, f)
