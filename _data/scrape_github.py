@@ -21,12 +21,12 @@ issue_keys = ['number', 'state', 'title', 'user', 'labels', 'created_at',
 repo_keys = ['name', 'full_name', 'owner', 'html_url', 'description',
              'created_at', 'updated_at', 'size', 'stargazers_count',
              'watchers_count', 'language', 'forks_count', 'open_issues_count',
-             'subscribers_count', 'organization']
+             'subscribers_count', 'organization', 'license', 'topics']
 
 
 def filter_info(keys, data):
     print(data)
-    info = {key: getattr(data, key) for key in keys}
+    info = {key: data[key] for key in keys}
     return {key: to_json_serializable(i) for key, i in info.items()}
 
 
@@ -77,18 +77,18 @@ for project, meta in projects.items():
     # Get the GH data for the repo
     project_data = g.get_repo(meta["full_title"])
     # Add the GH data to the projects dict
-    meta.update(filter_info(repo_keys, project_data))
+    meta.update(filter_info(repo_keys, project_data.__dict__["_rawData"]))
     # Get the PRs for the repo
     prs = project_data.get_pulls(sort='created')
     # Add the PRs with the hackathon tag to the projects dict
-    meta["uh_prs"] = [filter_info(pr_keys, pr)
+    meta["uh_prs"] = [filter_info(pr_keys, pr.__dict__["_rawData"])
                       for pr in prs if any(x in pr.title for x in tags)]
     # Look up the bountied issues and check on status
     if "bounties" in meta:
         for bounty in meta["bounties"]:
             issue_data = project_data.get_issue(bounty["issue_num"])
             bounty.update(filter_info(
-                issue_keys, issue_data))
+                issue_keys, issue_data.__dict__["_rawData"]))
 
 with open("gh.json", "w") as f:
     json.dump(projects, f)
