@@ -21,7 +21,7 @@ issue_keys = ['number', 'state', 'title', 'user', 'labels', 'created_at',
 repo_keys = ['name', 'full_name', 'owner', 'html_url', 'description',
              'created_at', 'updated_at', 'size', 'stargazers_count',
              'watchers_count', 'language', 'forks_count', 'open_issues_count',
-             'subscribers_count', 'organization', 'license', 'topics']
+             'subscribers_count', 'license', 'topics']
 
 
 def filter_info(keys, data):
