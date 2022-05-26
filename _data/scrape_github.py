@@ -12,7 +12,7 @@ g = github.Github(os.getenv('GITHUB_TOKEN'))
 project_path = "../projects"
 projects = {}
 tags = ["[unitaryHACK]", "[unitaryhack]", "[UnitaryHACK]", "[UnitaryHack]"]
-pr_keys = ['number', 'state', 'title', 'user', 'merged', 'merged_by',
+pr_keys = ['number', 'state', 'title', 'user', 
            'created_at', 'merged_at', 'closed_at', 'assignee', 'assignees',
            'body', 'requested_reviewers', 'draft']
 issue_keys = ['number', 'state', 'title', 'user', 'labels', 'created_at',
@@ -83,7 +83,8 @@ for project, meta in projects.items():
     prs = project_data.get_pulls(sort='created')
     print(f"Loaded {project} PR data")
     # Add the PRs with the hackathon tag to the projects dict
-    meta["uh_prs"] = [filter_info(pr_keys, pr.__dict__["_rawData"])
+    [print(pr.__dict__["_rawData"]) for pr in prs if any(x in pr.title for x in tags)]
+    meta["uh_prs"] = [(filter_info(pr_keys, pr.__dict__["_rawData"]))
                       for pr in prs if any(x in pr.title for x in tags)]
     print(f"Added {project} PR data")
     # Look up the bountied issues and check on status
