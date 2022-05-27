@@ -19,6 +19,9 @@ bounties:
   - name: Set up towncrier for managing the changelog
     issue_num: 1894
     value: 100
+  - name: Build documentation without warning on dev.major
+    issue_num: 1903
+    value: 50
 ---
 
 QuTiP is an open-source Python library for simulating the dynamics of closed
