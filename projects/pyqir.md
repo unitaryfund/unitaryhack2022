@@ -7,8 +7,8 @@ date: 2022-05-27
 summary: PyQIR is a set of APIs for generating, parsing, and evaluating Quantum Intermediate Representation (QIR)
 tags:
   - QIR
-  - Rust
-  - Python
+  - rust
+  - python
 bounties:
   - name: Upgrade samples to ANTLR 4.10
     issue_num: 102
