@@ -1,18 +1,21 @@
 ---
-title: Qrack
-emoji: ⚡
-project_url: https://github.com/vm6502q/qrack
-metaDescription: High-performance quantum gate simulator framework
+title: PyQrack
+emoji: 🥧
+project_url: https://github.com/vm6502q/pyqrack
+metaDescription: Pure language Python bindings for Qrack
 date: 2022-04-05
-summary: High-performance quantum gate simulator framework
+summary: Pure language Python bindings for Qrack
 tags:
   - c++
   - opencl
   - python
   - simulation
 bounties:
-  - name: Coverage update
-    issue_num: 612
+  - name: "Unit tests: mirror circuits"
+    issue_num: 13
+    value: 100
+  - name: Official PyQrack Documentation
+    issue_num: 16
     value: 100
 ---
 
@@ -22,4 +25,4 @@ bounties:
 [PyQrack](https://github.com/vm6502q/pyqrack) is the official pure Python ctypes wrapper on C++ Qrack, also with 0 package dependencies. It provides a back end for Qiskit, with [qiskit-qrack-provider](https://github.com/vm6502q/qiskit-qrack-provider). Qrack also supports Q#, Cirq, XACC, and other quantum computing front ends, though we'd love if unitaryhack could help us update the plugins!
 
 > Open Qrack GitHub issues are [here](https://github.com/vm6502q/qrack/issues).
-> See PyQrack bounties [here](https://unitaryhack.dev/projects/pyqrack/)
+> See Qrack bounties [here](https://unitaryhack.dev/projects/qrack/)
