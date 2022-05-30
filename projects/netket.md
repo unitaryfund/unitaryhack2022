@@ -20,8 +20,8 @@ bounties:
   - name: Support ladder operators in PauliStrings Operators
     issue_num: 1206
     value: 100
-  - name: Add interactive utility to visualize and plot log files
-    issue_num: 1205
+  - name: Implement single-pass statistics estimators for variance and convergence estimators 
+    issue_num: 1220
     value: 75
 ---
 
