@@ -12,13 +12,13 @@ g = github.Github(os.getenv('GITHUB_TOKEN'))
 project_path = "../projects"
 projects = {}
 tags = ["[unitaryHACK]", "[unitaryhack]", "[UnitaryHACK]", "[UnitaryHack]"]
-pr_keys = ['number', 'state', 'title', 'user', 
+pr_keys = ['number', 'state', 'title',
            'created_at', 'merged_at', 'closed_at', 'assignee', 'assignees',
-           'body', 'requested_reviewers', 'draft']
-issue_keys = ['number', 'state', 'title', 'user', 'labels', 'created_at',
+          'requested_reviewers', 'draft']
+issue_keys = ['number', 'state', 'title', 'created_at',
               'updated_at', 'closed_at', 'assignee', 'assignees', 'body',
               'closed_by']
-repo_keys = ['name', 'full_name', 'owner', 'html_url', 'description',
+repo_keys = ['name', 'full_name', 'html_url', 'description',
              'created_at', 'updated_at', 'size', 'stargazers_count',
              'watchers_count', 'language', 'forks_count', 'open_issues_count',
              'subscribers_count', 'license', 'topics']
