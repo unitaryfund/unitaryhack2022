@@ -27,9 +27,9 @@
 
 ### Thanks to our supporters
 
-- [Microsoft Azure Quantum]([https://unitary.fund/](https://azure.microsoft.com/it-it/services/quantum/))
+- [Microsoft Azure Quantum](https://azure.microsoft.com/it-it/services/quantum/)
 - [DoraHacks](https://dorahacks.io/)
-- Unitary Fund](https://unitary.fund/) and its members, including [IBM](https://www.ibm.com/quantum), [Accenture](https://www.accenture.com/us-en/services/technology/quantum-computing-services), [Xanadu](https://www.xanadu.ai/), [IonQ](https://ionq.com/), [Boston Consulting Group](https://www.bcg.com/), [Pasqal](https://pasqal.io/), [IQM](https://www.meetiqm.com/), [DoraHacks](https://dorahacks.io/), and [Agnostiq](https://agnostiq.ai/)
+- [Unitary Fund](https://unitary.fund/) and its members, including [IBM](https://www.ibm.com/quantum), [Accenture](https://www.accenture.com/us-en/services/technology/quantum-computing-services), [Xanadu](https://www.xanadu.ai/), [IonQ](https://ionq.com/), [Boston Consulting Group](https://www.bcg.com/), [Pasqal](https://pasqal.io/), [IQM](https://www.meetiqm.com/), [DoraHacks](https://dorahacks.io/), and [Agnostiq](https://agnostiq.ai/)
 
 
 ### Support future unitaryhacks 🙏
