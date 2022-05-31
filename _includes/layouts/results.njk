@@ -26,7 +26,7 @@ section: results
             {% if issue.state == 'closed' %}
             <li>
               {% for user in issue.assignees %}
-                <a  href="https://github.com/users/{{user.login}}" rel="user">{{user.login}}</a> |
+                <a  href="https://github.com/{{user.login}}" rel="user">{{user.login}}</a> |
               {% endfor %} 
               <a  href="{{project.project_url}}/issues/{{issue.number}}" rel="bounty">
               {{issue.name}}</a></li>
@@ -41,7 +41,7 @@ section: results
             {% if pr.state == 'open' %}     
             <li>
               {% for user in pr.assignees %}
-                <a  href="https://github.com/users/{{user.login}}" rel="user">{{user.login}}</a> |
+                <a  href="https://github.com/{{user.login}}" rel="user">{{user.login}}</a> |
               {% endfor %} 
               <a  href="{{project.project_url}}/pull/{{pr.number}}" rel="pr">{{pr.title}}</a>
             </li>
@@ -54,7 +54,7 @@ section: results
             {% if pr.state == 'closed' %}     
              <li>
               {% for user in pr.assignees %}
-                <a  href="https://github.com/users/{{user.login}}" rel="user">{{user.login}}</a> |
+                <a  href="https://github.com/{{user.login}}" rel="user">{{user.login}}</a> |
               {% endfor %} 
               <a  href="{{project.project_url}}/pull/{{pr.number}}" rel="pr">{{pr.title}}</a>
             </li>
