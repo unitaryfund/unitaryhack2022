@@ -1,0 +1,43 @@
+---
+layout: layouts/base.njk
+section: projects
+pagination:
+  data: collections
+  size: Infinity
+  filter:
+    - all
+    - nav
+    - project
+    - projects
+---
+<div class="page-container">
+  <h1>{{title}}</h1>
+  <hr>
+  {% if subtitle %}
+    <p>{{ subtitle }}</p>
+  {% endif %}
+  
+  {{ layoutContent | safe }}
+
+  {% set projectlist = collections.project %}
+  {% include "components/bountylist.njk" %}
+</div>
+
+{# ---
+layout: layouts/base.njk
+section: bounties
+---
+
+<div class="page-container">
+  <h1>{{title}}</h1>
+  <hr>
+  {% if subtitle %}
+    <p>{{ subtitle }}</p>
+  {% endif %}
+
+  {{ layoutContent | safe }}
+
+  {% set gh_data = collections.gh %}
+  {# {% set show_postslist_tags = true %} 
+  {% include "components/bountylist.njk" %}
+</div> #}
