@@ -1,0 +1,32 @@
+<section>
+  <div class="">
+    {% for project in gh_projects %}
+        <h2>
+          <div class="" >
+            <span class="project-card__emoji">{{ project.emoji }}</span>
+              {{ project.title }}
+          </div>
+        </h2>
+        {% if project.bounties %}
+        <ul>
+          {% for issue in project.bounties %}  
+            {% if issue.state == 'closed' %}
+            {% set issueUrl %}{{project.project_url}}/issues/{{issue.number}}{% endset %}
+            <li><a  href="{{ issueUrl | url }}" rel="issue">${{ issue.value }} | {{issue.name}}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        {% endif %}
+        {% if uh_prs != [] %}
+        <ul>
+          {% for pr in project.uh_prs %}
+            {% if issue.state == 'closed' %}     
+            {% set preUrl %}{{project.project_url}}/pull/{{pr.number}}{% endset %}
+            <li><a  href="{{ prUrl | url }}" rel="pr">${{ pr.title }} | {{pr.name}}</a></li>
+            {% endif %}       
+          {% endfor %}
+        </ul>
+        {% endif %}
+    {% endfor %}
+  </div>
+</section>

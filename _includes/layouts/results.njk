@@ -1,0 +1,70 @@
+---
+layout: layouts/base.njk
+section: results
+---
+<div class="page-container">
+  <h1>{{title}}</h1>
+  <hr>
+  {% if subtitle %}
+    <p>{{ subtitle }}</p>
+  {% endif %}
+  
+  {{ layoutContent | safe }}
+<section>
+  <div class="">
+    {% for project in gh.projects %}
+        <h3>
+          <div class="" >
+            <span class="project-card__emoji">{{ project.emoji }}</span>
+              {{ project.title }}
+          </div>
+        </h3>
+        {% if project.bounties %}
+        <strong>Completed bounties:</strong>
+        <ul>
+          {% for issue in project.bounties %}  
+            {% if issue.state == 'closed' %}
+            <li>
+              {% for user in issue.assignees %}
+                <a  href="https://github.com/users/{{user.login}}" rel="user">{{user.login}}</a> |
+              {% endfor %} 
+              <a  href="{{project.project_url}}/issues/{{issue.number}}" rel="bounty">
+              {{issue.name}}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        {% endif %}
+        {% if uh_prs != [] %}
+        <strong>Pending Pull Requests:</strong>
+        <ul>
+          {% for pr in project.uh_prs %}
+            {% if pr.state == 'open' %}     
+            <li>
+              {% for user in pr.assignees %}
+                <a  href="https://github.com/users/{{user.login}}" rel="user">{{user.login}}</a> |
+              {% endfor %} 
+              <a  href="{{project.project_url}}/pull/{{pr.number}}" rel="pr">{{pr.title}}</a>
+            </li>
+            {% endif %}       
+          {% endfor %}
+        </ul>
+        <strong>Accepted Pull Requests:</strong>
+        <ul>
+          {% for pr in project.uh_prs %}
+            {% if pr.state == 'closed' %}     
+             <li>
+              {% for user in pr.assignees %}
+                <a  href="https://github.com/users/{{user.login}}" rel="user">{{user.login}}</a> |
+              {% endfor %} 
+              <a  href="{{project.project_url}}/pull/{{pr.number}}" rel="pr">{{pr.title}}</a>
+            </li>
+            {% endif %}       
+          {% endfor %}
+        </ul>
+        {% endif %}
+    <hr>
+    {% endfor %}
+
+  </div>
+</section>
+</div>
