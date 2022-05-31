@@ -93,10 +93,10 @@ for project, meta in projects.items():
     if "bounties" in meta:
         for bounty in meta["bounties"]:
             issue_data = project_data.get_issue(bounty["issue_num"])
-            issue_data["labels"] = [l["name"] for l in issue_data["labels"]]
-            issue_data["assignees"] = [l["login"] for l in issue_data["assignees"]]
             bounty.update(filter_info(
                 issue_keys, issue_data.__dict__["_rawData"]))
+            bounty["labels"] = [l["name"] for l in bounty["labels"]]
+            bounty["assignees"] = [l["login"] for l in bounty["assignees"]]
             print(f"updated {project} bounty # { bounty['issue_num'] }")
 
 with open("gh.json", "w") as f:
