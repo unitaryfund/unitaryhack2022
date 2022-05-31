@@ -8,7 +8,7 @@
           </div>
         </h2>
         {% if project.bounties %}
-        <ul>
+        <ul style="list-style-type:square">
           {% for issue in project.bounties %}  
             {% if issue.state == 'closed' %}
             {% set issueUrl %}{{project.project_url}}/issues/{{issue.number}}{% endset %}
@@ -18,7 +18,7 @@
         </ul>
         {% endif %}
         {% if uh_prs != [] %}
-        <ul>
+        <ul style="list-style-type:square">
           {% for pr in project.uh_prs %}
             {% if issue.state == 'closed' %}     
             {% set preUrl %}{{project.project_url}}/pull/{{pr.number}}{% endset %}

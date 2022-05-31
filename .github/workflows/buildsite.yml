@@ -40,6 +40,7 @@ jobs:
           force: true  
           
   build_deploy:
+    needs: update_data
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master

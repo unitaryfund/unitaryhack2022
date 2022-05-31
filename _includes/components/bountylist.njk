@@ -14,7 +14,7 @@
           </div>
         </h2>
         {% if project.data.bounties %}
-        <ul>
+        <ul style="list-style-type:square">
           {% for issue in project.data.bounties %}         
             {% set issueUrl %}{{project_url}}/issues/{{issue.issue_num}}{% endset %}
             <li><a  href="{{ issueUrl | url }}" rel="issue">${{ issue.value }} | {{issue.name}}</a></li>
