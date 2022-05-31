@@ -16,12 +16,12 @@ pr_keys = ['number', 'state', 'title',
            'created_at', 'merged_at', 'closed_at', 'assignee', 'assignees',
           'requested_reviewers', 'draft']
 issue_keys = ['number', 'state', 'title', 'created_at',
-              'updated_at', 'closed_at', 'assignee', 'assignees', 'body',
+              'updated_at', 'closed_at', 'assignee', 'assignees',
               'closed_by']
 repo_keys = ['name', 'full_name', 'html_url', 'description',
              'created_at', 'updated_at', 'size', 'stargazers_count',
              'watchers_count', 'language', 'forks_count', 'open_issues_count',
-             'subscribers_count', 'license', 'topics']
+             'subscribers_count']
 
 
 def filter_info(keys, data):
@@ -96,7 +96,7 @@ for project, meta in projects.items():
             print(f"updated {project} bounty # { bounty['issue_num'] }")
 
 with open("gh.json", "w") as f:
-    json.dump(projects, f)
+    json.dump({"projects" : projects.values()}, f)
 
 print("Done! ♥")
 
