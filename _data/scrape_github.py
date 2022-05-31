@@ -96,7 +96,7 @@ for project, meta in projects.items():
             print(f"updated {project} bounty # { bounty['issue_num'] }")
 
 with open("gh.json", "w") as f:
-    json.dump({"projects" : projects.values()}, f)
+    json.dump(projects, f)
 
 print("Done! ♥")
 
