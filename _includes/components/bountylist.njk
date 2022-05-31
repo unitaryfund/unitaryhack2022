@@ -3,21 +3,24 @@
     {% for project in projectlist %}
         <h2>
           <div class="" >
-            {% if project.data.title %}
-            <span class="project-card__emoji">{{ project.data.emoji }}</span>
+            {% if project.title %}
+            <span class="project-card__emoji">{{ project.emoji }}</span>
             {% endif %}
-            {% if project.data.title %}
-              {{ project.data.title }}
+            {% if project.title %}
+              {{ project.title }}
             {% else %}
               Untitled
             {% endif %}
           </div>
         </h2>
-        {% if project.data.bounties %}
+        {% if project.bounties %}
         <ul style="list-style-type:square">
-          {% for issue in project.data.bounties %}         
-            {% set issueUrl %}{{project_url}}/issues/{{issue.issue_num}}{% endset %}
-            <li><a  href="{{ issueUrl | url }}" rel="issue">${{ issue.value }} | {{issue.name}}</a></li>
+          {% for issue in project.bounties %}
+            {% if issue.state == 'closed' %}         
+            <li><a  href="{{project.project_url}}/issues/{{issue.number}}" rel="issue" style="text-decoration:line-through;">${{ issue.value }} | {{issue.name}}</a></li>
+            {% else %}
+            <li><a  href="{{project.project_url}}/issues/{{issue.number}}" rel="issue">${{ issue.value }} | {{issue.name}}</a></li> 
+            {% endif %}          
           {% endfor %}
         </ul>
         {% endif %}
@@ -29,7 +32,7 @@
 {# <section>
   <div class="project-grid">
     <h1>HI</h1>
-    {% for repo in gh_data.data.projects %}
+    {% for repo in gh_data.projects %}
       <div class="project-card" 
       onclick="window.location.href='{{ repo.url | url }}';"
       style="cursor:pointer;"
