@@ -13,10 +13,10 @@ project_path = "../projects"
 projects = {}
 tags = ["[unitaryHACK]", "[unitaryhack]", "[UnitaryHACK]", "[UnitaryHack]"]
 pr_keys = ['number', 'state', 'title',
-           'created_at', 'merged_at', 'closed_at', 'assignee', 'assignees',
+           'created_at', 'merged_at', 'closed_at', 'assignees',
           'requested_reviewers', 'draft']
-issue_keys = ['number', 'state', 'title', 'created_at',
-              'updated_at', 'closed_at', 'assignee', 'assignees',
+issue_keys = ['number', 'state', 'title', 'created_at', 'labels',
+              'updated_at', 'closed_at', 'assignees',
               'closed_by']
 repo_keys = ['name', 'full_name', 'html_url', 'description',
              'created_at', 'updated_at', 'size', 'stargazers_count',
@@ -86,11 +86,15 @@ for project, meta in projects.items():
     [print(pr.__dict__["_rawData"]) for pr in prs if any(x in pr.title for x in tags)]
     meta["uh_prs"] = [(filter_info(pr_keys, pr.__dict__["_rawData"]))
                       for pr in prs if any(x in pr.title for x in tags)]
+    for pr in meta["uh_prs"]:
+        pr["assignees"] = [l["login"] for l in pr["assignees"]]
     print(f"Added {project} PR data")
     # Look up the bountied issues and check on status
     if "bounties" in meta:
         for bounty in meta["bounties"]:
             issue_data = project_data.get_issue(bounty["issue_num"])
+            issue_data["labels"] = [l["name"] for l in issue_data["labels"]]
+            issue_data["assignees"] = [l["login"] for l in issue_data["assignees"]]
             bounty.update(filter_info(
                 issue_keys, issue_data.__dict__["_rawData"]))
             print(f"updated {project} bounty # { bounty['issue_num'] }")
