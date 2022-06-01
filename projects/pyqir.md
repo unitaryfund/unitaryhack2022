@@ -12,13 +12,16 @@ tags:
 bounties:
   - name: Upgrade samples to ANTLR 4.10
     issue_num: 102
-    value: TBD
+    value: 40
   - name: pyqir-evaluator should gracefully fail when bitcode contains unknown external functions
     issue_num: 122
-    value: TBD
+    value: 175
+  - name: Add mypy to CI
+    issue_num: 57
+    value: 50
   - name: Migrate to Rust 2021 Edition
     issue_num: 123
-    value: TBD
+    value: 15
 ---
 
 PyQIR is a set of APIs for generating, parsing, and evaluating [Quantum
