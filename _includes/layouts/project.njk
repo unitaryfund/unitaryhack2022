@@ -10,14 +10,22 @@ section: project
     <a href = {{project_url}}>{{ title }}</a></h1>
 
   <strong>Open bounties:</strong>
-  {% if bounties %}
-  <ul style="list-style-type:square">
-    {% for issue in bounties %}         
-      {% set issueUrl %}{{project_url}}/issues/{{issue.issue_num}}{% endset %}
-      <li><a class="tag" href="{{ issueUrl | url }}" rel="issue">${{ issue.value }} | {{issue.name}}</a></li>
-    {% endfor %}
-  </ul>
-  {% endif %}
+  {% for scraped_project in gh.projects %}
+      {% if scraped_project.title === title %}
+          {% if scraped_project.bounties %}
+              <ul style="list-style-type:square">
+              {% for issue in scraped_project.bounties %}
+                  {% set issueUrl %}{{project_url}}/issues/{{issue.issue_num}}{% endset %}
+                  {% if issue.state == "closed" %}
+                      <li><a class="tag" href="{{ issueUrl | url }}" rel="issue" style="text-decoration:line-through;">${{ issue.value }} | {{issue.name}}</a></li>
+                  {% else %}
+                      <li><a class="tag" href="{{ issueUrl | url }}" rel="issue">${{ issue.value }} | {{issue.name}}</a></li>
+                  {% endif %}
+              {% endfor %}
+              </ul>
+          {% endif %}
+      {% endif %}
+  {% endfor %}
   <hr>
   {{ layoutContent | safe }}
   <nav>
