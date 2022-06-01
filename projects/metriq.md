@@ -12,7 +12,7 @@ tags:
   - benchmarking
 bounties:
   - name: Add a submission URL as either an arXiv or GitHub link
-    issue_num: 45
+    issue_num: 167
     value: 100
   - name: Check URL validity for image and content URLs on submission 
     issue_num: 234
