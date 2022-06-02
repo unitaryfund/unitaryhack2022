@@ -3,13 +3,34 @@ title: Orquestra Core
 emoji: 🎶
 project_url: "https://github.com/zapatacomputing/orquestra-core"
 metaDescription: Set of libraries for quantum computing developed at Zapata Computing.
-date: 2022-04-27
+date: 2022-05-31
 summary: Set of libraries for quantum computing developed at Zapata Computing.
 tags:
   - python
   - VQA
   - quantum-computing
-  - algorithms
+bounties:
+  - name: Update VQE integration test to converge on the correct value
+    issue_num: 9
+    value: 120
+  - name: Add inverse() function to Circuit
+    issue_num: 10
+    value: 35
+  - name: `test_variance_of_added_perturbations_is_correct` in orquestra-vqa is non-deterministic
+    issue_num: 11
+    value: 30
+  - name: Speed up export of qiskit circuits 
+    issue_num: 12
+    value: 110
+  - name: Create `subdistribution()` function for `MeasurementOutcomeDistribution`
+    issue_num: 13
+    value: 30
+  - name: Implement `power` wrapper for Gates
+    issue_num: 14
+    value: 35
+  - name: Create `exponential` wrapper class
+    issue_num: 15
+    value: 35
 ---
 
 [Orquestra Core] is a collection of open-source libraries developed at [Zapata Computing](https://www.zapatacomputing.com/). It currently consists of the following packages:
@@ -21,8 +42,8 @@ tags:
 - [orquestra-qiskit](https://github.com/zapatacomputing/orquestra-qiskit) – integration with Qiskit and IBM backends.
 - [orquestra-cirq](https://github.com/zapatacomputing/orquestra-cirq) – integration with CirQ.
 - [orquestra-forest](https://github.com/zapatacomputing/orquestra-forest) – integration with Forest platform: PyQuil and QVM simulator.
-
+- [orquestra-qulacs](https://github.com/zapatacomputing/orquestra-qulacs) – integration with Qulacs simulator.
 
 For the ease of browsing, we added all the issues to the [orquestra-core](https://github.com/zapatacomputing/orquestra-core) repository, even if the changes should be actually made in other repositories – please see the description of the issues for more details.
 
-Unfortunately, we're still working on the documentation. For now you can either refer to the [integration tests](https://github.com/zapatacomputing/orquestra-core/tree/main/tests) or the source code of the particular package.
+For the good introduction to the libraries, please refer to [the documentation](https://zapatacomputing.github.io/orquestra-core).
