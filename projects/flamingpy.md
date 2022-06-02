@@ -14,7 +14,7 @@ bounties:
   - name: Add a local complementation function
     issue_num: 71
     value: 100
-  - name: Add `add_qubit` and `remove_qubit` functions
+  - name: Add add_qubit and remove_qubit functions
     issue_num: 73
     value: 50
   - name: Make visualizations more interactive using Plotly
@@ -23,10 +23,11 @@ bounties:
   - name: Add tests to improve code coverage
     issue_num: 74
     value: 15
-  - name: Change scope of `docformatter` and `black`
+  - name: Change scope of docformatter and black
     issue_num: 66
     value: 10
 ---
+
 
 FlamingPy is a cross-platform Python library with a variety of backends for efficient simulations of error correction in fault-tolerant quantum computers.
 
