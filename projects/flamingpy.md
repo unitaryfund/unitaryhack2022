@@ -12,19 +12,19 @@ tags:
 bounties:
   - name: Add local complementation function to EGraph class
     issue_num: 71
-    value: 100
+    value: 125
   - name: Include add_qubit and remove_qubit method within EGraph
     issue_num: 73
-    value: 50
+    value: 75
   - name: Make EGraph visualizations more interactive using Plotly
     issue_num: 72
-    value: 25
+    value: 50
   - name: Add tests to improve code coverage of viz module
     issue_num: 74
-    value: 15
+    value: 25
   - name: Change scope of docformatter and black
     issue_num: 66
-    value: 10
+    value: 25
 ---
 
 FlamingPy is a cross-platform Python library with a variety of backends for efficient simulations of error correction in fault-tolerant quantum computers.
