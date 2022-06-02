@@ -9,7 +9,6 @@ tags:
   - python
   - quantum-error-correction
   - fault-tolerance
-  - quantum-simulations
 bounties:
   - name: Add a local complementation function
     issue_num: 71
@@ -31,7 +30,7 @@ bounties:
 
 FlamingPy is a cross-platform Python library with a variety of backends for efficient simulations of error correction in fault-tolerant quantum computers.
 
-Create different architectures of a quantum computer and test them against different types of errors.
+With this library you can create different architectures of a quantum computer and test them against different types of errors.
 
 For more details about FlamingPy, visit the [FlamingPy docs](https://flamingpy.readthedocs.io/en/latest/) or the [FlamingPy GitHub repository](https://github.com/XanaduAI/flamingpy).
 
