@@ -12,7 +12,7 @@ tags:
 bounties:
   - name: Add local complementation function to EGraph class
     issue_num: 71
-    value: 125
+    value: 120
   - name: Include add_qubit and remove_qubit method within EGraph
     issue_num: 73
     value: 75
@@ -21,7 +21,7 @@ bounties:
     value: 50
   - name: Add tests to improve code coverage of viz module
     issue_num: 74
-    value: 25
+    value: 30
   - name: Change scope of docformatter and black
     issue_num: 66
     value: 25
