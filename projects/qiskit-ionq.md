@@ -10,7 +10,7 @@ tags:
   - run-on-hardware
   - compilation
 bounties:
-  - name: Support qiskit `transpile()` with IonQ native gateset
+  - name: Support qiskit transpile() with IonQ native gateset
     issue_num: 92
     value: 150
   - name: Demonstrate submission of multiple circuits in parallel
