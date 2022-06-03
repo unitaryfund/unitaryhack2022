@@ -104,7 +104,7 @@ for project, meta in projects.items():
 print("Generating the change file...")
 
 with open( "gh.json", "r") as read_file:
-    old_projects = {project["title"] : project for project in json.load(read_file)}
+    old_projects = {project["title"] : project for project in json.load(read_file)["projects"]}
 with open(f'{datetime.datetime.now().strftime("%Y%m%d-%H_%M")}.txt', 'wt') as out:
     print(f"Changes to unitaryHACK results\nupdated {datetime.datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n--------------------\n"+
       str(DeepDiff(old_projects, projects).pretty())+
