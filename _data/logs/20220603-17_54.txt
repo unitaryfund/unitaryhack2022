@@ -1,0 +1,258 @@
+Changes to unitaryHACK results
+updated 03/06/2022 17:54:10
+--------------------
+Item root['Qrack']['created_at'] removed from dictionary.
+Item root['Qrack']['updated_at'] removed from dictionary.
+Item root['Qrack']['size'] removed from dictionary.
+Item root['Qrack']['stargazers_count'] removed from dictionary.
+Item root['Qrack']['watchers_count'] removed from dictionary.
+Item root['Qrack']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['QuTiP']['created_at'] removed from dictionary.
+Item root['QuTiP']['updated_at'] removed from dictionary.
+Item root['QuTiP']['size'] removed from dictionary.
+Item root['QuTiP']['stargazers_count'] removed from dictionary.
+Item root['QuTiP']['watchers_count'] removed from dictionary.
+Item root['QuTiP']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['QuTiP']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['QuTiP']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['NetKet']['created_at'] removed from dictionary.
+Item root['NetKet']['updated_at'] removed from dictionary.
+Item root['NetKet']['size'] removed from dictionary.
+Item root['NetKet']['stargazers_count'] removed from dictionary.
+Item root['NetKet']['watchers_count'] removed from dictionary.
+Item root['NetKet']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['NetKet']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['NetKet']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['NetKet']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['Qiskit IonQ']['created_at'] removed from dictionary.
+Item root['Qiskit IonQ']['updated_at'] removed from dictionary.
+Item root['Qiskit IonQ']['size'] removed from dictionary.
+Item root['Qiskit IonQ']['stargazers_count'] removed from dictionary.
+Item root['Qiskit IonQ']['watchers_count'] removed from dictionary.
+Item root['Qiskit IonQ']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Qiskit IonQ']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Qiskit IonQ']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['Qiskit IonQ']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['QCOR']['created_at'] removed from dictionary.
+Item root['QCOR']['updated_at'] removed from dictionary.
+Item root['QCOR']['size'] removed from dictionary.
+Item root['QCOR']['stargazers_count'] removed from dictionary.
+Item root['QCOR']['watchers_count'] removed from dictionary.
+Item root['QCOR']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['QCOR']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['QCOR']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['Qiskit Nature']['created_at'] removed from dictionary.
+Item root['Qiskit Nature']['updated_at'] removed from dictionary.
+Item root['Qiskit Nature']['size'] removed from dictionary.
+Item root['Qiskit Nature']['stargazers_count'] removed from dictionary.
+Item root['Qiskit Nature']['watchers_count'] removed from dictionary.
+Item root['Qiskit Nature']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Qiskit Nature']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Interlin-q']['created_at'] removed from dictionary.
+Item root['Interlin-q']['updated_at'] removed from dictionary.
+Item root['Interlin-q']['size'] removed from dictionary.
+Item root['Interlin-q']['stargazers_count'] removed from dictionary.
+Item root['Interlin-q']['watchers_count'] removed from dictionary.
+Item root['Interlin-q']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Interlin-q']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Interlin-q']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['Yao']['created_at'] removed from dictionary.
+Item root['Yao']['updated_at'] removed from dictionary.
+Item root['Yao']['size'] removed from dictionary.
+Item root['Yao']['stargazers_count'] removed from dictionary.
+Item root['Yao']['watchers_count'] removed from dictionary.
+Item root['Yao']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Yao']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Yao']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['QuNetSim']['created_at'] removed from dictionary.
+Item root['QuNetSim']['updated_at'] removed from dictionary.
+Item root['QuNetSim']['size'] removed from dictionary.
+Item root['QuNetSim']['stargazers_count'] removed from dictionary.
+Item root['QuNetSim']['watchers_count'] removed from dictionary.
+Item root['QuNetSim']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['QuNetSim']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['QuNetSim']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['QuNetSim']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['QuNetSim']['bounties'][4]['updated_at'] removed from dictionary.
+Item root['PyQIR']['created_at'] removed from dictionary.
+Item root['PyQIR']['updated_at'] removed from dictionary.
+Item root['PyQIR']['size'] removed from dictionary.
+Item root['PyQIR']['stargazers_count'] removed from dictionary.
+Item root['PyQIR']['watchers_count'] removed from dictionary.
+Item root['PyQIR']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['PyQIR']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['PyQIR']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['PyQIR']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['scqubits']['created_at'] removed from dictionary.
+Item root['scqubits']['updated_at'] removed from dictionary.
+Item root['scqubits']['size'] removed from dictionary.
+Item root['scqubits']['stargazers_count'] removed from dictionary.
+Item root['scqubits']['watchers_count'] removed from dictionary.
+Item root['scqubits']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['scqubits']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['scqubits']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['scqubits']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['scqubits']['bounties'][4]['updated_at'] removed from dictionary.
+Item root['Qiskit']['created_at'] removed from dictionary.
+Item root['Qiskit']['updated_at'] removed from dictionary.
+Item root['Qiskit']['size'] removed from dictionary.
+Item root['Qiskit']['stargazers_count'] removed from dictionary.
+Item root['Qiskit']['watchers_count'] removed from dictionary.
+Item root['Qiskit']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Qiskit']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Qiskit']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['Qiskit']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['PennyLane']['created_at'] removed from dictionary.
+Item root['PennyLane']['updated_at'] removed from dictionary.
+Item root['PennyLane']['size'] removed from dictionary.
+Item root['PennyLane']['stargazers_count'] removed from dictionary.
+Item root['PennyLane']['watchers_count'] removed from dictionary.
+Item root['PennyLane']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['PennyLane']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['PennyLane']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['PennyLane']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['PennyLane']['bounties'][4]['updated_at'] removed from dictionary.
+Item root['Orquestra Core']['created_at'] removed from dictionary.
+Item root['Orquestra Core']['updated_at'] removed from dictionary.
+Item root['Orquestra Core']['size'] removed from dictionary.
+Item root['Orquestra Core']['stargazers_count'] removed from dictionary.
+Item root['Orquestra Core']['watchers_count'] removed from dictionary.
+Item root['Orquestra Core']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Orquestra Core']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Orquestra Core']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['Orquestra Core']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['Orquestra Core']['bounties'][4]['updated_at'] removed from dictionary.
+Item root['Orquestra Core']['bounties'][5]['updated_at'] removed from dictionary.
+Item root['Orquestra Core']['bounties'][6]['updated_at'] removed from dictionary.
+Item root['KQCircuits']['created_at'] removed from dictionary.
+Item root['KQCircuits']['updated_at'] removed from dictionary.
+Item root['KQCircuits']['size'] removed from dictionary.
+Item root['KQCircuits']['stargazers_count'] removed from dictionary.
+Item root['KQCircuits']['watchers_count'] removed from dictionary.
+Item root['KQCircuits']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['KQCircuits']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['KQCircuits']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['KQCircuits']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['KQCircuits']['bounties'][4]['updated_at'] removed from dictionary.
+Item root['KQCircuits']['bounties'][5]['updated_at'] removed from dictionary.
+Item root['KQCircuits']['bounties'][6]['updated_at'] removed from dictionary.
+Item root['FlamingPy']['created_at'] removed from dictionary.
+Item root['FlamingPy']['updated_at'] removed from dictionary.
+Item root['FlamingPy']['size'] removed from dictionary.
+Item root['FlamingPy']['stargazers_count'] removed from dictionary.
+Item root['FlamingPy']['watchers_count'] removed from dictionary.
+Item root['FlamingPy']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['FlamingPy']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['FlamingPy']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['FlamingPy']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['FlamingPy']['bounties'][4]['updated_at'] removed from dictionary.
+Item root['Bloqade']['created_at'] removed from dictionary.
+Item root['Bloqade']['updated_at'] removed from dictionary.
+Item root['Bloqade']['size'] removed from dictionary.
+Item root['Bloqade']['stargazers_count'] removed from dictionary.
+Item root['Bloqade']['watchers_count'] removed from dictionary.
+Item root['Bloqade']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Bloqade']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Bloqade']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['Metriq']['created_at'] removed from dictionary.
+Item root['Metriq']['updated_at'] removed from dictionary.
+Item root['Metriq']['size'] removed from dictionary.
+Item root['Metriq']['stargazers_count'] removed from dictionary.
+Item root['Metriq']['watchers_count'] removed from dictionary.
+Item root['Metriq']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Metriq']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Metriq']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['Metriq']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['Metriq']['bounties'][4]['updated_at'] removed from dictionary.
+Item root['Error Correction Zoo']['created_at'] removed from dictionary.
+Item root['Error Correction Zoo']['updated_at'] removed from dictionary.
+Item root['Error Correction Zoo']['size'] removed from dictionary.
+Item root['Error Correction Zoo']['stargazers_count'] removed from dictionary.
+Item root['Error Correction Zoo']['watchers_count'] removed from dictionary.
+Item root['Error Correction Zoo']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Error Correction Zoo']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Error Correction Zoo']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['quantumalgorithms.org']['created_at'] removed from dictionary.
+Item root['quantumalgorithms.org']['updated_at'] removed from dictionary.
+Item root['quantumalgorithms.org']['size'] removed from dictionary.
+Item root['quantumalgorithms.org']['stargazers_count'] removed from dictionary.
+Item root['quantumalgorithms.org']['watchers_count'] removed from dictionary.
+Item root['quantumalgorithms.org']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['quantumalgorithms.org']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['quantumalgorithms.org']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['quantumalgorithms.org']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['Quantum Universal Education']['created_at'] removed from dictionary.
+Item root['Quantum Universal Education']['updated_at'] removed from dictionary.
+Item root['Quantum Universal Education']['size'] removed from dictionary.
+Item root['Quantum Universal Education']['stargazers_count'] removed from dictionary.
+Item root['Quantum Universal Education']['watchers_count'] removed from dictionary.
+Item root['Quantum Universal Education']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Quantum Universal Education']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Quantum Universal Education']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['Pulser']['created_at'] removed from dictionary.
+Item root['Pulser']['updated_at'] removed from dictionary.
+Item root['Pulser']['size'] removed from dictionary.
+Item root['Pulser']['stargazers_count'] removed from dictionary.
+Item root['Pulser']['watchers_count'] removed from dictionary.
+Item root['Pulser']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Pulser']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Pulser']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['Pulser']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['PyQrack']['created_at'] removed from dictionary.
+Item root['PyQrack']['updated_at'] removed from dictionary.
+Item root['PyQrack']['size'] removed from dictionary.
+Item root['PyQrack']['stargazers_count'] removed from dictionary.
+Item root['PyQrack']['watchers_count'] removed from dictionary.
+Item root['PyQrack']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['PyQrack']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['PyZX']['created_at'] removed from dictionary.
+Item root['PyZX']['updated_at'] removed from dictionary.
+Item root['PyZX']['size'] removed from dictionary.
+Item root['PyZX']['stargazers_count'] removed from dictionary.
+Item root['PyZX']['watchers_count'] removed from dictionary.
+Item root['PyZX']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['PyZX']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['PyZX']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['PyZX']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['Mitiq']['created_at'] removed from dictionary.
+Item root['Mitiq']['updated_at'] removed from dictionary.
+Item root['Mitiq']['size'] removed from dictionary.
+Item root['Mitiq']['stargazers_count'] removed from dictionary.
+Item root['Mitiq']['watchers_count'] removed from dictionary.
+Item root['Mitiq']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Mitiq']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Mitiq']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['Mitiq']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['toqito']['created_at'] removed from dictionary.
+Item root['toqito']['updated_at'] removed from dictionary.
+Item root['toqito']['size'] removed from dictionary.
+Item root['toqito']['stargazers_count'] removed from dictionary.
+Item root['toqito']['watchers_count'] removed from dictionary.
+Item root['toqito']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['toqito']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['toqito']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['toqito']['bounties'][3]['updated_at'] removed from dictionary.
+Item root['XACC']['created_at'] removed from dictionary.
+Item root['XACC']['updated_at'] removed from dictionary.
+Item root['XACC']['size'] removed from dictionary.
+Item root['XACC']['stargazers_count'] removed from dictionary.
+Item root['XACC']['watchers_count'] removed from dictionary.
+Item root['XACC']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['XACC']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['XACC']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['Covalent']['created_at'] removed from dictionary.
+Item root['Covalent']['updated_at'] removed from dictionary.
+Item root['Covalent']['size'] removed from dictionary.
+Item root['Covalent']['stargazers_count'] removed from dictionary.
+Item root['Covalent']['watchers_count'] removed from dictionary.
+Item root['Covalent']['bounties'][0]['updated_at'] removed from dictionary.
+Item root['Covalent']['bounties'][1]['updated_at'] removed from dictionary.
+Item root['Covalent']['bounties'][2]['updated_at'] removed from dictionary.
+Item root['Covalent']['bounties'][3]['updated_at'] removed from dictionary.
+Value of root['Qiskit']['open_issues_count'] changed from 814 to 815.
+
+Full Details:
+--------------------
+{ 'dictionary_item_removed': [root['Qrack']['created_at'], root['Qrack']['updated_at'], root['Qrack']['size'], root['Qrack']['stargazers_count'], root['Qrack']['watchers_count'], root['Qrack']['bounties'][0]['updated_at'], root['QuTiP']['created_at'], root['QuTiP']['updated_at'], root['QuTiP']['size'], root['QuTiP']['stargazers_count'], root['QuTiP']['watchers_count'], root['QuTiP']['bounties'][0]['updated_at'], root['QuTiP']['bounties'][1]['updated_at'], root['QuTiP']['bounties'][2]['updated_at'], root['NetKet']['created_at'], root['NetKet']['updated_at'], root['NetKet']['size'], root['NetKet']['stargazers_count'], root['NetKet']['watchers_count'], root['NetKet']['bounties'][0]['updated_at'], root['NetKet']['bounties'][1]['updated_at'], root['NetKet']['bounties'][2]['updated_at'], root['NetKet']['bounties'][3]['updated_at'], root['Qiskit IonQ']['created_at'], root['Qiskit IonQ']['updated_at'], root['Qiskit IonQ']['size'], root['Qiskit IonQ']['stargazers_count'], root['Qiskit IonQ']['watchers_count'], root['Qiskit IonQ']['bounties'][0]['updated_at'], root['Qiskit IonQ']['bounties'][1]['updated_at'], root['Qiskit IonQ']['bounties'][2]['updated_at'], root['Qiskit IonQ']['bounties'][3]['updated_at'], root['QCOR']['created_at'], root['QCOR']['updated_at'], root['QCOR']['size'], root['QCOR']['stargazers_count'], root['QCOR']['watchers_count'], root['QCOR']['bounties'][0]['updated_at'], root['QCOR']['bounties'][1]['updated_at'], root['QCOR']['bounties'][2]['updated_at'], root['Qiskit Nature']['created_at'], root['Qiskit Nature']['updated_at'], root['Qiskit Nature']['size'], root['Qiskit Nature']['stargazers_count'], root['Qiskit Nature']['watchers_count'], root['Qiskit Nature']['bounties'][0]['updated_at'], root['Qiskit Nature']['bounties'][1]['updated_at'], root['Interlin-q']['created_at'], root['Interlin-q']['updated_at'], root['Interlin-q']['size'], root['Interlin-q']['stargazers_count'], root['Interlin-q']['watchers_count'], root['Interlin-q']['bounties'][0]['updated_at'], root['Interlin-q']['bounties'][1]['updated_at'], root['Interlin-q']['bounties'][2]['updated_at'], root['Yao']['created_at'], root['Yao']['updated_at'], root['Yao']['size'], root['Yao']['stargazers_count'], root['Yao']['watchers_count'], root['Yao']['bounties'][0]['updated_at'], root['Yao']['bounties'][1]['updated_at'], root['Yao']['bounties'][2]['updated_at'], root['QuNetSim']['created_at'], root['QuNetSim']['updated_at'], root['QuNetSim']['size'], root['QuNetSim']['stargazers_count'], root['QuNetSim']['watchers_count'], root['QuNetSim']['bounties'][0]['updated_at'], root['QuNetSim']['bounties'][1]['updated_at'], root['QuNetSim']['bounties'][2]['updated_at'], root['QuNetSim']['bounties'][3]['updated_at'], root['QuNetSim']['bounties'][4]['updated_at'], root['PyQIR']['created_at'], root['PyQIR']['updated_at'], root['PyQIR']['size'], root['PyQIR']['stargazers_count'], root['PyQIR']['watchers_count'], root['PyQIR']['bounties'][0]['updated_at'], root['PyQIR']['bounties'][1]['updated_at'], root['PyQIR']['bounties'][2]['updated_at'], root['PyQIR']['bounties'][3]['updated_at'], root['scqubits']['created_at'], root['scqubits']['updated_at'], root['scqubits']['size'], root['scqubits']['stargazers_count'], root['scqubits']['watchers_count'], root['scqubits']['bounties'][0]['updated_at'], root['scqubits']['bounties'][1]['updated_at'], root['scqubits']['bounties'][2]['updated_at'], root['scqubits']['bounties'][3]['updated_at'], root['scqubits']['bounties'][4]['updated_at'], root['Qiskit']['created_at'], root['Qiskit']['updated_at'], root['Qiskit']['size'], root['Qiskit']['stargazers_count'], root['Qiskit']['watchers_count'], root['Qiskit']['bounties'][0]['updated_at'], root['Qiskit']['bounties'][1]['updated_at'], root['Qiskit']['bounties'][2]['updated_at'], root['Qiskit']['bounties'][3]['updated_at'], root['PennyLane']['created_at'], root['PennyLane']['updated_at'], root['PennyLane']['size'], root['PennyLane']['stargazers_count'], root['PennyLane']['watchers_count'], root['PennyLane']['bounties'][0]['updated_at'], root['PennyLane']['bounties'][1]['updated_at'], root['PennyLane']['bounties'][2]['updated_at'], root['PennyLane']['bounties'][3]['updated_at'], root['PennyLane']['bounties'][4]['updated_at'], root['Orquestra Core']['created_at'], root['Orquestra Core']['updated_at'], root['Orquestra Core']['size'], root['Orquestra Core']['stargazers_count'], root['Orquestra Core']['watchers_count'], root['Orquestra Core']['bounties'][0]['updated_at'], root['Orquestra Core']['bounties'][1]['updated_at'], root['Orquestra Core']['bounties'][2]['updated_at'], root['Orquestra Core']['bounties'][3]['updated_at'], root['Orquestra Core']['bounties'][4]['updated_at'], root['Orquestra Core']['bounties'][5]['updated_at'], root['Orquestra Core']['bounties'][6]['updated_at'], root['KQCircuits']['created_at'], root['KQCircuits']['updated_at'], root['KQCircuits']['size'], root['KQCircuits']['stargazers_count'], root['KQCircuits']['watchers_count'], root['KQCircuits']['bounties'][0]['updated_at'], root['KQCircuits']['bounties'][1]['updated_at'], root['KQCircuits']['bounties'][2]['updated_at'], root['KQCircuits']['bounties'][3]['updated_at'], root['KQCircuits']['bounties'][4]['updated_at'], root['KQCircuits']['bounties'][5]['updated_at'], root['KQCircuits']['bounties'][6]['updated_at'], root['FlamingPy']['created_at'], root['FlamingPy']['updated_at'], root['FlamingPy']['size'], root['FlamingPy']['stargazers_count'], root['FlamingPy']['watchers_count'], root['FlamingPy']['bounties'][0]['updated_at'], root['FlamingPy']['bounties'][1]['updated_at'], root['FlamingPy']['bounties'][2]['updated_at'], root['FlamingPy']['bounties'][3]['updated_at'], root['FlamingPy']['bounties'][4]['updated_at'], root['Bloqade']['created_at'], root['Bloqade']['updated_at'], root['Bloqade']['size'], root['Bloqade']['stargazers_count'], root['Bloqade']['watchers_count'], root['Bloqade']['bounties'][0]['updated_at'], root['Bloqade']['bounties'][1]['updated_at'], root['Bloqade']['bounties'][2]['updated_at'], root['Metriq']['created_at'], root['Metriq']['updated_at'], root['Metriq']['size'], root['Metriq']['stargazers_count'], root['Metriq']['watchers_count'], root['Metriq']['bounties'][0]['updated_at'], root['Metriq']['bounties'][1]['updated_at'], root['Metriq']['bounties'][2]['updated_at'], root['Metriq']['bounties'][3]['updated_at'], root['Metriq']['bounties'][4]['updated_at'], root['Error Correction Zoo']['created_at'], root['Error Correction Zoo']['updated_at'], root['Error Correction Zoo']['size'], root['Error Correction Zoo']['stargazers_count'], root['Error Correction Zoo']['watchers_count'], root['Error Correction Zoo']['bounties'][0]['updated_at'], root['Error Correction Zoo']['bounties'][1]['updated_at'], root['Error Correction Zoo']['bounties'][2]['updated_at'], root['quantumalgorithms.org']['created_at'], root['quantumalgorithms.org']['updated_at'], root['quantumalgorithms.org']['size'], root['quantumalgorithms.org']['stargazers_count'], root['quantumalgorithms.org']['watchers_count'], root['quantumalgorithms.org']['bounties'][0]['updated_at'], root['quantumalgorithms.org']['bounties'][1]['updated_at'], root['quantumalgorithms.org']['bounties'][2]['updated_at'], root['quantumalgorithms.org']['bounties'][3]['updated_at'], root['Quantum Universal Education']['created_at'], root['Quantum Universal Education']['updated_at'], root['Quantum Universal Education']['size'], root['Quantum Universal Education']['stargazers_count'], root['Quantum Universal Education']['watchers_count'], root['Quantum Universal Education']['bounties'][0]['updated_at'], root['Quantum Universal Education']['bounties'][1]['updated_at'], root['Quantum Universal Education']['bounties'][2]['updated_at'], root['Pulser']['created_at'], root['Pulser']['updated_at'], root['Pulser']['size'], root['Pulser']['stargazers_count'], root['Pulser']['watchers_count'], root['Pulser']['bounties'][0]['updated_at'], root['Pulser']['bounties'][1]['updated_at'], root['Pulser']['bounties'][2]['updated_at'], root['Pulser']['bounties'][3]['updated_at'], root['PyQrack']['created_at'], root['PyQrack']['updated_at'], root['PyQrack']['size'], root['PyQrack']['stargazers_count'], root['PyQrack']['watchers_count'], root['PyQrack']['bounties'][0]['updated_at'], root['PyQrack']['bounties'][1]['updated_at'], root['PyZX']['created_at'], root['PyZX']['updated_at'], root['PyZX']['size'], root['PyZX']['stargazers_count'], root['PyZX']['watchers_count'], root['PyZX']['bounties'][0]['updated_at'], root['PyZX']['bounties'][1]['updated_at'], root['PyZX']['bounties'][2]['updated_at'], root['PyZX']['bounties'][3]['updated_at'], root['Mitiq']['created_at'], root['Mitiq']['updated_at'], root['Mitiq']['size'], root['Mitiq']['stargazers_count'], root['Mitiq']['watchers_count'], root['Mitiq']['bounties'][0]['updated_at'], root['Mitiq']['bounties'][1]['updated_at'], root['Mitiq']['bounties'][2]['updated_at'], root['Mitiq']['bounties'][3]['updated_at'], root['toqito']['created_at'], root['toqito']['updated_at'], root['toqito']['size'], root['toqito']['stargazers_count'], root['toqito']['watchers_count'], root['toqito']['bounties'][0]['updated_at'], root['toqito']['bounties'][1]['updated_at'], root['toqito']['bounties'][2]['updated_at'], root['toqito']['bounties'][3]['updated_at'], root['XACC']['created_at'], root['XACC']['updated_at'], root['XACC']['size'], root['XACC']['stargazers_count'], root['XACC']['watchers_count'], root['XACC']['bounties'][0]['updated_at'], root['XACC']['bounties'][1]['updated_at'], root['XACC']['bounties'][2]['updated_at'], root['Covalent']['created_at'], root['Covalent']['updated_at'], root['Covalent']['size'], root['Covalent']['stargazers_count'], root['Covalent']['watchers_count'], root['Covalent']['bounties'][0]['updated_at'], root['Covalent']['bounties'][1]['updated_at'], root['Covalent']['bounties'][2]['updated_at'], root['Covalent']['bounties'][3]['updated_at']],
+  'values_changed': { "root['Qiskit']['open_issues_count']": { 'new_value': 815,
+                                                               'old_value': 814}}}
