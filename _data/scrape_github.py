@@ -14,15 +14,11 @@ g = github.Github(os.getenv('GITHUB_TOKEN'))
 project_path = "../projects"
 projects = {}
 tags = ["[unitaryHACK]", "[unitaryhack]", "[UnitaryHACK]", "[UnitaryHack]"]
-pr_keys = ['number', 'state', 'title',
-           'created_at', 'merged_at', 'closed_at', 'assignees',
-          'requested_reviewers', 'draft']
+pr_keys = ['number', 'state', 'title', 'created_at', 'merged_at',
+          'closed_at', 'assignees', 'requested_reviewers', 'draft']
 issue_keys = ['number', 'state', 'title', 'created_at', 'labels',
-              'updated_at', 'closed_at', 'assignees',
-              'closed_by']
-repo_keys = ['name', 'full_name', 'html_url', 'description',
-             'created_at', 'updated_at', 'size', 'stargazers_count',
-             'watchers_count', 'language', 'forks_count', 'open_issues_count',
+             'closed_at', 'assignees', 'closed_by']
+repo_keys = ['name', 'full_name', 'html_url', 'description', 'language', 'forks_count', 'open_issues_count',
              'subscribers_count']
 
 
@@ -105,7 +101,7 @@ print("Generating the change file...")
 
 with open( "gh.json", "r") as read_file:
     old_projects = {project["title"] : project for project in json.load(read_file)["projects"]}
-with open(f'{datetime.datetime.now().strftime("%Y%m%d-%H_%M")}.txt', 'wt') as out:
+with open(f'logs/{datetime.datetime.now().strftime("%Y%m%d-%H_%M")}.txt', 'wt') as out:
     print(f"Changes to unitaryHACK results\nupdated {datetime.datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n--------------------\n"+
       str(DeepDiff(old_projects, projects).pretty())+
       "\n\nFull Details:\n--------------------", file=out)
