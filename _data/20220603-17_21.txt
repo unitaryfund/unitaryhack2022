@@ -1,0 +1,127 @@
+Changes to unitaryHACK results
+updated 03/06/2022 17:21:08
+--------------------
+Item root['PennyLane']['uh_prs'][2] removed from iterable.
+Type of root['PennyLane']['bounties'][4]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-03T16:58:29Z".
+Type of root['PennyLane']['bounties'][4]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'dime10', 'id': 29467667, 'node_id': 'MDQ6VXNlcjI5NDY3NjY3', 'avatar_url': 'https://avatars.githubusercontent.com/u/29467667?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/dime10', 'html_url': 'https://github.com/dime10', 'followers_url': 'https://api.github.com/users/dime10/followers', 'following_url': 'https://api.github.com/users/dime10/following{/other_user}', 'gists_url': 'https://api.github.com/users/dime10/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/dime10/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/dime10/subscriptions', 'organizations_url': 'https://api.github.com/users/dime10/orgs', 'repos_url': 'https://api.github.com/users/dime10/repos', 'events_url': 'https://api.github.com/users/dime10/events{/privacy}', 'received_events_url': 'https://api.github.com/users/dime10/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['Qrack']['bounties'][0]['updated_at'] changed from "2022-04-29T19:04:00Z" to "2022-06-03T16:22:45Z".
+Value of root['NetKet']['bounties'][1]['updated_at'] changed from "2022-05-30T21:25:16Z" to "2022-06-03T16:02:54Z".
+Value of root['Yao']['updated_at'] changed from "2022-06-03T07:17:22Z" to "2022-06-03T17:00:51Z".
+Value of root['Yao']['stargazers_count'] changed from 671 to 672.
+Value of root['Yao']['watchers_count'] changed from 671 to 672.
+Value of root['PyQIR']['bounties'][3]['updated_at'] changed from "2022-06-02T07:25:15Z" to "2022-06-03T16:06:28Z".
+Value of root['PyQIR']['open_issues_count'] changed from 20 to 19.
+Value of root['PennyLane']['bounties'][4]['state'] changed from "open" to "closed".
+Value of root['PennyLane']['bounties'][4]['updated_at'] changed from "2022-06-03T15:32:58Z" to "2022-06-03T16:58:29Z".
+Value of root['PennyLane']['size'] changed from 60344 to 60355.
+Value of root['PennyLane']['open_issues_count'] changed from 221 to 220.
+Value of root['PennyLane']['uh_prs'][0]['number'] changed from 2635 to 2649.
+Value of root['PennyLane']['uh_prs'][0]['title'] changed from "Add a `requirements_dev.txt` file [unitaryhack]" to "Add IsingXY [unitaryhack]".
+Value of root['PennyLane']['uh_prs'][0]['created_at'] changed from "2022-05-30T14:13:33Z" to "2022-06-02T05:25:01Z".
+Value of root['PennyLane']['uh_prs'][1]['number'] changed from 2649 to 2651.
+Value of root['PennyLane']['uh_prs'][1]['title'] changed from "Add IsingXY [unitaryhack]" to "Add equal function [unitaryhack]".
+Value of root['PennyLane']['uh_prs'][1]['created_at'] changed from "2022-06-02T05:25:01Z" to "2022-06-02T19:40:06Z".
+Value of root['Orquestra Core']['bounties'][2]['name'] changed from "test_variance_of_added_perturbations_is_correct in orquestra-vqa is non-deterministic" to "Check if `test_variance_of_added_perturbations_is_correct` in orquestra-vqa is non-deterministic".
+Value of root['FlamingPy']['size'] changed from 1242 to 1263.
+Value of root['Covalent']['updated_at'] changed from "2022-06-02T07:05:15Z" to "2022-06-03T16:03:13Z".
+
+Full Details:
+--------------------
+{ 'iterable_item_removed': { "root['PennyLane']['uh_prs'][2]": { 'assignees': [ ],
+                                                                 'closed_at': None,
+                                                                 'created_at': '2022-06-02T19:40:06Z',
+                                                                 'draft': False,
+                                                                 'merged_at': None,
+                                                                 'number': 2651,
+                                                                 'requested_reviewers': [ ],
+                                                                 'state': 'open',
+                                                                 'title': 'Add '
+                                                                          'equal '
+                                                                          'function '
+                                                                          '[unitaryhack]'}},
+  'type_changes': { "root['PennyLane']['bounties'][4]['closed_at']": { 'new_type': <class 'str'>,
+                                                                       'new_value': '2022-06-03T16:58:29Z',
+                                                                       'old_type': <class 'NoneType'>,
+                                                                       'old_value': None},
+                    "root['PennyLane']['bounties'][4]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                       'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/29467667?v=4',
+                                                                                      'events_url': 'https://api.github.com/users/dime10/events{/privacy}',
+                                                                                      'followers_url': 'https://api.github.com/users/dime10/followers',
+                                                                                      'following_url': 'https://api.github.com/users/dime10/following{/other_user}',
+                                                                                      'gists_url': 'https://api.github.com/users/dime10/gists{/gist_id}',
+                                                                                      'gravatar_id': '',
+                                                                                      'html_url': 'https://github.com/dime10',
+                                                                                      'id': 29467667,
+                                                                                      'login': 'dime10',
+                                                                                      'node_id': 'MDQ6VXNlcjI5NDY3NjY3',
+                                                                                      'organizations_url': 'https://api.github.com/users/dime10/orgs',
+                                                                                      'received_events_url': 'https://api.github.com/users/dime10/received_events',
+                                                                                      'repos_url': 'https://api.github.com/users/dime10/repos',
+                                                                                      'site_admin': False,
+                                                                                      'starred_url': 'https://api.github.com/users/dime10/starred{/owner}{/repo}',
+                                                                                      'subscriptions_url': 'https://api.github.com/users/dime10/subscriptions',
+                                                                                      'type': 'User',
+                                                                                      'url': 'https://api.github.com/users/dime10'},
+                                                                       'old_type': <class 'NoneType'>,
+                                                                       'old_value': None}},
+  'values_changed': { "root['Covalent']['updated_at']": { 'new_value': '2022-06-03T16:03:13Z',
+                                                          'old_value': '2022-06-02T07:05:15Z'},
+                      "root['FlamingPy']['size']": { 'new_value': 1263,
+                                                     'old_value': 1242},
+                      "root['NetKet']['bounties'][1]['updated_at']": { 'new_value': '2022-06-03T16:02:54Z',
+                                                                       'old_value': '2022-05-30T21:25:16Z'},
+                      "root['Orquestra Core']['bounties'][2]['name']": { 'new_value': 'Check '
+                                                                                      'if '
+                                                                                      '`test_variance_of_added_perturbations_is_correct` '
+                                                                                      'in '
+                                                                                      'orquestra-vqa '
+                                                                                      'is '
+                                                                                      'non-deterministic',
+                                                                         'old_value': 'test_variance_of_added_perturbations_is_correct '
+                                                                                      'in '
+                                                                                      'orquestra-vqa '
+                                                                                      'is '
+                                                                                      'non-deterministic'},
+                      "root['PennyLane']['bounties'][4]['state']": { 'new_value': 'closed',
+                                                                     'old_value': 'open'},
+                      "root['PennyLane']['bounties'][4]['updated_at']": { 'new_value': '2022-06-03T16:58:29Z',
+                                                                          'old_value': '2022-06-03T15:32:58Z'},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 220,
+                                                                  'old_value': 221},
+                      "root['PennyLane']['size']": { 'new_value': 60355,
+                                                     'old_value': 60344},
+                      "root['PennyLane']['uh_prs'][0]['created_at']": { 'new_value': '2022-06-02T05:25:01Z',
+                                                                        'old_value': '2022-05-30T14:13:33Z'},
+                      "root['PennyLane']['uh_prs'][0]['number']": { 'new_value': 2649,
+                                                                    'old_value': 2635},
+                      "root['PennyLane']['uh_prs'][0]['title']": { 'new_value': 'Add '
+                                                                                'IsingXY '
+                                                                                '[unitaryhack]',
+                                                                   'old_value': 'Add '
+                                                                                'a '
+                                                                                '`requirements_dev.txt` '
+                                                                                'file '
+                                                                                '[unitaryhack]'},
+                      "root['PennyLane']['uh_prs'][1]['created_at']": { 'new_value': '2022-06-02T19:40:06Z',
+                                                                        'old_value': '2022-06-02T05:25:01Z'},
+                      "root['PennyLane']['uh_prs'][1]['number']": { 'new_value': 2651,
+                                                                    'old_value': 2649},
+                      "root['PennyLane']['uh_prs'][1]['title']": { 'new_value': 'Add '
+                                                                                'equal '
+                                                                                'function '
+                                                                                '[unitaryhack]',
+                                                                   'old_value': 'Add '
+                                                                                'IsingXY '
+                                                                                '[unitaryhack]'},
+                      "root['PyQIR']['bounties'][3]['updated_at']": { 'new_value': '2022-06-03T16:06:28Z',
+                                                                      'old_value': '2022-06-02T07:25:15Z'},
+                      "root['PyQIR']['open_issues_count']": { 'new_value': 19,
+                                                              'old_value': 20},
+                      "root['Qrack']['bounties'][0]['updated_at']": { 'new_value': '2022-06-03T16:22:45Z',
+                                                                      'old_value': '2022-04-29T19:04:00Z'},
+                      "root['Yao']['stargazers_count']": { 'new_value': 672,
+                                                           'old_value': 671},
+                      "root['Yao']['updated_at']": { 'new_value': '2022-06-03T17:00:51Z',
+                                                     'old_value': '2022-06-03T07:17:22Z'},
+                      "root['Yao']['watchers_count']": { 'new_value': 672,
+                                                         'old_value': 671}}}
