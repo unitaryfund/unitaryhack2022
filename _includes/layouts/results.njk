@@ -45,7 +45,7 @@ section: results
               {% if pr.state == 'open' %}
                 <li>
                   {% for user in pr.assignees %}
-                    <a  href="https://github.com/{{user.login}}" rel="user">{{user}}</a> |
+                    <a  href="https://github.com/{{user}}" rel="user">{{user}}</a> |
               {% endfor %}
                   <a  href="{{project.project_url}}/pull/{{pr.number}}" rel="pr">{{pr.title}}</a>
                 </li>
@@ -58,7 +58,7 @@ section: results
               {% if pr.state == 'closed' %}
                 <li>
                   {% for user in pr.assignees %}
-                    <a  href="https://github.com/{{user.login}}" rel="user">{{user}}</a> |
+                    <a  href="https://github.com/{{user}}" rel="user">{{user}}</a> |
               {% endfor %}
                   <a  href="{{project.project_url}}/pull/{{pr.number}}" rel="pr">{{pr.title}}</a>
                 </li>
@@ -68,6 +68,68 @@ section: results
         {% endif %}
         <hr>
       {% endfor %}
+
+
+
+{#Hard coding the gitlab results#}
+      <h3>
+        <div class="" >
+          <span class="project-card__emoji">🚀</span>
+          Quantify-core
+        </div>
+      </h3>
+        <strong>Completed bounties:</strong>
+        {# <ul style="list-style-type:square">
+          <li>
+            <a  href="https://gitlab.com/{{user}}" rel="user">{{user}}</a> |
+            <a  href="https://gitlab.com/quantify-os/quantify-core/issues/{{issue.number}}" rel="bounty">{{issue.name}}</a>
+          </li>
+        </ul> #}
+        <br><br><strong>Pending Pull Requests:</strong>
+        {# <ul style="list-style-type:square">
+          <li>
+            <a  href="https://gitlab.com/{{user}}" rel="user">{{user}}</a> |
+            <a  href="https://gitlab.com/quantify-os/quantify-core/pull/{{pr.number}}" rel="pr">{{pr.title}}</a>
+          </li>
+        </ul> #}
+        <br><br><strong>Accepted Pull Requests:</strong>
+        {# <ul style="list-style-type:square">
+          <li>
+            <a  href="https://gitlab.com/{{user}}" rel="user">{{user}}</a> |
+            <a  href="https://gitlab.com/quantify-os/quantify-core/pull/{{pr.number}}" rel="pr">{{pr.title}}</a>
+          </li>
+        </ul> #}
+      <hr>
+
+      <h3>
+        <div class="" >
+          <span class="project-card__emoji">🚀</span>
+          Quantify-scheduler
+        </div>
+      </h3>
+        <strong>Completed bounties:</strong>
+        {# <ul style="list-style-type:square">
+          <li>
+            <a  href="https://gitlab.com/{{user.login}}" rel="user">{{user}}</a> |
+            <a  href="https://gitlab.com/quantify-os/quantify-scheduler/issues/{{issue.number}}" rel="bounty">{{issue.name}}</a>
+          </li>
+        </ul> #}
+        <br><br><strong>Pending Pull Requests:</strong>
+        {# <ul style="list-style-type:square">
+          <li>
+            <a  href="https://gitlab.com/{{user.login}}" rel="user">{{user}}</a> |
+            <a  href="https://gitlab.com/quantify-os/quantify-scheduler/pull/{{pr.number}}" rel="pr">{{pr.title}}</a>
+          </li>
+        </ul> #}
+        <br><br><strong>Accepted Pull Requests:</strong>
+        {# <ul style="list-style-type:square">
+          <li>
+            <a  href="https://gitlab.com/{{user.login}}" rel="user">{{user}}</a> |
+            <a  href="https://gitlab.com/quantify-os/quantify-scheduler/pull/{{pr.number}}" rel="pr">{{pr.title}}</a>
+          </li>
+        </ul> #}
+      <hr>
+
 
     </div>
   </section>
