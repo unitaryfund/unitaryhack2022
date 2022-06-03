@@ -16,24 +16,24 @@ bounties:
   - name: Add inverse() function to Circuit
     issue_num: 10
     value: 35
-  - name: `test_variance_of_added_perturbations_is_correct` in orquestra-vqa is non-deterministic
+  - name: test_variance_of_added_perturbations_is_correct in orquestra-vqa is non-deterministic
     issue_num: 11
     value: 30
   - name: Speed up export of qiskit circuits 
     issue_num: 12
     value: 110
-  - name: Create `subdistribution()` function for `MeasurementOutcomeDistribution`
+  - name: Create subdistribution() function for `MeasurementOutcomeDistribution`
     issue_num: 13
     value: 30
-  - name: Implement `power` wrapper for Gates
+  - name: Implement power wrapper for Gates
     issue_num: 14
     value: 35
-  - name: Create `exponential` wrapper class
+  - name: Create exponential wrapper class
     issue_num: 15
     value: 35
 ---
 
-[Orquestra Core] is a collection of open-source libraries developed at [Zapata Computing](https://www.zapatacomputing.com/). It currently consists of the following packages:
+[Orquestra Core](https://github.com/zapatacomputing/orquestra-core) is a collection of open-source libraries developed at [Zapata Computing](https://www.zapatacomputing.com/). It currently consists of the following packages:
 
 - [orquestra-core](https://github.com/zapatacomputing/orquestra-core) – a "meta-package" which contains code examples and provides an easy installation option.
 - [orquestra-quantum](https://github.com/zapatacomputing/orquestra-quantum) – all the general quantum computing capabilities: data structures, circuits, interfaces for quantum backends, etc.
