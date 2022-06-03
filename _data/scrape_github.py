@@ -5,6 +5,8 @@ import os
 import datetime
 import frontmatter
 from urllib import parse
+from deepdiff import DeepDiff
+import pprint
 
 # using an access token
 g = github.Github(os.getenv('GITHUB_TOKEN'))
@@ -99,6 +101,18 @@ for project, meta in projects.items():
             bounty["assignees"] = [l["login"] for l in bounty["assignees"]]
             print(f"updated {project} bounty # { bounty['issue_num'] }")
 
+print("Generating the change file...")
+
+with open( "gh.json", "r") as read_file:
+    old_projects = {project["title"] : project for project in json.load(read_file)}
+with open(f'{datetime.datetime.now().strftime("%Y%m%d-%H_%M")}.txt', 'wt') as out:
+    print(f"Changes to unitaryHACK results\nupdated {datetime.datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n--------------------\n"+
+      str(DeepDiff(old_projects, projects).pretty())+
+      "\n\nFull Details:\n--------------------", file=out)
+    pprint.pprint(DeepDiff(old_projects, projects),indent=2, stream=out)
+
+
+print("Exporting scraped data...")
 with open("gh.json", "w") as f:
     json.dump({"projects" : list(projects.values())}, f)
 

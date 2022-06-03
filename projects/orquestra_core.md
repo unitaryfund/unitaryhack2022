@@ -16,10 +16,10 @@ bounties:
   - name: Add inverse() function to Circuit
     issue_num: 10
     value: 35
-  - name: test_variance_of_added_perturbations_is_correct in orquestra-vqa is non-deterministic
+  - name: Check if `test_variance_of_added_perturbations_is_correct` in orquestra-vqa is non-deterministic
     issue_num: 11
     value: 30
-  - name: Speed up export of qiskit circuits 
+  - name: Speed up export of qiskit circuits
     issue_num: 12
     value: 110
   - name: Create subdistribution() function for `MeasurementOutcomeDistribution`
