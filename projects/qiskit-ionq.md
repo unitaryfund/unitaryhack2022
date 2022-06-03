@@ -14,13 +14,13 @@ bounties:
     issue_num: 92
     value: 150
   - name: Demonstrate submission of multiple circuits in parallel
-    issue_num: 6905
+    issue_num: 90
     value: 100
   - name: Add a user-agent string
     issue_num: 91
     value: 25
   - name: Improved support for Qiskit core libraries, or demonstrations
-    issue_num: 8063
+    issue_num: 93
     value: TBD
 ---
 
