@@ -1,0 +1,40 @@
+Changes to unitaryHACK results
+updated 04/06/2022 00:15:40
+--------------------
+Item root['PennyLane']['uh_prs'][2] added to iterable.
+Value of root['PyQIR']['forks_count'] changed from 10 to 11.
+Value of root['PennyLane']['open_issues_count'] changed from 220 to 217.
+Value of root['FlamingPy']['open_issues_count'] changed from 20 to 19.
+Value of root['FlamingPy']['subscribers_count'] changed from 5 to 6.
+Value of root['Mitiq']['forks_count'] changed from 86 to 87.
+Value of root['Mitiq']['open_issues_count'] changed from 78 to 76.
+Value of root['Covalent']['open_issues_count'] changed from 83 to 82.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['PennyLane']['uh_prs'][2]": { 'assignees': [],
+                                                               'closed_at': None,
+                                                               'created_at': '2022-06-03T20:49:52Z',
+                                                               'draft': True,
+                                                               'merged_at': None,
+                                                               'number': 2659,
+                                                               'requested_reviewers': [ ],
+                                                               'state': 'open',
+                                                               'title': '[WIP] '
+                                                                        'add '
+                                                                        'SPSA '
+                                                                        '[unitaryhack]'}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 82,
+                                                                 'old_value': 83},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 19,
+                                                                  'old_value': 20},
+                      "root['FlamingPy']['subscribers_count']": { 'new_value': 6,
+                                                                  'old_value': 5},
+                      "root['Mitiq']['forks_count']": { 'new_value': 87,
+                                                        'old_value': 86},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 76,
+                                                              'old_value': 78},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 217,
+                                                                  'old_value': 220},
+                      "root['PyQIR']['forks_count']": { 'new_value': 11,
+                                                        'old_value': 10}}}
