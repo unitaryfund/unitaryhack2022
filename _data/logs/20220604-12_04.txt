@@ -1,0 +1,120 @@
+Changes to unitaryHACK results
+updated 04/06/2022 12:04:50
+--------------------
+Item root['Qiskit IonQ']['uh_prs'][0] added to iterable.
+Item root['PyQIR']['uh_prs'][0] added to iterable.
+Item root['scqubits']['uh_prs'][0] added to iterable.
+Item root['PennyLane']['uh_prs'][3] added to iterable.
+Value of root['NetKet']['forks_count'] changed from 132 to 133.
+Value of root['NetKet']['open_issues_count'] changed from 82 to 83.
+Value of root['Qiskit IonQ']['forks_count'] changed from 10 to 11.
+Value of root['Qiskit IonQ']['open_issues_count'] changed from 7 to 8.
+Value of root['Qiskit Nature']['forks_count'] changed from 125 to 126.
+Value of root['Yao']['open_issues_count'] changed from 25 to 26.
+Value of root['PyQIR']['forks_count'] changed from 11 to 12.
+Value of root['scqubits']['forks_count'] changed from 43 to 44.
+Value of root['scqubits']['open_issues_count'] changed from 10 to 11.
+Value of root['PennyLane']['open_issues_count'] changed from 217 to 218.
+Value of root['Orquestra Core']['forks_count'] changed from 0 to 1.
+Value of root['FlamingPy']['open_issues_count'] changed from 19 to 20.
+Value of root['FlamingPy']['subscribers_count'] changed from 6 to 5.
+Value of root['quantumalgorithms.org']['forks_count'] changed from 35 to 36.
+Value of root['Quantum Universal Education']['forks_count'] changed from 16 to 17.
+Value of root['Quantum Universal Education']['open_issues_count'] changed from 3 to 4.
+Value of root['Mitiq']['open_issues_count'] changed from 76 to 77.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['PennyLane']['uh_prs'][3]": { 'assignees': [],
+                                                               'closed_at': None,
+                                                               'created_at': '2022-06-04T08:41:30Z',
+                                                               'draft': False,
+                                                               'merged_at': None,
+                                                               'number': 2661,
+                                                               'requested_reviewers': [ ],
+                                                               'state': 'open',
+                                                               'title': '[WIP] '
+                                                                        'Add '
+                                                                        'spsa '
+                                                                        'optimization '
+                                                                        '[unitaryhack] '},
+                           "root['PyQIR']['uh_prs'][0]": { 'assignees': [],
+                                                           'closed_at': None,
+                                                           'created_at': '2022-06-04T05:42:09Z',
+                                                           'draft': False,
+                                                           'merged_at': None,
+                                                           'number': 127,
+                                                           'requested_reviewers': [ ],
+                                                           'state': 'open',
+                                                           'title': 'Added '
+                                                                    'mypy '
+                                                                    'github '
+                                                                    'action to '
+                                                                    'check '
+                                                                    'type '
+                                                                    'annotations '
+                                                                    'and mypy '
+                                                                    'stub '
+                                                                    'files '
+                                                                    '[unitaryhack]'},
+                           "root['Qiskit IonQ']['uh_prs'][0]": { 'assignees': [ ],
+                                                                 'closed_at': None,
+                                                                 'created_at': '2022-06-04T09:12:04Z',
+                                                                 'draft': False,
+                                                                 'merged_at': None,
+                                                                 'number': 94,
+                                                                 'requested_reviewers': [ ],
+                                                                 'state': 'open',
+                                                                 'title': 'Added '
+                                                                          'User-Agent '
+                                                                          'header '
+                                                                          '[unitaryhack]'},
+                           "root['scqubits']['uh_prs'][0]": { 'assignees': [],
+                                                              'closed_at': None,
+                                                              'created_at': '2022-06-04T08:07:40Z',
+                                                              'draft': False,
+                                                              'merged_at': None,
+                                                              'number': 135,
+                                                              'requested_reviewers': [ ],
+                                                              'state': 'open',
+                                                              'title': '[unitaryhack] '
+                                                                       'Font '
+                                                                       'scaling '
+                                                                       'in '
+                                                                       'labels '
+                                                                       'of '
+                                                                       'plot.matrix2d()'}},
+  'values_changed': { "root['FlamingPy']['open_issues_count']": { 'new_value': 20,
+                                                                  'old_value': 19},
+                      "root['FlamingPy']['subscribers_count']": { 'new_value': 5,
+                                                                  'old_value': 6},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 77,
+                                                              'old_value': 76},
+                      "root['NetKet']['forks_count']": { 'new_value': 133,
+                                                         'old_value': 132},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 83,
+                                                               'old_value': 82},
+                      "root['Orquestra Core']['forks_count']": { 'new_value': 1,
+                                                                 'old_value': 0},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 218,
+                                                                  'old_value': 217},
+                      "root['PyQIR']['forks_count']": { 'new_value': 12,
+                                                        'old_value': 11},
+                      "root['Qiskit IonQ']['forks_count']": { 'new_value': 11,
+                                                              'old_value': 10},
+                      "root['Qiskit IonQ']['open_issues_count']": { 'new_value': 8,
+                                                                    'old_value': 7},
+                      "root['Qiskit Nature']['forks_count']": { 'new_value': 126,
+                                                                'old_value': 125},
+                      "root['Quantum Universal Education']['forks_count']": { 'new_value': 17,
+                                                                              'old_value': 16},
+                      "root['Quantum Universal Education']['open_issues_count']": { 'new_value': 4,
+                                                                                    'old_value': 3},
+                      "root['Yao']['open_issues_count']": { 'new_value': 26,
+                                                            'old_value': 25},
+                      "root['quantumalgorithms.org']['forks_count']": { 'new_value': 36,
+                                                                        'old_value': 35},
+                      "root['scqubits']['forks_count']": { 'new_value': 44,
+                                                           'old_value': 43},
+                      "root['scqubits']['open_issues_count']": { 'new_value': 11,
+                                                                 'old_value': 10}}}
