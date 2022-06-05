@@ -1,0 +1,168 @@
+Changes to unitaryHACK results
+updated 05/06/2022 00:16:35
+--------------------
+Item root['Qiskit IonQ']['uh_prs'][1] added to iterable.
+Item root['PennyLane']['uh_prs'][4] added to iterable.
+Item root['FlamingPy']['uh_prs'][0] added to iterable.
+Item root['Quantum Universal Education']['uh_prs'][0] added to iterable.
+Value of root['QuTiP']['forks_count'] changed from 526 to 527.
+Value of root['NetKet']['open_issues_count'] changed from 83 to 84.
+Value of root['Qiskit IonQ']['open_issues_count'] changed from 8 to 9.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 77 to 78.
+Value of root['Qiskit']['forks_count'] changed from 1657 to 1658.
+Value of root['PennyLane']['open_issues_count'] changed from 218 to 219.
+Value of root['PennyLane']['uh_prs'][3]['title'] changed from "[WIP] Add spsa optimization [unitaryhack] " to "Add spsa optimization [unitaryhack] ".
+Value of root['FlamingPy']['forks_count'] changed from 6 to 8.
+Value of root['FlamingPy']['open_issues_count'] changed from 20 to 21.
+Value of root['quantumalgorithms.org']['forks_count'] changed from 36 to 37.
+Value of root['Quantum Universal Education']['open_issues_count'] changed from 4 to 5.
+Value of root['PyZX']['forks_count'] changed from 66 to 67.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['FlamingPy']['uh_prs'][0]": { 'assignees': [],
+                                                               'closed_at': None,
+                                                               'created_at': '2022-06-04T13:41:06Z',
+                                                               'draft': False,
+                                                               'merged_at': None,
+                                                               'number': 79,
+                                                               'requested_reviewers': [ { 'avatar_url': 'https://avatars.githubusercontent.com/u/25132802?v=4',
+                                                                                          'events_url': 'https://api.github.com/users/nariman87/events{/privacy}',
+                                                                                          'followers_url': 'https://api.github.com/users/nariman87/followers',
+                                                                                          'following_url': 'https://api.github.com/users/nariman87/following{/other_user}',
+                                                                                          'gists_url': 'https://api.github.com/users/nariman87/gists{/gist_id}',
+                                                                                          'gravatar_id': '',
+                                                                                          'html_url': 'https://github.com/nariman87',
+                                                                                          'id': 25132802,
+                                                                                          'login': 'nariman87',
+                                                                                          'node_id': 'MDQ6VXNlcjI1MTMyODAy',
+                                                                                          'organizations_url': 'https://api.github.com/users/nariman87/orgs',
+                                                                                          'received_events_url': 'https://api.github.com/users/nariman87/received_events',
+                                                                                          'repos_url': 'https://api.github.com/users/nariman87/repos',
+                                                                                          'site_admin': False,
+                                                                                          'starred_url': 'https://api.github.com/users/nariman87/starred{/owner}{/repo}',
+                                                                                          'subscriptions_url': 'https://api.github.com/users/nariman87/subscriptions',
+                                                                                          'type': 'User',
+                                                                                          'url': 'https://api.github.com/users/nariman87'},
+                                                                                        { 'avatar_url': 'https://avatars.githubusercontent.com/u/52462375?v=4',
+                                                                                          'events_url': 'https://api.github.com/users/maxtremblay/events{/privacy}',
+                                                                                          'followers_url': 'https://api.github.com/users/maxtremblay/followers',
+                                                                                          'following_url': 'https://api.github.com/users/maxtremblay/following{/other_user}',
+                                                                                          'gists_url': 'https://api.github.com/users/maxtremblay/gists{/gist_id}',
+                                                                                          'gravatar_id': '',
+                                                                                          'html_url': 'https://github.com/maxtremblay',
+                                                                                          'id': 52462375,
+                                                                                          'login': 'maxtremblay',
+                                                                                          'node_id': 'MDQ6VXNlcjUyNDYyMzc1',
+                                                                                          'organizations_url': 'https://api.github.com/users/maxtremblay/orgs',
+                                                                                          'received_events_url': 'https://api.github.com/users/maxtremblay/received_events',
+                                                                                          'repos_url': 'https://api.github.com/users/maxtremblay/repos',
+                                                                                          'site_admin': False,
+                                                                                          'starred_url': 'https://api.github.com/users/maxtremblay/starred{/owner}{/repo}',
+                                                                                          'subscriptions_url': 'https://api.github.com/users/maxtremblay/subscriptions',
+                                                                                          'type': 'User',
+                                                                                          'url': 'https://api.github.com/users/maxtremblay'},
+                                                                                        { 'avatar_url': 'https://avatars.githubusercontent.com/u/57886357?v=4',
+                                                                                          'events_url': 'https://api.github.com/users/ilan-tz/events{/privacy}',
+                                                                                          'followers_url': 'https://api.github.com/users/ilan-tz/followers',
+                                                                                          'following_url': 'https://api.github.com/users/ilan-tz/following{/other_user}',
+                                                                                          'gists_url': 'https://api.github.com/users/ilan-tz/gists{/gist_id}',
+                                                                                          'gravatar_id': '',
+                                                                                          'html_url': 'https://github.com/ilan-tz',
+                                                                                          'id': 57886357,
+                                                                                          'login': 'ilan-tz',
+                                                                                          'node_id': 'MDQ6VXNlcjU3ODg2MzU3',
+                                                                                          'organizations_url': 'https://api.github.com/users/ilan-tz/orgs',
+                                                                                          'received_events_url': 'https://api.github.com/users/ilan-tz/received_events',
+                                                                                          'repos_url': 'https://api.github.com/users/ilan-tz/repos',
+                                                                                          'site_admin': False,
+                                                                                          'starred_url': 'https://api.github.com/users/ilan-tz/starred{/owner}{/repo}',
+                                                                                          'subscriptions_url': 'https://api.github.com/users/ilan-tz/subscriptions',
+                                                                                          'type': 'User',
+                                                                                          'url': 'https://api.github.com/users/ilan-tz'}],
+                                                               'state': 'open',
+                                                               'title': 'Increase '
+                                                                        'scope '
+                                                                        'docformatter '
+                                                                        'to '
+                                                                        'all '
+                                                                        'py '
+                                                                        'files '
+                                                                        '[unitaryhack]'},
+                           "root['PennyLane']['uh_prs'][4]": { 'assignees': [],
+                                                               'closed_at': None,
+                                                               'created_at': '2022-06-04T19:15:03Z',
+                                                               'draft': True,
+                                                               'merged_at': None,
+                                                               'number': 2662,
+                                                               'requested_reviewers': [ ],
+                                                               'state': 'open',
+                                                               'title': '[unitaryhack] '
+                                                                        'Request '
+                                                                        'for '
+                                                                        'new '
+                                                                        'matplotlib '
+                                                                        'drawing '
+                                                                        'styles'},
+                           "root['Qiskit IonQ']['uh_prs'][1]": { 'assignees': [ ],
+                                                                 'closed_at': None,
+                                                                 'created_at': '2022-06-04T13:18:58Z',
+                                                                 'draft': False,
+                                                                 'merged_at': None,
+                                                                 'number': 95,
+                                                                 'requested_reviewers': [ ],
+                                                                 'state': 'open',
+                                                                 'title': 'Add '
+                                                                          'parallel '
+                                                                          'circuit '
+                                                                          'submission '
+                                                                          'example '
+                                                                          '[unitaryhack]'},
+                           "root['Quantum Universal Education']['uh_prs'][0]": { 'assignees': [ ],
+                                                                                 'closed_at': None,
+                                                                                 'created_at': '2022-06-04T19:20:09Z',
+                                                                                 'draft': False,
+                                                                                 'merged_at': None,
+                                                                                 'number': 15,
+                                                                                 'requested_reviewers': [ ],
+                                                                                 'state': 'open',
+                                                                                 'title': 'Building '
+                                                                                          'a '
+                                                                                          'Quantum '
+                                                                                          'Computer '
+                                                                                          '[unitaryhack] '
+                                                                                          ': '
+                                                                                          'Qubits '
+                                                                                          'vs '
+                                                                                          'Bits'}},
+  'values_changed': { "root['FlamingPy']['forks_count']": { 'new_value': 8,
+                                                            'old_value': 6},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 21,
+                                                                  'old_value': 20},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 84,
+                                                               'old_value': 83},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 219,
+                                                                  'old_value': 218},
+                      "root['PennyLane']['uh_prs'][3]['title']": { 'new_value': 'Add '
+                                                                                'spsa '
+                                                                                'optimization '
+                                                                                '[unitaryhack] ',
+                                                                   'old_value': '[WIP] '
+                                                                                'Add '
+                                                                                'spsa '
+                                                                                'optimization '
+                                                                                '[unitaryhack] '},
+                      "root['PyZX']['forks_count']": { 'new_value': 67,
+                                                       'old_value': 66},
+                      "root['Qiskit IonQ']['open_issues_count']": { 'new_value': 9,
+                                                                    'old_value': 8},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 78,
+                                                                      'old_value': 77},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1658,
+                                                         'old_value': 1657},
+                      "root['QuTiP']['forks_count']": { 'new_value': 527,
+                                                        'old_value': 526},
+                      "root['Quantum Universal Education']['open_issues_count']": { 'new_value': 5,
+                                                                                    'old_value': 4},
+                      "root['quantumalgorithms.org']['forks_count']": { 'new_value': 37,
+                                                                        'old_value': 36}}}
