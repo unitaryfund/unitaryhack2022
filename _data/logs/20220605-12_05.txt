@@ -1,0 +1,75 @@
+Changes to unitaryHACK results
+updated 05/06/2022 12:05:52
+--------------------
+Item root['PyQIR']['uh_prs'][1] added to iterable.
+Item root['FlamingPy']['bounties'][2]['assignees'][0] added to iterable.
+Item root['FlamingPy']['bounties'][4]['assignees'][0] added to iterable.
+Item root['FlamingPy']['uh_prs'][0]['assignees'][0] added to iterable.
+Item root['quantumalgorithms.org']['uh_prs'][0] added to iterable.
+Item root['Pulser']['uh_prs'][0] added to iterable.
+Value of root['PyQIR']['forks_count'] changed from 12 to 13.
+Value of root['PyQIR']['open_issues_count'] changed from 19 to 20.
+Value of root['quantumalgorithms.org']['forks_count'] changed from 37 to 38.
+Value of root['quantumalgorithms.org']['open_issues_count'] changed from 10 to 11.
+Value of root['Pulser']['forks_count'] changed from 29 to 30.
+Value of root['Pulser']['open_issues_count'] changed from 21 to 22.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['FlamingPy']['bounties'][2]['assignees'][0]": 'Avhijit-codeboy',
+                           "root['FlamingPy']['bounties'][4]['assignees'][0]": 'WingCode',
+                           "root['FlamingPy']['uh_prs'][0]['assignees'][0]": 'WingCode',
+                           "root['Pulser']['uh_prs'][0]": { 'assignees': [],
+                                                            'closed_at': None,
+                                                            'created_at': '2022-06-05T10:46:12Z',
+                                                            'draft': True,
+                                                            'merged_at': None,
+                                                            'number': 376,
+                                                            'requested_reviewers': [ ],
+                                                            'state': 'open',
+                                                            'title': 'Add '
+                                                                     'sphinx '
+                                                                     'typehints '
+                                                                     'auto '
+                                                                     'generation '
+                                                                     '[unitaryhack]'},
+                           "root['PyQIR']['uh_prs'][1]": { 'assignees': [],
+                                                           'closed_at': None,
+                                                           'created_at': '2022-06-05T10:31:38Z',
+                                                           'draft': False,
+                                                           'merged_at': None,
+                                                           'number': 128,
+                                                           'requested_reviewers': [ ],
+                                                           'state': 'open',
+                                                           'title': '[unitaryhack] '
+                                                                    'Evaluator: '
+                                                                    'Raise if '
+                                                                    'bitcode '
+                                                                    'contains '
+                                                                    'unknown '
+                                                                    'external '
+                                                                    'functions.'},
+                           "root['quantumalgorithms.org']['uh_prs'][0]": { 'assignees': [ ],
+                                                                           'closed_at': None,
+                                                                           'created_at': '2022-06-05T10:32:55Z',
+                                                                           'draft': False,
+                                                                           'merged_at': None,
+                                                                           'number': 73,
+                                                                           'requested_reviewers': [ ],
+                                                                           'state': 'open',
+                                                                           'title': '[unitaryhack] '
+                                                                                    'fix '
+                                                                                    'for '
+                                                                                    'https://github.com/scinawa/quantumalgorithms.org/issues/69'}},
+  'values_changed': { "root['Pulser']['forks_count']": { 'new_value': 30,
+                                                         'old_value': 29},
+                      "root['Pulser']['open_issues_count']": { 'new_value': 22,
+                                                               'old_value': 21},
+                      "root['PyQIR']['forks_count']": { 'new_value': 13,
+                                                        'old_value': 12},
+                      "root['PyQIR']['open_issues_count']": { 'new_value': 20,
+                                                              'old_value': 19},
+                      "root['quantumalgorithms.org']['forks_count']": { 'new_value': 38,
+                                                                        'old_value': 37},
+                      "root['quantumalgorithms.org']['open_issues_count']": { 'new_value': 11,
+                                                                              'old_value': 10}}}
