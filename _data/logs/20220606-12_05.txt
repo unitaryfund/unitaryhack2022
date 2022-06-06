@@ -1,0 +1,168 @@
+Changes to unitaryHACK results
+updated 06/06/2022 12:05:31
+--------------------
+Item root['QuTiP']['bounties'][1]['assignees'][0] added to iterable.
+Item root['QuNetSim']['bounties'][3]['assignees'][0] added to iterable.
+Item root['KQCircuits']['uh_prs'][0]['requested_reviewers'][0] added to iterable.
+Item root['quantumalgorithms.org']['uh_prs'][0] removed from iterable.
+Type of root['quantumalgorithms.org']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-06T05:09:18Z".
+Type of root['quantumalgorithms.org']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'Scinawa', 'id': 2940017, 'node_id': 'MDQ6VXNlcjI5NDAwMTc=', 'avatar_url': 'https://avatars.githubusercontent.com/u/2940017?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/Scinawa', 'html_url': 'https://github.com/Scinawa', 'followers_url': 'https://api.github.com/users/Scinawa/followers', 'following_url': 'https://api.github.com/users/Scinawa/following{/other_user}', 'gists_url': 'https://api.github.com/users/Scinawa/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/Scinawa/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/Scinawa/subscriptions', 'organizations_url': 'https://api.github.com/users/Scinawa/orgs', 'repos_url': 'https://api.github.com/users/Scinawa/repos', 'events_url': 'https://api.github.com/users/Scinawa/events{/privacy}', 'received_events_url': 'https://api.github.com/users/Scinawa/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Quantum Universal Education']['bounties'][2]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-06T01:02:49Z".
+Type of root['Quantum Universal Education']['bounties'][2]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'MaldoAlberto', 'id': 21325664, 'node_id': 'MDQ6VXNlcjIxMzI1NjY0', 'avatar_url': 'https://avatars.githubusercontent.com/u/21325664?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/MaldoAlberto', 'html_url': 'https://github.com/MaldoAlberto', 'followers_url': 'https://api.github.com/users/MaldoAlberto/followers', 'following_url': 'https://api.github.com/users/MaldoAlberto/following{/other_user}', 'gists_url': 'https://api.github.com/users/MaldoAlberto/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/MaldoAlberto/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/MaldoAlberto/subscriptions', 'organizations_url': 'https://api.github.com/users/MaldoAlberto/orgs', 'repos_url': 'https://api.github.com/users/MaldoAlberto/repos', 'events_url': 'https://api.github.com/users/MaldoAlberto/events{/privacy}', 'received_events_url': 'https://api.github.com/users/MaldoAlberto/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['QuTiP']['forks_count'] changed from 527 to 528.
+Value of root['QuTiP']['open_issues_count'] changed from 156 to 157.
+Value of root['NetKet']['open_issues_count'] changed from 84 to 86.
+Value of root['Qiskit']['open_issues_count'] changed from 816 to 818.
+Value of root['PennyLane']['open_issues_count'] changed from 219 to 218.
+Value of root['Orquestra Core']['forks_count'] changed from 1 to 2.
+Value of root['Bloqade']['forks_count'] changed from 4 to 5.
+Value of root['quantumalgorithms.org']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['quantumalgorithms.org']['open_issues_count'] changed from 11 to 9.
+Value of root['Quantum Universal Education']['bounties'][2]['state'] changed from "open" to "closed".
+Value of root['Quantum Universal Education']['language'] changed from "JavaScript" to "Jupyter Notebook".
+Value of root['Quantum Universal Education']['subscribers_count'] changed from 6 to 5.
+Value of root['Quantum Universal Education']['uh_prs'][0]['number'] changed from 15 to 17.
+Value of root['Quantum Universal Education']['uh_prs'][0]['title'] changed from "Building a Quantum Computer [unitaryhack] : Qubits vs Bits" to "Quantum Software and Games [unitaryhack] : Quantum computing reminder bot for the Quantum Universal Education discord".
+Value of root['Quantum Universal Education']['uh_prs'][0]['created_at'] changed from "2022-06-04T19:20:09Z" to "2022-06-06T09:16:16Z".
+Value of root['Covalent']['open_issues_count'] changed from 82 to 84.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['KQCircuits']['uh_prs'][0]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/83180458?v=4',
+                                                                                          'events_url': 'https://api.github.com/users/jkotilahti/events{/privacy}',
+                                                                                          'followers_url': 'https://api.github.com/users/jkotilahti/followers',
+                                                                                          'following_url': 'https://api.github.com/users/jkotilahti/following{/other_user}',
+                                                                                          'gists_url': 'https://api.github.com/users/jkotilahti/gists{/gist_id}',
+                                                                                          'gravatar_id': '',
+                                                                                          'html_url': 'https://github.com/jkotilahti',
+                                                                                          'id': 83180458,
+                                                                                          'login': 'jkotilahti',
+                                                                                          'node_id': 'MDQ6VXNlcjgzMTgwNDU4',
+                                                                                          'organizations_url': 'https://api.github.com/users/jkotilahti/orgs',
+                                                                                          'received_events_url': 'https://api.github.com/users/jkotilahti/received_events',
+                                                                                          'repos_url': 'https://api.github.com/users/jkotilahti/repos',
+                                                                                          'site_admin': False,
+                                                                                          'starred_url': 'https://api.github.com/users/jkotilahti/starred{/owner}{/repo}',
+                                                                                          'subscriptions_url': 'https://api.github.com/users/jkotilahti/subscriptions',
+                                                                                          'type': 'User',
+                                                                                          'url': 'https://api.github.com/users/jkotilahti'},
+                           "root['QuNetSim']['bounties'][3]['assignees'][0]": 'WingCode',
+                           "root['QuTiP']['bounties'][1]['assignees'][0]": 'HGSilveri'},
+  'iterable_item_removed': { "root['quantumalgorithms.org']['uh_prs'][0]": { 'assignees': [ ],
+                                                                             'closed_at': None,
+                                                                             'created_at': '2022-06-05T10:32:55Z',
+                                                                             'draft': False,
+                                                                             'merged_at': None,
+                                                                             'number': 73,
+                                                                             'requested_reviewers': [ ],
+                                                                             'state': 'open',
+                                                                             'title': '[unitaryhack] '
+                                                                                      'fix '
+                                                                                      'for '
+                                                                                      'https://github.com/scinawa/quantumalgorithms.org/issues/69'}},
+  'type_changes': { "root['Quantum Universal Education']['bounties'][2]['closed_at']": { 'new_type': <class 'str'>,
+                                                                                         'new_value': '2022-06-06T01:02:49Z',
+                                                                                         'old_type': <class 'NoneType'>,
+                                                                                         'old_value': None},
+                    "root['Quantum Universal Education']['bounties'][2]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                                         'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/21325664?v=4',
+                                                                                                        'events_url': 'https://api.github.com/users/MaldoAlberto/events{/privacy}',
+                                                                                                        'followers_url': 'https://api.github.com/users/MaldoAlberto/followers',
+                                                                                                        'following_url': 'https://api.github.com/users/MaldoAlberto/following{/other_user}',
+                                                                                                        'gists_url': 'https://api.github.com/users/MaldoAlberto/gists{/gist_id}',
+                                                                                                        'gravatar_id': '',
+                                                                                                        'html_url': 'https://github.com/MaldoAlberto',
+                                                                                                        'id': 21325664,
+                                                                                                        'login': 'MaldoAlberto',
+                                                                                                        'node_id': 'MDQ6VXNlcjIxMzI1NjY0',
+                                                                                                        'organizations_url': 'https://api.github.com/users/MaldoAlberto/orgs',
+                                                                                                        'received_events_url': 'https://api.github.com/users/MaldoAlberto/received_events',
+                                                                                                        'repos_url': 'https://api.github.com/users/MaldoAlberto/repos',
+                                                                                                        'site_admin': False,
+                                                                                                        'starred_url': 'https://api.github.com/users/MaldoAlberto/starred{/owner}{/repo}',
+                                                                                                        'subscriptions_url': 'https://api.github.com/users/MaldoAlberto/subscriptions',
+                                                                                                        'type': 'User',
+                                                                                                        'url': 'https://api.github.com/users/MaldoAlberto'},
+                                                                                         'old_type': <class 'NoneType'>,
+                                                                                         'old_value': None},
+                    "root['quantumalgorithms.org']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                                   'new_value': '2022-06-06T05:09:18Z',
+                                                                                   'old_type': <class 'NoneType'>,
+                                                                                   'old_value': None},
+                    "root['quantumalgorithms.org']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                                   'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/2940017?v=4',
+                                                                                                  'events_url': 'https://api.github.com/users/Scinawa/events{/privacy}',
+                                                                                                  'followers_url': 'https://api.github.com/users/Scinawa/followers',
+                                                                                                  'following_url': 'https://api.github.com/users/Scinawa/following{/other_user}',
+                                                                                                  'gists_url': 'https://api.github.com/users/Scinawa/gists{/gist_id}',
+                                                                                                  'gravatar_id': '',
+                                                                                                  'html_url': 'https://github.com/Scinawa',
+                                                                                                  'id': 2940017,
+                                                                                                  'login': 'Scinawa',
+                                                                                                  'node_id': 'MDQ6VXNlcjI5NDAwMTc=',
+                                                                                                  'organizations_url': 'https://api.github.com/users/Scinawa/orgs',
+                                                                                                  'received_events_url': 'https://api.github.com/users/Scinawa/received_events',
+                                                                                                  'repos_url': 'https://api.github.com/users/Scinawa/repos',
+                                                                                                  'site_admin': False,
+                                                                                                  'starred_url': 'https://api.github.com/users/Scinawa/starred{/owner}{/repo}',
+                                                                                                  'subscriptions_url': 'https://api.github.com/users/Scinawa/subscriptions',
+                                                                                                  'type': 'User',
+                                                                                                  'url': 'https://api.github.com/users/Scinawa'},
+                                                                                   'old_type': <class 'NoneType'>,
+                                                                                   'old_value': None}},
+  'values_changed': { "root['Bloqade']['forks_count']": { 'new_value': 5,
+                                                          'old_value': 4},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 84,
+                                                                 'old_value': 82},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 86,
+                                                               'old_value': 84},
+                      "root['Orquestra Core']['forks_count']": { 'new_value': 2,
+                                                                 'old_value': 1},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 218,
+                                                                  'old_value': 219},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 818,
+                                                               'old_value': 816},
+                      "root['QuTiP']['forks_count']": { 'new_value': 528,
+                                                        'old_value': 527},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 157,
+                                                              'old_value': 156},
+                      "root['Quantum Universal Education']['bounties'][2]['state']": { 'new_value': 'closed',
+                                                                                       'old_value': 'open'},
+                      "root['Quantum Universal Education']['language']": { 'new_value': 'Jupyter '
+                                                                                        'Notebook',
+                                                                           'old_value': 'JavaScript'},
+                      "root['Quantum Universal Education']['subscribers_count']": { 'new_value': 5,
+                                                                                    'old_value': 6},
+                      "root['Quantum Universal Education']['uh_prs'][0]['created_at']": { 'new_value': '2022-06-06T09:16:16Z',
+                                                                                          'old_value': '2022-06-04T19:20:09Z'},
+                      "root['Quantum Universal Education']['uh_prs'][0]['number']": { 'new_value': 17,
+                                                                                      'old_value': 15},
+                      "root['Quantum Universal Education']['uh_prs'][0]['title']": { 'new_value': 'Quantum '
+                                                                                                  'Software '
+                                                                                                  'and '
+                                                                                                  'Games '
+                                                                                                  '[unitaryhack] '
+                                                                                                  ': '
+                                                                                                  'Quantum '
+                                                                                                  'computing '
+                                                                                                  'reminder '
+                                                                                                  'bot '
+                                                                                                  'for '
+                                                                                                  'the '
+                                                                                                  'Quantum '
+                                                                                                  'Universal '
+                                                                                                  'Education '
+                                                                                                  'discord',
+                                                                                     'old_value': 'Building '
+                                                                                                  'a '
+                                                                                                  'Quantum '
+                                                                                                  'Computer '
+                                                                                                  '[unitaryhack] '
+                                                                                                  ': '
+                                                                                                  'Qubits '
+                                                                                                  'vs '
+                                                                                                  'Bits'},
+                      "root['quantumalgorithms.org']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                                 'old_value': 'open'},
+                      "root['quantumalgorithms.org']['open_issues_count']": { 'new_value': 9,
+                                                                              'old_value': 11}}}
