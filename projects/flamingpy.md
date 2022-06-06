@@ -7,7 +7,7 @@ date: 2022-06-02
 summary: A cross-platform Python library for efficient simulations of error correction in fault-tolerant quantum computers
 tags:
   - python
-  - quantum-error-correction
+  - error-correction
   - fault-tolerance
 bounties:
   - name: Add local complementation function to EGraph class
