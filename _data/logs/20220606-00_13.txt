@@ -1,0 +1,40 @@
+Changes to unitaryHACK results
+updated 06/06/2022 00:13:05
+--------------------
+Item root['Pulser']['bounties'][1]['assignees'][0] added to iterable.
+Value of root['Yao']['uh_prs'][0]['title'] changed from "[WIP] [unitaryhack] Example on Riemannian gradient-flow optimizer" to "[unitaryhack] Example on Riemannian gradient-flow optimizer".
+Value of root['QuNetSim']['forks_count'] changed from 32 to 33.
+Value of root['QuNetSim']['open_issues_count'] changed from 15 to 16.
+Value of root['Qiskit']['forks_count'] changed from 1658 to 1659.
+Value of root['Qiskit']['open_issues_count'] changed from 815 to 816.
+Value of root['FlamingPy']['uh_prs'][0]['draft'] changed from False to True.
+Value of root['Pulser']['uh_prs'][0]['draft'] changed from True to False.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Pulser']['bounties'][1]['assignees'][0]": 'WingCode'},
+  'values_changed': { "root['FlamingPy']['uh_prs'][0]['draft']": { 'new_value': True,
+                                                                   'old_value': False},
+                      "root['Pulser']['uh_prs'][0]['draft']": { 'new_value': False,
+                                                                'old_value': True},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1659,
+                                                         'old_value': 1658},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 816,
+                                                               'old_value': 815},
+                      "root['QuNetSim']['forks_count']": { 'new_value': 33,
+                                                           'old_value': 32},
+                      "root['QuNetSim']['open_issues_count']": { 'new_value': 16,
+                                                                 'old_value': 15},
+                      "root['Yao']['uh_prs'][0]['title']": { 'new_value': '[unitaryhack] '
+                                                                          'Example '
+                                                                          'on '
+                                                                          'Riemannian '
+                                                                          'gradient-flow '
+                                                                          'optimizer',
+                                                             'old_value': '[WIP] '
+                                                                          '[unitaryhack] '
+                                                                          'Example '
+                                                                          'on '
+                                                                          'Riemannian '
+                                                                          'gradient-flow '
+                                                                          'optimizer'}}}
