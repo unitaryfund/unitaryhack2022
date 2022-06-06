@@ -17,8 +17,8 @@ bounties:
   - name: Error when parsing electron positional arguments in workflows
     issue_num: 441
     value: 200
-  - name: References to 0.0.0.0 should be changed to localhost
-    issue_num: 202
+  - name: Write a Covalentified version of the Pennylane Variational Classifier tutorial
+    issue_num: 605
     value: 25
   - name: Add author names in changelog messages automatically
     issue_num: 237
