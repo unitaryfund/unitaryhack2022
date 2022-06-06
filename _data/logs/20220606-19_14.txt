@@ -1,0 +1,138 @@
+Changes to unitaryHACK results
+updated 06/06/2022 19:14:52
+--------------------
+Item root['QuTiP']['uh_prs'][0] added to iterable.
+Item root['Qiskit IonQ']['uh_prs'][1]['requested_reviewers'][0] added to iterable.
+Item root['PyQIR']['uh_prs'][1]['assignees'][0] added to iterable.
+Item root['PennyLane']['uh_prs'][1]['requested_reviewers'][0] added to iterable.
+Item root['Bloqade']['bounties'][0]['labels'][1] added to iterable.
+Item root['Bloqade']['bounties'][1]['labels'][1] added to iterable.
+Item root['Quantum Universal Education']['uh_prs'][1] added to iterable.
+Item root['FlamingPy']['bounties'][2]['assignees'][0] removed from iterable.
+Item root['FlamingPy']['bounties'][4]['assignees'][0] removed from iterable.
+Value of root['QuTiP']['open_issues_count'] changed from 157 to 158.
+Value of root['NetKet']['open_issues_count'] changed from 86 to 87.
+Value of root['Yao']['open_issues_count'] changed from 27 to 26.
+Value of root['scqubits']['forks_count'] changed from 44 to 45.
+Value of root['Qiskit']['forks_count'] changed from 1659 to 1665.
+Value of root['Qiskit']['open_issues_count'] changed from 819 to 817.
+Value of root['PennyLane']['uh_prs'][4]['draft'] changed from True to False.
+Value of root['FlamingPy']['open_issues_count'] changed from 21 to 22.
+Value of root['Error Correction Zoo']['forks_count'] changed from 0 to 1.
+Value of root['Quantum Universal Education']['language'] changed from "Jupyter Notebook" to "JavaScript".
+Value of root['Quantum Universal Education']['forks_count'] changed from 17 to 18.
+Value of root['Quantum Universal Education']['open_issues_count'] changed from 5 to 6.
+Value of root['Pulser']['open_issues_count'] changed from 22 to 21.
+Value of root['Mitiq']['open_issues_count'] changed from 77 to 75.
+Value of root['toqito']['open_issues_count'] changed from 22 to 23.
+Value of root['Covalent']['open_issues_count'] changed from 87 to 89.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Bloqade']['bounties'][0]['labels'][1]": 'unitaryhack',
+                           "root['Bloqade']['bounties'][1]['labels'][1]": 'unitaryhack',
+                           "root['PennyLane']['uh_prs'][1]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/12239932?v=4',
+                                                                                         'events_url': 'https://api.github.com/users/puzzleshark/events{/privacy}',
+                                                                                         'followers_url': 'https://api.github.com/users/puzzleshark/followers',
+                                                                                         'following_url': 'https://api.github.com/users/puzzleshark/following{/other_user}',
+                                                                                         'gists_url': 'https://api.github.com/users/puzzleshark/gists{/gist_id}',
+                                                                                         'gravatar_id': '',
+                                                                                         'html_url': 'https://github.com/puzzleshark',
+                                                                                         'id': 12239932,
+                                                                                         'login': 'puzzleshark',
+                                                                                         'node_id': 'MDQ6VXNlcjEyMjM5OTMy',
+                                                                                         'organizations_url': 'https://api.github.com/users/puzzleshark/orgs',
+                                                                                         'received_events_url': 'https://api.github.com/users/puzzleshark/received_events',
+                                                                                         'repos_url': 'https://api.github.com/users/puzzleshark/repos',
+                                                                                         'site_admin': False,
+                                                                                         'starred_url': 'https://api.github.com/users/puzzleshark/starred{/owner}{/repo}',
+                                                                                         'subscriptions_url': 'https://api.github.com/users/puzzleshark/subscriptions',
+                                                                                         'type': 'User',
+                                                                                         'url': 'https://api.github.com/users/puzzleshark'},
+                           "root['PyQIR']['uh_prs'][1]['assignees'][0]": 'georgios-ts',
+                           "root['Qiskit IonQ']['uh_prs'][1]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/1058746?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/Cynocracy/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/Cynocracy/followers',
+                                                                                           'following_url': 'https://api.github.com/users/Cynocracy/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/Cynocracy/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/Cynocracy',
+                                                                                           'id': 1058746,
+                                                                                           'login': 'Cynocracy',
+                                                                                           'node_id': 'MDQ6VXNlcjEwNTg3NDY=',
+                                                                                           'organizations_url': 'https://api.github.com/users/Cynocracy/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/Cynocracy/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/Cynocracy/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/Cynocracy/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/Cynocracy/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/Cynocracy'},
+                           "root['QuTiP']['uh_prs'][0]": { 'assignees': [],
+                                                           'closed_at': None,
+                                                           'created_at': '2022-06-06T15:26:21Z',
+                                                           'draft': False,
+                                                           'merged_at': None,
+                                                           'number': 1920,
+                                                           'requested_reviewers': [ ],
+                                                           'state': 'open',
+                                                           'title': 'Setting '
+                                                                    'qutip-qip '
+                                                                    'as an '
+                                                                    'optional '
+                                                                    'plugin '
+                                                                    'for '
+                                                                    'qutip-5 '
+                                                                    '[unitaryhack]'},
+                           "root['Quantum Universal Education']['uh_prs'][1]": { 'assignees': [ ],
+                                                                                 'closed_at': None,
+                                                                                 'created_at': '2022-06-06T17:59:01Z',
+                                                                                 'draft': False,
+                                                                                 'merged_at': None,
+                                                                                 'number': 18,
+                                                                                 'requested_reviewers': [ ],
+                                                                                 'state': 'open',
+                                                                                 'title': '[unitaryhack] '
+                                                                                          'Quantum '
+                                                                                          'Applications: '
+                                                                                          'Simulating '
+                                                                                          'the '
+                                                                                          'electronic '
+                                                                                          'structure '
+                                                                                          'of '
+                                                                                          'molecules'}},
+  'iterable_item_removed': { "root['FlamingPy']['bounties'][2]['assignees'][0]": 'Avhijit-codeboy',
+                             "root['FlamingPy']['bounties'][4]['assignees'][0]": 'WingCode'},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 89,
+                                                                 'old_value': 87},
+                      "root['Error Correction Zoo']['forks_count']": { 'new_value': 1,
+                                                                       'old_value': 0},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 22,
+                                                                  'old_value': 21},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 75,
+                                                              'old_value': 77},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 87,
+                                                               'old_value': 86},
+                      "root['PennyLane']['uh_prs'][4]['draft']": { 'new_value': False,
+                                                                   'old_value': True},
+                      "root['Pulser']['open_issues_count']": { 'new_value': 21,
+                                                               'old_value': 22},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1665,
+                                                         'old_value': 1659},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 817,
+                                                               'old_value': 819},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 158,
+                                                              'old_value': 157},
+                      "root['Quantum Universal Education']['forks_count']": { 'new_value': 18,
+                                                                              'old_value': 17},
+                      "root['Quantum Universal Education']['language']": { 'new_value': 'JavaScript',
+                                                                           'old_value': 'Jupyter '
+                                                                                        'Notebook'},
+                      "root['Quantum Universal Education']['open_issues_count']": { 'new_value': 6,
+                                                                                    'old_value': 5},
+                      "root['Yao']['open_issues_count']": { 'new_value': 26,
+                                                            'old_value': 27},
+                      "root['scqubits']['forks_count']": { 'new_value': 45,
+                                                           'old_value': 44},
+                      "root['toqito']['open_issues_count']": { 'new_value': 23,
+                                                               'old_value': 22}}}
