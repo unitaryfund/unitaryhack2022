@@ -1,0 +1,172 @@
+Changes to unitaryHACK results
+updated 06/06/2022 14:13:36
+--------------------
+Item root['PennyLane']['uh_prs'][3]['requested_reviewers'][0] added to iterable.
+Item root['KQCircuits']['uh_prs'][0] removed from iterable.
+Item root['Covalent']['bounties'][2]['labels'][3] removed from iterable.
+Item root['Covalent']['bounties'][2]['labels'][4] removed from iterable.
+Item root['Covalent']['bounties'][2]['labels'][5] removed from iterable.
+Item root['Covalent']['bounties'][2]['assignees'][0] removed from iterable.
+Type of root['KQCircuits']['bounties'][3]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-06T13:21:30Z".
+Type of root['KQCircuits']['bounties'][3]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'jkotilahti', 'id': 83180458, 'node_id': 'MDQ6VXNlcjgzMTgwNDU4', 'avatar_url': 'https://avatars.githubusercontent.com/u/83180458?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jkotilahti', 'html_url': 'https://github.com/jkotilahti', 'followers_url': 'https://api.github.com/users/jkotilahti/followers', 'following_url': 'https://api.github.com/users/jkotilahti/following{/other_user}', 'gists_url': 'https://api.github.com/users/jkotilahti/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jkotilahti/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jkotilahti/subscriptions', 'organizations_url': 'https://api.github.com/users/jkotilahti/orgs', 'repos_url': 'https://api.github.com/users/jkotilahti/repos', 'events_url': 'https://api.github.com/users/jkotilahti/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jkotilahti/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['Yao']['open_issues_count'] changed from 26 to 27.
+Value of root['Qiskit']['open_issues_count'] changed from 818 to 819.
+Value of root['Qiskit']['subscribers_count'] changed from 218 to 219.
+Value of root['PennyLane']['open_issues_count'] changed from 218 to 219.
+Value of root['KQCircuits']['bounties'][3]['state'] changed from "open" to "closed".
+Value of root['KQCircuits']['open_issues_count'] changed from 8 to 6.
+Value of root['Covalent']['bounties'][2]['name'] changed from "References to 0.0.0.0 should be changed to localhost" to "Write a Covalentified version of the Pennylane Variational Classifier tutorial".
+Value of root['Covalent']['bounties'][2]['issue_num'] changed from 202 to 605.
+Value of root['Covalent']['bounties'][2]['number'] changed from 202 to 605.
+Value of root['Covalent']['bounties'][2]['title'] changed from "References to 0.0.0.0 should be changed to localhost" to "Write a Covalentified version of the Pennylane Variational Classifier tutorial".
+Value of root['Covalent']['bounties'][2]['created_at'] changed from "2022-03-17T19:35:58Z" to "2022-06-06T13:38:54Z".
+Value of root['Covalent']['bounties'][2]['labels'][2] changed from "feature" to "unitaryhack-bounty".
+Value of root['Covalent']['open_issues_count'] changed from 84 to 87.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['PennyLane']['uh_prs'][3]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/24476053?v=4',
+                                                                                         'events_url': 'https://api.github.com/users/antalszava/events{/privacy}',
+                                                                                         'followers_url': 'https://api.github.com/users/antalszava/followers',
+                                                                                         'following_url': 'https://api.github.com/users/antalszava/following{/other_user}',
+                                                                                         'gists_url': 'https://api.github.com/users/antalszava/gists{/gist_id}',
+                                                                                         'gravatar_id': '',
+                                                                                         'html_url': 'https://github.com/antalszava',
+                                                                                         'id': 24476053,
+                                                                                         'login': 'antalszava',
+                                                                                         'node_id': 'MDQ6VXNlcjI0NDc2MDUz',
+                                                                                         'organizations_url': 'https://api.github.com/users/antalszava/orgs',
+                                                                                         'received_events_url': 'https://api.github.com/users/antalszava/received_events',
+                                                                                         'repos_url': 'https://api.github.com/users/antalszava/repos',
+                                                                                         'site_admin': False,
+                                                                                         'starred_url': 'https://api.github.com/users/antalszava/starred{/owner}{/repo}',
+                                                                                         'subscriptions_url': 'https://api.github.com/users/antalszava/subscriptions',
+                                                                                         'type': 'User',
+                                                                                         'url': 'https://api.github.com/users/antalszava'}},
+  'iterable_item_removed': { "root['Covalent']['bounties'][2]['assignees'][0]": 'divshacker',
+                             "root['Covalent']['bounties'][2]['labels'][3]": 'covalent-ui',
+                             "root['Covalent']['bounties'][2]['labels'][4]": 'covalent-dispatcher',
+                             "root['Covalent']['bounties'][2]['labels'][5]": 'unitaryhack-bounty',
+                             "root['KQCircuits']['uh_prs'][0]": { 'assignees': [ ],
+                                                                  'closed_at': None,
+                                                                  'created_at': '2022-06-03T03:55:03Z',
+                                                                  'draft': False,
+                                                                  'merged_at': None,
+                                                                  'number': 16,
+                                                                  'requested_reviewers': [ { 'avatar_url': 'https://avatars.githubusercontent.com/u/83180458?v=4',
+                                                                                             'events_url': 'https://api.github.com/users/jkotilahti/events{/privacy}',
+                                                                                             'followers_url': 'https://api.github.com/users/jkotilahti/followers',
+                                                                                             'following_url': 'https://api.github.com/users/jkotilahti/following{/other_user}',
+                                                                                             'gists_url': 'https://api.github.com/users/jkotilahti/gists{/gist_id}',
+                                                                                             'gravatar_id': '',
+                                                                                             'html_url': 'https://github.com/jkotilahti',
+                                                                                             'id': 83180458,
+                                                                                             'login': 'jkotilahti',
+                                                                                             'node_id': 'MDQ6VXNlcjgzMTgwNDU4',
+                                                                                             'organizations_url': 'https://api.github.com/users/jkotilahti/orgs',
+                                                                                             'received_events_url': 'https://api.github.com/users/jkotilahti/received_events',
+                                                                                             'repos_url': 'https://api.github.com/users/jkotilahti/repos',
+                                                                                             'site_admin': False,
+                                                                                             'starred_url': 'https://api.github.com/users/jkotilahti/starred{/owner}{/repo}',
+                                                                                             'subscriptions_url': 'https://api.github.com/users/jkotilahti/subscriptions',
+                                                                                             'type': 'User',
+                                                                                             'url': 'https://api.github.com/users/jkotilahti'}],
+                                                                  'state': 'open',
+                                                                  'title': '[unitaryhack] '
+                                                                           'Adding '
+                                                                           'a '
+                                                                           'post_build '
+                                                                           'method '
+                                                                           'to '
+                                                                           'Element '
+                                                                           'to '
+                                                                           'avoid '
+                                                                           'calls '
+                                                                           'to '
+                                                                           'super().build() '
+                                                                           'when '
+                                                                           'constructing '
+                                                                           'chips.'}},
+  'type_changes': { "root['KQCircuits']['bounties'][3]['closed_at']": { 'new_type': <class 'str'>,
+                                                                        'new_value': '2022-06-06T13:21:30Z',
+                                                                        'old_type': <class 'NoneType'>,
+                                                                        'old_value': None},
+                    "root['KQCircuits']['bounties'][3]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                        'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/83180458?v=4',
+                                                                                       'events_url': 'https://api.github.com/users/jkotilahti/events{/privacy}',
+                                                                                       'followers_url': 'https://api.github.com/users/jkotilahti/followers',
+                                                                                       'following_url': 'https://api.github.com/users/jkotilahti/following{/other_user}',
+                                                                                       'gists_url': 'https://api.github.com/users/jkotilahti/gists{/gist_id}',
+                                                                                       'gravatar_id': '',
+                                                                                       'html_url': 'https://github.com/jkotilahti',
+                                                                                       'id': 83180458,
+                                                                                       'login': 'jkotilahti',
+                                                                                       'node_id': 'MDQ6VXNlcjgzMTgwNDU4',
+                                                                                       'organizations_url': 'https://api.github.com/users/jkotilahti/orgs',
+                                                                                       'received_events_url': 'https://api.github.com/users/jkotilahti/received_events',
+                                                                                       'repos_url': 'https://api.github.com/users/jkotilahti/repos',
+                                                                                       'site_admin': False,
+                                                                                       'starred_url': 'https://api.github.com/users/jkotilahti/starred{/owner}{/repo}',
+                                                                                       'subscriptions_url': 'https://api.github.com/users/jkotilahti/subscriptions',
+                                                                                       'type': 'User',
+                                                                                       'url': 'https://api.github.com/users/jkotilahti'},
+                                                                        'old_type': <class 'NoneType'>,
+                                                                        'old_value': None}},
+  'values_changed': { "root['Covalent']['bounties'][2]['created_at']": { 'new_value': '2022-06-06T13:38:54Z',
+                                                                         'old_value': '2022-03-17T19:35:58Z'},
+                      "root['Covalent']['bounties'][2]['issue_num']": { 'new_value': 605,
+                                                                        'old_value': 202},
+                      "root['Covalent']['bounties'][2]['labels'][2]": { 'new_value': 'unitaryhack-bounty',
+                                                                        'old_value': 'feature'},
+                      "root['Covalent']['bounties'][2]['name']": { 'new_value': 'Write '
+                                                                                'a '
+                                                                                'Covalentified '
+                                                                                'version '
+                                                                                'of '
+                                                                                'the '
+                                                                                'Pennylane '
+                                                                                'Variational '
+                                                                                'Classifier '
+                                                                                'tutorial',
+                                                                   'old_value': 'References '
+                                                                                'to '
+                                                                                '0.0.0.0 '
+                                                                                'should '
+                                                                                'be '
+                                                                                'changed '
+                                                                                'to '
+                                                                                'localhost'},
+                      "root['Covalent']['bounties'][2]['number']": { 'new_value': 605,
+                                                                     'old_value': 202},
+                      "root['Covalent']['bounties'][2]['title']": { 'new_value': 'Write '
+                                                                                 'a '
+                                                                                 'Covalentified '
+                                                                                 'version '
+                                                                                 'of '
+                                                                                 'the '
+                                                                                 'Pennylane '
+                                                                                 'Variational '
+                                                                                 'Classifier '
+                                                                                 'tutorial',
+                                                                    'old_value': 'References '
+                                                                                 'to '
+                                                                                 '0.0.0.0 '
+                                                                                 'should '
+                                                                                 'be '
+                                                                                 'changed '
+                                                                                 'to '
+                                                                                 'localhost'},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 87,
+                                                                 'old_value': 84},
+                      "root['KQCircuits']['bounties'][3]['state']": { 'new_value': 'closed',
+                                                                      'old_value': 'open'},
+                      "root['KQCircuits']['open_issues_count']": { 'new_value': 6,
+                                                                   'old_value': 8},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 219,
+                                                                  'old_value': 218},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 819,
+                                                               'old_value': 818},
+                      "root['Qiskit']['subscribers_count']": { 'new_value': 219,
+                                                               'old_value': 218},
+                      "root['Yao']['open_issues_count']": { 'new_value': 27,
+                                                            'old_value': 26}}}
