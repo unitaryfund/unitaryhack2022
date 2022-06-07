@@ -1,0 +1,141 @@
+Changes to unitaryHACK results
+updated 07/06/2022 00:12:34
+--------------------
+Item root['Qiskit IonQ']['bounties'][1]['assignees'][0] added to iterable.
+Item root['Qiskit IonQ']['bounties'][2]['assignees'][0] added to iterable.
+Item root['PyQIR']['uh_prs'][1] removed from iterable.
+Item root['PennyLane']['uh_prs'][1]['requested_reviewers'][0] removed from iterable.
+Item root['PennyLane']['uh_prs'][3]['requested_reviewers'][0] removed from iterable.
+Type of root['PyQIR']['bounties'][0]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-06T21:37:08Z".
+Type of root['PyQIR']['bounties'][0]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'idavis', 'id': 63540, 'node_id': 'MDQ6VXNlcjYzNTQw', 'avatar_url': 'https://avatars.githubusercontent.com/u/63540?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/idavis', 'html_url': 'https://github.com/idavis', 'followers_url': 'https://api.github.com/users/idavis/followers', 'following_url': 'https://api.github.com/users/idavis/following{/other_user}', 'gists_url': 'https://api.github.com/users/idavis/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/idavis/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/idavis/subscriptions', 'organizations_url': 'https://api.github.com/users/idavis/orgs', 'repos_url': 'https://api.github.com/users/idavis/repos', 'events_url': 'https://api.github.com/users/idavis/events{/privacy}', 'received_events_url': 'https://api.github.com/users/idavis/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['PyQIR']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-06T22:42:21Z".
+Type of root['PyQIR']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'idavis', 'id': 63540, 'node_id': 'MDQ6VXNlcjYzNTQw', 'avatar_url': 'https://avatars.githubusercontent.com/u/63540?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/idavis', 'html_url': 'https://github.com/idavis', 'followers_url': 'https://api.github.com/users/idavis/followers', 'following_url': 'https://api.github.com/users/idavis/following{/other_user}', 'gists_url': 'https://api.github.com/users/idavis/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/idavis/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/idavis/subscriptions', 'organizations_url': 'https://api.github.com/users/idavis/orgs', 'repos_url': 'https://api.github.com/users/idavis/repos', 'events_url': 'https://api.github.com/users/idavis/events{/privacy}', 'received_events_url': 'https://api.github.com/users/idavis/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['Qiskit IonQ']['open_issues_count'] changed from 9 to 8.
+Value of root['PyQIR']['bounties'][0]['state'] changed from "open" to "closed".
+Value of root['PyQIR']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['PyQIR']['open_issues_count'] changed from 20 to 18.
+Value of root['PennyLane']['open_issues_count'] changed from 219 to 220.
+Value of root['Mitiq']['forks_count'] changed from 87 to 88.
+Value of root['Covalent']['open_issues_count'] changed from 89 to 86.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Qiskit IonQ']['bounties'][1]['assignees'][0]": 'WingCode',
+                           "root['Qiskit IonQ']['bounties'][2]['assignees'][0]": 'WingCode'},
+  'iterable_item_removed': { "root['PennyLane']['uh_prs'][1]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/12239932?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/puzzleshark/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/puzzleshark/followers',
+                                                                                           'following_url': 'https://api.github.com/users/puzzleshark/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/puzzleshark/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/puzzleshark',
+                                                                                           'id': 12239932,
+                                                                                           'login': 'puzzleshark',
+                                                                                           'node_id': 'MDQ6VXNlcjEyMjM5OTMy',
+                                                                                           'organizations_url': 'https://api.github.com/users/puzzleshark/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/puzzleshark/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/puzzleshark/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/puzzleshark/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/puzzleshark/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/puzzleshark'},
+                             "root['PennyLane']['uh_prs'][3]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/24476053?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/antalszava/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/antalszava/followers',
+                                                                                           'following_url': 'https://api.github.com/users/antalszava/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/antalszava/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/antalszava',
+                                                                                           'id': 24476053,
+                                                                                           'login': 'antalszava',
+                                                                                           'node_id': 'MDQ6VXNlcjI0NDc2MDUz',
+                                                                                           'organizations_url': 'https://api.github.com/users/antalszava/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/antalszava/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/antalszava/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/antalszava/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/antalszava/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/antalszava'},
+                             "root['PyQIR']['uh_prs'][1]": { 'assignees': [ 'georgios-ts'],
+                                                             'closed_at': None,
+                                                             'created_at': '2022-06-05T10:31:38Z',
+                                                             'draft': False,
+                                                             'merged_at': None,
+                                                             'number': 128,
+                                                             'requested_reviewers': [ ],
+                                                             'state': 'open',
+                                                             'title': '[unitaryhack] '
+                                                                      'Evaluator: '
+                                                                      'Raise '
+                                                                      'if '
+                                                                      'bitcode '
+                                                                      'contains '
+                                                                      'unknown '
+                                                                      'external '
+                                                                      'functions.'}},
+  'type_changes': { "root['PyQIR']['bounties'][0]['closed_at']": { 'new_type': <class 'str'>,
+                                                                   'new_value': '2022-06-06T21:37:08Z',
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['PyQIR']['bounties'][0]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                   'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/63540?v=4',
+                                                                                  'events_url': 'https://api.github.com/users/idavis/events{/privacy}',
+                                                                                  'followers_url': 'https://api.github.com/users/idavis/followers',
+                                                                                  'following_url': 'https://api.github.com/users/idavis/following{/other_user}',
+                                                                                  'gists_url': 'https://api.github.com/users/idavis/gists{/gist_id}',
+                                                                                  'gravatar_id': '',
+                                                                                  'html_url': 'https://github.com/idavis',
+                                                                                  'id': 63540,
+                                                                                  'login': 'idavis',
+                                                                                  'node_id': 'MDQ6VXNlcjYzNTQw',
+                                                                                  'organizations_url': 'https://api.github.com/users/idavis/orgs',
+                                                                                  'received_events_url': 'https://api.github.com/users/idavis/received_events',
+                                                                                  'repos_url': 'https://api.github.com/users/idavis/repos',
+                                                                                  'site_admin': False,
+                                                                                  'starred_url': 'https://api.github.com/users/idavis/starred{/owner}{/repo}',
+                                                                                  'subscriptions_url': 'https://api.github.com/users/idavis/subscriptions',
+                                                                                  'type': 'User',
+                                                                                  'url': 'https://api.github.com/users/idavis'},
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['PyQIR']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                   'new_value': '2022-06-06T22:42:21Z',
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['PyQIR']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                   'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/63540?v=4',
+                                                                                  'events_url': 'https://api.github.com/users/idavis/events{/privacy}',
+                                                                                  'followers_url': 'https://api.github.com/users/idavis/followers',
+                                                                                  'following_url': 'https://api.github.com/users/idavis/following{/other_user}',
+                                                                                  'gists_url': 'https://api.github.com/users/idavis/gists{/gist_id}',
+                                                                                  'gravatar_id': '',
+                                                                                  'html_url': 'https://github.com/idavis',
+                                                                                  'id': 63540,
+                                                                                  'login': 'idavis',
+                                                                                  'node_id': 'MDQ6VXNlcjYzNTQw',
+                                                                                  'organizations_url': 'https://api.github.com/users/idavis/orgs',
+                                                                                  'received_events_url': 'https://api.github.com/users/idavis/received_events',
+                                                                                  'repos_url': 'https://api.github.com/users/idavis/repos',
+                                                                                  'site_admin': False,
+                                                                                  'starred_url': 'https://api.github.com/users/idavis/starred{/owner}{/repo}',
+                                                                                  'subscriptions_url': 'https://api.github.com/users/idavis/subscriptions',
+                                                                                  'type': 'User',
+                                                                                  'url': 'https://api.github.com/users/idavis'},
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 86,
+                                                                 'old_value': 89},
+                      "root['Mitiq']['forks_count']": { 'new_value': 88,
+                                                        'old_value': 87},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 220,
+                                                                  'old_value': 219},
+                      "root['PyQIR']['bounties'][0]['state']": { 'new_value': 'closed',
+                                                                 'old_value': 'open'},
+                      "root['PyQIR']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                 'old_value': 'open'},
+                      "root['PyQIR']['open_issues_count']": { 'new_value': 18,
+                                                              'old_value': 20},
+                      "root['Qiskit IonQ']['open_issues_count']": { 'new_value': 8,
+                                                                    'old_value': 9}}}
