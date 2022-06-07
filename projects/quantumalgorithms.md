@@ -5,6 +5,7 @@ project_url: "https://github.com/scinawa/quantumalgorithms.org"
 metaDescription: Learn the state-of-the-art quantum algorithms for machine learning
 date: 2022-04-01T00:00:00.000Z
 summary: Learn the state-of-the-art quantum algorithms for machine learning
+permalink: /projects/quantumalgorithms-org/
 tags:
   - quantum-algorithms
   - quantum-machine-learning
