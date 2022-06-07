@@ -1,0 +1,14 @@
+Changes to unitaryHACK results
+updated 07/06/2022 12:05:45
+--------------------
+Item root['QuNetSim']['bounties'][2]['assignees'][0] added to iterable.
+Value of root['Qiskit']['forks_count'] changed from 1666 to 1667.
+Value of root['Qiskit']['open_issues_count'] changed from 820 to 816.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['QuNetSim']['bounties'][2]['assignees'][0]": 'WingCode'},
+  'values_changed': { "root['Qiskit']['forks_count']": { 'new_value': 1667,
+                                                         'old_value': 1666},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 816,
+                                                               'old_value': 820}}}
