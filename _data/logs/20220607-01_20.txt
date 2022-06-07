@@ -1,0 +1,149 @@
+Changes to unitaryHACK results
+updated 07/06/2022 01:20:29
+--------------------
+Item root['Covalent']['bounties'][2]['labels'][3] added to iterable.
+Item root['Covalent']['bounties'][2]['labels'][4] added to iterable.
+Item root['Covalent']['bounties'][2]['assignees'][0] added to iterable.
+Item root['Covalent']['bounties'][4] added to iterable.
+Item root['Covalent']['bounties'][3]['assignees'][0] removed from iterable.
+Value of root['toqito']['open_issues_count'] changed from 23 to 22.
+Value of root['Covalent']['bounties'][2]['name'] changed from "Write a Covalentified version of the Pennylane Variational Classifier tutorial" to "References to 0.0.0.0 should be changed to localhost".
+Value of root['Covalent']['bounties'][2]['issue_num'] changed from 605 to 202.
+Value of root['Covalent']['bounties'][2]['number'] changed from 605 to 202.
+Value of root['Covalent']['bounties'][2]['title'] changed from "Write a Covalentified version of the Pennylane Variational Classifier tutorial" to "References to 0.0.0.0 should be changed to localhost".
+Value of root['Covalent']['bounties'][2]['created_at'] changed from "2022-06-06T13:38:54Z" to "2022-03-17T19:35:58Z".
+Value of root['Covalent']['bounties'][2]['labels'][2] changed from "unitaryhack-bounty" to "feature".
+Value of root['Covalent']['bounties'][3]['name'] changed from "Add author names in changelog messages automatically" to "Write a Covalentified version of the Pennylane Variational Classifier tutorial".
+Value of root['Covalent']['bounties'][3]['issue_num'] changed from 237 to 605.
+Value of root['Covalent']['bounties'][3]['number'] changed from 237 to 605.
+Value of root['Covalent']['bounties'][3]['title'] changed from "Add author names in changelog messages automatically" to "Write a Covalentified version of the Pennylane Variational Classifier tutorial".
+Value of root['Covalent']['bounties'][3]['created_at'] changed from "2022-03-28T22:01:40Z" to "2022-06-06T13:38:54Z".
+Value of root['Covalent']['bounties'][3]['labels'][0] changed from "feature" to "documentation".
+Value of root['Covalent']['bounties'][3]['labels'][1] changed from "devops" to "good first issue".
+Value of root['Covalent']['open_issues_count'] changed from 86 to 87.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Covalent']['bounties'][2]['assignees'][0]": 'divshacker',
+                           "root['Covalent']['bounties'][2]['labels'][3]": 'covalent-ui',
+                           "root['Covalent']['bounties'][2]['labels'][4]": 'covalent-dispatcher',
+                           "root['Covalent']['bounties'][4]": { 'assignees': [ 'scottwn'],
+                                                                'closed_at': None,
+                                                                'closed_by': None,
+                                                                'created_at': '2022-03-28T22:01:40Z',
+                                                                'issue_num': 237,
+                                                                'labels': [ 'feature',
+                                                                            'devops',
+                                                                            'unitaryhack-bounty'],
+                                                                'name': 'Add '
+                                                                        'author '
+                                                                        'names '
+                                                                        'in '
+                                                                        'changelog '
+                                                                        'messages '
+                                                                        'automatically',
+                                                                'number': 237,
+                                                                'state': 'open',
+                                                                'title': 'Add '
+                                                                         'author '
+                                                                         'names '
+                                                                         'in '
+                                                                         'changelog '
+                                                                         'messages '
+                                                                         'automatically',
+                                                                'value': 25}},
+  'iterable_item_removed': { "root['Covalent']['bounties'][3]['assignees'][0]": 'scottwn'},
+  'values_changed': { "root['Covalent']['bounties'][2]['created_at']": { 'new_value': '2022-03-17T19:35:58Z',
+                                                                         'old_value': '2022-06-06T13:38:54Z'},
+                      "root['Covalent']['bounties'][2]['issue_num']": { 'new_value': 202,
+                                                                        'old_value': 605},
+                      "root['Covalent']['bounties'][2]['labels'][2]": { 'new_value': 'feature',
+                                                                        'old_value': 'unitaryhack-bounty'},
+                      "root['Covalent']['bounties'][2]['name']": { 'new_value': 'References '
+                                                                                'to '
+                                                                                '0.0.0.0 '
+                                                                                'should '
+                                                                                'be '
+                                                                                'changed '
+                                                                                'to '
+                                                                                'localhost',
+                                                                   'old_value': 'Write '
+                                                                                'a '
+                                                                                'Covalentified '
+                                                                                'version '
+                                                                                'of '
+                                                                                'the '
+                                                                                'Pennylane '
+                                                                                'Variational '
+                                                                                'Classifier '
+                                                                                'tutorial'},
+                      "root['Covalent']['bounties'][2]['number']": { 'new_value': 202,
+                                                                     'old_value': 605},
+                      "root['Covalent']['bounties'][2]['title']": { 'new_value': 'References '
+                                                                                 'to '
+                                                                                 '0.0.0.0 '
+                                                                                 'should '
+                                                                                 'be '
+                                                                                 'changed '
+                                                                                 'to '
+                                                                                 'localhost',
+                                                                    'old_value': 'Write '
+                                                                                 'a '
+                                                                                 'Covalentified '
+                                                                                 'version '
+                                                                                 'of '
+                                                                                 'the '
+                                                                                 'Pennylane '
+                                                                                 'Variational '
+                                                                                 'Classifier '
+                                                                                 'tutorial'},
+                      "root['Covalent']['bounties'][3]['created_at']": { 'new_value': '2022-06-06T13:38:54Z',
+                                                                         'old_value': '2022-03-28T22:01:40Z'},
+                      "root['Covalent']['bounties'][3]['issue_num']": { 'new_value': 605,
+                                                                        'old_value': 237},
+                      "root['Covalent']['bounties'][3]['labels'][0]": { 'new_value': 'documentation',
+                                                                        'old_value': 'feature'},
+                      "root['Covalent']['bounties'][3]['labels'][1]": { 'new_value': 'good '
+                                                                                     'first '
+                                                                                     'issue',
+                                                                        'old_value': 'devops'},
+                      "root['Covalent']['bounties'][3]['name']": { 'new_value': 'Write '
+                                                                                'a '
+                                                                                'Covalentified '
+                                                                                'version '
+                                                                                'of '
+                                                                                'the '
+                                                                                'Pennylane '
+                                                                                'Variational '
+                                                                                'Classifier '
+                                                                                'tutorial',
+                                                                   'old_value': 'Add '
+                                                                                'author '
+                                                                                'names '
+                                                                                'in '
+                                                                                'changelog '
+                                                                                'messages '
+                                                                                'automatically'},
+                      "root['Covalent']['bounties'][3]['number']": { 'new_value': 605,
+                                                                     'old_value': 237},
+                      "root['Covalent']['bounties'][3]['title']": { 'new_value': 'Write '
+                                                                                 'a '
+                                                                                 'Covalentified '
+                                                                                 'version '
+                                                                                 'of '
+                                                                                 'the '
+                                                                                 'Pennylane '
+                                                                                 'Variational '
+                                                                                 'Classifier '
+                                                                                 'tutorial',
+                                                                    'old_value': 'Add '
+                                                                                 'author '
+                                                                                 'names '
+                                                                                 'in '
+                                                                                 'changelog '
+                                                                                 'messages '
+                                                                                 'automatically'},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 87,
+                                                                 'old_value': 86},
+                      "root['toqito']['open_issues_count']": { 'new_value': 22,
+                                                               'old_value': 23}}}
