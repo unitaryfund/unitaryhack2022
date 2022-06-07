@@ -1,0 +1,172 @@
+Changes to unitaryHACK results
+updated 07/06/2022 09:40:39
+--------------------
+Item root['QuTiP']['uh_prs'][0]['requested_reviewers'][0] added to iterable.
+Item root['quantumalgorithms.org']['uh_prs'][0] added to iterable.
+Item root['QuNetSim']['uh_prs'][0] removed from iterable.
+Item root['PennyLane']['uh_prs'][4] removed from iterable.
+Type of root['QuNetSim']['bounties'][3]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-07T07:44:54Z".
+Type of root['QuNetSim']['bounties'][3]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'stephendiadamo', 'id': 1194245, 'node_id': 'MDQ6VXNlcjExOTQyNDU=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1194245?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/stephendiadamo', 'html_url': 'https://github.com/stephendiadamo', 'followers_url': 'https://api.github.com/users/stephendiadamo/followers', 'following_url': 'https://api.github.com/users/stephendiadamo/following{/other_user}', 'gists_url': 'https://api.github.com/users/stephendiadamo/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/stephendiadamo/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/stephendiadamo/subscriptions', 'organizations_url': 'https://api.github.com/users/stephendiadamo/orgs', 'repos_url': 'https://api.github.com/users/stephendiadamo/repos', 'events_url': 'https://api.github.com/users/stephendiadamo/events{/privacy}', 'received_events_url': 'https://api.github.com/users/stephendiadamo/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['quantumalgorithms.org']['bounties'][1]['closed_at'] changed from str to NoneType and value changed from "2022-06-06T05:09:18Z" to None.
+Value of root['QuTiP']['open_issues_count'] changed from 158 to 159.
+Value of root['NetKet']['open_issues_count'] changed from 87 to 88.
+Value of root['Qiskit Nature']['forks_count'] changed from 126 to 125.
+Value of root['QuNetSim']['bounties'][3]['state'] changed from "open" to "closed".
+Value of root['QuNetSim']['open_issues_count'] changed from 16 to 12.
+Value of root['Qiskit']['forks_count'] changed from 1665 to 1666.
+Value of root['Qiskit']['open_issues_count'] changed from 817 to 820.
+Value of root['PennyLane']['uh_prs'][2]['number'] changed from 2659 to 2661.
+Value of root['PennyLane']['uh_prs'][2]['title'] changed from "[WIP] add SPSA [unitaryhack]" to "Add spsa optimization [unitaryhack] ".
+Value of root['PennyLane']['uh_prs'][2]['created_at'] changed from "2022-06-03T20:49:52Z" to "2022-06-04T08:41:30Z".
+Value of root['PennyLane']['uh_prs'][2]['draft'] changed from True to False.
+Value of root['PennyLane']['uh_prs'][3]['number'] changed from 2661 to 2662.
+Value of root['PennyLane']['uh_prs'][3]['title'] changed from "Add spsa optimization [unitaryhack] " to "[unitaryhack] Request for new matplotlib drawing styles".
+Value of root['PennyLane']['uh_prs'][3]['created_at'] changed from "2022-06-04T08:41:30Z" to "2022-06-04T19:15:03Z".
+Value of root['FlamingPy']['open_issues_count'] changed from 22 to 21.
+Value of root['quantumalgorithms.org']['bounties'][1]['state'] changed from "closed" to "open".
+Value of root['quantumalgorithms.org']['open_issues_count'] changed from 9 to 11.
+Value of root['Mitiq']['open_issues_count'] changed from 75 to 76.
+Value of root['Covalent']['open_issues_count'] changed from 87 to 89.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['QuTiP']['uh_prs'][0]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/165551?v=4',
+                                                                                     'events_url': 'https://api.github.com/users/hodgestar/events{/privacy}',
+                                                                                     'followers_url': 'https://api.github.com/users/hodgestar/followers',
+                                                                                     'following_url': 'https://api.github.com/users/hodgestar/following{/other_user}',
+                                                                                     'gists_url': 'https://api.github.com/users/hodgestar/gists{/gist_id}',
+                                                                                     'gravatar_id': '',
+                                                                                     'html_url': 'https://github.com/hodgestar',
+                                                                                     'id': 165551,
+                                                                                     'login': 'hodgestar',
+                                                                                     'node_id': 'MDQ6VXNlcjE2NTU1MQ==',
+                                                                                     'organizations_url': 'https://api.github.com/users/hodgestar/orgs',
+                                                                                     'received_events_url': 'https://api.github.com/users/hodgestar/received_events',
+                                                                                     'repos_url': 'https://api.github.com/users/hodgestar/repos',
+                                                                                     'site_admin': False,
+                                                                                     'starred_url': 'https://api.github.com/users/hodgestar/starred{/owner}{/repo}',
+                                                                                     'subscriptions_url': 'https://api.github.com/users/hodgestar/subscriptions',
+                                                                                     'type': 'User',
+                                                                                     'url': 'https://api.github.com/users/hodgestar'},
+                           "root['quantumalgorithms.org']['uh_prs'][0]": { 'assignees': [ ],
+                                                                           'closed_at': None,
+                                                                           'created_at': '2022-06-07T02:06:56Z',
+                                                                           'draft': False,
+                                                                           'merged_at': None,
+                                                                           'number': 74,
+                                                                           'requested_reviewers': [ ],
+                                                                           'state': 'open',
+                                                                           'title': '[unitaryhack] '
+                                                                                    'fix '
+                                                                                    'for '
+                                                                                    'https://github.com/scinawa/quantumalgorithms.or…'}},
+  'iterable_item_removed': { "root['PennyLane']['uh_prs'][4]": { 'assignees': [ ],
+                                                                 'closed_at': None,
+                                                                 'created_at': '2022-06-04T19:15:03Z',
+                                                                 'draft': False,
+                                                                 'merged_at': None,
+                                                                 'number': 2662,
+                                                                 'requested_reviewers': [ ],
+                                                                 'state': 'open',
+                                                                 'title': '[unitaryhack] '
+                                                                          'Request '
+                                                                          'for '
+                                                                          'new '
+                                                                          'matplotlib '
+                                                                          'drawing '
+                                                                          'styles'},
+                             "root['QuNetSim']['uh_prs'][0]": { 'assignees': [],
+                                                                'closed_at': None,
+                                                                'created_at': '2022-05-30T17:26:56Z',
+                                                                'draft': False,
+                                                                'merged_at': None,
+                                                                'number': 134,
+                                                                'requested_reviewers': [ ],
+                                                                'state': 'open',
+                                                                'title': 'Rename '
+                                                                         'get_data_qubit '
+                                                                         'to '
+                                                                         'get_qubit '
+                                                                         '[unitaryhack]'}},
+  'type_changes': { "root['QuNetSim']['bounties'][3]['closed_at']": { 'new_type': <class 'str'>,
+                                                                      'new_value': '2022-06-07T07:44:54Z',
+                                                                      'old_type': <class 'NoneType'>,
+                                                                      'old_value': None},
+                    "root['QuNetSim']['bounties'][3]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                      'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/1194245?v=4',
+                                                                                     'events_url': 'https://api.github.com/users/stephendiadamo/events{/privacy}',
+                                                                                     'followers_url': 'https://api.github.com/users/stephendiadamo/followers',
+                                                                                     'following_url': 'https://api.github.com/users/stephendiadamo/following{/other_user}',
+                                                                                     'gists_url': 'https://api.github.com/users/stephendiadamo/gists{/gist_id}',
+                                                                                     'gravatar_id': '',
+                                                                                     'html_url': 'https://github.com/stephendiadamo',
+                                                                                     'id': 1194245,
+                                                                                     'login': 'stephendiadamo',
+                                                                                     'node_id': 'MDQ6VXNlcjExOTQyNDU=',
+                                                                                     'organizations_url': 'https://api.github.com/users/stephendiadamo/orgs',
+                                                                                     'received_events_url': 'https://api.github.com/users/stephendiadamo/received_events',
+                                                                                     'repos_url': 'https://api.github.com/users/stephendiadamo/repos',
+                                                                                     'site_admin': False,
+                                                                                     'starred_url': 'https://api.github.com/users/stephendiadamo/starred{/owner}{/repo}',
+                                                                                     'subscriptions_url': 'https://api.github.com/users/stephendiadamo/subscriptions',
+                                                                                     'type': 'User',
+                                                                                     'url': 'https://api.github.com/users/stephendiadamo'},
+                                                                      'old_type': <class 'NoneType'>,
+                                                                      'old_value': None},
+                    "root['quantumalgorithms.org']['bounties'][1]['closed_at']": { 'new_type': <class 'NoneType'>,
+                                                                                   'new_value': None,
+                                                                                   'old_type': <class 'str'>,
+                                                                                   'old_value': '2022-06-06T05:09:18Z'}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 89,
+                                                                 'old_value': 87},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 21,
+                                                                  'old_value': 22},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 76,
+                                                              'old_value': 75},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 88,
+                                                               'old_value': 87},
+                      "root['PennyLane']['uh_prs'][2]['created_at']": { 'new_value': '2022-06-04T08:41:30Z',
+                                                                        'old_value': '2022-06-03T20:49:52Z'},
+                      "root['PennyLane']['uh_prs'][2]['draft']": { 'new_value': False,
+                                                                   'old_value': True},
+                      "root['PennyLane']['uh_prs'][2]['number']": { 'new_value': 2661,
+                                                                    'old_value': 2659},
+                      "root['PennyLane']['uh_prs'][2]['title']": { 'new_value': 'Add '
+                                                                                'spsa '
+                                                                                'optimization '
+                                                                                '[unitaryhack] ',
+                                                                   'old_value': '[WIP] '
+                                                                                'add '
+                                                                                'SPSA '
+                                                                                '[unitaryhack]'},
+                      "root['PennyLane']['uh_prs'][3]['created_at']": { 'new_value': '2022-06-04T19:15:03Z',
+                                                                        'old_value': '2022-06-04T08:41:30Z'},
+                      "root['PennyLane']['uh_prs'][3]['number']": { 'new_value': 2662,
+                                                                    'old_value': 2661},
+                      "root['PennyLane']['uh_prs'][3]['title']": { 'new_value': '[unitaryhack] '
+                                                                                'Request '
+                                                                                'for '
+                                                                                'new '
+                                                                                'matplotlib '
+                                                                                'drawing '
+                                                                                'styles',
+                                                                   'old_value': 'Add '
+                                                                                'spsa '
+                                                                                'optimization '
+                                                                                '[unitaryhack] '},
+                      "root['Qiskit Nature']['forks_count']": { 'new_value': 125,
+                                                                'old_value': 126},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1666,
+                                                         'old_value': 1665},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 820,
+                                                               'old_value': 817},
+                      "root['QuNetSim']['bounties'][3]['state']": { 'new_value': 'closed',
+                                                                    'old_value': 'open'},
+                      "root['QuNetSim']['open_issues_count']": { 'new_value': 12,
+                                                                 'old_value': 16},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 159,
+                                                              'old_value': 158},
+                      "root['quantumalgorithms.org']['bounties'][1]['state']": { 'new_value': 'open',
+                                                                                 'old_value': 'closed'},
+                      "root['quantumalgorithms.org']['open_issues_count']": { 'new_value': 11,
+                                                                              'old_value': 9}}}
