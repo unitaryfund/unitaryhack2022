@@ -7,7 +7,7 @@
             <span class="project-card__emoji">{{ project.emoji }}</span>
             {% endif %}
             {% if project.title %}
-            <a  href="/projects/{{ project.title }}">{{ project.title }}</a>
+              <a  href="/projects/{{ project.title | slugify }}">{{ project.title }}</a>
             {% else %}
               Untitled
             {% endif %}
