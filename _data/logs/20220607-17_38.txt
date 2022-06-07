@@ -1,0 +1,363 @@
+Changes to unitaryHACK results
+updated 07/06/2022 17:38:29
+--------------------
+Item root['quantumalgorithms.org']['permalink'] added to dictionary.
+Item root['Quantum Universal Education']['uh_prs'][2] added to iterable.
+Item root['Covalent']['bounties'][2]['labels'][5] added to iterable.
+Item root['QuTiP']['uh_prs'][0]['requested_reviewers'][0] removed from iterable.
+Item root['PennyLane']['uh_prs'][3] removed from iterable.
+Item root['FlamingPy']['uh_prs'][0]['requested_reviewers'][2] removed from iterable.
+Type of root['PennyLane']['bounties'][3]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-07T17:16:03Z".
+Type of root['PennyLane']['bounties'][3]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'rmoyard', 'id': 36766072, 'node_id': 'MDQ6VXNlcjM2NzY2MDcy', 'avatar_url': 'https://avatars.githubusercontent.com/u/36766072?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/rmoyard', 'html_url': 'https://github.com/rmoyard', 'followers_url': 'https://api.github.com/users/rmoyard/followers', 'following_url': 'https://api.github.com/users/rmoyard/following{/other_user}', 'gists_url': 'https://api.github.com/users/rmoyard/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/rmoyard/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/rmoyard/subscriptions', 'organizations_url': 'https://api.github.com/users/rmoyard/orgs', 'repos_url': 'https://api.github.com/users/rmoyard/repos', 'events_url': 'https://api.github.com/users/rmoyard/events{/privacy}', 'received_events_url': 'https://api.github.com/users/rmoyard/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Metriq']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-07T16:51:27Z".
+Type of root['Metriq']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'WrathfulSpatula', 'id': 2674693, 'node_id': 'MDQ6VXNlcjI2NzQ2OTM=', 'avatar_url': 'https://avatars.githubusercontent.com/u/2674693?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/WrathfulSpatula', 'html_url': 'https://github.com/WrathfulSpatula', 'followers_url': 'https://api.github.com/users/WrathfulSpatula/followers', 'following_url': 'https://api.github.com/users/WrathfulSpatula/following{/other_user}', 'gists_url': 'https://api.github.com/users/WrathfulSpatula/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/WrathfulSpatula/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/WrathfulSpatula/subscriptions', 'organizations_url': 'https://api.github.com/users/WrathfulSpatula/orgs', 'repos_url': 'https://api.github.com/users/WrathfulSpatula/repos', 'events_url': 'https://api.github.com/users/WrathfulSpatula/events{/privacy}', 'received_events_url': 'https://api.github.com/users/WrathfulSpatula/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Metriq']['bounties'][2]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-07T15:03:55Z".
+Type of root['Metriq']['bounties'][2]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'WrathfulSpatula', 'id': 2674693, 'node_id': 'MDQ6VXNlcjI2NzQ2OTM=', 'avatar_url': 'https://avatars.githubusercontent.com/u/2674693?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/WrathfulSpatula', 'html_url': 'https://github.com/WrathfulSpatula', 'followers_url': 'https://api.github.com/users/WrathfulSpatula/followers', 'following_url': 'https://api.github.com/users/WrathfulSpatula/following{/other_user}', 'gists_url': 'https://api.github.com/users/WrathfulSpatula/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/WrathfulSpatula/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/WrathfulSpatula/subscriptions', 'organizations_url': 'https://api.github.com/users/WrathfulSpatula/orgs', 'repos_url': 'https://api.github.com/users/WrathfulSpatula/repos', 'events_url': 'https://api.github.com/users/WrathfulSpatula/events{/privacy}', 'received_events_url': 'https://api.github.com/users/WrathfulSpatula/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['QuTiP']['open_issues_count'] changed from 159 to 160.
+Value of root['PyQIR']['open_issues_count'] changed from 18 to 19.
+Value of root['scqubits']['forks_count'] changed from 45 to 46.
+Value of root['Qiskit']['open_issues_count'] changed from 816 to 813.
+Value of root['PennyLane']['bounties'][3]['state'] changed from "open" to "closed".
+Value of root['PennyLane']['open_issues_count'] changed from 220 to 221.
+Value of root['PennyLane']['uh_prs'][0]['number'] changed from 2649 to 2651.
+Value of root['PennyLane']['uh_prs'][0]['title'] changed from "Add IsingXY [unitaryhack]" to "Add equal function [unitaryhack]".
+Value of root['PennyLane']['uh_prs'][0]['created_at'] changed from "2022-06-02T05:25:01Z" to "2022-06-02T19:40:06Z".
+Value of root['PennyLane']['uh_prs'][1]['number'] changed from 2651 to 2661.
+Value of root['PennyLane']['uh_prs'][1]['title'] changed from "Add equal function [unitaryhack]" to "Add spsa optimization [unitaryhack] ".
+Value of root['PennyLane']['uh_prs'][1]['created_at'] changed from "2022-06-02T19:40:06Z" to "2022-06-04T08:41:30Z".
+Value of root['PennyLane']['uh_prs'][2]['number'] changed from 2661 to 2662.
+Value of root['PennyLane']['uh_prs'][2]['title'] changed from "Add spsa optimization [unitaryhack] " to "[unitaryhack] Request for new matplotlib drawing styles".
+Value of root['PennyLane']['uh_prs'][2]['created_at'] changed from "2022-06-04T08:41:30Z" to "2022-06-04T19:15:03Z".
+Value of root['FlamingPy']['open_issues_count'] changed from 21 to 20.
+Value of root['FlamingPy']['uh_prs'][0]['title'] changed from "Increase scope docformatter to all py files [unitaryhack]" to "Increase scope of docformatter and black [unitaryhack]".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['login'] changed from "nariman87" to "maxtremblay".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['id'] changed from 25132802 to 52462375.
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['node_id'] changed from "MDQ6VXNlcjI1MTMyODAy" to "MDQ6VXNlcjUyNDYyMzc1".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/25132802?v=4" to "https://avatars.githubusercontent.com/u/52462375?v=4".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['url'] changed from "https://api.github.com/users/nariman87" to "https://api.github.com/users/maxtremblay".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['html_url'] changed from "https://github.com/nariman87" to "https://github.com/maxtremblay".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['followers_url'] changed from "https://api.github.com/users/nariman87/followers" to "https://api.github.com/users/maxtremblay/followers".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['following_url'] changed from "https://api.github.com/users/nariman87/following{/other_user}" to "https://api.github.com/users/maxtremblay/following{/other_user}".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['gists_url'] changed from "https://api.github.com/users/nariman87/gists{/gist_id}" to "https://api.github.com/users/maxtremblay/gists{/gist_id}".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['starred_url'] changed from "https://api.github.com/users/nariman87/starred{/owner}{/repo}" to "https://api.github.com/users/maxtremblay/starred{/owner}{/repo}".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['subscriptions_url'] changed from "https://api.github.com/users/nariman87/subscriptions" to "https://api.github.com/users/maxtremblay/subscriptions".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['organizations_url'] changed from "https://api.github.com/users/nariman87/orgs" to "https://api.github.com/users/maxtremblay/orgs".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['repos_url'] changed from "https://api.github.com/users/nariman87/repos" to "https://api.github.com/users/maxtremblay/repos".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['events_url'] changed from "https://api.github.com/users/nariman87/events{/privacy}" to "https://api.github.com/users/maxtremblay/events{/privacy}".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['received_events_url'] changed from "https://api.github.com/users/nariman87/received_events" to "https://api.github.com/users/maxtremblay/received_events".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['login'] changed from "maxtremblay" to "ilan-tz".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['id'] changed from 52462375 to 57886357.
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['node_id'] changed from "MDQ6VXNlcjUyNDYyMzc1" to "MDQ6VXNlcjU3ODg2MzU3".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/52462375?v=4" to "https://avatars.githubusercontent.com/u/57886357?v=4".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['url'] changed from "https://api.github.com/users/maxtremblay" to "https://api.github.com/users/ilan-tz".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['html_url'] changed from "https://github.com/maxtremblay" to "https://github.com/ilan-tz".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['followers_url'] changed from "https://api.github.com/users/maxtremblay/followers" to "https://api.github.com/users/ilan-tz/followers".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['following_url'] changed from "https://api.github.com/users/maxtremblay/following{/other_user}" to "https://api.github.com/users/ilan-tz/following{/other_user}".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['gists_url'] changed from "https://api.github.com/users/maxtremblay/gists{/gist_id}" to "https://api.github.com/users/ilan-tz/gists{/gist_id}".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['starred_url'] changed from "https://api.github.com/users/maxtremblay/starred{/owner}{/repo}" to "https://api.github.com/users/ilan-tz/starred{/owner}{/repo}".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['subscriptions_url'] changed from "https://api.github.com/users/maxtremblay/subscriptions" to "https://api.github.com/users/ilan-tz/subscriptions".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['organizations_url'] changed from "https://api.github.com/users/maxtremblay/orgs" to "https://api.github.com/users/ilan-tz/orgs".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['repos_url'] changed from "https://api.github.com/users/maxtremblay/repos" to "https://api.github.com/users/ilan-tz/repos".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['events_url'] changed from "https://api.github.com/users/maxtremblay/events{/privacy}" to "https://api.github.com/users/ilan-tz/events{/privacy}".
+Value of root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['received_events_url'] changed from "https://api.github.com/users/maxtremblay/received_events" to "https://api.github.com/users/ilan-tz/received_events".
+Value of root['FlamingPy']['uh_prs'][0]['draft'] changed from True to False.
+Value of root['Metriq']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['Metriq']['bounties'][2]['state'] changed from "open" to "closed".
+Value of root['Metriq']['forks_count'] changed from 0 to 1.
+Value of root['Metriq']['open_issues_count'] changed from 65 to 63.
+Value of root['Quantum Universal Education']['forks_count'] changed from 18 to 19.
+Value of root['Quantum Universal Education']['open_issues_count'] changed from 6 to 7.
+Value of root['Pulser']['uh_prs'][0]['draft'] changed from False to True.
+Value of root['Covalent']['open_issues_count'] changed from 89 to 92.
+
+Full Details:
+--------------------
+{ 'dictionary_item_added': [root['quantumalgorithms.org']['permalink']],
+  'iterable_item_added': { "root['Covalent']['bounties'][2]['labels'][5]": 'unitaryhack-bounty',
+                           "root['Quantum Universal Education']['uh_prs'][2]": { 'assignees': [ ],
+                                                                                 'closed_at': None,
+                                                                                 'created_at': '2022-06-07T17:29:30Z',
+                                                                                 'draft': False,
+                                                                                 'merged_at': None,
+                                                                                 'number': 19,
+                                                                                 'requested_reviewers': [ ],
+                                                                                 'state': 'open',
+                                                                                 'title': '[unitaryhack] '
+                                                                                          'Quantum '
+                                                                                          'Applications: '
+                                                                                          'Simulating '
+                                                                                          'electronic '
+                                                                                          'structure '
+                                                                                          'of '
+                                                                                          'molecules'}},
+  'iterable_item_removed': { "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][2]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/57886357?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/ilan-tz/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/ilan-tz/followers',
+                                                                                           'following_url': 'https://api.github.com/users/ilan-tz/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/ilan-tz/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/ilan-tz',
+                                                                                           'id': 57886357,
+                                                                                           'login': 'ilan-tz',
+                                                                                           'node_id': 'MDQ6VXNlcjU3ODg2MzU3',
+                                                                                           'organizations_url': 'https://api.github.com/users/ilan-tz/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/ilan-tz/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/ilan-tz/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/ilan-tz/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/ilan-tz/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/ilan-tz'},
+                             "root['PennyLane']['uh_prs'][3]": { 'assignees': [ ],
+                                                                 'closed_at': None,
+                                                                 'created_at': '2022-06-04T19:15:03Z',
+                                                                 'draft': False,
+                                                                 'merged_at': None,
+                                                                 'number': 2662,
+                                                                 'requested_reviewers': [ ],
+                                                                 'state': 'open',
+                                                                 'title': '[unitaryhack] '
+                                                                          'Request '
+                                                                          'for '
+                                                                          'new '
+                                                                          'matplotlib '
+                                                                          'drawing '
+                                                                          'styles'},
+                             "root['QuTiP']['uh_prs'][0]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/165551?v=4',
+                                                                                       'events_url': 'https://api.github.com/users/hodgestar/events{/privacy}',
+                                                                                       'followers_url': 'https://api.github.com/users/hodgestar/followers',
+                                                                                       'following_url': 'https://api.github.com/users/hodgestar/following{/other_user}',
+                                                                                       'gists_url': 'https://api.github.com/users/hodgestar/gists{/gist_id}',
+                                                                                       'gravatar_id': '',
+                                                                                       'html_url': 'https://github.com/hodgestar',
+                                                                                       'id': 165551,
+                                                                                       'login': 'hodgestar',
+                                                                                       'node_id': 'MDQ6VXNlcjE2NTU1MQ==',
+                                                                                       'organizations_url': 'https://api.github.com/users/hodgestar/orgs',
+                                                                                       'received_events_url': 'https://api.github.com/users/hodgestar/received_events',
+                                                                                       'repos_url': 'https://api.github.com/users/hodgestar/repos',
+                                                                                       'site_admin': False,
+                                                                                       'starred_url': 'https://api.github.com/users/hodgestar/starred{/owner}{/repo}',
+                                                                                       'subscriptions_url': 'https://api.github.com/users/hodgestar/subscriptions',
+                                                                                       'type': 'User',
+                                                                                       'url': 'https://api.github.com/users/hodgestar'}},
+  'type_changes': { "root['Metriq']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                    'new_value': '2022-06-07T16:51:27Z',
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None},
+                    "root['Metriq']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                    'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/2674693?v=4',
+                                                                                   'events_url': 'https://api.github.com/users/WrathfulSpatula/events{/privacy}',
+                                                                                   'followers_url': 'https://api.github.com/users/WrathfulSpatula/followers',
+                                                                                   'following_url': 'https://api.github.com/users/WrathfulSpatula/following{/other_user}',
+                                                                                   'gists_url': 'https://api.github.com/users/WrathfulSpatula/gists{/gist_id}',
+                                                                                   'gravatar_id': '',
+                                                                                   'html_url': 'https://github.com/WrathfulSpatula',
+                                                                                   'id': 2674693,
+                                                                                   'login': 'WrathfulSpatula',
+                                                                                   'node_id': 'MDQ6VXNlcjI2NzQ2OTM=',
+                                                                                   'organizations_url': 'https://api.github.com/users/WrathfulSpatula/orgs',
+                                                                                   'received_events_url': 'https://api.github.com/users/WrathfulSpatula/received_events',
+                                                                                   'repos_url': 'https://api.github.com/users/WrathfulSpatula/repos',
+                                                                                   'site_admin': False,
+                                                                                   'starred_url': 'https://api.github.com/users/WrathfulSpatula/starred{/owner}{/repo}',
+                                                                                   'subscriptions_url': 'https://api.github.com/users/WrathfulSpatula/subscriptions',
+                                                                                   'type': 'User',
+                                                                                   'url': 'https://api.github.com/users/WrathfulSpatula'},
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None},
+                    "root['Metriq']['bounties'][2]['closed_at']": { 'new_type': <class 'str'>,
+                                                                    'new_value': '2022-06-07T15:03:55Z',
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None},
+                    "root['Metriq']['bounties'][2]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                    'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/2674693?v=4',
+                                                                                   'events_url': 'https://api.github.com/users/WrathfulSpatula/events{/privacy}',
+                                                                                   'followers_url': 'https://api.github.com/users/WrathfulSpatula/followers',
+                                                                                   'following_url': 'https://api.github.com/users/WrathfulSpatula/following{/other_user}',
+                                                                                   'gists_url': 'https://api.github.com/users/WrathfulSpatula/gists{/gist_id}',
+                                                                                   'gravatar_id': '',
+                                                                                   'html_url': 'https://github.com/WrathfulSpatula',
+                                                                                   'id': 2674693,
+                                                                                   'login': 'WrathfulSpatula',
+                                                                                   'node_id': 'MDQ6VXNlcjI2NzQ2OTM=',
+                                                                                   'organizations_url': 'https://api.github.com/users/WrathfulSpatula/orgs',
+                                                                                   'received_events_url': 'https://api.github.com/users/WrathfulSpatula/received_events',
+                                                                                   'repos_url': 'https://api.github.com/users/WrathfulSpatula/repos',
+                                                                                   'site_admin': False,
+                                                                                   'starred_url': 'https://api.github.com/users/WrathfulSpatula/starred{/owner}{/repo}',
+                                                                                   'subscriptions_url': 'https://api.github.com/users/WrathfulSpatula/subscriptions',
+                                                                                   'type': 'User',
+                                                                                   'url': 'https://api.github.com/users/WrathfulSpatula'},
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None},
+                    "root['PennyLane']['bounties'][3]['closed_at']": { 'new_type': <class 'str'>,
+                                                                       'new_value': '2022-06-07T17:16:03Z',
+                                                                       'old_type': <class 'NoneType'>,
+                                                                       'old_value': None},
+                    "root['PennyLane']['bounties'][3]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                       'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/36766072?v=4',
+                                                                                      'events_url': 'https://api.github.com/users/rmoyard/events{/privacy}',
+                                                                                      'followers_url': 'https://api.github.com/users/rmoyard/followers',
+                                                                                      'following_url': 'https://api.github.com/users/rmoyard/following{/other_user}',
+                                                                                      'gists_url': 'https://api.github.com/users/rmoyard/gists{/gist_id}',
+                                                                                      'gravatar_id': '',
+                                                                                      'html_url': 'https://github.com/rmoyard',
+                                                                                      'id': 36766072,
+                                                                                      'login': 'rmoyard',
+                                                                                      'node_id': 'MDQ6VXNlcjM2NzY2MDcy',
+                                                                                      'organizations_url': 'https://api.github.com/users/rmoyard/orgs',
+                                                                                      'received_events_url': 'https://api.github.com/users/rmoyard/received_events',
+                                                                                      'repos_url': 'https://api.github.com/users/rmoyard/repos',
+                                                                                      'site_admin': False,
+                                                                                      'starred_url': 'https://api.github.com/users/rmoyard/starred{/owner}{/repo}',
+                                                                                      'subscriptions_url': 'https://api.github.com/users/rmoyard/subscriptions',
+                                                                                      'type': 'User',
+                                                                                      'url': 'https://api.github.com/users/rmoyard'},
+                                                                       'old_type': <class 'NoneType'>,
+                                                                       'old_value': None}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 92,
+                                                                 'old_value': 89},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 20,
+                                                                  'old_value': 21},
+                      "root['FlamingPy']['uh_prs'][0]['draft']": { 'new_value': False,
+                                                                   'old_value': True},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/52462375?v=4',
+                                                                                                  'old_value': 'https://avatars.githubusercontent.com/u/25132802?v=4'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['events_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/events{/privacy}',
+                                                                                                  'old_value': 'https://api.github.com/users/nariman87/events{/privacy}'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['followers_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/followers',
+                                                                                                     'old_value': 'https://api.github.com/users/nariman87/followers'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['following_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/following{/other_user}',
+                                                                                                     'old_value': 'https://api.github.com/users/nariman87/following{/other_user}'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['gists_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/gists{/gist_id}',
+                                                                                                 'old_value': 'https://api.github.com/users/nariman87/gists{/gist_id}'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['html_url']": { 'new_value': 'https://github.com/maxtremblay',
+                                                                                                'old_value': 'https://github.com/nariman87'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['id']": { 'new_value': 52462375,
+                                                                                          'old_value': 25132802},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['login']": { 'new_value': 'maxtremblay',
+                                                                                             'old_value': 'nariman87'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['node_id']": { 'new_value': 'MDQ6VXNlcjUyNDYyMzc1',
+                                                                                               'old_value': 'MDQ6VXNlcjI1MTMyODAy'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['organizations_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/orgs',
+                                                                                                         'old_value': 'https://api.github.com/users/nariman87/orgs'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['received_events_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/received_events',
+                                                                                                           'old_value': 'https://api.github.com/users/nariman87/received_events'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['repos_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/repos',
+                                                                                                 'old_value': 'https://api.github.com/users/nariman87/repos'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['starred_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/starred{/owner}{/repo}',
+                                                                                                   'old_value': 'https://api.github.com/users/nariman87/starred{/owner}{/repo}'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/subscriptions',
+                                                                                                         'old_value': 'https://api.github.com/users/nariman87/subscriptions'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][0]['url']": { 'new_value': 'https://api.github.com/users/maxtremblay',
+                                                                                           'old_value': 'https://api.github.com/users/nariman87'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/57886357?v=4',
+                                                                                                  'old_value': 'https://avatars.githubusercontent.com/u/52462375?v=4'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['events_url']": { 'new_value': 'https://api.github.com/users/ilan-tz/events{/privacy}',
+                                                                                                  'old_value': 'https://api.github.com/users/maxtremblay/events{/privacy}'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['followers_url']": { 'new_value': 'https://api.github.com/users/ilan-tz/followers',
+                                                                                                     'old_value': 'https://api.github.com/users/maxtremblay/followers'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['following_url']": { 'new_value': 'https://api.github.com/users/ilan-tz/following{/other_user}',
+                                                                                                     'old_value': 'https://api.github.com/users/maxtremblay/following{/other_user}'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['gists_url']": { 'new_value': 'https://api.github.com/users/ilan-tz/gists{/gist_id}',
+                                                                                                 'old_value': 'https://api.github.com/users/maxtremblay/gists{/gist_id}'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['html_url']": { 'new_value': 'https://github.com/ilan-tz',
+                                                                                                'old_value': 'https://github.com/maxtremblay'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['id']": { 'new_value': 57886357,
+                                                                                          'old_value': 52462375},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['login']": { 'new_value': 'ilan-tz',
+                                                                                             'old_value': 'maxtremblay'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['node_id']": { 'new_value': 'MDQ6VXNlcjU3ODg2MzU3',
+                                                                                               'old_value': 'MDQ6VXNlcjUyNDYyMzc1'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['organizations_url']": { 'new_value': 'https://api.github.com/users/ilan-tz/orgs',
+                                                                                                         'old_value': 'https://api.github.com/users/maxtremblay/orgs'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['received_events_url']": { 'new_value': 'https://api.github.com/users/ilan-tz/received_events',
+                                                                                                           'old_value': 'https://api.github.com/users/maxtremblay/received_events'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['repos_url']": { 'new_value': 'https://api.github.com/users/ilan-tz/repos',
+                                                                                                 'old_value': 'https://api.github.com/users/maxtremblay/repos'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['starred_url']": { 'new_value': 'https://api.github.com/users/ilan-tz/starred{/owner}{/repo}',
+                                                                                                   'old_value': 'https://api.github.com/users/maxtremblay/starred{/owner}{/repo}'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/ilan-tz/subscriptions',
+                                                                                                         'old_value': 'https://api.github.com/users/maxtremblay/subscriptions'},
+                      "root['FlamingPy']['uh_prs'][0]['requested_reviewers'][1]['url']": { 'new_value': 'https://api.github.com/users/ilan-tz',
+                                                                                           'old_value': 'https://api.github.com/users/maxtremblay'},
+                      "root['FlamingPy']['uh_prs'][0]['title']": { 'new_value': 'Increase '
+                                                                                'scope '
+                                                                                'of '
+                                                                                'docformatter '
+                                                                                'and '
+                                                                                'black '
+                                                                                '[unitaryhack]',
+                                                                   'old_value': 'Increase '
+                                                                                'scope '
+                                                                                'docformatter '
+                                                                                'to '
+                                                                                'all '
+                                                                                'py '
+                                                                                'files '
+                                                                                '[unitaryhack]'},
+                      "root['Metriq']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                  'old_value': 'open'},
+                      "root['Metriq']['bounties'][2]['state']": { 'new_value': 'closed',
+                                                                  'old_value': 'open'},
+                      "root['Metriq']['forks_count']": { 'new_value': 1,
+                                                         'old_value': 0},
+                      "root['Metriq']['open_issues_count']": { 'new_value': 63,
+                                                               'old_value': 65},
+                      "root['PennyLane']['bounties'][3]['state']": { 'new_value': 'closed',
+                                                                     'old_value': 'open'},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 221,
+                                                                  'old_value': 220},
+                      "root['PennyLane']['uh_prs'][0]['created_at']": { 'new_value': '2022-06-02T19:40:06Z',
+                                                                        'old_value': '2022-06-02T05:25:01Z'},
+                      "root['PennyLane']['uh_prs'][0]['number']": { 'new_value': 2651,
+                                                                    'old_value': 2649},
+                      "root['PennyLane']['uh_prs'][0]['title']": { 'new_value': 'Add '
+                                                                                'equal '
+                                                                                'function '
+                                                                                '[unitaryhack]',
+                                                                   'old_value': 'Add '
+                                                                                'IsingXY '
+                                                                                '[unitaryhack]'},
+                      "root['PennyLane']['uh_prs'][1]['created_at']": { 'new_value': '2022-06-04T08:41:30Z',
+                                                                        'old_value': '2022-06-02T19:40:06Z'},
+                      "root['PennyLane']['uh_prs'][1]['number']": { 'new_value': 2661,
+                                                                    'old_value': 2651},
+                      "root['PennyLane']['uh_prs'][1]['title']": { 'new_value': 'Add '
+                                                                                'spsa '
+                                                                                'optimization '
+                                                                                '[unitaryhack] ',
+                                                                   'old_value': 'Add '
+                                                                                'equal '
+                                                                                'function '
+                                                                                '[unitaryhack]'},
+                      "root['PennyLane']['uh_prs'][2]['created_at']": { 'new_value': '2022-06-04T19:15:03Z',
+                                                                        'old_value': '2022-06-04T08:41:30Z'},
+                      "root['PennyLane']['uh_prs'][2]['number']": { 'new_value': 2662,
+                                                                    'old_value': 2661},
+                      "root['PennyLane']['uh_prs'][2]['title']": { 'new_value': '[unitaryhack] '
+                                                                                'Request '
+                                                                                'for '
+                                                                                'new '
+                                                                                'matplotlib '
+                                                                                'drawing '
+                                                                                'styles',
+                                                                   'old_value': 'Add '
+                                                                                'spsa '
+                                                                                'optimization '
+                                                                                '[unitaryhack] '},
+                      "root['Pulser']['uh_prs'][0]['draft']": { 'new_value': True,
+                                                                'old_value': False},
+                      "root['PyQIR']['open_issues_count']": { 'new_value': 19,
+                                                              'old_value': 18},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 813,
+                                                               'old_value': 816},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 160,
+                                                              'old_value': 159},
+                      "root['Quantum Universal Education']['forks_count']": { 'new_value': 19,
+                                                                              'old_value': 18},
+                      "root['Quantum Universal Education']['open_issues_count']": { 'new_value': 7,
+                                                                                    'old_value': 6},
+                      "root['scqubits']['forks_count']": { 'new_value': 46,
+                                                           'old_value': 45}}}
