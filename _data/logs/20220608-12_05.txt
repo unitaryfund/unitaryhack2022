@@ -1,0 +1,117 @@
+Changes to unitaryHACK results
+updated 08/06/2022 12:05:17
+--------------------
+Item root['PennyLane']['uh_prs'][3] added to iterable.
+Item root['Metriq']['uh_prs'][0] added to iterable.
+Item root['Covalent']['uh_prs'][0] added to iterable.
+Item root['quantumalgorithms.org']['uh_prs'][0] removed from iterable.
+Value of root['NetKet']['open_issues_count'] changed from 87 to 88.
+Value of root['Qiskit Nature']['forks_count'] changed from 125 to 126.
+Value of root['Yao']['forks_count'] changed from 96 to 97.
+Value of root['Qiskit']['forks_count'] changed from 1667 to 1668.
+Value of root['Qiskit']['open_issues_count'] changed from 813 to 812.
+Value of root['Orquestra Core']['subscribers_count'] changed from 13 to 15.
+Value of root['FlamingPy']['open_issues_count'] changed from 18 to 19.
+Value of root['Metriq']['open_issues_count'] changed from 63 to 64.
+Value of root['quantumalgorithms.org']['open_issues_count'] changed from 11 to 10.
+Value of root['Pulser']['forks_count'] changed from 30 to 31.
+Value of root['Mitiq']['open_issues_count'] changed from 75 to 76.
+Value of root['toqito']['open_issues_count'] changed from 23 to 22.
+Value of root['Covalent']['open_issues_count'] changed from 94 to 95.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Covalent']['uh_prs'][0]": { 'assignees': [],
+                                                              'closed_at': None,
+                                                              'created_at': '2022-05-26T16:15:13Z',
+                                                              'draft': False,
+                                                              'merged_at': None,
+                                                              'number': 569,
+                                                              'requested_reviewers': [ ],
+                                                              'state': 'open',
+                                                              'title': 'Fixes '
+                                                                       'Reverse '
+                                                                       'IP '
+                                                                       'problem '
+                                                                       '[unitaryhack]'},
+                           "root['Metriq']['uh_prs'][0]": { 'assignees': [],
+                                                            'closed_at': None,
+                                                            'created_at': '2022-06-08T06:10:44Z',
+                                                            'draft': False,
+                                                            'merged_at': None,
+                                                            'number': 590,
+                                                            'requested_reviewers': [ ],
+                                                            'state': 'open',
+                                                            'title': '[unitaryhack] '
+                                                                     'https://github.com/unitaryfund/metriq-app/issues/167'},
+                           "root['PennyLane']['uh_prs'][3]": { 'assignees': [],
+                                                               'closed_at': None,
+                                                               'created_at': '2022-06-07T05:07:42Z',
+                                                               'draft': False,
+                                                               'merged_at': None,
+                                                               'number': 2668,
+                                                               'requested_reviewers': [ { 'avatar_url': 'https://avatars.githubusercontent.com/u/6364575?v=4',
+                                                                                          'events_url': 'https://api.github.com/users/albi3ro/events{/privacy}',
+                                                                                          'followers_url': 'https://api.github.com/users/albi3ro/followers',
+                                                                                          'following_url': 'https://api.github.com/users/albi3ro/following{/other_user}',
+                                                                                          'gists_url': 'https://api.github.com/users/albi3ro/gists{/gist_id}',
+                                                                                          'gravatar_id': '',
+                                                                                          'html_url': 'https://github.com/albi3ro',
+                                                                                          'id': 6364575,
+                                                                                          'login': 'albi3ro',
+                                                                                          'node_id': 'MDQ6VXNlcjYzNjQ1NzU=',
+                                                                                          'organizations_url': 'https://api.github.com/users/albi3ro/orgs',
+                                                                                          'received_events_url': 'https://api.github.com/users/albi3ro/received_events',
+                                                                                          'repos_url': 'https://api.github.com/users/albi3ro/repos',
+                                                                                          'site_admin': False,
+                                                                                          'starred_url': 'https://api.github.com/users/albi3ro/starred{/owner}{/repo}',
+                                                                                          'subscriptions_url': 'https://api.github.com/users/albi3ro/subscriptions',
+                                                                                          'type': 'User',
+                                                                                          'url': 'https://api.github.com/users/albi3ro'}],
+                                                               'state': 'open',
+                                                               'title': 'Make '
+                                                                        'visual '
+                                                                        'changes '
+                                                                        'for 0 '
+                                                                        'and 1 '
+                                                                        'control '
+                                                                        'values '
+                                                                        '[unitaryhack]'}},
+  'iterable_item_removed': { "root['quantumalgorithms.org']['uh_prs'][0]": { 'assignees': [ ],
+                                                                             'closed_at': None,
+                                                                             'created_at': '2022-06-07T02:06:56Z',
+                                                                             'draft': False,
+                                                                             'merged_at': None,
+                                                                             'number': 74,
+                                                                             'requested_reviewers': [ ],
+                                                                             'state': 'open',
+                                                                             'title': '[unitaryhack] '
+                                                                                      'fix '
+                                                                                      'for '
+                                                                                      'https://github.com/scinawa/quantumalgorithms.or…'}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 95,
+                                                                 'old_value': 94},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 19,
+                                                                  'old_value': 18},
+                      "root['Metriq']['open_issues_count']": { 'new_value': 64,
+                                                               'old_value': 63},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 76,
+                                                              'old_value': 75},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 88,
+                                                               'old_value': 87},
+                      "root['Orquestra Core']['subscribers_count']": { 'new_value': 15,
+                                                                       'old_value': 13},
+                      "root['Pulser']['forks_count']": { 'new_value': 31,
+                                                         'old_value': 30},
+                      "root['Qiskit Nature']['forks_count']": { 'new_value': 126,
+                                                                'old_value': 125},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1668,
+                                                         'old_value': 1667},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 812,
+                                                               'old_value': 813},
+                      "root['Yao']['forks_count']": { 'new_value': 97,
+                                                      'old_value': 96},
+                      "root['quantumalgorithms.org']['open_issues_count']": { 'new_value': 10,
+                                                                              'old_value': 11},
+                      "root['toqito']['open_issues_count']": { 'new_value': 22,
+                                                               'old_value': 23}}}
