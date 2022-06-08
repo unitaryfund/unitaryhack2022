@@ -21,6 +21,9 @@ bounties:
     issue_num: 204
     value: 100
 ---
+**Bounties**
+  - Create a jupyter-lab extension for realtime visualization ([link](https://gitlab.com/quantify-os/quantify-core/issues/203)). Value: $100
+  - name: Create an interactive data browser ([link](https://gitlab.com/quantify-os/quantify-core/issues/204)). Value: $100
 
 Quantify enables quantum computing users to program hybrid `gate-level` / `pulse-level` physics experiments:  
 - in a hardware-agnostic manner through [`quantify-scheduler`](https://gitlab.com/quantify-os/quantify-scheduler) (currently supporting Qblox and Zurich Instruments `control hardware`), 
