@@ -19,6 +19,8 @@ bounties:
     value: 100
 ---
 
+**Open bounty**: QuTiP and quantify-scheduler interface, link [here](https://gitlab.com/quantify-os/quantify-scheduler/-/issues/114), value: $100.
+
 Quantify enables quantum computing users to program hybrid `gate-level` / `pulse-level` physics experiments:  
 - in a hardware-agnostic manner through [`quantify-scheduler`](https://gitlab.com/quantify-os/quantify-scheduler) (currently supporting Qblox and Zurich Instruments `control hardware`), 
 - and to automate `data acquisition` and execution of these experiments with [`quantify-core`](https://gitlab.com/quantify-os/quantify-core).
