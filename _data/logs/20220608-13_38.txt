@@ -1,0 +1,21 @@
+Changes to unitaryHACK results
+updated 08/06/2022 13:38:36
+--------------------
+Item root['Metriq']['bounties'][1]['labels'][1] added to iterable.
+Item root['Metriq']['bounties'][3]['labels'][2] added to iterable.
+Item root['Metriq']['bounties'][4]['labels'][1] added to iterable.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 78 to 79.
+Value of root['Qiskit']['open_issues_count'] changed from 812 to 810.
+Value of root['Covalent']['open_issues_count'] changed from 95 to 93.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Metriq']['bounties'][1]['labels'][1]": 'unitaryhack-accepted',
+                           "root['Metriq']['bounties'][3]['labels'][2]": 'unitaryhack-bounty',
+                           "root['Metriq']['bounties'][4]['labels'][1]": 'unitaryhack-bounty'},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 93,
+                                                                 'old_value': 95},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 79,
+                                                                      'old_value': 78},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 810,
+                                                               'old_value': 812}}}
