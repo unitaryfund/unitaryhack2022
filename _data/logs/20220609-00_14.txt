@@ -1,0 +1,320 @@
+Changes to unitaryHACK results
+updated 09/06/2022 00:14:09
+--------------------
+Item root['PyQIR']['uh_prs'][0]['assignees'][0] added to iterable.
+Item root['PyQrack']['uh_prs'][0] added to iterable.
+Item root['Mitiq']['uh_prs'][2]['requested_reviewers'][0] added to iterable.
+Item root['toqito']['uh_prs'][0] added to iterable.
+Item root['QuTiP']['uh_prs'][0] removed from iterable.
+Item root['Qiskit IonQ']['uh_prs'][1] removed from iterable.
+Item root['PennyLane']['uh_prs'][0]['requested_reviewers'][0] removed from iterable.
+Item root['PennyLane']['uh_prs'][2]['requested_reviewers'][0] removed from iterable.
+Item root['PennyLane']['uh_prs'][3] removed from iterable.
+Item root['Quantum Universal Education']['uh_prs'][1] removed from iterable.
+Type of root['QuTiP']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-08T18:41:23Z".
+Type of root['QuTiP']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'hodgestar', 'id': 165551, 'node_id': 'MDQ6VXNlcjE2NTU1MQ==', 'avatar_url': 'https://avatars.githubusercontent.com/u/165551?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/hodgestar', 'html_url': 'https://github.com/hodgestar', 'followers_url': 'https://api.github.com/users/hodgestar/followers', 'following_url': 'https://api.github.com/users/hodgestar/following{/other_user}', 'gists_url': 'https://api.github.com/users/hodgestar/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/hodgestar/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/hodgestar/subscriptions', 'organizations_url': 'https://api.github.com/users/hodgestar/orgs', 'repos_url': 'https://api.github.com/users/hodgestar/repos', 'events_url': 'https://api.github.com/users/hodgestar/events{/privacy}', 'received_events_url': 'https://api.github.com/users/hodgestar/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Qiskit IonQ']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-08T20:06:03Z".
+Type of root['Qiskit IonQ']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'Cynocracy', 'id': 1058746, 'node_id': 'MDQ6VXNlcjEwNTg3NDY=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1058746?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/Cynocracy', 'html_url': 'https://github.com/Cynocracy', 'followers_url': 'https://api.github.com/users/Cynocracy/followers', 'following_url': 'https://api.github.com/users/Cynocracy/following{/other_user}', 'gists_url': 'https://api.github.com/users/Cynocracy/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/Cynocracy/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/Cynocracy/subscriptions', 'organizations_url': 'https://api.github.com/users/Cynocracy/orgs', 'repos_url': 'https://api.github.com/users/Cynocracy/repos', 'events_url': 'https://api.github.com/users/Cynocracy/events{/privacy}', 'received_events_url': 'https://api.github.com/users/Cynocracy/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Quantum Universal Education']['bounties'][0]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-08T19:07:48Z".
+Type of root['Quantum Universal Education']['bounties'][0]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'MaldoAlberto', 'id': 21325664, 'node_id': 'MDQ6VXNlcjIxMzI1NjY0', 'avatar_url': 'https://avatars.githubusercontent.com/u/21325664?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/MaldoAlberto', 'html_url': 'https://github.com/MaldoAlberto', 'followers_url': 'https://api.github.com/users/MaldoAlberto/followers', 'following_url': 'https://api.github.com/users/MaldoAlberto/following{/other_user}', 'gists_url': 'https://api.github.com/users/MaldoAlberto/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/MaldoAlberto/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/MaldoAlberto/subscriptions', 'organizations_url': 'https://api.github.com/users/MaldoAlberto/orgs', 'repos_url': 'https://api.github.com/users/MaldoAlberto/repos', 'events_url': 'https://api.github.com/users/MaldoAlberto/events{/privacy}', 'received_events_url': 'https://api.github.com/users/MaldoAlberto/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['QuTiP']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['QuTiP']['open_issues_count'] changed from 159 to 157.
+Value of root['NetKet']['open_issues_count'] changed from 88 to 85.
+Value of root['Qiskit IonQ']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['Qiskit IonQ']['open_issues_count'] changed from 9 to 7.
+Value of root['Qiskit Nature']['forks_count'] changed from 126 to 127.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 79 to 78.
+Value of root['QuNetSim']['open_issues_count'] changed from 12 to 13.
+Value of root['Qiskit']['forks_count'] changed from 1668 to 1671.
+Value of root['Qiskit']['open_issues_count'] changed from 810 to 814.
+Value of root['PennyLane']['open_issues_count'] changed from 222 to 218.
+Value of root['FlamingPy']['open_issues_count'] changed from 19 to 16.
+Value of root['Quantum Universal Education']['bounties'][0]['state'] changed from "open" to "closed".
+Value of root['Quantum Universal Education']['forks_count'] changed from 19 to 21.
+Value of root['Quantum Universal Education']['open_issues_count'] changed from 7 to 5.
+Value of root['Quantum Universal Education']['subscribers_count'] changed from 5 to 6.
+Value of root['PyQrack']['open_issues_count'] changed from 3 to 4.
+Value of root['toqito']['forks_count'] changed from 29 to 30.
+Value of root['toqito']['open_issues_count'] changed from 22 to 23.
+Value of root['Covalent']['open_issues_count'] changed from 93 to 91.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Mitiq']['uh_prs'][2]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/12703123?v=4',
+                                                                                     'events_url': 'https://api.github.com/users/natestemen/events{/privacy}',
+                                                                                     'followers_url': 'https://api.github.com/users/natestemen/followers',
+                                                                                     'following_url': 'https://api.github.com/users/natestemen/following{/other_user}',
+                                                                                     'gists_url': 'https://api.github.com/users/natestemen/gists{/gist_id}',
+                                                                                     'gravatar_id': '',
+                                                                                     'html_url': 'https://github.com/natestemen',
+                                                                                     'id': 12703123,
+                                                                                     'login': 'natestemen',
+                                                                                     'node_id': 'MDQ6VXNlcjEyNzAzMTIz',
+                                                                                     'organizations_url': 'https://api.github.com/users/natestemen/orgs',
+                                                                                     'received_events_url': 'https://api.github.com/users/natestemen/received_events',
+                                                                                     'repos_url': 'https://api.github.com/users/natestemen/repos',
+                                                                                     'site_admin': False,
+                                                                                     'starred_url': 'https://api.github.com/users/natestemen/starred{/owner}{/repo}',
+                                                                                     'subscriptions_url': 'https://api.github.com/users/natestemen/subscriptions',
+                                                                                     'type': 'User',
+                                                                                     'url': 'https://api.github.com/users/natestemen'},
+                           "root['PyQIR']['uh_prs'][0]['assignees'][0]": 'WingCode',
+                           "root['PyQrack']['uh_prs'][0]": { 'assignees': [],
+                                                             'closed_at': None,
+                                                             'created_at': '2022-06-08T21:40:19Z',
+                                                             'draft': False,
+                                                             'merged_at': None,
+                                                             'number': 22,
+                                                             'requested_reviewers': [ ],
+                                                             'state': 'open',
+                                                             'title': '[unitaryhack] '
+                                                                      'Official '
+                                                                      'documentation'},
+                           "root['toqito']['uh_prs'][0]": { 'assignees': [],
+                                                            'closed_at': None,
+                                                            'created_at': '2022-06-08T21:11:00Z',
+                                                            'draft': False,
+                                                            'merged_at': None,
+                                                            'number': 95,
+                                                            'requested_reviewers': [ ],
+                                                            'state': 'open',
+                                                            'title': '[unitaryhack] '
+                                                                     'Adapt '
+                                                                     'NPA '
+                                                                     'hierarchy '
+                                                                     'for '
+                                                                     'extended '
+                                                                     'nonlocal '
+                                                                     'games.'}},
+  'iterable_item_removed': { "root['PennyLane']['uh_prs'][0]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/12239932?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/puzzleshark/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/puzzleshark/followers',
+                                                                                           'following_url': 'https://api.github.com/users/puzzleshark/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/puzzleshark/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/puzzleshark',
+                                                                                           'id': 12239932,
+                                                                                           'login': 'puzzleshark',
+                                                                                           'node_id': 'MDQ6VXNlcjEyMjM5OTMy',
+                                                                                           'organizations_url': 'https://api.github.com/users/puzzleshark/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/puzzleshark/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/puzzleshark/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/puzzleshark/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/puzzleshark/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/puzzleshark'},
+                             "root['PennyLane']['uh_prs'][2]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/6364575?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/albi3ro/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/albi3ro/followers',
+                                                                                           'following_url': 'https://api.github.com/users/albi3ro/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/albi3ro/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/albi3ro',
+                                                                                           'id': 6364575,
+                                                                                           'login': 'albi3ro',
+                                                                                           'node_id': 'MDQ6VXNlcjYzNjQ1NzU=',
+                                                                                           'organizations_url': 'https://api.github.com/users/albi3ro/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/albi3ro/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/albi3ro/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/albi3ro/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/albi3ro/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/albi3ro'},
+                             "root['PennyLane']['uh_prs'][3]": { 'assignees': [ ],
+                                                                 'closed_at': None,
+                                                                 'created_at': '2022-06-07T05:07:42Z',
+                                                                 'draft': False,
+                                                                 'merged_at': None,
+                                                                 'number': 2668,
+                                                                 'requested_reviewers': [ { 'avatar_url': 'https://avatars.githubusercontent.com/u/6364575?v=4',
+                                                                                            'events_url': 'https://api.github.com/users/albi3ro/events{/privacy}',
+                                                                                            'followers_url': 'https://api.github.com/users/albi3ro/followers',
+                                                                                            'following_url': 'https://api.github.com/users/albi3ro/following{/other_user}',
+                                                                                            'gists_url': 'https://api.github.com/users/albi3ro/gists{/gist_id}',
+                                                                                            'gravatar_id': '',
+                                                                                            'html_url': 'https://github.com/albi3ro',
+                                                                                            'id': 6364575,
+                                                                                            'login': 'albi3ro',
+                                                                                            'node_id': 'MDQ6VXNlcjYzNjQ1NzU=',
+                                                                                            'organizations_url': 'https://api.github.com/users/albi3ro/orgs',
+                                                                                            'received_events_url': 'https://api.github.com/users/albi3ro/received_events',
+                                                                                            'repos_url': 'https://api.github.com/users/albi3ro/repos',
+                                                                                            'site_admin': False,
+                                                                                            'starred_url': 'https://api.github.com/users/albi3ro/starred{/owner}{/repo}',
+                                                                                            'subscriptions_url': 'https://api.github.com/users/albi3ro/subscriptions',
+                                                                                            'type': 'User',
+                                                                                            'url': 'https://api.github.com/users/albi3ro'}],
+                                                                 'state': 'open',
+                                                                 'title': 'Make '
+                                                                          'visual '
+                                                                          'changes '
+                                                                          'for '
+                                                                          '0 '
+                                                                          'and '
+                                                                          '1 '
+                                                                          'control '
+                                                                          'values '
+                                                                          '[unitaryhack]'},
+                             "root['Qiskit IonQ']['uh_prs'][1]": { 'assignees': [ ],
+                                                                   'closed_at': None,
+                                                                   'created_at': '2022-06-04T13:18:58Z',
+                                                                   'draft': False,
+                                                                   'merged_at': None,
+                                                                   'number': 95,
+                                                                   'requested_reviewers': [ ],
+                                                                   'state': 'open',
+                                                                   'title': 'Add '
+                                                                            'parallel '
+                                                                            'circuit '
+                                                                            'submission '
+                                                                            'example '
+                                                                            '[unitaryhack]'},
+                             "root['QuTiP']['uh_prs'][0]": { 'assignees': [],
+                                                             'closed_at': None,
+                                                             'created_at': '2022-06-06T15:26:21Z',
+                                                             'draft': False,
+                                                             'merged_at': None,
+                                                             'number': 1920,
+                                                             'requested_reviewers': [ ],
+                                                             'state': 'open',
+                                                             'title': 'Setting '
+                                                                      'qutip-qip '
+                                                                      'as an '
+                                                                      'optional '
+                                                                      'plugin '
+                                                                      'for '
+                                                                      'qutip-5 '
+                                                                      '[unitaryhack]'},
+                             "root['Quantum Universal Education']['uh_prs'][1]": { 'assignees': [ ],
+                                                                                   'closed_at': None,
+                                                                                   'created_at': '2022-06-07T17:29:30Z',
+                                                                                   'draft': False,
+                                                                                   'merged_at': None,
+                                                                                   'number': 19,
+                                                                                   'requested_reviewers': [ ],
+                                                                                   'state': 'open',
+                                                                                   'title': '[unitaryhack] '
+                                                                                            'Quantum '
+                                                                                            'Applications: '
+                                                                                            'Simulating '
+                                                                                            'electronic '
+                                                                                            'structure '
+                                                                                            'of '
+                                                                                            'molecules'}},
+  'type_changes': { "root['Qiskit IonQ']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                         'new_value': '2022-06-08T20:06:03Z',
+                                                                         'old_type': <class 'NoneType'>,
+                                                                         'old_value': None},
+                    "root['Qiskit IonQ']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                         'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/1058746?v=4',
+                                                                                        'events_url': 'https://api.github.com/users/Cynocracy/events{/privacy}',
+                                                                                        'followers_url': 'https://api.github.com/users/Cynocracy/followers',
+                                                                                        'following_url': 'https://api.github.com/users/Cynocracy/following{/other_user}',
+                                                                                        'gists_url': 'https://api.github.com/users/Cynocracy/gists{/gist_id}',
+                                                                                        'gravatar_id': '',
+                                                                                        'html_url': 'https://github.com/Cynocracy',
+                                                                                        'id': 1058746,
+                                                                                        'login': 'Cynocracy',
+                                                                                        'node_id': 'MDQ6VXNlcjEwNTg3NDY=',
+                                                                                        'organizations_url': 'https://api.github.com/users/Cynocracy/orgs',
+                                                                                        'received_events_url': 'https://api.github.com/users/Cynocracy/received_events',
+                                                                                        'repos_url': 'https://api.github.com/users/Cynocracy/repos',
+                                                                                        'site_admin': False,
+                                                                                        'starred_url': 'https://api.github.com/users/Cynocracy/starred{/owner}{/repo}',
+                                                                                        'subscriptions_url': 'https://api.github.com/users/Cynocracy/subscriptions',
+                                                                                        'type': 'User',
+                                                                                        'url': 'https://api.github.com/users/Cynocracy'},
+                                                                         'old_type': <class 'NoneType'>,
+                                                                         'old_value': None},
+                    "root['QuTiP']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                   'new_value': '2022-06-08T18:41:23Z',
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['QuTiP']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                   'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/165551?v=4',
+                                                                                  'events_url': 'https://api.github.com/users/hodgestar/events{/privacy}',
+                                                                                  'followers_url': 'https://api.github.com/users/hodgestar/followers',
+                                                                                  'following_url': 'https://api.github.com/users/hodgestar/following{/other_user}',
+                                                                                  'gists_url': 'https://api.github.com/users/hodgestar/gists{/gist_id}',
+                                                                                  'gravatar_id': '',
+                                                                                  'html_url': 'https://github.com/hodgestar',
+                                                                                  'id': 165551,
+                                                                                  'login': 'hodgestar',
+                                                                                  'node_id': 'MDQ6VXNlcjE2NTU1MQ==',
+                                                                                  'organizations_url': 'https://api.github.com/users/hodgestar/orgs',
+                                                                                  'received_events_url': 'https://api.github.com/users/hodgestar/received_events',
+                                                                                  'repos_url': 'https://api.github.com/users/hodgestar/repos',
+                                                                                  'site_admin': False,
+                                                                                  'starred_url': 'https://api.github.com/users/hodgestar/starred{/owner}{/repo}',
+                                                                                  'subscriptions_url': 'https://api.github.com/users/hodgestar/subscriptions',
+                                                                                  'type': 'User',
+                                                                                  'url': 'https://api.github.com/users/hodgestar'},
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['Quantum Universal Education']['bounties'][0]['closed_at']": { 'new_type': <class 'str'>,
+                                                                                         'new_value': '2022-06-08T19:07:48Z',
+                                                                                         'old_type': <class 'NoneType'>,
+                                                                                         'old_value': None},
+                    "root['Quantum Universal Education']['bounties'][0]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                                         'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/21325664?v=4',
+                                                                                                        'events_url': 'https://api.github.com/users/MaldoAlberto/events{/privacy}',
+                                                                                                        'followers_url': 'https://api.github.com/users/MaldoAlberto/followers',
+                                                                                                        'following_url': 'https://api.github.com/users/MaldoAlberto/following{/other_user}',
+                                                                                                        'gists_url': 'https://api.github.com/users/MaldoAlberto/gists{/gist_id}',
+                                                                                                        'gravatar_id': '',
+                                                                                                        'html_url': 'https://github.com/MaldoAlberto',
+                                                                                                        'id': 21325664,
+                                                                                                        'login': 'MaldoAlberto',
+                                                                                                        'node_id': 'MDQ6VXNlcjIxMzI1NjY0',
+                                                                                                        'organizations_url': 'https://api.github.com/users/MaldoAlberto/orgs',
+                                                                                                        'received_events_url': 'https://api.github.com/users/MaldoAlberto/received_events',
+                                                                                                        'repos_url': 'https://api.github.com/users/MaldoAlberto/repos',
+                                                                                                        'site_admin': False,
+                                                                                                        'starred_url': 'https://api.github.com/users/MaldoAlberto/starred{/owner}{/repo}',
+                                                                                                        'subscriptions_url': 'https://api.github.com/users/MaldoAlberto/subscriptions',
+                                                                                                        'type': 'User',
+                                                                                                        'url': 'https://api.github.com/users/MaldoAlberto'},
+                                                                                         'old_type': <class 'NoneType'>,
+                                                                                         'old_value': None}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 91,
+                                                                 'old_value': 93},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 16,
+                                                                  'old_value': 19},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 85,
+                                                               'old_value': 88},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 218,
+                                                                  'old_value': 222},
+                      "root['PyQrack']['open_issues_count']": { 'new_value': 4,
+                                                                'old_value': 3},
+                      "root['Qiskit IonQ']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                       'old_value': 'open'},
+                      "root['Qiskit IonQ']['open_issues_count']": { 'new_value': 7,
+                                                                    'old_value': 9},
+                      "root['Qiskit Nature']['forks_count']": { 'new_value': 127,
+                                                                'old_value': 126},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 78,
+                                                                      'old_value': 79},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1671,
+                                                         'old_value': 1668},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 814,
+                                                               'old_value': 810},
+                      "root['QuNetSim']['open_issues_count']": { 'new_value': 13,
+                                                                 'old_value': 12},
+                      "root['QuTiP']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                 'old_value': 'open'},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 157,
+                                                              'old_value': 159},
+                      "root['Quantum Universal Education']['bounties'][0]['state']": { 'new_value': 'closed',
+                                                                                       'old_value': 'open'},
+                      "root['Quantum Universal Education']['forks_count']": { 'new_value': 21,
+                                                                              'old_value': 19},
+                      "root['Quantum Universal Education']['open_issues_count']": { 'new_value': 5,
+                                                                                    'old_value': 7},
+                      "root['Quantum Universal Education']['subscribers_count']": { 'new_value': 6,
+                                                                                    'old_value': 5},
+                      "root['toqito']['forks_count']": { 'new_value': 30,
+                                                         'old_value': 29},
+                      "root['toqito']['open_issues_count']": { 'new_value': 23,
+                                                               'old_value': 22}}}
