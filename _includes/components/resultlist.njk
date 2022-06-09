@@ -4,7 +4,7 @@
         <h2>
           <div class="" >
             <span class="project-card__emoji">{{ project.emoji }}</span>
-              {{ project.title }}
+            <a  href="/projects/{{ project.title | slugify }}">{{ project.title }}</a>
           </div>
         </h2>
         {% if project.bounties %}
