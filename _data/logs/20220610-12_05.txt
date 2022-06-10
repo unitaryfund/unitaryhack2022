@@ -1,0 +1,70 @@
+Changes to unitaryHACK results
+updated 10/06/2022 12:05:57
+--------------------
+Item root['QuTiP']['bounties'][2]['assignees'][0] added to iterable.
+Item root['QuTiP']['uh_prs'][1] added to iterable.
+Item root['NetKet']['bounties'][0]['assignees'][0] added to iterable.
+Item root['NetKet']['bounties'][1]['assignees'][0] added to iterable.
+Value of root['QuTiP']['forks_count'] changed from 528 to 529.
+Value of root['QuTiP']['open_issues_count'] changed from 158 to 159.
+Value of root['NetKet']['open_issues_count'] changed from 86 to 87.
+Value of root['Yao']['open_issues_count'] changed from 28 to 27.
+Value of root['Qiskit']['forks_count'] changed from 1671 to 1672.
+Value of root['Qiskit']['open_issues_count'] changed from 813 to 816.
+Value of root['Qiskit']['subscribers_count'] changed from 219 to 220.
+Value of root['PennyLane']['open_issues_count'] changed from 216 to 208.
+Value of root['Orquestra Core']['forks_count'] changed from 2 to 3.
+Value of root['FlamingPy']['forks_count'] changed from 8 to 10.
+Value of root['FlamingPy']['open_issues_count'] changed from 17 to 18.
+Value of root['Mitiq']['open_issues_count'] changed from 75 to 76.
+Value of root['toqito']['open_issues_count'] changed from 21 to 22.
+Value of root['Covalent']['open_issues_count'] changed from 95 to 92.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['NetKet']['bounties'][0]['assignees'][0]": 'maxbortone',
+                           "root['NetKet']['bounties'][1]['assignees'][0]": 'nikosavola',
+                           "root['QuTiP']['bounties'][2]['assignees'][0]": 'trentfridey',
+                           "root['QuTiP']['uh_prs'][1]": { 'assignees': [],
+                                                           'closed_at': None,
+                                                           'created_at': '2022-06-10T03:35:18Z',
+                                                           'draft': True,
+                                                           'merged_at': None,
+                                                           'number': 1927,
+                                                           'requested_reviewers': [ ],
+                                                           'state': 'open',
+                                                           'title': '[unitaryhack] '
+                                                                    'Add '
+                                                                    'towncrier '
+                                                                    'for '
+                                                                    'managing '
+                                                                    'the '
+                                                                    'changelog'}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 92,
+                                                                 'old_value': 95},
+                      "root['FlamingPy']['forks_count']": { 'new_value': 10,
+                                                            'old_value': 8},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 18,
+                                                                  'old_value': 17},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 76,
+                                                              'old_value': 75},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 87,
+                                                               'old_value': 86},
+                      "root['Orquestra Core']['forks_count']": { 'new_value': 3,
+                                                                 'old_value': 2},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 208,
+                                                                  'old_value': 216},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1672,
+                                                         'old_value': 1671},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 816,
+                                                               'old_value': 813},
+                      "root['Qiskit']['subscribers_count']": { 'new_value': 220,
+                                                               'old_value': 219},
+                      "root['QuTiP']['forks_count']": { 'new_value': 529,
+                                                        'old_value': 528},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 159,
+                                                              'old_value': 158},
+                      "root['Yao']['open_issues_count']": { 'new_value': 27,
+                                                            'old_value': 28},
+                      "root['toqito']['open_issues_count']": { 'new_value': 22,
+                                                               'old_value': 21}}}
