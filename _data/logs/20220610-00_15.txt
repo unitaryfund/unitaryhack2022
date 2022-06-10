@@ -1,0 +1,348 @@
+Changes to unitaryHACK results
+updated 10/06/2022 00:15:16
+--------------------
+Item root['Qiskit IonQ']['uh_prs'][0]['requested_reviewers'][0] added to iterable.
+Item root['PennyLane']['uh_prs'][1]['assignees'][0] added to iterable.
+Item root['Quantum Universal Education']['uh_prs'][1] added to iterable.
+Item root['Quantum Universal Education']['uh_prs'][2] added to iterable.
+Item root['PyQIR']['uh_prs'][0] removed from iterable.
+Item root['Metriq']['uh_prs'][0] removed from iterable.
+Item root['Mitiq']['uh_prs'][1]['assignees'][0] removed from iterable.
+Item root['Mitiq']['uh_prs'][1]['requested_reviewers'][0] removed from iterable.
+Item root['toqito']['uh_prs'][0] removed from iterable.
+Type of root['PyQIR']['bounties'][2]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-09T16:55:19Z".
+Type of root['PyQIR']['bounties'][2]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'idavis', 'id': 63540, 'node_id': 'MDQ6VXNlcjYzNTQw', 'avatar_url': 'https://avatars.githubusercontent.com/u/63540?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/idavis', 'html_url': 'https://github.com/idavis', 'followers_url': 'https://api.github.com/users/idavis/followers', 'following_url': 'https://api.github.com/users/idavis/following{/other_user}', 'gists_url': 'https://api.github.com/users/idavis/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/idavis/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/idavis/subscriptions', 'organizations_url': 'https://api.github.com/users/idavis/orgs', 'repos_url': 'https://api.github.com/users/idavis/repos', 'events_url': 'https://api.github.com/users/idavis/events{/privacy}', 'received_events_url': 'https://api.github.com/users/idavis/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Mitiq']['bounties'][0]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-09T16:19:55Z".
+Type of root['Mitiq']['bounties'][0]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'natestemen', 'id': 12703123, 'node_id': 'MDQ6VXNlcjEyNzAzMTIz', 'avatar_url': 'https://avatars.githubusercontent.com/u/12703123?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/natestemen', 'html_url': 'https://github.com/natestemen', 'followers_url': 'https://api.github.com/users/natestemen/followers', 'following_url': 'https://api.github.com/users/natestemen/following{/other_user}', 'gists_url': 'https://api.github.com/users/natestemen/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/natestemen/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/natestemen/subscriptions', 'organizations_url': 'https://api.github.com/users/natestemen/orgs', 'repos_url': 'https://api.github.com/users/natestemen/repos', 'events_url': 'https://api.github.com/users/natestemen/events{/privacy}', 'received_events_url': 'https://api.github.com/users/natestemen/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['toqito']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-09T14:08:27Z".
+Type of root['toqito']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'vprusso', 'id': 1562214, 'node_id': 'MDQ6VXNlcjE1NjIyMTQ=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1562214?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/vprusso', 'html_url': 'https://github.com/vprusso', 'followers_url': 'https://api.github.com/users/vprusso/followers', 'following_url': 'https://api.github.com/users/vprusso/following{/other_user}', 'gists_url': 'https://api.github.com/users/vprusso/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/vprusso/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/vprusso/subscriptions', 'organizations_url': 'https://api.github.com/users/vprusso/orgs', 'repos_url': 'https://api.github.com/users/vprusso/repos', 'events_url': 'https://api.github.com/users/vprusso/events{/privacy}', 'received_events_url': 'https://api.github.com/users/vprusso/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['NetKet']['open_issues_count'] changed from 85 to 86.
+Value of root['Qiskit Nature']['forks_count'] changed from 126 to 127.
+Value of root['Yao']['open_issues_count'] changed from 26 to 28.
+Value of root['PyQIR']['bounties'][2]['state'] changed from "open" to "closed".
+Value of root['PyQIR']['open_issues_count'] changed from 19 to 18.
+Value of root['Qiskit']['open_issues_count'] changed from 815 to 813.
+Value of root['PennyLane']['forks_count'] changed from 377 to 378.
+Value of root['PennyLane']['open_issues_count'] changed from 217 to 216.
+Value of root['PennyLane']['uh_prs'][1]['number'] changed from 2661 to 2654.
+Value of root['PennyLane']['uh_prs'][1]['title'] changed from "Add spsa optimization [unitaryhack] " to "Remove qml.utils.expand and replace with qml.operation.expand_matrix. [unitaryhack]".
+Value of root['PennyLane']['uh_prs'][1]['created_at'] changed from "2022-06-04T08:41:30Z" to "2022-06-03T02:30:46Z".
+Value of root['PennyLane']['uh_prs'][2]['number'] changed from 2662 to 2661.
+Value of root['PennyLane']['uh_prs'][2]['title'] changed from "[unitaryhack] Request for new matplotlib drawing styles" to "Add spsa optimization [unitaryhack] ".
+Value of root['PennyLane']['uh_prs'][2]['created_at'] changed from "2022-06-04T19:15:03Z" to "2022-06-04T08:41:30Z".
+Value of root['Orquestra Core']['open_issues_count'] changed from 8 to 7.
+Value of root['FlamingPy']['open_issues_count'] changed from 16 to 17.
+Value of root['Bloqade']['subscribers_count'] changed from 9 to 10.
+Value of root['Metriq']['open_issues_count'] changed from 64 to 63.
+Value of root['Quantum Universal Education']['forks_count'] changed from 21 to 23.
+Value of root['Quantum Universal Education']['open_issues_count'] changed from 5 to 7.
+Value of root['Mitiq']['bounties'][0]['state'] changed from "open" to "closed".
+Value of root['Mitiq']['open_issues_count'] changed from 77 to 75.
+Value of root['Mitiq']['uh_prs'][1]['number'] changed from 1338 to 1349.
+Value of root['Mitiq']['uh_prs'][1]['title'] changed from "[unitaryhack] Add thumbnails for examples" to "[unitaryhack] v2 Updated molecular hydrogen tutorial OpenFermion".
+Value of root['Mitiq']['uh_prs'][1]['created_at'] changed from "2022-06-04T03:47:59Z" to "2022-06-09T17:07:18Z".
+Value of root['toqito']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['toqito']['open_issues_count'] changed from 23 to 21.
+Value of root['Covalent']['open_issues_count'] changed from 91 to 95.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['PennyLane']['uh_prs'][1]['assignees'][0]": 'antalszava',
+                           "root['Qiskit IonQ']['uh_prs'][0]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/1831834?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/ColemanCollins/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/ColemanCollins/followers',
+                                                                                           'following_url': 'https://api.github.com/users/ColemanCollins/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/ColemanCollins/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/ColemanCollins',
+                                                                                           'id': 1831834,
+                                                                                           'login': 'ColemanCollins',
+                                                                                           'node_id': 'MDQ6VXNlcjE4MzE4MzQ=',
+                                                                                           'organizations_url': 'https://api.github.com/users/ColemanCollins/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/ColemanCollins/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/ColemanCollins/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/ColemanCollins/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/ColemanCollins/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/ColemanCollins'},
+                           "root['Quantum Universal Education']['uh_prs'][1]": { 'assignees': [ ],
+                                                                                 'closed_at': None,
+                                                                                 'created_at': '2022-06-09T18:10:38Z',
+                                                                                 'draft': False,
+                                                                                 'merged_at': None,
+                                                                                 'number': 21,
+                                                                                 'requested_reviewers': [ ],
+                                                                                 'state': 'open',
+                                                                                 'title': 'Building '
+                                                                                          'a '
+                                                                                          'Quantum '
+                                                                                          'Software '
+                                                                                          'and '
+                                                                                          'Games '
+                                                                                          '[unitaryhack] '
+                                                                                          '( '
+                                                                                          'Quantum '
+                                                                                          'Euclidean '
+                                                                                          'Distance '
+                                                                                          'for '
+                                                                                          'Two '
+                                                                                          'Images '
+                                                                                          'using '
+                                                                                          'Quantum '
+                                                                                          'Fourier '
+                                                                                          'Transform) '
+                                                                                          'from '
+                                                                                          'the '
+                                                                                          'Idea '
+                                                                                          '2'},
+                           "root['Quantum Universal Education']['uh_prs'][2]": { 'assignees': [ ],
+                                                                                 'closed_at': None,
+                                                                                 'created_at': '2022-06-09T21:32:29Z',
+                                                                                 'draft': False,
+                                                                                 'merged_at': None,
+                                                                                 'number': 22,
+                                                                                 'requested_reviewers': [ ],
+                                                                                 'state': 'open',
+                                                                                 'title': 'Quantum '
+                                                                                          'Software '
+                                                                                          'and '
+                                                                                          'Games '
+                                                                                          '[unitaryhack] '
+                                                                                          ': '
+                                                                                          'Tutorial '
+                                                                                          'to '
+                                                                                          'build '
+                                                                                          'a '
+                                                                                          'Quantum '
+                                                                                          'inspired '
+                                                                                          'puzzle '
+                                                                                          'game '
+                                                                                          'in '
+                                                                                          'JS '
+                                                                                          'Quantum-Universal-Education#12'}},
+  'iterable_item_removed': { "root['Metriq']['uh_prs'][0]": { 'assignees': [],
+                                                              'closed_at': None,
+                                                              'created_at': '2022-06-08T06:10:44Z',
+                                                              'draft': False,
+                                                              'merged_at': None,
+                                                              'number': 590,
+                                                              'requested_reviewers': [ ],
+                                                              'state': 'open',
+                                                              'title': '[unitaryhack] '
+                                                                       'https://github.com/unitaryfund/metriq-app/issues/167'},
+                             "root['Mitiq']['uh_prs'][1]['assignees'][0]": 'obliviateandsurrender',
+                             "root['Mitiq']['uh_prs'][1]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/12703123?v=4',
+                                                                                       'events_url': 'https://api.github.com/users/natestemen/events{/privacy}',
+                                                                                       'followers_url': 'https://api.github.com/users/natestemen/followers',
+                                                                                       'following_url': 'https://api.github.com/users/natestemen/following{/other_user}',
+                                                                                       'gists_url': 'https://api.github.com/users/natestemen/gists{/gist_id}',
+                                                                                       'gravatar_id': '',
+                                                                                       'html_url': 'https://github.com/natestemen',
+                                                                                       'id': 12703123,
+                                                                                       'login': 'natestemen',
+                                                                                       'node_id': 'MDQ6VXNlcjEyNzAzMTIz',
+                                                                                       'organizations_url': 'https://api.github.com/users/natestemen/orgs',
+                                                                                       'received_events_url': 'https://api.github.com/users/natestemen/received_events',
+                                                                                       'repos_url': 'https://api.github.com/users/natestemen/repos',
+                                                                                       'site_admin': False,
+                                                                                       'starred_url': 'https://api.github.com/users/natestemen/starred{/owner}{/repo}',
+                                                                                       'subscriptions_url': 'https://api.github.com/users/natestemen/subscriptions',
+                                                                                       'type': 'User',
+                                                                                       'url': 'https://api.github.com/users/natestemen'},
+                             "root['PyQIR']['uh_prs'][0]": { 'assignees': [ 'WingCode'],
+                                                             'closed_at': None,
+                                                             'created_at': '2022-06-04T05:42:09Z',
+                                                             'draft': False,
+                                                             'merged_at': None,
+                                                             'number': 127,
+                                                             'requested_reviewers': [ ],
+                                                             'state': 'open',
+                                                             'title': 'Added '
+                                                                      'mypy '
+                                                                      'github '
+                                                                      'action '
+                                                                      'to '
+                                                                      'check '
+                                                                      'type '
+                                                                      'annotations '
+                                                                      'and '
+                                                                      'mypy '
+                                                                      'stub '
+                                                                      'files '
+                                                                      '[unitaryhack]'},
+                             "root['toqito']['uh_prs'][0]": { 'assignees': [],
+                                                              'closed_at': None,
+                                                              'created_at': '2022-06-08T21:11:00Z',
+                                                              'draft': False,
+                                                              'merged_at': None,
+                                                              'number': 95,
+                                                              'requested_reviewers': [ ],
+                                                              'state': 'open',
+                                                              'title': '[unitaryhack] '
+                                                                       'Adapt '
+                                                                       'NPA '
+                                                                       'hierarchy '
+                                                                       'for '
+                                                                       'extended '
+                                                                       'nonlocal '
+                                                                       'games.'}},
+  'type_changes': { "root['Mitiq']['bounties'][0]['closed_at']": { 'new_type': <class 'str'>,
+                                                                   'new_value': '2022-06-09T16:19:55Z',
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['Mitiq']['bounties'][0]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                   'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/12703123?v=4',
+                                                                                  'events_url': 'https://api.github.com/users/natestemen/events{/privacy}',
+                                                                                  'followers_url': 'https://api.github.com/users/natestemen/followers',
+                                                                                  'following_url': 'https://api.github.com/users/natestemen/following{/other_user}',
+                                                                                  'gists_url': 'https://api.github.com/users/natestemen/gists{/gist_id}',
+                                                                                  'gravatar_id': '',
+                                                                                  'html_url': 'https://github.com/natestemen',
+                                                                                  'id': 12703123,
+                                                                                  'login': 'natestemen',
+                                                                                  'node_id': 'MDQ6VXNlcjEyNzAzMTIz',
+                                                                                  'organizations_url': 'https://api.github.com/users/natestemen/orgs',
+                                                                                  'received_events_url': 'https://api.github.com/users/natestemen/received_events',
+                                                                                  'repos_url': 'https://api.github.com/users/natestemen/repos',
+                                                                                  'site_admin': False,
+                                                                                  'starred_url': 'https://api.github.com/users/natestemen/starred{/owner}{/repo}',
+                                                                                  'subscriptions_url': 'https://api.github.com/users/natestemen/subscriptions',
+                                                                                  'type': 'User',
+                                                                                  'url': 'https://api.github.com/users/natestemen'},
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['PyQIR']['bounties'][2]['closed_at']": { 'new_type': <class 'str'>,
+                                                                   'new_value': '2022-06-09T16:55:19Z',
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['PyQIR']['bounties'][2]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                   'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/63540?v=4',
+                                                                                  'events_url': 'https://api.github.com/users/idavis/events{/privacy}',
+                                                                                  'followers_url': 'https://api.github.com/users/idavis/followers',
+                                                                                  'following_url': 'https://api.github.com/users/idavis/following{/other_user}',
+                                                                                  'gists_url': 'https://api.github.com/users/idavis/gists{/gist_id}',
+                                                                                  'gravatar_id': '',
+                                                                                  'html_url': 'https://github.com/idavis',
+                                                                                  'id': 63540,
+                                                                                  'login': 'idavis',
+                                                                                  'node_id': 'MDQ6VXNlcjYzNTQw',
+                                                                                  'organizations_url': 'https://api.github.com/users/idavis/orgs',
+                                                                                  'received_events_url': 'https://api.github.com/users/idavis/received_events',
+                                                                                  'repos_url': 'https://api.github.com/users/idavis/repos',
+                                                                                  'site_admin': False,
+                                                                                  'starred_url': 'https://api.github.com/users/idavis/starred{/owner}{/repo}',
+                                                                                  'subscriptions_url': 'https://api.github.com/users/idavis/subscriptions',
+                                                                                  'type': 'User',
+                                                                                  'url': 'https://api.github.com/users/idavis'},
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['toqito']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                    'new_value': '2022-06-09T14:08:27Z',
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None},
+                    "root['toqito']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                    'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/1562214?v=4',
+                                                                                   'events_url': 'https://api.github.com/users/vprusso/events{/privacy}',
+                                                                                   'followers_url': 'https://api.github.com/users/vprusso/followers',
+                                                                                   'following_url': 'https://api.github.com/users/vprusso/following{/other_user}',
+                                                                                   'gists_url': 'https://api.github.com/users/vprusso/gists{/gist_id}',
+                                                                                   'gravatar_id': '',
+                                                                                   'html_url': 'https://github.com/vprusso',
+                                                                                   'id': 1562214,
+                                                                                   'login': 'vprusso',
+                                                                                   'node_id': 'MDQ6VXNlcjE1NjIyMTQ=',
+                                                                                   'organizations_url': 'https://api.github.com/users/vprusso/orgs',
+                                                                                   'received_events_url': 'https://api.github.com/users/vprusso/received_events',
+                                                                                   'repos_url': 'https://api.github.com/users/vprusso/repos',
+                                                                                   'site_admin': False,
+                                                                                   'starred_url': 'https://api.github.com/users/vprusso/starred{/owner}{/repo}',
+                                                                                   'subscriptions_url': 'https://api.github.com/users/vprusso/subscriptions',
+                                                                                   'type': 'User',
+                                                                                   'url': 'https://api.github.com/users/vprusso'},
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None}},
+  'values_changed': { "root['Bloqade']['subscribers_count']": { 'new_value': 10,
+                                                                'old_value': 9},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 95,
+                                                                 'old_value': 91},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 17,
+                                                                  'old_value': 16},
+                      "root['Metriq']['open_issues_count']": { 'new_value': 63,
+                                                               'old_value': 64},
+                      "root['Mitiq']['bounties'][0]['state']": { 'new_value': 'closed',
+                                                                 'old_value': 'open'},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 75,
+                                                              'old_value': 77},
+                      "root['Mitiq']['uh_prs'][1]['created_at']": { 'new_value': '2022-06-09T17:07:18Z',
+                                                                    'old_value': '2022-06-04T03:47:59Z'},
+                      "root['Mitiq']['uh_prs'][1]['number']": { 'new_value': 1349,
+                                                                'old_value': 1338},
+                      "root['Mitiq']['uh_prs'][1]['title']": { 'new_value': '[unitaryhack] '
+                                                                            'v2 '
+                                                                            'Updated '
+                                                                            'molecular '
+                                                                            'hydrogen '
+                                                                            'tutorial '
+                                                                            'OpenFermion',
+                                                               'old_value': '[unitaryhack] '
+                                                                            'Add '
+                                                                            'thumbnails '
+                                                                            'for '
+                                                                            'examples'},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 86,
+                                                               'old_value': 85},
+                      "root['Orquestra Core']['open_issues_count']": { 'new_value': 7,
+                                                                       'old_value': 8},
+                      "root['PennyLane']['forks_count']": { 'new_value': 378,
+                                                            'old_value': 377},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 216,
+                                                                  'old_value': 217},
+                      "root['PennyLane']['uh_prs'][1]['created_at']": { 'new_value': '2022-06-03T02:30:46Z',
+                                                                        'old_value': '2022-06-04T08:41:30Z'},
+                      "root['PennyLane']['uh_prs'][1]['number']": { 'new_value': 2654,
+                                                                    'old_value': 2661},
+                      "root['PennyLane']['uh_prs'][1]['title']": { 'new_value': 'Remove '
+                                                                                'qml.utils.expand '
+                                                                                'and '
+                                                                                'replace '
+                                                                                'with '
+                                                                                'qml.operation.expand_matrix. '
+                                                                                '[unitaryhack]',
+                                                                   'old_value': 'Add '
+                                                                                'spsa '
+                                                                                'optimization '
+                                                                                '[unitaryhack] '},
+                      "root['PennyLane']['uh_prs'][2]['created_at']": { 'new_value': '2022-06-04T08:41:30Z',
+                                                                        'old_value': '2022-06-04T19:15:03Z'},
+                      "root['PennyLane']['uh_prs'][2]['number']": { 'new_value': 2661,
+                                                                    'old_value': 2662},
+                      "root['PennyLane']['uh_prs'][2]['title']": { 'new_value': 'Add '
+                                                                                'spsa '
+                                                                                'optimization '
+                                                                                '[unitaryhack] ',
+                                                                   'old_value': '[unitaryhack] '
+                                                                                'Request '
+                                                                                'for '
+                                                                                'new '
+                                                                                'matplotlib '
+                                                                                'drawing '
+                                                                                'styles'},
+                      "root['PyQIR']['bounties'][2]['state']": { 'new_value': 'closed',
+                                                                 'old_value': 'open'},
+                      "root['PyQIR']['open_issues_count']": { 'new_value': 18,
+                                                              'old_value': 19},
+                      "root['Qiskit Nature']['forks_count']": { 'new_value': 127,
+                                                                'old_value': 126},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 813,
+                                                               'old_value': 815},
+                      "root['Quantum Universal Education']['forks_count']": { 'new_value': 23,
+                                                                              'old_value': 21},
+                      "root['Quantum Universal Education']['open_issues_count']": { 'new_value': 7,
+                                                                                    'old_value': 5},
+                      "root['Yao']['open_issues_count']": { 'new_value': 28,
+                                                            'old_value': 26},
+                      "root['toqito']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                  'old_value': 'open'},
+                      "root['toqito']['open_issues_count']": { 'new_value': 21,
+                                                               'old_value': 23}}}
