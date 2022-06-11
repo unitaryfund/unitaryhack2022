@@ -1,0 +1,154 @@
+Changes to unitaryHACK results
+updated 11/06/2022 12:05:43
+--------------------
+Item root['Qiskit']['uh_prs'][1] added to iterable.
+Item root['XACC']['uh_prs'][0] added to iterable.
+Item root['Quantum Universal Education']['uh_prs'][2] removed from iterable.
+Type of root['Quantum Universal Education']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-11T02:31:41Z".
+Type of root['Quantum Universal Education']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'MaldoAlberto', 'id': 21325664, 'node_id': 'MDQ6VXNlcjIxMzI1NjY0', 'avatar_url': 'https://avatars.githubusercontent.com/u/21325664?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/MaldoAlberto', 'html_url': 'https://github.com/MaldoAlberto', 'followers_url': 'https://api.github.com/users/MaldoAlberto/followers', 'following_url': 'https://api.github.com/users/MaldoAlberto/following{/other_user}', 'gists_url': 'https://api.github.com/users/MaldoAlberto/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/MaldoAlberto/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/MaldoAlberto/subscriptions', 'organizations_url': 'https://api.github.com/users/MaldoAlberto/orgs', 'repos_url': 'https://api.github.com/users/MaldoAlberto/repos', 'events_url': 'https://api.github.com/users/MaldoAlberto/events{/privacy}', 'received_events_url': 'https://api.github.com/users/MaldoAlberto/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['Yao']['open_issues_count'] changed from 27 to 28.
+Value of root['PennyLane']['open_issues_count'] changed from 199 to 200.
+Value of root['Orquestra Core']['forks_count'] changed from 3 to 4.
+Value of root['KQCircuits']['forks_count'] changed from 28 to 29.
+Value of root['Bloqade']['open_issues_count'] changed from 37 to 38.
+Value of root['Quantum Universal Education']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['Mitiq']['forks_count'] changed from 88 to 89.
+Value of root['Mitiq']['open_issues_count'] changed from 76 to 77.
+Value of root['XACC']['forks_count'] changed from 60 to 61.
+Value of root['XACC']['open_issues_count'] changed from 58 to 59.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Qiskit']['uh_prs'][1]": { 'assignees': [],
+                                                            'closed_at': None,
+                                                            'created_at': '2022-06-10T19:29:34Z',
+                                                            'draft': False,
+                                                            'merged_at': None,
+                                                            'number': 8162,
+                                                            'requested_reviewers': [ { 'avatar_url': 'https://avatars.githubusercontent.com/u/1249193?v=4',
+                                                                                       'events_url': 'https://api.github.com/users/nonhermitian/events{/privacy}',
+                                                                                       'followers_url': 'https://api.github.com/users/nonhermitian/followers',
+                                                                                       'following_url': 'https://api.github.com/users/nonhermitian/following{/other_user}',
+                                                                                       'gists_url': 'https://api.github.com/users/nonhermitian/gists{/gist_id}',
+                                                                                       'gravatar_id': '',
+                                                                                       'html_url': 'https://github.com/nonhermitian',
+                                                                                       'id': 1249193,
+                                                                                       'login': 'nonhermitian',
+                                                                                       'node_id': 'MDQ6VXNlcjEyNDkxOTM=',
+                                                                                       'organizations_url': 'https://api.github.com/users/nonhermitian/orgs',
+                                                                                       'received_events_url': 'https://api.github.com/users/nonhermitian/received_events',
+                                                                                       'repos_url': 'https://api.github.com/users/nonhermitian/repos',
+                                                                                       'site_admin': False,
+                                                                                       'starred_url': 'https://api.github.com/users/nonhermitian/starred{/owner}{/repo}',
+                                                                                       'subscriptions_url': 'https://api.github.com/users/nonhermitian/subscriptions',
+                                                                                       'type': 'User',
+                                                                                       'url': 'https://api.github.com/users/nonhermitian'},
+                                                                                     { 'avatar_url': 'https://avatars.githubusercontent.com/u/39517270?v=4',
+                                                                                       'events_url': 'https://api.github.com/users/nkanazawa1989/events{/privacy}',
+                                                                                       'followers_url': 'https://api.github.com/users/nkanazawa1989/followers',
+                                                                                       'following_url': 'https://api.github.com/users/nkanazawa1989/following{/other_user}',
+                                                                                       'gists_url': 'https://api.github.com/users/nkanazawa1989/gists{/gist_id}',
+                                                                                       'gravatar_id': '',
+                                                                                       'html_url': 'https://github.com/nkanazawa1989',
+                                                                                       'id': 39517270,
+                                                                                       'login': 'nkanazawa1989',
+                                                                                       'node_id': 'MDQ6VXNlcjM5NTE3Mjcw',
+                                                                                       'organizations_url': 'https://api.github.com/users/nkanazawa1989/orgs',
+                                                                                       'received_events_url': 'https://api.github.com/users/nkanazawa1989/received_events',
+                                                                                       'repos_url': 'https://api.github.com/users/nkanazawa1989/repos',
+                                                                                       'site_admin': False,
+                                                                                       'starred_url': 'https://api.github.com/users/nkanazawa1989/starred{/owner}{/repo}',
+                                                                                       'subscriptions_url': 'https://api.github.com/users/nkanazawa1989/subscriptions',
+                                                                                       'type': 'User',
+                                                                                       'url': 'https://api.github.com/users/nkanazawa1989'}],
+                                                            'state': 'open',
+                                                            'title': 'switched '
+                                                                     '`dag_drawer` '
+                                                                     'from '
+                                                                     '`pydot` '
+                                                                     'to '
+                                                                     '`retworkx` '
+                                                                     '[unitaryhack]'},
+                           "root['XACC']['uh_prs'][0]": { 'assignees': [],
+                                                          'closed_at': None,
+                                                          'created_at': '2022-06-11T02:13:37Z',
+                                                          'draft': False,
+                                                          'merged_at': None,
+                                                          'number': 545,
+                                                          'requested_reviewers': [ ],
+                                                          'state': 'open',
+                                                          'title': '[unitaryhack] '
+                                                                   'feat: '
+                                                                   'try-catch '
+                                                                   'on plugin '
+                                                                   'loading'}},
+  'iterable_item_removed': { "root['Quantum Universal Education']['uh_prs'][2]": { 'assignees': [ ],
+                                                                                   'closed_at': None,
+                                                                                   'created_at': '2022-06-09T21:32:29Z',
+                                                                                   'draft': False,
+                                                                                   'merged_at': None,
+                                                                                   'number': 22,
+                                                                                   'requested_reviewers': [ ],
+                                                                                   'state': 'open',
+                                                                                   'title': 'Quantum '
+                                                                                            'Software '
+                                                                                            'and '
+                                                                                            'Games '
+                                                                                            '[unitaryhack] '
+                                                                                            ': '
+                                                                                            'Tutorial '
+                                                                                            'to '
+                                                                                            'build '
+                                                                                            'a '
+                                                                                            'Quantum '
+                                                                                            'inspired '
+                                                                                            'puzzle '
+                                                                                            'game '
+                                                                                            'in '
+                                                                                            'JS '
+                                                                                            'Quantum-Universal-Education#12'}},
+  'type_changes': { "root['Quantum Universal Education']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                                         'new_value': '2022-06-11T02:31:41Z',
+                                                                                         'old_type': <class 'NoneType'>,
+                                                                                         'old_value': None},
+                    "root['Quantum Universal Education']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                                         'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/21325664?v=4',
+                                                                                                        'events_url': 'https://api.github.com/users/MaldoAlberto/events{/privacy}',
+                                                                                                        'followers_url': 'https://api.github.com/users/MaldoAlberto/followers',
+                                                                                                        'following_url': 'https://api.github.com/users/MaldoAlberto/following{/other_user}',
+                                                                                                        'gists_url': 'https://api.github.com/users/MaldoAlberto/gists{/gist_id}',
+                                                                                                        'gravatar_id': '',
+                                                                                                        'html_url': 'https://github.com/MaldoAlberto',
+                                                                                                        'id': 21325664,
+                                                                                                        'login': 'MaldoAlberto',
+                                                                                                        'node_id': 'MDQ6VXNlcjIxMzI1NjY0',
+                                                                                                        'organizations_url': 'https://api.github.com/users/MaldoAlberto/orgs',
+                                                                                                        'received_events_url': 'https://api.github.com/users/MaldoAlberto/received_events',
+                                                                                                        'repos_url': 'https://api.github.com/users/MaldoAlberto/repos',
+                                                                                                        'site_admin': False,
+                                                                                                        'starred_url': 'https://api.github.com/users/MaldoAlberto/starred{/owner}{/repo}',
+                                                                                                        'subscriptions_url': 'https://api.github.com/users/MaldoAlberto/subscriptions',
+                                                                                                        'type': 'User',
+                                                                                                        'url': 'https://api.github.com/users/MaldoAlberto'},
+                                                                                         'old_type': <class 'NoneType'>,
+                                                                                         'old_value': None}},
+  'values_changed': { "root['Bloqade']['open_issues_count']": { 'new_value': 38,
+                                                                'old_value': 37},
+                      "root['KQCircuits']['forks_count']": { 'new_value': 29,
+                                                             'old_value': 28},
+                      "root['Mitiq']['forks_count']": { 'new_value': 89,
+                                                        'old_value': 88},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 77,
+                                                              'old_value': 76},
+                      "root['Orquestra Core']['forks_count']": { 'new_value': 4,
+                                                                 'old_value': 3},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 200,
+                                                                  'old_value': 199},
+                      "root['Quantum Universal Education']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                                       'old_value': 'open'},
+                      "root['XACC']['forks_count']": { 'new_value': 61,
+                                                       'old_value': 60},
+                      "root['XACC']['open_issues_count']": { 'new_value': 59,
+                                                             'old_value': 58},
+                      "root['Yao']['open_issues_count']": { 'new_value': 28,
+                                                            'old_value': 27}}}
