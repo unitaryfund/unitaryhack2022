@@ -1,0 +1,223 @@
+Changes to unitaryHACK results
+updated 11/06/2022 00:15:13
+--------------------
+Item root['Orquestra Core']['bounties'][0]['labels'][0] added to iterable.
+Item root['Orquestra Core']['bounties'][1]['labels'][1] added to iterable.
+Item root['Orquestra Core']['bounties'][1]['labels'][2] added to iterable.
+Item root['Orquestra Core']['bounties'][2]['labels'][1] added to iterable.
+Item root['Orquestra Core']['bounties'][3]['labels'][0] added to iterable.
+Item root['Orquestra Core']['bounties'][4]['labels'][1] added to iterable.
+Item root['Orquestra Core']['bounties'][5]['labels'][1] added to iterable.
+Item root['Orquestra Core']['bounties'][6]['labels'][1] added to iterable.
+Item root['Metriq']['bounties'][0]['labels'][2] added to iterable.
+Item root['Mitiq']['bounties'][2]['assignees'][0] added to iterable.
+Item root['Covalent']['uh_prs'][1] added to iterable.
+Item root['PennyLane']['uh_prs'][1]['assignees'][0] removed from iterable.
+Item root['PennyLane']['uh_prs'][2] removed from iterable.
+Item root['PyQrack']['uh_prs'][0] removed from iterable.
+Item root['Covalent']['bounties'][4]['assignees'][0] removed from iterable.
+Type of root['Orquestra Core']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-10T14:35:05Z".
+Type of root['Orquestra Core']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'mstechly', 'id': 7314136, 'node_id': 'MDQ6VXNlcjczMTQxMzY=', 'avatar_url': 'https://avatars.githubusercontent.com/u/7314136?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/mstechly', 'html_url': 'https://github.com/mstechly', 'followers_url': 'https://api.github.com/users/mstechly/followers', 'following_url': 'https://api.github.com/users/mstechly/following{/other_user}', 'gists_url': 'https://api.github.com/users/mstechly/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/mstechly/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/mstechly/subscriptions', 'organizations_url': 'https://api.github.com/users/mstechly/orgs', 'repos_url': 'https://api.github.com/users/mstechly/repos', 'events_url': 'https://api.github.com/users/mstechly/events{/privacy}', 'received_events_url': 'https://api.github.com/users/mstechly/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Metriq']['bounties'][0]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-10T22:19:26Z".
+Type of root['Metriq']['bounties'][0]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'WrathfulSpatula', 'id': 2674693, 'node_id': 'MDQ6VXNlcjI2NzQ2OTM=', 'avatar_url': 'https://avatars.githubusercontent.com/u/2674693?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/WrathfulSpatula', 'html_url': 'https://github.com/WrathfulSpatula', 'followers_url': 'https://api.github.com/users/WrathfulSpatula/followers', 'following_url': 'https://api.github.com/users/WrathfulSpatula/following{/other_user}', 'gists_url': 'https://api.github.com/users/WrathfulSpatula/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/WrathfulSpatula/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/WrathfulSpatula/subscriptions', 'organizations_url': 'https://api.github.com/users/WrathfulSpatula/orgs', 'repos_url': 'https://api.github.com/users/WrathfulSpatula/repos', 'events_url': 'https://api.github.com/users/WrathfulSpatula/events{/privacy}', 'received_events_url': 'https://api.github.com/users/WrathfulSpatula/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['PyQrack']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-10T14:23:38Z".
+Type of root['PyQrack']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'WrathfulSpatula', 'id': 2674693, 'node_id': 'MDQ6VXNlcjI2NzQ2OTM=', 'avatar_url': 'https://avatars.githubusercontent.com/u/2674693?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/WrathfulSpatula', 'html_url': 'https://github.com/WrathfulSpatula', 'followers_url': 'https://api.github.com/users/WrathfulSpatula/followers', 'following_url': 'https://api.github.com/users/WrathfulSpatula/following{/other_user}', 'gists_url': 'https://api.github.com/users/WrathfulSpatula/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/WrathfulSpatula/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/WrathfulSpatula/subscriptions', 'organizations_url': 'https://api.github.com/users/WrathfulSpatula/orgs', 'repos_url': 'https://api.github.com/users/WrathfulSpatula/repos', 'events_url': 'https://api.github.com/users/WrathfulSpatula/events{/privacy}', 'received_events_url': 'https://api.github.com/users/WrathfulSpatula/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['QuTiP']['open_issues_count'] changed from 159 to 157.
+Value of root['NetKet']['open_issues_count'] changed from 87 to 89.
+Value of root['Qiskit Nature']['forks_count'] changed from 127 to 128.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 78 to 74.
+Value of root['scqubits']['subscribers_count'] changed from 11 to 12.
+Value of root['Qiskit']['open_issues_count'] changed from 816 to 818.
+Value of root['PennyLane']['forks_count'] changed from 378 to 379.
+Value of root['PennyLane']['open_issues_count'] changed from 208 to 199.
+Value of root['PennyLane']['uh_prs'][1]['number'] changed from 2654 to 2661.
+Value of root['PennyLane']['uh_prs'][1]['title'] changed from "Remove qml.utils.expand and replace with qml.operation.expand_matrix. [unitaryhack]" to "[unitaryhack] Add SPSA optimization".
+Value of root['PennyLane']['uh_prs'][1]['created_at'] changed from "2022-06-03T02:30:46Z" to "2022-06-04T08:41:30Z".
+Value of root['Orquestra Core']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['Orquestra Core']['open_issues_count'] changed from 7 to 6.
+Value of root['Metriq']['bounties'][0]['state'] changed from "open" to "closed".
+Value of root['Metriq']['open_issues_count'] changed from 63 to 62.
+Value of root['Quantum Universal Education']['forks_count'] changed from 23 to 25.
+Value of root['Quantum Universal Education']['open_issues_count'] changed from 7 to 8.
+Value of root['PyQrack']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['PyQrack']['open_issues_count'] changed from 4 to 2.
+Value of root['toqito']['open_issues_count'] changed from 22 to 23.
+Value of root['XACC']['bounties'][0]['assignees'][0] changed from "amccaskey" to "anushkrishnav".
+Value of root['Covalent']['forks_count'] changed from 15 to 16.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Covalent']['uh_prs'][1]": { 'assignees': [],
+                                                              'closed_at': None,
+                                                              'created_at': '2022-06-10T23:23:27Z',
+                                                              'draft': False,
+                                                              'merged_at': None,
+                                                              'number': 641,
+                                                              'requested_reviewers': [ ],
+                                                              'state': 'open',
+                                                              'title': '[unitaryhack] '
+                                                                       'Parity '
+                                                                       'Generator'},
+                           "root['Metriq']['bounties'][0]['labels'][2]": 'unitaryhack-accepted',
+                           "root['Mitiq']['bounties'][2]['assignees'][0]": 'RamAIbot',
+                           "root['Orquestra Core']['bounties'][0]['labels'][0]": 'unitaryhack-bounty',
+                           "root['Orquestra Core']['bounties'][1]['labels'][1]": 'unitaryhack-bounty',
+                           "root['Orquestra Core']['bounties'][1]['labels'][2]": 'unitaryhack-accepted',
+                           "root['Orquestra Core']['bounties'][2]['labels'][1]": 'unitaryhack-bounty',
+                           "root['Orquestra Core']['bounties'][3]['labels'][0]": 'unitaryhack-bounty',
+                           "root['Orquestra Core']['bounties'][4]['labels'][1]": 'unitaryhack-bounty',
+                           "root['Orquestra Core']['bounties'][5]['labels'][1]": 'unitaryhack-bounty',
+                           "root['Orquestra Core']['bounties'][6]['labels'][1]": 'unitaryhack-bounty'},
+  'iterable_item_removed': { "root['Covalent']['bounties'][4]['assignees'][0]": 'scottwn',
+                             "root['PennyLane']['uh_prs'][1]['assignees'][0]": 'antalszava',
+                             "root['PennyLane']['uh_prs'][2]": { 'assignees': [ ],
+                                                                 'closed_at': None,
+                                                                 'created_at': '2022-06-04T08:41:30Z',
+                                                                 'draft': False,
+                                                                 'merged_at': None,
+                                                                 'number': 2661,
+                                                                 'requested_reviewers': [ ],
+                                                                 'state': 'open',
+                                                                 'title': 'Add '
+                                                                          'spsa '
+                                                                          'optimization '
+                                                                          '[unitaryhack] '},
+                             "root['PyQrack']['uh_prs'][0]": { 'assignees': [],
+                                                               'closed_at': None,
+                                                               'created_at': '2022-06-08T21:40:19Z',
+                                                               'draft': False,
+                                                               'merged_at': None,
+                                                               'number': 22,
+                                                               'requested_reviewers': [ ],
+                                                               'state': 'open',
+                                                               'title': '[unitaryhack] '
+                                                                        'Official '
+                                                                        'documentation'}},
+  'type_changes': { "root['Metriq']['bounties'][0]['closed_at']": { 'new_type': <class 'str'>,
+                                                                    'new_value': '2022-06-10T22:19:26Z',
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None},
+                    "root['Metriq']['bounties'][0]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                    'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/2674693?v=4',
+                                                                                   'events_url': 'https://api.github.com/users/WrathfulSpatula/events{/privacy}',
+                                                                                   'followers_url': 'https://api.github.com/users/WrathfulSpatula/followers',
+                                                                                   'following_url': 'https://api.github.com/users/WrathfulSpatula/following{/other_user}',
+                                                                                   'gists_url': 'https://api.github.com/users/WrathfulSpatula/gists{/gist_id}',
+                                                                                   'gravatar_id': '',
+                                                                                   'html_url': 'https://github.com/WrathfulSpatula',
+                                                                                   'id': 2674693,
+                                                                                   'login': 'WrathfulSpatula',
+                                                                                   'node_id': 'MDQ6VXNlcjI2NzQ2OTM=',
+                                                                                   'organizations_url': 'https://api.github.com/users/WrathfulSpatula/orgs',
+                                                                                   'received_events_url': 'https://api.github.com/users/WrathfulSpatula/received_events',
+                                                                                   'repos_url': 'https://api.github.com/users/WrathfulSpatula/repos',
+                                                                                   'site_admin': False,
+                                                                                   'starred_url': 'https://api.github.com/users/WrathfulSpatula/starred{/owner}{/repo}',
+                                                                                   'subscriptions_url': 'https://api.github.com/users/WrathfulSpatula/subscriptions',
+                                                                                   'type': 'User',
+                                                                                   'url': 'https://api.github.com/users/WrathfulSpatula'},
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None},
+                    "root['Orquestra Core']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                            'new_value': '2022-06-10T14:35:05Z',
+                                                                            'old_type': <class 'NoneType'>,
+                                                                            'old_value': None},
+                    "root['Orquestra Core']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                            'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/7314136?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/mstechly/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/mstechly/followers',
+                                                                                           'following_url': 'https://api.github.com/users/mstechly/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/mstechly/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/mstechly',
+                                                                                           'id': 7314136,
+                                                                                           'login': 'mstechly',
+                                                                                           'node_id': 'MDQ6VXNlcjczMTQxMzY=',
+                                                                                           'organizations_url': 'https://api.github.com/users/mstechly/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/mstechly/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/mstechly/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/mstechly/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/mstechly/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/mstechly'},
+                                                                            'old_type': <class 'NoneType'>,
+                                                                            'old_value': None},
+                    "root['PyQrack']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                     'new_value': '2022-06-10T14:23:38Z',
+                                                                     'old_type': <class 'NoneType'>,
+                                                                     'old_value': None},
+                    "root['PyQrack']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                     'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/2674693?v=4',
+                                                                                    'events_url': 'https://api.github.com/users/WrathfulSpatula/events{/privacy}',
+                                                                                    'followers_url': 'https://api.github.com/users/WrathfulSpatula/followers',
+                                                                                    'following_url': 'https://api.github.com/users/WrathfulSpatula/following{/other_user}',
+                                                                                    'gists_url': 'https://api.github.com/users/WrathfulSpatula/gists{/gist_id}',
+                                                                                    'gravatar_id': '',
+                                                                                    'html_url': 'https://github.com/WrathfulSpatula',
+                                                                                    'id': 2674693,
+                                                                                    'login': 'WrathfulSpatula',
+                                                                                    'node_id': 'MDQ6VXNlcjI2NzQ2OTM=',
+                                                                                    'organizations_url': 'https://api.github.com/users/WrathfulSpatula/orgs',
+                                                                                    'received_events_url': 'https://api.github.com/users/WrathfulSpatula/received_events',
+                                                                                    'repos_url': 'https://api.github.com/users/WrathfulSpatula/repos',
+                                                                                    'site_admin': False,
+                                                                                    'starred_url': 'https://api.github.com/users/WrathfulSpatula/starred{/owner}{/repo}',
+                                                                                    'subscriptions_url': 'https://api.github.com/users/WrathfulSpatula/subscriptions',
+                                                                                    'type': 'User',
+                                                                                    'url': 'https://api.github.com/users/WrathfulSpatula'},
+                                                                     'old_type': <class 'NoneType'>,
+                                                                     'old_value': None}},
+  'values_changed': { "root['Covalent']['forks_count']": { 'new_value': 16,
+                                                           'old_value': 15},
+                      "root['Metriq']['bounties'][0]['state']": { 'new_value': 'closed',
+                                                                  'old_value': 'open'},
+                      "root['Metriq']['open_issues_count']": { 'new_value': 62,
+                                                               'old_value': 63},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 89,
+                                                               'old_value': 87},
+                      "root['Orquestra Core']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                          'old_value': 'open'},
+                      "root['Orquestra Core']['open_issues_count']": { 'new_value': 6,
+                                                                       'old_value': 7},
+                      "root['PennyLane']['forks_count']": { 'new_value': 379,
+                                                            'old_value': 378},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 199,
+                                                                  'old_value': 208},
+                      "root['PennyLane']['uh_prs'][1]['created_at']": { 'new_value': '2022-06-04T08:41:30Z',
+                                                                        'old_value': '2022-06-03T02:30:46Z'},
+                      "root['PennyLane']['uh_prs'][1]['number']": { 'new_value': 2661,
+                                                                    'old_value': 2654},
+                      "root['PennyLane']['uh_prs'][1]['title']": { 'new_value': '[unitaryhack] '
+                                                                                'Add '
+                                                                                'SPSA '
+                                                                                'optimization',
+                                                                   'old_value': 'Remove '
+                                                                                'qml.utils.expand '
+                                                                                'and '
+                                                                                'replace '
+                                                                                'with '
+                                                                                'qml.operation.expand_matrix. '
+                                                                                '[unitaryhack]'},
+                      "root['PyQrack']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                   'old_value': 'open'},
+                      "root['PyQrack']['open_issues_count']": { 'new_value': 2,
+                                                                'old_value': 4},
+                      "root['Qiskit Nature']['forks_count']": { 'new_value': 128,
+                                                                'old_value': 127},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 74,
+                                                                      'old_value': 78},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 818,
+                                                               'old_value': 816},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 157,
+                                                              'old_value': 159},
+                      "root['Quantum Universal Education']['forks_count']": { 'new_value': 25,
+                                                                              'old_value': 23},
+                      "root['Quantum Universal Education']['open_issues_count']": { 'new_value': 8,
+                                                                                    'old_value': 7},
+                      "root['XACC']['bounties'][0]['assignees'][0]": { 'new_value': 'anushkrishnav',
+                                                                       'old_value': 'amccaskey'},
+                      "root['scqubits']['subscribers_count']": { 'new_value': 12,
+                                                                 'old_value': 11},
+                      "root['toqito']['open_issues_count']": { 'new_value': 23,
+                                                               'old_value': 22}}}
