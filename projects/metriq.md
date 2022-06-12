@@ -20,11 +20,11 @@ bounties:
   - name: Sorting child-tasks by upvotes 
     issue_num: 473
     value: 50
-  - name: Scirate ‘Scite!’ counts for submission
-    issue_num: 191
+  - name: Add option to display result plots on a log scale
+    issue_num: 423
     value: 50
-  - name: Publish updates via RSS 
-    issue_num: 238
+  - name: Log in prompts to homepage
+    issue_num: 558
     value: 50
 ---
 
