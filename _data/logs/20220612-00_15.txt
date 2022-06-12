@@ -1,0 +1,59 @@
+Changes to unitaryHACK results
+updated 12/06/2022 00:15:40
+--------------------
+Item root['Orquestra Core']['bounties'][5]['labels'][2] added to iterable.
+Type of root['Orquestra Core']['bounties'][5]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-11T14:16:02Z".
+Type of root['Orquestra Core']['bounties'][5]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'AthenaCaesura', 'id': 64999917, 'node_id': 'MDQ6VXNlcjY0OTk5OTE3', 'avatar_url': 'https://avatars.githubusercontent.com/u/64999917?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/AthenaCaesura', 'html_url': 'https://github.com/AthenaCaesura', 'followers_url': 'https://api.github.com/users/AthenaCaesura/followers', 'following_url': 'https://api.github.com/users/AthenaCaesura/following{/other_user}', 'gists_url': 'https://api.github.com/users/AthenaCaesura/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/AthenaCaesura/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/AthenaCaesura/subscriptions', 'organizations_url': 'https://api.github.com/users/AthenaCaesura/orgs', 'repos_url': 'https://api.github.com/users/AthenaCaesura/repos', 'events_url': 'https://api.github.com/users/AthenaCaesura/events{/privacy}', 'received_events_url': 'https://api.github.com/users/AthenaCaesura/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['NetKet']['forks_count'] changed from 133 to 134.
+Value of root['Qiskit']['open_issues_count'] changed from 818 to 820.
+Value of root['PennyLane']['open_issues_count'] changed from 200 to 202.
+Value of root['Orquestra Core']['bounties'][5]['state'] changed from "open" to "closed".
+Value of root['Orquestra Core']['open_issues_count'] changed from 6 to 5.
+Value of root['Error Correction Zoo']['forks_count'] changed from 1 to 2.
+Value of root['Error Correction Zoo']['open_issues_count'] changed from 3 to 4.
+Value of root['Covalent']['forks_count'] changed from 16 to 17.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Orquestra Core']['bounties'][5]['labels'][2]": 'unitaryhack-accepted'},
+  'type_changes': { "root['Orquestra Core']['bounties'][5]['closed_at']": { 'new_type': <class 'str'>,
+                                                                            'new_value': '2022-06-11T14:16:02Z',
+                                                                            'old_type': <class 'NoneType'>,
+                                                                            'old_value': None},
+                    "root['Orquestra Core']['bounties'][5]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                            'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/64999917?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/AthenaCaesura/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/AthenaCaesura/followers',
+                                                                                           'following_url': 'https://api.github.com/users/AthenaCaesura/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/AthenaCaesura/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/AthenaCaesura',
+                                                                                           'id': 64999917,
+                                                                                           'login': 'AthenaCaesura',
+                                                                                           'node_id': 'MDQ6VXNlcjY0OTk5OTE3',
+                                                                                           'organizations_url': 'https://api.github.com/users/AthenaCaesura/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/AthenaCaesura/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/AthenaCaesura/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/AthenaCaesura/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/AthenaCaesura/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/AthenaCaesura'},
+                                                                            'old_type': <class 'NoneType'>,
+                                                                            'old_value': None}},
+  'values_changed': { "root['Covalent']['forks_count']": { 'new_value': 17,
+                                                           'old_value': 16},
+                      "root['Error Correction Zoo']['forks_count']": { 'new_value': 2,
+                                                                       'old_value': 1},
+                      "root['Error Correction Zoo']['open_issues_count']": { 'new_value': 4,
+                                                                             'old_value': 3},
+                      "root['NetKet']['forks_count']": { 'new_value': 134,
+                                                         'old_value': 133},
+                      "root['Orquestra Core']['bounties'][5]['state']": { 'new_value': 'closed',
+                                                                          'old_value': 'open'},
+                      "root['Orquestra Core']['open_issues_count']": { 'new_value': 5,
+                                                                       'old_value': 6},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 202,
+                                                                  'old_value': 200},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 820,
+                                                               'old_value': 818}}}
