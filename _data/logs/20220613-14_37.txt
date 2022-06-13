@@ -1,0 +1,24 @@
+Changes to unitaryHACK results
+updated 13/06/2022 14:37:15
+--------------------
+Value of root['QuTiP']['open_issues_count'] changed from 156 to 154.
+Value of root['NetKet']['forks_count'] changed from 135 to 136.
+Value of root['Qiskit']['open_issues_count'] changed from 821 to 820.
+Value of root['PennyLane']['open_issues_count'] changed from 207 to 206.
+Value of root['Covalent']['open_issues_count'] changed from 94 to 93.
+Value of root['Covalent']['uh_prs'][1]['draft'] changed from False to True.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 93,
+                                                                 'old_value': 94},
+                      "root['Covalent']['uh_prs'][1]['draft']": { 'new_value': True,
+                                                                  'old_value': False},
+                      "root['NetKet']['forks_count']": { 'new_value': 136,
+                                                         'old_value': 135},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 206,
+                                                                  'old_value': 207},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 820,
+                                                               'old_value': 821},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 154,
+                                                              'old_value': 156}}}
