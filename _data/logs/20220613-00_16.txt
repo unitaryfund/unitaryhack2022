@@ -1,0 +1,45 @@
+Changes to unitaryHACK results
+updated 13/06/2022 00:16:11
+--------------------
+Item root['QuTiP']['uh_prs'][2] added to iterable.
+Item root['Metriq']['bounties'][3]['labels'][2] removed from iterable.
+Value of root['QuTiP']['open_issues_count'] changed from 157 to 159.
+Value of root['Yao']['open_issues_count'] changed from 28 to 27.
+Value of root['PyQIR']['open_issues_count'] changed from 18 to 19.
+Value of root['scqubits']['subscribers_count'] changed from 12 to 11.
+Value of root['Qiskit']['forks_count'] changed from 1672 to 1674.
+Value of root['Qiskit']['open_issues_count'] changed from 822 to 823.
+Value of root['PennyLane']['open_issues_count'] changed from 203 to 205.
+Value of root['toqito']['open_issues_count'] changed from 23 to 22.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['QuTiP']['uh_prs'][2]": { 'assignees': [],
+                                                           'closed_at': None,
+                                                           'created_at': '2022-06-12T18:42:00Z',
+                                                           'draft': False,
+                                                           'merged_at': None,
+                                                           'number': 1929,
+                                                           'requested_reviewers': [ ],
+                                                           'state': 'open',
+                                                           'title': '[unitaryhack] '
+                                                                    'Fix bug '
+                                                                    'correlation '
+                                                                    '2op 2t'}},
+  'iterable_item_removed': { "root['Metriq']['bounties'][3]['labels'][2]": 'unitaryhack-bounty'},
+  'values_changed': { "root['PennyLane']['open_issues_count']": { 'new_value': 205,
+                                                                  'old_value': 203},
+                      "root['PyQIR']['open_issues_count']": { 'new_value': 19,
+                                                              'old_value': 18},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1674,
+                                                         'old_value': 1672},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 823,
+                                                               'old_value': 822},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 159,
+                                                              'old_value': 157},
+                      "root['Yao']['open_issues_count']": { 'new_value': 27,
+                                                            'old_value': 28},
+                      "root['scqubits']['subscribers_count']": { 'new_value': 11,
+                                                                 'old_value': 12},
+                      "root['toqito']['open_issues_count']": { 'new_value': 22,
+                                                               'old_value': 23}}}
