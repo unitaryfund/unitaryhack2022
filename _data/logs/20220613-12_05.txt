@@ -1,0 +1,186 @@
+Changes to unitaryHACK results
+updated 13/06/2022 12:05:44
+--------------------
+Item root['toqito']['uh_prs'][0] added to iterable.
+Item root['QuTiP']['uh_prs'][1] removed from iterable.
+Item root['QuTiP']['uh_prs'][2] removed from iterable.
+Item root['Mitiq']['uh_prs'][0] removed from iterable.
+Item root['Mitiq']['uh_prs'][1] removed from iterable.
+Type of root['QuTiP']['bounties'][0]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-13T09:49:38Z".
+Type of root['QuTiP']['bounties'][0]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'hodgestar', 'id': 165551, 'node_id': 'MDQ6VXNlcjE2NTU1MQ==', 'avatar_url': 'https://avatars.githubusercontent.com/u/165551?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/hodgestar', 'html_url': 'https://github.com/hodgestar', 'followers_url': 'https://api.github.com/users/hodgestar/followers', 'following_url': 'https://api.github.com/users/hodgestar/following{/other_user}', 'gists_url': 'https://api.github.com/users/hodgestar/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/hodgestar/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/hodgestar/subscriptions', 'organizations_url': 'https://api.github.com/users/hodgestar/orgs', 'repos_url': 'https://api.github.com/users/hodgestar/repos', 'events_url': 'https://api.github.com/users/hodgestar/events{/privacy}', 'received_events_url': 'https://api.github.com/users/hodgestar/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Mitiq']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-13T10:48:10Z".
+Type of root['Mitiq']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'nathanshammah', 'id': 14573436, 'node_id': 'MDQ6VXNlcjE0NTczNDM2', 'avatar_url': 'https://avatars.githubusercontent.com/u/14573436?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/nathanshammah', 'html_url': 'https://github.com/nathanshammah', 'followers_url': 'https://api.github.com/users/nathanshammah/followers', 'following_url': 'https://api.github.com/users/nathanshammah/following{/other_user}', 'gists_url': 'https://api.github.com/users/nathanshammah/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/nathanshammah/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/nathanshammah/subscriptions', 'organizations_url': 'https://api.github.com/users/nathanshammah/orgs', 'repos_url': 'https://api.github.com/users/nathanshammah/repos', 'events_url': 'https://api.github.com/users/nathanshammah/events{/privacy}', 'received_events_url': 'https://api.github.com/users/nathanshammah/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['QuTiP']['bounties'][0]['state'] changed from "open" to "closed".
+Value of root['QuTiP']['open_issues_count'] changed from 159 to 156.
+Value of root['QuTiP']['uh_prs'][0]['number'] changed from 1925 to 1927.
+Value of root['QuTiP']['uh_prs'][0]['title'] changed from "[unitaryhack] DOC: Hyperlinks to QuTiP functions and classes fixed #1526" to "[unitaryhack] Add towncrier for managing the changelog".
+Value of root['QuTiP']['uh_prs'][0]['created_at'] changed from "2022-06-09T01:01:19Z" to "2022-06-10T03:35:18Z".
+Value of root['QuTiP']['uh_prs'][0]['draft'] changed from False to True.
+Value of root['NetKet']['open_issues_count'] changed from 88 to 89.
+Value of root['Qiskit']['forks_count'] changed from 1674 to 1675.
+Value of root['Qiskit']['open_issues_count'] changed from 823 to 821.
+Value of root['PennyLane']['open_issues_count'] changed from 205 to 207.
+Value of root['Mitiq']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['Mitiq']['open_issues_count'] changed from 77 to 75.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['toqito']['uh_prs'][0]": { 'assignees': [],
+                                                            'closed_at': None,
+                                                            'created_at': '2022-06-13T10:23:03Z',
+                                                            'draft': False,
+                                                            'merged_at': None,
+                                                            'number': 99,
+                                                            'requested_reviewers': [ ],
+                                                            'state': 'open',
+                                                            'title': '[unitaryhack] '
+                                                                     'Add '
+                                                                     '`is_block_positive`.'}},
+  'iterable_item_removed': { "root['Mitiq']['uh_prs'][0]": { 'assignees': [],
+                                                             'closed_at': None,
+                                                             'created_at': '2022-06-02T15:11:32Z',
+                                                             'draft': False,
+                                                             'merged_at': None,
+                                                             'number': 1325,
+                                                             'requested_reviewers': [ ],
+                                                             'state': 'open',
+                                                             'title': 'Modify '
+                                                                      'docstrings, '
+                                                                      'documentation '
+                                                                      'to use '
+                                                                      'citations '
+                                                                      'from '
+                                                                      'refs.bib '
+                                                                      '[unitaryhack]'},
+                             "root['Mitiq']['uh_prs'][1]": { 'assignees': [],
+                                                             'closed_at': None,
+                                                             'created_at': '2022-06-09T17:07:18Z',
+                                                             'draft': False,
+                                                             'merged_at': None,
+                                                             'number': 1349,
+                                                             'requested_reviewers': [ ],
+                                                             'state': 'open',
+                                                             'title': '[unitaryhack] '
+                                                                      'v2 '
+                                                                      'Updated '
+                                                                      'molecular '
+                                                                      'hydrogen '
+                                                                      'tutorial '
+                                                                      'OpenFermion'},
+                             "root['QuTiP']['uh_prs'][1]": { 'assignees': [],
+                                                             'closed_at': None,
+                                                             'created_at': '2022-06-10T03:35:18Z',
+                                                             'draft': True,
+                                                             'merged_at': None,
+                                                             'number': 1927,
+                                                             'requested_reviewers': [ ],
+                                                             'state': 'open',
+                                                             'title': '[unitaryhack] '
+                                                                      'Add '
+                                                                      'towncrier '
+                                                                      'for '
+                                                                      'managing '
+                                                                      'the '
+                                                                      'changelog'},
+                             "root['QuTiP']['uh_prs'][2]": { 'assignees': [],
+                                                             'closed_at': None,
+                                                             'created_at': '2022-06-12T18:42:00Z',
+                                                             'draft': False,
+                                                             'merged_at': None,
+                                                             'number': 1929,
+                                                             'requested_reviewers': [ ],
+                                                             'state': 'open',
+                                                             'title': '[unitaryhack] '
+                                                                      'Fix bug '
+                                                                      'correlation '
+                                                                      '2op '
+                                                                      '2t'}},
+  'type_changes': { "root['Mitiq']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                   'new_value': '2022-06-13T10:48:10Z',
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['Mitiq']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                   'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/14573436?v=4',
+                                                                                  'events_url': 'https://api.github.com/users/nathanshammah/events{/privacy}',
+                                                                                  'followers_url': 'https://api.github.com/users/nathanshammah/followers',
+                                                                                  'following_url': 'https://api.github.com/users/nathanshammah/following{/other_user}',
+                                                                                  'gists_url': 'https://api.github.com/users/nathanshammah/gists{/gist_id}',
+                                                                                  'gravatar_id': '',
+                                                                                  'html_url': 'https://github.com/nathanshammah',
+                                                                                  'id': 14573436,
+                                                                                  'login': 'nathanshammah',
+                                                                                  'node_id': 'MDQ6VXNlcjE0NTczNDM2',
+                                                                                  'organizations_url': 'https://api.github.com/users/nathanshammah/orgs',
+                                                                                  'received_events_url': 'https://api.github.com/users/nathanshammah/received_events',
+                                                                                  'repos_url': 'https://api.github.com/users/nathanshammah/repos',
+                                                                                  'site_admin': False,
+                                                                                  'starred_url': 'https://api.github.com/users/nathanshammah/starred{/owner}{/repo}',
+                                                                                  'subscriptions_url': 'https://api.github.com/users/nathanshammah/subscriptions',
+                                                                                  'type': 'User',
+                                                                                  'url': 'https://api.github.com/users/nathanshammah'},
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['QuTiP']['bounties'][0]['closed_at']": { 'new_type': <class 'str'>,
+                                                                   'new_value': '2022-06-13T09:49:38Z',
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['QuTiP']['bounties'][0]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                   'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/165551?v=4',
+                                                                                  'events_url': 'https://api.github.com/users/hodgestar/events{/privacy}',
+                                                                                  'followers_url': 'https://api.github.com/users/hodgestar/followers',
+                                                                                  'following_url': 'https://api.github.com/users/hodgestar/following{/other_user}',
+                                                                                  'gists_url': 'https://api.github.com/users/hodgestar/gists{/gist_id}',
+                                                                                  'gravatar_id': '',
+                                                                                  'html_url': 'https://github.com/hodgestar',
+                                                                                  'id': 165551,
+                                                                                  'login': 'hodgestar',
+                                                                                  'node_id': 'MDQ6VXNlcjE2NTU1MQ==',
+                                                                                  'organizations_url': 'https://api.github.com/users/hodgestar/orgs',
+                                                                                  'received_events_url': 'https://api.github.com/users/hodgestar/received_events',
+                                                                                  'repos_url': 'https://api.github.com/users/hodgestar/repos',
+                                                                                  'site_admin': False,
+                                                                                  'starred_url': 'https://api.github.com/users/hodgestar/starred{/owner}{/repo}',
+                                                                                  'subscriptions_url': 'https://api.github.com/users/hodgestar/subscriptions',
+                                                                                  'type': 'User',
+                                                                                  'url': 'https://api.github.com/users/hodgestar'},
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None}},
+  'values_changed': { "root['Mitiq']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                 'old_value': 'open'},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 75,
+                                                              'old_value': 77},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 89,
+                                                               'old_value': 88},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 207,
+                                                                  'old_value': 205},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1675,
+                                                         'old_value': 1674},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 821,
+                                                               'old_value': 823},
+                      "root['QuTiP']['bounties'][0]['state']": { 'new_value': 'closed',
+                                                                 'old_value': 'open'},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 156,
+                                                              'old_value': 159},
+                      "root['QuTiP']['uh_prs'][0]['created_at']": { 'new_value': '2022-06-10T03:35:18Z',
+                                                                    'old_value': '2022-06-09T01:01:19Z'},
+                      "root['QuTiP']['uh_prs'][0]['draft']": { 'new_value': True,
+                                                               'old_value': False},
+                      "root['QuTiP']['uh_prs'][0]['number']": { 'new_value': 1927,
+                                                                'old_value': 1925},
+                      "root['QuTiP']['uh_prs'][0]['title']": { 'new_value': '[unitaryhack] '
+                                                                            'Add '
+                                                                            'towncrier '
+                                                                            'for '
+                                                                            'managing '
+                                                                            'the '
+                                                                            'changelog',
+                                                               'old_value': '[unitaryhack] '
+                                                                            'DOC: '
+                                                                            'Hyperlinks '
+                                                                            'to '
+                                                                            'QuTiP '
+                                                                            'functions '
+                                                                            'and '
+                                                                            'classes '
+                                                                            'fixed '
+                                                                            '#1526'}}}
