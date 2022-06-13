@@ -16,7 +16,7 @@ section: results
         <h3>
           <div class="" >
             <span class="project-card__emoji">{{ project.emoji }}</span>
-            {{ project.title }}
+            <a  href="/projects/{{ project.title | slugify }}">{{ project.title }}</a>
           </div>
         </h3>
         {% if project.bounties %}
@@ -75,7 +75,7 @@ section: results
       <h3>
         <div class="" >
           <span class="project-card__emoji">🚀</span>
-          Quantify-core
+          <a href="https://gitlab.com/quantify-os/quantify-core">Quantify-core</a>
         </div>
       </h3>
         <strong>Completed bounties:</strong>
@@ -104,7 +104,7 @@ section: results
       <h3>
         <div class="" >
           <span class="project-card__emoji">🚀</span>
-          Quantify-scheduler
+          <a href="https://gitlab.com/quantify-os/quantify-scheduler">Quantify-scheduler</a>
         </div>
       </h3>
         <strong>Completed bounties:</strong>
