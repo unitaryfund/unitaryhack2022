@@ -1,0 +1,102 @@
+Changes to unitaryHACK results
+updated 14/06/2022 00:16:29
+--------------------
+Item root['Qiskit']['uh_prs'][1]['assignees'][0] added to iterable.
+Item root['Mitiq']['bounties'][1]['labels'][3] added to iterable.
+Item root['Qiskit IonQ']['uh_prs'][0]['requested_reviewers'][0] removed from iterable.
+Item root['PennyLane']['uh_prs'][1] removed from iterable.
+Type of root['PennyLane']['bounties'][0]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-13T17:34:15Z".
+Type of root['PennyLane']['bounties'][0]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'antalszava', 'id': 24476053, 'node_id': 'MDQ6VXNlcjI0NDc2MDUz', 'avatar_url': 'https://avatars.githubusercontent.com/u/24476053?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/antalszava', 'html_url': 'https://github.com/antalszava', 'followers_url': 'https://api.github.com/users/antalszava/followers', 'following_url': 'https://api.github.com/users/antalszava/following{/other_user}', 'gists_url': 'https://api.github.com/users/antalszava/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/antalszava/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/antalszava/subscriptions', 'organizations_url': 'https://api.github.com/users/antalszava/orgs', 'repos_url': 'https://api.github.com/users/antalszava/repos', 'events_url': 'https://api.github.com/users/antalszava/events{/privacy}', 'received_events_url': 'https://api.github.com/users/antalszava/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['QuTiP']['uh_prs'][0]['draft'] changed from True to False.
+Value of root['NetKet']['open_issues_count'] changed from 89 to 91.
+Value of root['Qiskit IonQ']['forks_count'] changed from 11 to 12.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 74 to 75.
+Value of root['Qiskit']['open_issues_count'] changed from 820 to 818.
+Value of root['PennyLane']['bounties'][0]['state'] changed from "open" to "closed".
+Value of root['PennyLane']['open_issues_count'] changed from 206 to 210.
+Value of root['KQCircuits']['forks_count'] changed from 29 to 30.
+Value of root['Bloqade']['open_issues_count'] changed from 38 to 37.
+Value of root['Mitiq']['open_issues_count'] changed from 75 to 76.
+Value of root['Covalent']['open_issues_count'] changed from 93 to 97.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Mitiq']['bounties'][1]['labels'][3]": 'unitaryhack-accepted',
+                           "root['Qiskit']['uh_prs'][1]['assignees'][0]": '1ucian0'},
+  'iterable_item_removed': { "root['PennyLane']['uh_prs'][1]": { 'assignees': [ ],
+                                                                 'closed_at': None,
+                                                                 'created_at': '2022-06-04T08:41:30Z',
+                                                                 'draft': False,
+                                                                 'merged_at': None,
+                                                                 'number': 2661,
+                                                                 'requested_reviewers': [ ],
+                                                                 'state': 'open',
+                                                                 'title': '[unitaryhack] '
+                                                                          'Add '
+                                                                          'SPSA '
+                                                                          'optimization'},
+                             "root['Qiskit IonQ']['uh_prs'][0]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/1831834?v=4',
+                                                                                             'events_url': 'https://api.github.com/users/ColemanCollins/events{/privacy}',
+                                                                                             'followers_url': 'https://api.github.com/users/ColemanCollins/followers',
+                                                                                             'following_url': 'https://api.github.com/users/ColemanCollins/following{/other_user}',
+                                                                                             'gists_url': 'https://api.github.com/users/ColemanCollins/gists{/gist_id}',
+                                                                                             'gravatar_id': '',
+                                                                                             'html_url': 'https://github.com/ColemanCollins',
+                                                                                             'id': 1831834,
+                                                                                             'login': 'ColemanCollins',
+                                                                                             'node_id': 'MDQ6VXNlcjE4MzE4MzQ=',
+                                                                                             'organizations_url': 'https://api.github.com/users/ColemanCollins/orgs',
+                                                                                             'received_events_url': 'https://api.github.com/users/ColemanCollins/received_events',
+                                                                                             'repos_url': 'https://api.github.com/users/ColemanCollins/repos',
+                                                                                             'site_admin': False,
+                                                                                             'starred_url': 'https://api.github.com/users/ColemanCollins/starred{/owner}{/repo}',
+                                                                                             'subscriptions_url': 'https://api.github.com/users/ColemanCollins/subscriptions',
+                                                                                             'type': 'User',
+                                                                                             'url': 'https://api.github.com/users/ColemanCollins'}},
+  'type_changes': { "root['PennyLane']['bounties'][0]['closed_at']": { 'new_type': <class 'str'>,
+                                                                       'new_value': '2022-06-13T17:34:15Z',
+                                                                       'old_type': <class 'NoneType'>,
+                                                                       'old_value': None},
+                    "root['PennyLane']['bounties'][0]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                       'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/24476053?v=4',
+                                                                                      'events_url': 'https://api.github.com/users/antalszava/events{/privacy}',
+                                                                                      'followers_url': 'https://api.github.com/users/antalszava/followers',
+                                                                                      'following_url': 'https://api.github.com/users/antalszava/following{/other_user}',
+                                                                                      'gists_url': 'https://api.github.com/users/antalszava/gists{/gist_id}',
+                                                                                      'gravatar_id': '',
+                                                                                      'html_url': 'https://github.com/antalszava',
+                                                                                      'id': 24476053,
+                                                                                      'login': 'antalszava',
+                                                                                      'node_id': 'MDQ6VXNlcjI0NDc2MDUz',
+                                                                                      'organizations_url': 'https://api.github.com/users/antalszava/orgs',
+                                                                                      'received_events_url': 'https://api.github.com/users/antalszava/received_events',
+                                                                                      'repos_url': 'https://api.github.com/users/antalszava/repos',
+                                                                                      'site_admin': False,
+                                                                                      'starred_url': 'https://api.github.com/users/antalszava/starred{/owner}{/repo}',
+                                                                                      'subscriptions_url': 'https://api.github.com/users/antalszava/subscriptions',
+                                                                                      'type': 'User',
+                                                                                      'url': 'https://api.github.com/users/antalszava'},
+                                                                       'old_type': <class 'NoneType'>,
+                                                                       'old_value': None}},
+  'values_changed': { "root['Bloqade']['open_issues_count']": { 'new_value': 37,
+                                                                'old_value': 38},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 97,
+                                                                 'old_value': 93},
+                      "root['KQCircuits']['forks_count']": { 'new_value': 30,
+                                                             'old_value': 29},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 76,
+                                                              'old_value': 75},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 91,
+                                                               'old_value': 89},
+                      "root['PennyLane']['bounties'][0]['state']": { 'new_value': 'closed',
+                                                                     'old_value': 'open'},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 210,
+                                                                  'old_value': 206},
+                      "root['Qiskit IonQ']['forks_count']": { 'new_value': 12,
+                                                              'old_value': 11},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 75,
+                                                                      'old_value': 74},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 818,
+                                                               'old_value': 820},
+                      "root['QuTiP']['uh_prs'][0]['draft']": { 'new_value': False,
+                                                               'old_value': True}}}
