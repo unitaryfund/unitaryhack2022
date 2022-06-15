@@ -26,6 +26,9 @@ bounties:
   - name: Add a `requirements_dev.txt` file
     issue_num: 2560
     value: 25
+  - name: Add qml.FlipSign subroutine template
+    issue_num: 2681
+    value: 50
 ---
 
 
