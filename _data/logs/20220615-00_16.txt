@@ -1,0 +1,343 @@
+Changes to unitaryHACK results
+updated 15/06/2022 00:16:14
+--------------------
+Item root['Qiskit']['uh_prs'][1]['requested_reviewers'][2] added to iterable.
+Item root['Orquestra Core']['bounties'][0]['labels'][1] added to iterable.
+Item root['Orquestra Core']['bounties'][2]['labels'][2] added to iterable.
+Item root['Orquestra Core']['bounties'][3]['labels'][1] added to iterable.
+Item root['Orquestra Core']['bounties'][6]['labels'][2] added to iterable.
+Item root['Qiskit IonQ']['uh_prs'][0] removed from iterable.
+Item root['Orquestra Core']['uh_prs'][0] removed from iterable.
+Type of root['Qiskit IonQ']['bounties'][2]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-14T16:56:12Z".
+Type of root['Qiskit IonQ']['bounties'][2]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'ColemanCollins', 'id': 1831834, 'node_id': 'MDQ6VXNlcjE4MzE4MzQ=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1831834?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/ColemanCollins', 'html_url': 'https://github.com/ColemanCollins', 'followers_url': 'https://api.github.com/users/ColemanCollins/followers', 'following_url': 'https://api.github.com/users/ColemanCollins/following{/other_user}', 'gists_url': 'https://api.github.com/users/ColemanCollins/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/ColemanCollins/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/ColemanCollins/subscriptions', 'organizations_url': 'https://api.github.com/users/ColemanCollins/orgs', 'repos_url': 'https://api.github.com/users/ColemanCollins/repos', 'events_url': 'https://api.github.com/users/ColemanCollins/events{/privacy}', 'received_events_url': 'https://api.github.com/users/ColemanCollins/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['PennyLane']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-14T13:21:19Z".
+Type of root['PennyLane']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'antalszava', 'id': 24476053, 'node_id': 'MDQ6VXNlcjI0NDc2MDUz', 'avatar_url': 'https://avatars.githubusercontent.com/u/24476053?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/antalszava', 'html_url': 'https://github.com/antalszava', 'followers_url': 'https://api.github.com/users/antalszava/followers', 'following_url': 'https://api.github.com/users/antalszava/following{/other_user}', 'gists_url': 'https://api.github.com/users/antalszava/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/antalszava/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/antalszava/subscriptions', 'organizations_url': 'https://api.github.com/users/antalszava/orgs', 'repos_url': 'https://api.github.com/users/antalszava/repos', 'events_url': 'https://api.github.com/users/antalszava/events{/privacy}', 'received_events_url': 'https://api.github.com/users/antalszava/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Orquestra Core']['bounties'][0]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-14T16:03:37Z".
+Type of root['Orquestra Core']['bounties'][0]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'mstechly', 'id': 7314136, 'node_id': 'MDQ6VXNlcjczMTQxMzY=', 'avatar_url': 'https://avatars.githubusercontent.com/u/7314136?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/mstechly', 'html_url': 'https://github.com/mstechly', 'followers_url': 'https://api.github.com/users/mstechly/followers', 'following_url': 'https://api.github.com/users/mstechly/following{/other_user}', 'gists_url': 'https://api.github.com/users/mstechly/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/mstechly/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/mstechly/subscriptions', 'organizations_url': 'https://api.github.com/users/mstechly/orgs', 'repos_url': 'https://api.github.com/users/mstechly/repos', 'events_url': 'https://api.github.com/users/mstechly/events{/privacy}', 'received_events_url': 'https://api.github.com/users/mstechly/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Orquestra Core']['bounties'][2]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-14T15:04:35Z".
+Type of root['Orquestra Core']['bounties'][2]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'mstechly', 'id': 7314136, 'node_id': 'MDQ6VXNlcjczMTQxMzY=', 'avatar_url': 'https://avatars.githubusercontent.com/u/7314136?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/mstechly', 'html_url': 'https://github.com/mstechly', 'followers_url': 'https://api.github.com/users/mstechly/followers', 'following_url': 'https://api.github.com/users/mstechly/following{/other_user}', 'gists_url': 'https://api.github.com/users/mstechly/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/mstechly/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/mstechly/subscriptions', 'organizations_url': 'https://api.github.com/users/mstechly/orgs', 'repos_url': 'https://api.github.com/users/mstechly/repos', 'events_url': 'https://api.github.com/users/mstechly/events{/privacy}', 'received_events_url': 'https://api.github.com/users/mstechly/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Orquestra Core']['bounties'][3]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-14T15:40:06Z".
+Type of root['Orquestra Core']['bounties'][3]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'mstechly', 'id': 7314136, 'node_id': 'MDQ6VXNlcjczMTQxMzY=', 'avatar_url': 'https://avatars.githubusercontent.com/u/7314136?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/mstechly', 'html_url': 'https://github.com/mstechly', 'followers_url': 'https://api.github.com/users/mstechly/followers', 'following_url': 'https://api.github.com/users/mstechly/following{/other_user}', 'gists_url': 'https://api.github.com/users/mstechly/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/mstechly/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/mstechly/subscriptions', 'organizations_url': 'https://api.github.com/users/mstechly/orgs', 'repos_url': 'https://api.github.com/users/mstechly/repos', 'events_url': 'https://api.github.com/users/mstechly/events{/privacy}', 'received_events_url': 'https://api.github.com/users/mstechly/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Orquestra Core']['bounties'][6]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-14T15:04:07Z".
+Type of root['Orquestra Core']['bounties'][6]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'mstechly', 'id': 7314136, 'node_id': 'MDQ6VXNlcjczMTQxMzY=', 'avatar_url': 'https://avatars.githubusercontent.com/u/7314136?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/mstechly', 'html_url': 'https://github.com/mstechly', 'followers_url': 'https://api.github.com/users/mstechly/followers', 'following_url': 'https://api.github.com/users/mstechly/following{/other_user}', 'gists_url': 'https://api.github.com/users/mstechly/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/mstechly/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/mstechly/subscriptions', 'organizations_url': 'https://api.github.com/users/mstechly/orgs', 'repos_url': 'https://api.github.com/users/mstechly/repos', 'events_url': 'https://api.github.com/users/mstechly/events{/privacy}', 'received_events_url': 'https://api.github.com/users/mstechly/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['QuTiP']['forks_count'] changed from 530 to 532.
+Value of root['QuTiP']['open_issues_count'] changed from 154 to 155.
+Value of root['NetKet']['forks_count'] changed from 136 to 137.
+Value of root['NetKet']['open_issues_count'] changed from 91 to 93.
+Value of root['Qiskit IonQ']['bounties'][2]['state'] changed from "open" to "closed".
+Value of root['Qiskit IonQ']['open_issues_count'] changed from 7 to 5.
+Value of root['Qiskit']['forks_count'] changed from 1675 to 1676.
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['login'] changed from "nkanazawa1989" to "mtreinish".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['id'] changed from 39517270 to 2447371.
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['node_id'] changed from "MDQ6VXNlcjM5NTE3Mjcw" to "MDQ6VXNlcjI0NDczNzE=".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/39517270?v=4" to "https://avatars.githubusercontent.com/u/2447371?v=4".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['url'] changed from "https://api.github.com/users/nkanazawa1989" to "https://api.github.com/users/mtreinish".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['html_url'] changed from "https://github.com/nkanazawa1989" to "https://github.com/mtreinish".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['followers_url'] changed from "https://api.github.com/users/nkanazawa1989/followers" to "https://api.github.com/users/mtreinish/followers".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['following_url'] changed from "https://api.github.com/users/nkanazawa1989/following{/other_user}" to "https://api.github.com/users/mtreinish/following{/other_user}".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['gists_url'] changed from "https://api.github.com/users/nkanazawa1989/gists{/gist_id}" to "https://api.github.com/users/mtreinish/gists{/gist_id}".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['starred_url'] changed from "https://api.github.com/users/nkanazawa1989/starred{/owner}{/repo}" to "https://api.github.com/users/mtreinish/starred{/owner}{/repo}".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['subscriptions_url'] changed from "https://api.github.com/users/nkanazawa1989/subscriptions" to "https://api.github.com/users/mtreinish/subscriptions".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['organizations_url'] changed from "https://api.github.com/users/nkanazawa1989/orgs" to "https://api.github.com/users/mtreinish/orgs".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['repos_url'] changed from "https://api.github.com/users/nkanazawa1989/repos" to "https://api.github.com/users/mtreinish/repos".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['events_url'] changed from "https://api.github.com/users/nkanazawa1989/events{/privacy}" to "https://api.github.com/users/mtreinish/events{/privacy}".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['received_events_url'] changed from "https://api.github.com/users/nkanazawa1989/received_events" to "https://api.github.com/users/mtreinish/received_events".
+Value of root['PennyLane']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['PennyLane']['open_issues_count'] changed from 212 to 210.
+Value of root['PennyLane']['uh_prs'][0]['number'] changed from 2651 to 2709.
+Value of root['PennyLane']['uh_prs'][0]['title'] changed from "Add equal function [unitaryhack]" to "Add pennylane drawer style [unitaryhack]".
+Value of root['PennyLane']['uh_prs'][0]['created_at'] changed from "2022-06-02T19:40:06Z" to "2022-06-14T14:49:02Z".
+Value of root['Orquestra Core']['bounties'][0]['state'] changed from "open" to "closed".
+Value of root['Orquestra Core']['bounties'][2]['state'] changed from "open" to "closed".
+Value of root['Orquestra Core']['bounties'][3]['state'] changed from "open" to "closed".
+Value of root['Orquestra Core']['bounties'][6]['state'] changed from "open" to "closed".
+Value of root['Orquestra Core']['open_issues_count'] changed from 6 to 1.
+Value of root['Orquestra Core']['subscribers_count'] changed from 15 to 16.
+Value of root['Mitiq']['open_issues_count'] changed from 78 to 77.
+Value of root['toqito']['open_issues_count'] changed from 20 to 23.
+Value of root['Covalent']['forks_count'] changed from 17 to 16.
+Value of root['Covalent']['open_issues_count'] changed from 96 to 106.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Orquestra Core']['bounties'][0]['labels'][1]": 'unitaryhack-accepted',
+                           "root['Orquestra Core']['bounties'][2]['labels'][2]": 'unitaryhack-accepted',
+                           "root['Orquestra Core']['bounties'][3]['labels'][1]": 'unitaryhack-accepted',
+                           "root['Orquestra Core']['bounties'][6]['labels'][2]": 'unitaryhack-accepted',
+                           "root['Qiskit']['uh_prs'][1]['requested_reviewers'][2]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/39517270?v=4',
+                                                                                      'events_url': 'https://api.github.com/users/nkanazawa1989/events{/privacy}',
+                                                                                      'followers_url': 'https://api.github.com/users/nkanazawa1989/followers',
+                                                                                      'following_url': 'https://api.github.com/users/nkanazawa1989/following{/other_user}',
+                                                                                      'gists_url': 'https://api.github.com/users/nkanazawa1989/gists{/gist_id}',
+                                                                                      'gravatar_id': '',
+                                                                                      'html_url': 'https://github.com/nkanazawa1989',
+                                                                                      'id': 39517270,
+                                                                                      'login': 'nkanazawa1989',
+                                                                                      'node_id': 'MDQ6VXNlcjM5NTE3Mjcw',
+                                                                                      'organizations_url': 'https://api.github.com/users/nkanazawa1989/orgs',
+                                                                                      'received_events_url': 'https://api.github.com/users/nkanazawa1989/received_events',
+                                                                                      'repos_url': 'https://api.github.com/users/nkanazawa1989/repos',
+                                                                                      'site_admin': False,
+                                                                                      'starred_url': 'https://api.github.com/users/nkanazawa1989/starred{/owner}{/repo}',
+                                                                                      'subscriptions_url': 'https://api.github.com/users/nkanazawa1989/subscriptions',
+                                                                                      'type': 'User',
+                                                                                      'url': 'https://api.github.com/users/nkanazawa1989'}},
+  'iterable_item_removed': { "root['Orquestra Core']['uh_prs'][0]": { 'assignees': [ ],
+                                                                      'closed_at': None,
+                                                                      'created_at': '2022-06-14T06:46:20Z',
+                                                                      'draft': False,
+                                                                      'merged_at': None,
+                                                                      'number': 21,
+                                                                      'requested_reviewers': [ ],
+                                                                      'state': 'open',
+                                                                      'title': '[unitaryhack] '
+                                                                               'change '
+                                                                               'optimizer '
+                                                                               'and '
+                                                                               'ansatz '
+                                                                               'to '
+                                                                               'converge '
+                                                                               'fh_vqe'},
+                             "root['Qiskit IonQ']['uh_prs'][0]": { 'assignees': [ ],
+                                                                   'closed_at': None,
+                                                                   'created_at': '2022-06-04T09:12:04Z',
+                                                                   'draft': False,
+                                                                   'merged_at': None,
+                                                                   'number': 94,
+                                                                   'requested_reviewers': [ ],
+                                                                   'state': 'open',
+                                                                   'title': 'Added '
+                                                                            'User-Agent '
+                                                                            'header '
+                                                                            '[unitaryhack]'}},
+  'type_changes': { "root['Orquestra Core']['bounties'][0]['closed_at']": { 'new_type': <class 'str'>,
+                                                                            'new_value': '2022-06-14T16:03:37Z',
+                                                                            'old_type': <class 'NoneType'>,
+                                                                            'old_value': None},
+                    "root['Orquestra Core']['bounties'][0]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                            'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/7314136?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/mstechly/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/mstechly/followers',
+                                                                                           'following_url': 'https://api.github.com/users/mstechly/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/mstechly/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/mstechly',
+                                                                                           'id': 7314136,
+                                                                                           'login': 'mstechly',
+                                                                                           'node_id': 'MDQ6VXNlcjczMTQxMzY=',
+                                                                                           'organizations_url': 'https://api.github.com/users/mstechly/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/mstechly/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/mstechly/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/mstechly/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/mstechly/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/mstechly'},
+                                                                            'old_type': <class 'NoneType'>,
+                                                                            'old_value': None},
+                    "root['Orquestra Core']['bounties'][2]['closed_at']": { 'new_type': <class 'str'>,
+                                                                            'new_value': '2022-06-14T15:04:35Z',
+                                                                            'old_type': <class 'NoneType'>,
+                                                                            'old_value': None},
+                    "root['Orquestra Core']['bounties'][2]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                            'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/7314136?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/mstechly/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/mstechly/followers',
+                                                                                           'following_url': 'https://api.github.com/users/mstechly/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/mstechly/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/mstechly',
+                                                                                           'id': 7314136,
+                                                                                           'login': 'mstechly',
+                                                                                           'node_id': 'MDQ6VXNlcjczMTQxMzY=',
+                                                                                           'organizations_url': 'https://api.github.com/users/mstechly/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/mstechly/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/mstechly/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/mstechly/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/mstechly/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/mstechly'},
+                                                                            'old_type': <class 'NoneType'>,
+                                                                            'old_value': None},
+                    "root['Orquestra Core']['bounties'][3]['closed_at']": { 'new_type': <class 'str'>,
+                                                                            'new_value': '2022-06-14T15:40:06Z',
+                                                                            'old_type': <class 'NoneType'>,
+                                                                            'old_value': None},
+                    "root['Orquestra Core']['bounties'][3]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                            'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/7314136?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/mstechly/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/mstechly/followers',
+                                                                                           'following_url': 'https://api.github.com/users/mstechly/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/mstechly/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/mstechly',
+                                                                                           'id': 7314136,
+                                                                                           'login': 'mstechly',
+                                                                                           'node_id': 'MDQ6VXNlcjczMTQxMzY=',
+                                                                                           'organizations_url': 'https://api.github.com/users/mstechly/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/mstechly/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/mstechly/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/mstechly/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/mstechly/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/mstechly'},
+                                                                            'old_type': <class 'NoneType'>,
+                                                                            'old_value': None},
+                    "root['Orquestra Core']['bounties'][6]['closed_at']": { 'new_type': <class 'str'>,
+                                                                            'new_value': '2022-06-14T15:04:07Z',
+                                                                            'old_type': <class 'NoneType'>,
+                                                                            'old_value': None},
+                    "root['Orquestra Core']['bounties'][6]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                            'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/7314136?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/mstechly/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/mstechly/followers',
+                                                                                           'following_url': 'https://api.github.com/users/mstechly/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/mstechly/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/mstechly',
+                                                                                           'id': 7314136,
+                                                                                           'login': 'mstechly',
+                                                                                           'node_id': 'MDQ6VXNlcjczMTQxMzY=',
+                                                                                           'organizations_url': 'https://api.github.com/users/mstechly/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/mstechly/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/mstechly/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/mstechly/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/mstechly/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/mstechly'},
+                                                                            'old_type': <class 'NoneType'>,
+                                                                            'old_value': None},
+                    "root['PennyLane']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                       'new_value': '2022-06-14T13:21:19Z',
+                                                                       'old_type': <class 'NoneType'>,
+                                                                       'old_value': None},
+                    "root['PennyLane']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                       'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/24476053?v=4',
+                                                                                      'events_url': 'https://api.github.com/users/antalszava/events{/privacy}',
+                                                                                      'followers_url': 'https://api.github.com/users/antalszava/followers',
+                                                                                      'following_url': 'https://api.github.com/users/antalszava/following{/other_user}',
+                                                                                      'gists_url': 'https://api.github.com/users/antalszava/gists{/gist_id}',
+                                                                                      'gravatar_id': '',
+                                                                                      'html_url': 'https://github.com/antalszava',
+                                                                                      'id': 24476053,
+                                                                                      'login': 'antalszava',
+                                                                                      'node_id': 'MDQ6VXNlcjI0NDc2MDUz',
+                                                                                      'organizations_url': 'https://api.github.com/users/antalszava/orgs',
+                                                                                      'received_events_url': 'https://api.github.com/users/antalszava/received_events',
+                                                                                      'repos_url': 'https://api.github.com/users/antalszava/repos',
+                                                                                      'site_admin': False,
+                                                                                      'starred_url': 'https://api.github.com/users/antalszava/starred{/owner}{/repo}',
+                                                                                      'subscriptions_url': 'https://api.github.com/users/antalszava/subscriptions',
+                                                                                      'type': 'User',
+                                                                                      'url': 'https://api.github.com/users/antalszava'},
+                                                                       'old_type': <class 'NoneType'>,
+                                                                       'old_value': None},
+                    "root['Qiskit IonQ']['bounties'][2]['closed_at']": { 'new_type': <class 'str'>,
+                                                                         'new_value': '2022-06-14T16:56:12Z',
+                                                                         'old_type': <class 'NoneType'>,
+                                                                         'old_value': None},
+                    "root['Qiskit IonQ']['bounties'][2]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                         'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/1831834?v=4',
+                                                                                        'events_url': 'https://api.github.com/users/ColemanCollins/events{/privacy}',
+                                                                                        'followers_url': 'https://api.github.com/users/ColemanCollins/followers',
+                                                                                        'following_url': 'https://api.github.com/users/ColemanCollins/following{/other_user}',
+                                                                                        'gists_url': 'https://api.github.com/users/ColemanCollins/gists{/gist_id}',
+                                                                                        'gravatar_id': '',
+                                                                                        'html_url': 'https://github.com/ColemanCollins',
+                                                                                        'id': 1831834,
+                                                                                        'login': 'ColemanCollins',
+                                                                                        'node_id': 'MDQ6VXNlcjE4MzE4MzQ=',
+                                                                                        'organizations_url': 'https://api.github.com/users/ColemanCollins/orgs',
+                                                                                        'received_events_url': 'https://api.github.com/users/ColemanCollins/received_events',
+                                                                                        'repos_url': 'https://api.github.com/users/ColemanCollins/repos',
+                                                                                        'site_admin': False,
+                                                                                        'starred_url': 'https://api.github.com/users/ColemanCollins/starred{/owner}{/repo}',
+                                                                                        'subscriptions_url': 'https://api.github.com/users/ColemanCollins/subscriptions',
+                                                                                        'type': 'User',
+                                                                                        'url': 'https://api.github.com/users/ColemanCollins'},
+                                                                         'old_type': <class 'NoneType'>,
+                                                                         'old_value': None}},
+  'values_changed': { "root['Covalent']['forks_count']": { 'new_value': 16,
+                                                           'old_value': 17},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 106,
+                                                                 'old_value': 96},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 77,
+                                                              'old_value': 78},
+                      "root['NetKet']['forks_count']": { 'new_value': 137,
+                                                         'old_value': 136},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 93,
+                                                               'old_value': 91},
+                      "root['Orquestra Core']['bounties'][0]['state']": { 'new_value': 'closed',
+                                                                          'old_value': 'open'},
+                      "root['Orquestra Core']['bounties'][2]['state']": { 'new_value': 'closed',
+                                                                          'old_value': 'open'},
+                      "root['Orquestra Core']['bounties'][3]['state']": { 'new_value': 'closed',
+                                                                          'old_value': 'open'},
+                      "root['Orquestra Core']['bounties'][6]['state']": { 'new_value': 'closed',
+                                                                          'old_value': 'open'},
+                      "root['Orquestra Core']['open_issues_count']": { 'new_value': 1,
+                                                                       'old_value': 6},
+                      "root['Orquestra Core']['subscribers_count']": { 'new_value': 16,
+                                                                       'old_value': 15},
+                      "root['PennyLane']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                     'old_value': 'open'},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 210,
+                                                                  'old_value': 212},
+                      "root['PennyLane']['uh_prs'][0]['created_at']": { 'new_value': '2022-06-14T14:49:02Z',
+                                                                        'old_value': '2022-06-02T19:40:06Z'},
+                      "root['PennyLane']['uh_prs'][0]['number']": { 'new_value': 2709,
+                                                                    'old_value': 2651},
+                      "root['PennyLane']['uh_prs'][0]['title']": { 'new_value': 'Add '
+                                                                                'pennylane '
+                                                                                'drawer '
+                                                                                'style '
+                                                                                '[unitaryhack]',
+                                                                   'old_value': 'Add '
+                                                                                'equal '
+                                                                                'function '
+                                                                                '[unitaryhack]'},
+                      "root['Qiskit IonQ']['bounties'][2]['state']": { 'new_value': 'closed',
+                                                                       'old_value': 'open'},
+                      "root['Qiskit IonQ']['open_issues_count']": { 'new_value': 5,
+                                                                    'old_value': 7},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1676,
+                                                         'old_value': 1675},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/2447371?v=4',
+                                                                                               'old_value': 'https://avatars.githubusercontent.com/u/39517270?v=4'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['events_url']": { 'new_value': 'https://api.github.com/users/mtreinish/events{/privacy}',
+                                                                                               'old_value': 'https://api.github.com/users/nkanazawa1989/events{/privacy}'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['followers_url']": { 'new_value': 'https://api.github.com/users/mtreinish/followers',
+                                                                                                  'old_value': 'https://api.github.com/users/nkanazawa1989/followers'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['following_url']": { 'new_value': 'https://api.github.com/users/mtreinish/following{/other_user}',
+                                                                                                  'old_value': 'https://api.github.com/users/nkanazawa1989/following{/other_user}'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['gists_url']": { 'new_value': 'https://api.github.com/users/mtreinish/gists{/gist_id}',
+                                                                                              'old_value': 'https://api.github.com/users/nkanazawa1989/gists{/gist_id}'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['html_url']": { 'new_value': 'https://github.com/mtreinish',
+                                                                                             'old_value': 'https://github.com/nkanazawa1989'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['id']": { 'new_value': 2447371,
+                                                                                       'old_value': 39517270},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['login']": { 'new_value': 'mtreinish',
+                                                                                          'old_value': 'nkanazawa1989'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['node_id']": { 'new_value': 'MDQ6VXNlcjI0NDczNzE=',
+                                                                                            'old_value': 'MDQ6VXNlcjM5NTE3Mjcw'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['organizations_url']": { 'new_value': 'https://api.github.com/users/mtreinish/orgs',
+                                                                                                      'old_value': 'https://api.github.com/users/nkanazawa1989/orgs'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['received_events_url']": { 'new_value': 'https://api.github.com/users/mtreinish/received_events',
+                                                                                                        'old_value': 'https://api.github.com/users/nkanazawa1989/received_events'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['repos_url']": { 'new_value': 'https://api.github.com/users/mtreinish/repos',
+                                                                                              'old_value': 'https://api.github.com/users/nkanazawa1989/repos'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['starred_url']": { 'new_value': 'https://api.github.com/users/mtreinish/starred{/owner}{/repo}',
+                                                                                                'old_value': 'https://api.github.com/users/nkanazawa1989/starred{/owner}{/repo}'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/mtreinish/subscriptions',
+                                                                                                      'old_value': 'https://api.github.com/users/nkanazawa1989/subscriptions'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['url']": { 'new_value': 'https://api.github.com/users/mtreinish',
+                                                                                        'old_value': 'https://api.github.com/users/nkanazawa1989'},
+                      "root['QuTiP']['forks_count']": { 'new_value': 532,
+                                                        'old_value': 530},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 155,
+                                                              'old_value': 154},
+                      "root['toqito']['open_issues_count']": { 'new_value': 23,
+                                                               'old_value': 20}}}
