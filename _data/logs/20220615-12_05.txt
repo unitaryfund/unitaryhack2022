@@ -1,0 +1,69 @@
+Changes to unitaryHACK results
+updated 15/06/2022 12:05:32
+--------------------
+Item root['PennyLane']['uh_prs'][0]['requested_reviewers'][0] added to iterable.
+Item root['quantumalgorithms.org']['bounties'][3]['assignees'][0] added to iterable.
+Value of root['QuTiP']['open_issues_count'] changed from 155 to 156.
+Value of root['Qiskit Nature']['forks_count'] changed from 128 to 129.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 75 to 74.
+Value of root['Yao']['open_issues_count'] changed from 27 to 28.
+Value of root['QuNetSim']['forks_count'] changed from 33 to 34.
+Value of root['Qiskit']['forks_count'] changed from 1676 to 1677.
+Value of root['Qiskit']['open_issues_count'] changed from 817 to 816.
+Value of root['PennyLane']['forks_count'] changed from 380 to 381.
+Value of root['PennyLane']['open_issues_count'] changed from 210 to 211.
+Value of root['Error Correction Zoo']['forks_count'] changed from 1 to 2.
+Value of root['Mitiq']['forks_count'] changed from 89 to 91.
+Value of root['toqito']['open_issues_count'] changed from 23 to 24.
+Value of root['Covalent']['forks_count'] changed from 16 to 17.
+Value of root['Covalent']['open_issues_count'] changed from 106 to 107.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['PennyLane']['uh_prs'][0]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/6364575?v=4',
+                                                                                         'events_url': 'https://api.github.com/users/albi3ro/events{/privacy}',
+                                                                                         'followers_url': 'https://api.github.com/users/albi3ro/followers',
+                                                                                         'following_url': 'https://api.github.com/users/albi3ro/following{/other_user}',
+                                                                                         'gists_url': 'https://api.github.com/users/albi3ro/gists{/gist_id}',
+                                                                                         'gravatar_id': '',
+                                                                                         'html_url': 'https://github.com/albi3ro',
+                                                                                         'id': 6364575,
+                                                                                         'login': 'albi3ro',
+                                                                                         'node_id': 'MDQ6VXNlcjYzNjQ1NzU=',
+                                                                                         'organizations_url': 'https://api.github.com/users/albi3ro/orgs',
+                                                                                         'received_events_url': 'https://api.github.com/users/albi3ro/received_events',
+                                                                                         'repos_url': 'https://api.github.com/users/albi3ro/repos',
+                                                                                         'site_admin': False,
+                                                                                         'starred_url': 'https://api.github.com/users/albi3ro/starred{/owner}{/repo}',
+                                                                                         'subscriptions_url': 'https://api.github.com/users/albi3ro/subscriptions',
+                                                                                         'type': 'User',
+                                                                                         'url': 'https://api.github.com/users/albi3ro'},
+                           "root['quantumalgorithms.org']['bounties'][3]['assignees'][0]": 'Avhijit-codeboy'},
+  'values_changed': { "root['Covalent']['forks_count']": { 'new_value': 17,
+                                                           'old_value': 16},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 107,
+                                                                 'old_value': 106},
+                      "root['Error Correction Zoo']['forks_count']": { 'new_value': 2,
+                                                                       'old_value': 1},
+                      "root['Mitiq']['forks_count']": { 'new_value': 91,
+                                                        'old_value': 89},
+                      "root['PennyLane']['forks_count']": { 'new_value': 381,
+                                                            'old_value': 380},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 211,
+                                                                  'old_value': 210},
+                      "root['Qiskit Nature']['forks_count']": { 'new_value': 129,
+                                                                'old_value': 128},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 74,
+                                                                      'old_value': 75},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1677,
+                                                         'old_value': 1676},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 816,
+                                                               'old_value': 817},
+                      "root['QuNetSim']['forks_count']": { 'new_value': 34,
+                                                           'old_value': 33},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 156,
+                                                              'old_value': 155},
+                      "root['Yao']['open_issues_count']": { 'new_value': 28,
+                                                            'old_value': 27},
+                      "root['toqito']['open_issues_count']": { 'new_value': 24,
+                                                               'old_value': 23}}}
