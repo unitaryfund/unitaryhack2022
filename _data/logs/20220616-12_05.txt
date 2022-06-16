@@ -1,0 +1,30 @@
+Changes to unitaryHACK results
+updated 16/06/2022 12:05:55
+--------------------
+Value of root['Pulser']['open_issues_count'] changed from 21 to 22.
+Value of root['Quantum Universal Education']['forks_count'] changed from 25 to 26.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 71 to 72.
+Value of root['Yao']['open_issues_count'] changed from 28 to 31.
+Value of root['PennyLane']['open_issues_count'] changed from 212 to 214.
+Value of root['Qiskit']['forks_count'] changed from 1678 to 1679.
+Value of root['Qiskit']['open_issues_count'] changed from 818 to 822.
+Value of root['Covalent']['forks_count'] changed from 18 to 19.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Covalent']['forks_count']": { 'new_value': 19,
+                                                           'old_value': 18},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 214,
+                                                                  'old_value': 212},
+                      "root['Pulser']['open_issues_count']": { 'new_value': 22,
+                                                               'old_value': 21},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 72,
+                                                                      'old_value': 71},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1679,
+                                                         'old_value': 1678},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 822,
+                                                               'old_value': 818},
+                      "root['Quantum Universal Education']['forks_count']": { 'new_value': 26,
+                                                                              'old_value': 25},
+                      "root['Yao']['open_issues_count']": { 'new_value': 31,
+                                                            'old_value': 28}}}
