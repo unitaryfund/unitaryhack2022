@@ -1,0 +1,349 @@
+Changes to unitaryHACK results
+updated 16/06/2022 00:14:03
+--------------------
+Item root['PennyLane']['uh_prs'][1] added to iterable.
+Item root['FlamingPy']['uh_prs'][0] added to iterable.
+Item root['Metriq']['bounties'][3]['labels'][2] added to iterable.
+Item root['Covalent']['uh_prs'][1]['requested_reviewers'][0] added to iterable.
+Item root['NetKet']['uh_prs'][0]['requested_reviewers'][0] removed from iterable.
+Item root['Qiskit']['uh_prs'][1]['assignees'][0] removed from iterable.
+Item root['Qiskit']['uh_prs'][1]['requested_reviewers'][2] removed from iterable.
+Item root['Qiskit']['uh_prs'][2] removed from iterable.
+Item root['PennyLane']['uh_prs'][0]['requested_reviewers'][0] removed from iterable.
+Item root['Quantum Universal Education']['uh_prs'][1] removed from iterable.
+Value of root['QuTiP']['open_issues_count'] changed from 156 to 155.
+Value of root['NetKet']['open_issues_count'] changed from 93 to 92.
+Value of root['NetKet']['uh_prs'][0]['draft'] changed from True to False.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 74 to 71.
+Value of root['Yao']['forks_count'] changed from 97 to 98.
+Value of root['scqubits']['forks_count'] changed from 46 to 48.
+Value of root['Qiskit']['forks_count'] changed from 1677 to 1678.
+Value of root['Qiskit']['open_issues_count'] changed from 816 to 818.
+Value of root['Qiskit']['uh_prs'][1]['number'] changed from 8162 to 8173.
+Value of root['Qiskit']['uh_prs'][1]['title'] changed from "switched `dag_drawer` from `pydot` to `retworkx` [unitaryhack]" to "[unitaryhack] Add wire_order option to 3 circuit drawers".
+Value of root['Qiskit']['uh_prs'][1]['created_at'] changed from "2022-06-10T19:29:34Z" to "2022-06-13T21:20:00Z".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['login'] changed from "mtreinish" to "nkanazawa1989".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['id'] changed from 2447371 to 39517270.
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['node_id'] changed from "MDQ6VXNlcjI0NDczNzE=" to "MDQ6VXNlcjM5NTE3Mjcw".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/2447371?v=4" to "https://avatars.githubusercontent.com/u/39517270?v=4".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['url'] changed from "https://api.github.com/users/mtreinish" to "https://api.github.com/users/nkanazawa1989".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['html_url'] changed from "https://github.com/mtreinish" to "https://github.com/nkanazawa1989".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['followers_url'] changed from "https://api.github.com/users/mtreinish/followers" to "https://api.github.com/users/nkanazawa1989/followers".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['following_url'] changed from "https://api.github.com/users/mtreinish/following{/other_user}" to "https://api.github.com/users/nkanazawa1989/following{/other_user}".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['gists_url'] changed from "https://api.github.com/users/mtreinish/gists{/gist_id}" to "https://api.github.com/users/nkanazawa1989/gists{/gist_id}".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['starred_url'] changed from "https://api.github.com/users/mtreinish/starred{/owner}{/repo}" to "https://api.github.com/users/nkanazawa1989/starred{/owner}{/repo}".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['subscriptions_url'] changed from "https://api.github.com/users/mtreinish/subscriptions" to "https://api.github.com/users/nkanazawa1989/subscriptions".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['organizations_url'] changed from "https://api.github.com/users/mtreinish/orgs" to "https://api.github.com/users/nkanazawa1989/orgs".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['repos_url'] changed from "https://api.github.com/users/mtreinish/repos" to "https://api.github.com/users/nkanazawa1989/repos".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['events_url'] changed from "https://api.github.com/users/mtreinish/events{/privacy}" to "https://api.github.com/users/nkanazawa1989/events{/privacy}".
+Value of root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['received_events_url'] changed from "https://api.github.com/users/mtreinish/received_events" to "https://api.github.com/users/nkanazawa1989/received_events".
+Value of root['PennyLane']['open_issues_count'] changed from 211 to 212.
+Value of root['PennyLane']['uh_prs'][0]['number'] changed from 2709 to 2714.
+Value of root['PennyLane']['uh_prs'][0]['title'] changed from "Add pennylane drawer style [unitaryhack]" to "Python code for simulated annealing via Pennylane [unitaryhack]".
+Value of root['PennyLane']['uh_prs'][0]['created_at'] changed from "2022-06-14T14:49:02Z" to "2022-06-15T12:26:01Z".
+Value of root['Quantum Universal Education']['language'] changed from "JavaScript" to "Jupyter Notebook".
+Value of root['Quantum Universal Education']['open_issues_count'] changed from 8 to 7.
+Value of root['Pulser']['uh_prs'][0]['draft'] changed from True to False.
+Value of root['Mitiq']['open_issues_count'] changed from 77 to 76.
+Value of root['toqito']['forks_count'] changed from 32 to 31.
+Value of root['toqito']['open_issues_count'] changed from 24 to 23.
+Value of root['Covalent']['forks_count'] changed from 17 to 18.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Covalent']['uh_prs'][1]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/15801897?v=4',
+                                                                                        'events_url': 'https://api.github.com/users/cjao/events{/privacy}',
+                                                                                        'followers_url': 'https://api.github.com/users/cjao/followers',
+                                                                                        'following_url': 'https://api.github.com/users/cjao/following{/other_user}',
+                                                                                        'gists_url': 'https://api.github.com/users/cjao/gists{/gist_id}',
+                                                                                        'gravatar_id': '',
+                                                                                        'html_url': 'https://github.com/cjao',
+                                                                                        'id': 15801897,
+                                                                                        'login': 'cjao',
+                                                                                        'node_id': 'MDQ6VXNlcjE1ODAxODk3',
+                                                                                        'organizations_url': 'https://api.github.com/users/cjao/orgs',
+                                                                                        'received_events_url': 'https://api.github.com/users/cjao/received_events',
+                                                                                        'repos_url': 'https://api.github.com/users/cjao/repos',
+                                                                                        'site_admin': False,
+                                                                                        'starred_url': 'https://api.github.com/users/cjao/starred{/owner}{/repo}',
+                                                                                        'subscriptions_url': 'https://api.github.com/users/cjao/subscriptions',
+                                                                                        'type': 'User',
+                                                                                        'url': 'https://api.github.com/users/cjao'},
+                           "root['FlamingPy']['uh_prs'][0]": { 'assignees': [ 'Avhijit-codeboy'],
+                                                               'closed_at': None,
+                                                               'created_at': '2022-06-15T17:49:59Z',
+                                                               'draft': True,
+                                                               'merged_at': None,
+                                                               'number': 88,
+                                                               'requested_reviewers': [ { 'avatar_url': 'https://avatars.githubusercontent.com/u/44366402?v=4',
+                                                                                          'events_url': 'https://api.github.com/users/soosub/events{/privacy}',
+                                                                                          'followers_url': 'https://api.github.com/users/soosub/followers',
+                                                                                          'following_url': 'https://api.github.com/users/soosub/following{/other_user}',
+                                                                                          'gists_url': 'https://api.github.com/users/soosub/gists{/gist_id}',
+                                                                                          'gravatar_id': '',
+                                                                                          'html_url': 'https://github.com/soosub',
+                                                                                          'id': 44366402,
+                                                                                          'login': 'soosub',
+                                                                                          'node_id': 'MDQ6VXNlcjQ0MzY2NDAy',
+                                                                                          'organizations_url': 'https://api.github.com/users/soosub/orgs',
+                                                                                          'received_events_url': 'https://api.github.com/users/soosub/received_events',
+                                                                                          'repos_url': 'https://api.github.com/users/soosub/repos',
+                                                                                          'site_admin': False,
+                                                                                          'starred_url': 'https://api.github.com/users/soosub/starred{/owner}{/repo}',
+                                                                                          'subscriptions_url': 'https://api.github.com/users/soosub/subscriptions',
+                                                                                          'type': 'User',
+                                                                                          'url': 'https://api.github.com/users/soosub'}],
+                                                               'state': 'open',
+                                                               'title': '[unitaryhack] '
+                                                                        'EGraph '
+                                                                        'visualizations '
+                                                                        'using '
+                                                                        'Plotly '
+                                                                        '🎨'},
+                           "root['Metriq']['bounties'][3]['labels'][2]": 'unitaryhack-bounty',
+                           "root['PennyLane']['uh_prs'][1]": { 'assignees': [],
+                                                               'closed_at': None,
+                                                               'created_at': '2022-06-15T14:10:42Z',
+                                                               'draft': False,
+                                                               'merged_at': None,
+                                                               'number': 2715,
+                                                               'requested_reviewers': [ ],
+                                                               'state': 'open',
+                                                               'title': '[unitaryhack] '
+                                                                        'add '
+                                                                        'CPhaseShift '
+                                                                        'ops'}},
+  'iterable_item_removed': { "root['NetKet']['uh_prs'][0]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/4601206?v=4',
+                                                                                        'events_url': 'https://api.github.com/users/femtobit/events{/privacy}',
+                                                                                        'followers_url': 'https://api.github.com/users/femtobit/followers',
+                                                                                        'following_url': 'https://api.github.com/users/femtobit/following{/other_user}',
+                                                                                        'gists_url': 'https://api.github.com/users/femtobit/gists{/gist_id}',
+                                                                                        'gravatar_id': '',
+                                                                                        'html_url': 'https://github.com/femtobit',
+                                                                                        'id': 4601206,
+                                                                                        'login': 'femtobit',
+                                                                                        'node_id': 'MDQ6VXNlcjQ2MDEyMDY=',
+                                                                                        'organizations_url': 'https://api.github.com/users/femtobit/orgs',
+                                                                                        'received_events_url': 'https://api.github.com/users/femtobit/received_events',
+                                                                                        'repos_url': 'https://api.github.com/users/femtobit/repos',
+                                                                                        'site_admin': False,
+                                                                                        'starred_url': 'https://api.github.com/users/femtobit/starred{/owner}{/repo}',
+                                                                                        'subscriptions_url': 'https://api.github.com/users/femtobit/subscriptions',
+                                                                                        'type': 'User',
+                                                                                        'url': 'https://api.github.com/users/femtobit'},
+                             "root['PennyLane']['uh_prs'][0]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/6364575?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/albi3ro/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/albi3ro/followers',
+                                                                                           'following_url': 'https://api.github.com/users/albi3ro/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/albi3ro/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/albi3ro',
+                                                                                           'id': 6364575,
+                                                                                           'login': 'albi3ro',
+                                                                                           'node_id': 'MDQ6VXNlcjYzNjQ1NzU=',
+                                                                                           'organizations_url': 'https://api.github.com/users/albi3ro/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/albi3ro/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/albi3ro/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/albi3ro/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/albi3ro/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/albi3ro'},
+                             "root['Qiskit']['uh_prs'][1]['assignees'][0]": '1ucian0',
+                             "root['Qiskit']['uh_prs'][1]['requested_reviewers'][2]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/39517270?v=4',
+                                                                                        'events_url': 'https://api.github.com/users/nkanazawa1989/events{/privacy}',
+                                                                                        'followers_url': 'https://api.github.com/users/nkanazawa1989/followers',
+                                                                                        'following_url': 'https://api.github.com/users/nkanazawa1989/following{/other_user}',
+                                                                                        'gists_url': 'https://api.github.com/users/nkanazawa1989/gists{/gist_id}',
+                                                                                        'gravatar_id': '',
+                                                                                        'html_url': 'https://github.com/nkanazawa1989',
+                                                                                        'id': 39517270,
+                                                                                        'login': 'nkanazawa1989',
+                                                                                        'node_id': 'MDQ6VXNlcjM5NTE3Mjcw',
+                                                                                        'organizations_url': 'https://api.github.com/users/nkanazawa1989/orgs',
+                                                                                        'received_events_url': 'https://api.github.com/users/nkanazawa1989/received_events',
+                                                                                        'repos_url': 'https://api.github.com/users/nkanazawa1989/repos',
+                                                                                        'site_admin': False,
+                                                                                        'starred_url': 'https://api.github.com/users/nkanazawa1989/starred{/owner}{/repo}',
+                                                                                        'subscriptions_url': 'https://api.github.com/users/nkanazawa1989/subscriptions',
+                                                                                        'type': 'User',
+                                                                                        'url': 'https://api.github.com/users/nkanazawa1989'},
+                             "root['Qiskit']['uh_prs'][2]": { 'assignees': [],
+                                                              'closed_at': None,
+                                                              'created_at': '2022-06-13T21:20:00Z',
+                                                              'draft': False,
+                                                              'merged_at': None,
+                                                              'number': 8173,
+                                                              'requested_reviewers': [ { 'avatar_url': 'https://avatars.githubusercontent.com/u/1249193?v=4',
+                                                                                         'events_url': 'https://api.github.com/users/nonhermitian/events{/privacy}',
+                                                                                         'followers_url': 'https://api.github.com/users/nonhermitian/followers',
+                                                                                         'following_url': 'https://api.github.com/users/nonhermitian/following{/other_user}',
+                                                                                         'gists_url': 'https://api.github.com/users/nonhermitian/gists{/gist_id}',
+                                                                                         'gravatar_id': '',
+                                                                                         'html_url': 'https://github.com/nonhermitian',
+                                                                                         'id': 1249193,
+                                                                                         'login': 'nonhermitian',
+                                                                                         'node_id': 'MDQ6VXNlcjEyNDkxOTM=',
+                                                                                         'organizations_url': 'https://api.github.com/users/nonhermitian/orgs',
+                                                                                         'received_events_url': 'https://api.github.com/users/nonhermitian/received_events',
+                                                                                         'repos_url': 'https://api.github.com/users/nonhermitian/repos',
+                                                                                         'site_admin': False,
+                                                                                         'starred_url': 'https://api.github.com/users/nonhermitian/starred{/owner}{/repo}',
+                                                                                         'subscriptions_url': 'https://api.github.com/users/nonhermitian/subscriptions',
+                                                                                         'type': 'User',
+                                                                                         'url': 'https://api.github.com/users/nonhermitian'},
+                                                                                       { 'avatar_url': 'https://avatars.githubusercontent.com/u/39517270?v=4',
+                                                                                         'events_url': 'https://api.github.com/users/nkanazawa1989/events{/privacy}',
+                                                                                         'followers_url': 'https://api.github.com/users/nkanazawa1989/followers',
+                                                                                         'following_url': 'https://api.github.com/users/nkanazawa1989/following{/other_user}',
+                                                                                         'gists_url': 'https://api.github.com/users/nkanazawa1989/gists{/gist_id}',
+                                                                                         'gravatar_id': '',
+                                                                                         'html_url': 'https://github.com/nkanazawa1989',
+                                                                                         'id': 39517270,
+                                                                                         'login': 'nkanazawa1989',
+                                                                                         'node_id': 'MDQ6VXNlcjM5NTE3Mjcw',
+                                                                                         'organizations_url': 'https://api.github.com/users/nkanazawa1989/orgs',
+                                                                                         'received_events_url': 'https://api.github.com/users/nkanazawa1989/received_events',
+                                                                                         'repos_url': 'https://api.github.com/users/nkanazawa1989/repos',
+                                                                                         'site_admin': False,
+                                                                                         'starred_url': 'https://api.github.com/users/nkanazawa1989/starred{/owner}{/repo}',
+                                                                                         'subscriptions_url': 'https://api.github.com/users/nkanazawa1989/subscriptions',
+                                                                                         'type': 'User',
+                                                                                         'url': 'https://api.github.com/users/nkanazawa1989'}],
+                                                              'state': 'open',
+                                                              'title': '[unitaryhack] '
+                                                                       'Add '
+                                                                       'wire_order '
+                                                                       'option '
+                                                                       'to 3 '
+                                                                       'circuit '
+                                                                       'drawers'},
+                             "root['Quantum Universal Education']['uh_prs'][1]": { 'assignees': [ ],
+                                                                                   'closed_at': None,
+                                                                                   'created_at': '2022-06-09T18:10:38Z',
+                                                                                   'draft': False,
+                                                                                   'merged_at': None,
+                                                                                   'number': 21,
+                                                                                   'requested_reviewers': [ ],
+                                                                                   'state': 'open',
+                                                                                   'title': 'Building '
+                                                                                            'a '
+                                                                                            'Quantum '
+                                                                                            'Software '
+                                                                                            'and '
+                                                                                            'Games '
+                                                                                            '[unitaryhack] '
+                                                                                            '( '
+                                                                                            'Quantum '
+                                                                                            'Euclidean '
+                                                                                            'Distance '
+                                                                                            'for '
+                                                                                            'Two '
+                                                                                            'Images '
+                                                                                            'using '
+                                                                                            'Quantum '
+                                                                                            'Fourier '
+                                                                                            'Transform) '
+                                                                                            'from '
+                                                                                            'the '
+                                                                                            'Idea '
+                                                                                            '2'}},
+  'values_changed': { "root['Covalent']['forks_count']": { 'new_value': 18,
+                                                           'old_value': 17},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 76,
+                                                              'old_value': 77},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 92,
+                                                               'old_value': 93},
+                      "root['NetKet']['uh_prs'][0]['draft']": { 'new_value': False,
+                                                                'old_value': True},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 212,
+                                                                  'old_value': 211},
+                      "root['PennyLane']['uh_prs'][0]['created_at']": { 'new_value': '2022-06-15T12:26:01Z',
+                                                                        'old_value': '2022-06-14T14:49:02Z'},
+                      "root['PennyLane']['uh_prs'][0]['number']": { 'new_value': 2714,
+                                                                    'old_value': 2709},
+                      "root['PennyLane']['uh_prs'][0]['title']": { 'new_value': 'Python '
+                                                                                'code '
+                                                                                'for '
+                                                                                'simulated '
+                                                                                'annealing '
+                                                                                'via '
+                                                                                'Pennylane '
+                                                                                '[unitaryhack]',
+                                                                   'old_value': 'Add '
+                                                                                'pennylane '
+                                                                                'drawer '
+                                                                                'style '
+                                                                                '[unitaryhack]'},
+                      "root['Pulser']['uh_prs'][0]['draft']": { 'new_value': False,
+                                                                'old_value': True},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 71,
+                                                                      'old_value': 74},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1678,
+                                                         'old_value': 1677},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 818,
+                                                               'old_value': 816},
+                      "root['Qiskit']['uh_prs'][1]['created_at']": { 'new_value': '2022-06-13T21:20:00Z',
+                                                                     'old_value': '2022-06-10T19:29:34Z'},
+                      "root['Qiskit']['uh_prs'][1]['number']": { 'new_value': 8173,
+                                                                 'old_value': 8162},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/39517270?v=4',
+                                                                                               'old_value': 'https://avatars.githubusercontent.com/u/2447371?v=4'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['events_url']": { 'new_value': 'https://api.github.com/users/nkanazawa1989/events{/privacy}',
+                                                                                               'old_value': 'https://api.github.com/users/mtreinish/events{/privacy}'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['followers_url']": { 'new_value': 'https://api.github.com/users/nkanazawa1989/followers',
+                                                                                                  'old_value': 'https://api.github.com/users/mtreinish/followers'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['following_url']": { 'new_value': 'https://api.github.com/users/nkanazawa1989/following{/other_user}',
+                                                                                                  'old_value': 'https://api.github.com/users/mtreinish/following{/other_user}'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['gists_url']": { 'new_value': 'https://api.github.com/users/nkanazawa1989/gists{/gist_id}',
+                                                                                              'old_value': 'https://api.github.com/users/mtreinish/gists{/gist_id}'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['html_url']": { 'new_value': 'https://github.com/nkanazawa1989',
+                                                                                             'old_value': 'https://github.com/mtreinish'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['id']": { 'new_value': 39517270,
+                                                                                       'old_value': 2447371},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['login']": { 'new_value': 'nkanazawa1989',
+                                                                                          'old_value': 'mtreinish'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['node_id']": { 'new_value': 'MDQ6VXNlcjM5NTE3Mjcw',
+                                                                                            'old_value': 'MDQ6VXNlcjI0NDczNzE='},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['organizations_url']": { 'new_value': 'https://api.github.com/users/nkanazawa1989/orgs',
+                                                                                                      'old_value': 'https://api.github.com/users/mtreinish/orgs'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['received_events_url']": { 'new_value': 'https://api.github.com/users/nkanazawa1989/received_events',
+                                                                                                        'old_value': 'https://api.github.com/users/mtreinish/received_events'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['repos_url']": { 'new_value': 'https://api.github.com/users/nkanazawa1989/repos',
+                                                                                              'old_value': 'https://api.github.com/users/mtreinish/repos'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['starred_url']": { 'new_value': 'https://api.github.com/users/nkanazawa1989/starred{/owner}{/repo}',
+                                                                                                'old_value': 'https://api.github.com/users/mtreinish/starred{/owner}{/repo}'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/nkanazawa1989/subscriptions',
+                                                                                                      'old_value': 'https://api.github.com/users/mtreinish/subscriptions'},
+                      "root['Qiskit']['uh_prs'][1]['requested_reviewers'][1]['url']": { 'new_value': 'https://api.github.com/users/nkanazawa1989',
+                                                                                        'old_value': 'https://api.github.com/users/mtreinish'},
+                      "root['Qiskit']['uh_prs'][1]['title']": { 'new_value': '[unitaryhack] '
+                                                                             'Add '
+                                                                             'wire_order '
+                                                                             'option '
+                                                                             'to '
+                                                                             '3 '
+                                                                             'circuit '
+                                                                             'drawers',
+                                                                'old_value': 'switched '
+                                                                             '`dag_drawer` '
+                                                                             'from '
+                                                                             '`pydot` '
+                                                                             'to '
+                                                                             '`retworkx` '
+                                                                             '[unitaryhack]'},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 155,
+                                                              'old_value': 156},
+                      "root['Quantum Universal Education']['language']": { 'new_value': 'Jupyter '
+                                                                                        'Notebook',
+                                                                           'old_value': 'JavaScript'},
+                      "root['Quantum Universal Education']['open_issues_count']": { 'new_value': 7,
+                                                                                    'old_value': 8},
+                      "root['Yao']['forks_count']": { 'new_value': 98,
+                                                      'old_value': 97},
+                      "root['scqubits']['forks_count']": { 'new_value': 48,
+                                                           'old_value': 46},
+                      "root['toqito']['forks_count']": { 'new_value': 31,
+                                                         'old_value': 32},
+                      "root['toqito']['open_issues_count']": { 'new_value': 23,
+                                                               'old_value': 24}}}
