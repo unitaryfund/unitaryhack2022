@@ -23,8 +23,14 @@ bounties:
   - name: Scirate ‘Scite!’ counts for submission
     issue_num: 191
     value: 50
-  - name: Publish updates via RSS 
+  - name: Publish updates via RSS
     issue_num: 238
+    value: 50
+  - name: Add option to display result plots on a log scale
+    issue_num: 423
+    value: 50
+  - name: Log in prompts to homepage
+    issue_num: 558
     value: 50
 ---
 
