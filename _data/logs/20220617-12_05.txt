@@ -1,0 +1,467 @@
+Changes to unitaryHACK results
+updated 17/06/2022 12:05:55
+--------------------
+Item root['FlamingPy']['uh_prs'][1] added to iterable.
+Item root['Qiskit']['uh_prs'][2]['requested_reviewers'][7] added to iterable.
+Item root['Qiskit']['uh_prs'][2]['requested_reviewers'][8] added to iterable.
+Item root['Pulser']['uh_prs'][0] removed from iterable.
+Item root['Covalent']['uh_prs'][2]['requested_reviewers'][0] removed from iterable.
+Item root['Covalent']['uh_prs'][2]['requested_reviewers'][1] removed from iterable.
+Type of root['Pulser']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-17T09:05:15Z".
+Type of root['Pulser']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'HGSilveri', 'id': 29920212, 'node_id': 'MDQ6VXNlcjI5OTIwMjEy', 'avatar_url': 'https://avatars.githubusercontent.com/u/29920212?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/HGSilveri', 'html_url': 'https://github.com/HGSilveri', 'followers_url': 'https://api.github.com/users/HGSilveri/followers', 'following_url': 'https://api.github.com/users/HGSilveri/following{/other_user}', 'gists_url': 'https://api.github.com/users/HGSilveri/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/HGSilveri/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/HGSilveri/subscriptions', 'organizations_url': 'https://api.github.com/users/HGSilveri/orgs', 'repos_url': 'https://api.github.com/users/HGSilveri/repos', 'events_url': 'https://api.github.com/users/HGSilveri/events{/privacy}', 'received_events_url': 'https://api.github.com/users/HGSilveri/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['Pulser']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['Pulser']['open_issues_count'] changed from 22 to 20.
+Value of root['FlamingPy']['open_issues_count'] changed from 14 to 15.
+Value of root['scqubits']['open_issues_count'] changed from 11 to 12.
+Value of root['scqubits']['subscribers_count'] changed from 11 to 12.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 75 to 76.
+Value of root['QuNetSim']['open_issues_count'] changed from 13 to 15.
+Value of root['Mitiq']['open_issues_count'] changed from 75 to 76.
+Value of root['Qiskit']['open_issues_count'] changed from 821 to 822.
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['login'] changed from "manoelmarques" to "ikkoham".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['id'] changed from 16138150 to 6814928.
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['node_id'] changed from "MDQ6VXNlcjE2MTM4MTUw" to "MDQ6VXNlcjY4MTQ5Mjg=".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/16138150?v=4" to "https://avatars.githubusercontent.com/u/6814928?v=4".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['url'] changed from "https://api.github.com/users/manoelmarques" to "https://api.github.com/users/ikkoham".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['html_url'] changed from "https://github.com/manoelmarques" to "https://github.com/ikkoham".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['followers_url'] changed from "https://api.github.com/users/manoelmarques/followers" to "https://api.github.com/users/ikkoham/followers".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['following_url'] changed from "https://api.github.com/users/manoelmarques/following{/other_user}" to "https://api.github.com/users/ikkoham/following{/other_user}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['gists_url'] changed from "https://api.github.com/users/manoelmarques/gists{/gist_id}" to "https://api.github.com/users/ikkoham/gists{/gist_id}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['starred_url'] changed from "https://api.github.com/users/manoelmarques/starred{/owner}{/repo}" to "https://api.github.com/users/ikkoham/starred{/owner}{/repo}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['subscriptions_url'] changed from "https://api.github.com/users/manoelmarques/subscriptions" to "https://api.github.com/users/ikkoham/subscriptions".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['organizations_url'] changed from "https://api.github.com/users/manoelmarques/orgs" to "https://api.github.com/users/ikkoham/orgs".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['repos_url'] changed from "https://api.github.com/users/manoelmarques/repos" to "https://api.github.com/users/ikkoham/repos".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['events_url'] changed from "https://api.github.com/users/manoelmarques/events{/privacy}" to "https://api.github.com/users/ikkoham/events{/privacy}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['received_events_url'] changed from "https://api.github.com/users/manoelmarques/received_events" to "https://api.github.com/users/ikkoham/received_events".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['login'] changed from "jyu00" to "manoelmarques".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['id'] changed from 28284230 to 16138150.
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['node_id'] changed from "MDQ6VXNlcjI4Mjg0MjMw" to "MDQ6VXNlcjE2MTM4MTUw".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/28284230?v=4" to "https://avatars.githubusercontent.com/u/16138150?v=4".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['url'] changed from "https://api.github.com/users/jyu00" to "https://api.github.com/users/manoelmarques".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['html_url'] changed from "https://github.com/jyu00" to "https://github.com/manoelmarques".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['followers_url'] changed from "https://api.github.com/users/jyu00/followers" to "https://api.github.com/users/manoelmarques/followers".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['following_url'] changed from "https://api.github.com/users/jyu00/following{/other_user}" to "https://api.github.com/users/manoelmarques/following{/other_user}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['gists_url'] changed from "https://api.github.com/users/jyu00/gists{/gist_id}" to "https://api.github.com/users/manoelmarques/gists{/gist_id}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['starred_url'] changed from "https://api.github.com/users/jyu00/starred{/owner}{/repo}" to "https://api.github.com/users/manoelmarques/starred{/owner}{/repo}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['subscriptions_url'] changed from "https://api.github.com/users/jyu00/subscriptions" to "https://api.github.com/users/manoelmarques/subscriptions".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['organizations_url'] changed from "https://api.github.com/users/jyu00/orgs" to "https://api.github.com/users/manoelmarques/orgs".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['repos_url'] changed from "https://api.github.com/users/jyu00/repos" to "https://api.github.com/users/manoelmarques/repos".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['events_url'] changed from "https://api.github.com/users/jyu00/events{/privacy}" to "https://api.github.com/users/manoelmarques/events{/privacy}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['received_events_url'] changed from "https://api.github.com/users/jyu00/received_events" to "https://api.github.com/users/manoelmarques/received_events".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['login'] changed from "eggerdj" to "jyu00".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['id'] changed from 38065505 to 28284230.
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['node_id'] changed from "MDQ6VXNlcjM4MDY1NTA1" to "MDQ6VXNlcjI4Mjg0MjMw".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/38065505?v=4" to "https://avatars.githubusercontent.com/u/28284230?v=4".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['url'] changed from "https://api.github.com/users/eggerdj" to "https://api.github.com/users/jyu00".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['html_url'] changed from "https://github.com/eggerdj" to "https://github.com/jyu00".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['followers_url'] changed from "https://api.github.com/users/eggerdj/followers" to "https://api.github.com/users/jyu00/followers".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['following_url'] changed from "https://api.github.com/users/eggerdj/following{/other_user}" to "https://api.github.com/users/jyu00/following{/other_user}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['gists_url'] changed from "https://api.github.com/users/eggerdj/gists{/gist_id}" to "https://api.github.com/users/jyu00/gists{/gist_id}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['starred_url'] changed from "https://api.github.com/users/eggerdj/starred{/owner}{/repo}" to "https://api.github.com/users/jyu00/starred{/owner}{/repo}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['subscriptions_url'] changed from "https://api.github.com/users/eggerdj/subscriptions" to "https://api.github.com/users/jyu00/subscriptions".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['organizations_url'] changed from "https://api.github.com/users/eggerdj/orgs" to "https://api.github.com/users/jyu00/orgs".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['repos_url'] changed from "https://api.github.com/users/eggerdj/repos" to "https://api.github.com/users/jyu00/repos".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['events_url'] changed from "https://api.github.com/users/eggerdj/events{/privacy}" to "https://api.github.com/users/jyu00/events{/privacy}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['received_events_url'] changed from "https://api.github.com/users/eggerdj/received_events" to "https://api.github.com/users/jyu00/received_events".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['login'] changed from "nkanazawa1989" to "t-imamichi".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['id'] changed from 39517270 to 31178928.
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['node_id'] changed from "MDQ6VXNlcjM5NTE3Mjcw" to "MDQ6VXNlcjMxMTc4OTI4".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/39517270?v=4" to "https://avatars.githubusercontent.com/u/31178928?v=4".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['url'] changed from "https://api.github.com/users/nkanazawa1989" to "https://api.github.com/users/t-imamichi".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['html_url'] changed from "https://github.com/nkanazawa1989" to "https://github.com/t-imamichi".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['followers_url'] changed from "https://api.github.com/users/nkanazawa1989/followers" to "https://api.github.com/users/t-imamichi/followers".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['following_url'] changed from "https://api.github.com/users/nkanazawa1989/following{/other_user}" to "https://api.github.com/users/t-imamichi/following{/other_user}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['gists_url'] changed from "https://api.github.com/users/nkanazawa1989/gists{/gist_id}" to "https://api.github.com/users/t-imamichi/gists{/gist_id}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['starred_url'] changed from "https://api.github.com/users/nkanazawa1989/starred{/owner}{/repo}" to "https://api.github.com/users/t-imamichi/starred{/owner}{/repo}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['subscriptions_url'] changed from "https://api.github.com/users/nkanazawa1989/subscriptions" to "https://api.github.com/users/t-imamichi/subscriptions".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['organizations_url'] changed from "https://api.github.com/users/nkanazawa1989/orgs" to "https://api.github.com/users/t-imamichi/orgs".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['repos_url'] changed from "https://api.github.com/users/nkanazawa1989/repos" to "https://api.github.com/users/t-imamichi/repos".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['events_url'] changed from "https://api.github.com/users/nkanazawa1989/events{/privacy}" to "https://api.github.com/users/t-imamichi/events{/privacy}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['received_events_url'] changed from "https://api.github.com/users/nkanazawa1989/received_events" to "https://api.github.com/users/t-imamichi/received_events".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['login'] changed from "woodsp-ibm" to "eggerdj".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['id'] changed from 40241007 to 38065505.
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['node_id'] changed from "MDQ6VXNlcjQwMjQxMDA3" to "MDQ6VXNlcjM4MDY1NTA1".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/40241007?v=4" to "https://avatars.githubusercontent.com/u/38065505?v=4".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['url'] changed from "https://api.github.com/users/woodsp-ibm" to "https://api.github.com/users/eggerdj".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['html_url'] changed from "https://github.com/woodsp-ibm" to "https://github.com/eggerdj".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['followers_url'] changed from "https://api.github.com/users/woodsp-ibm/followers" to "https://api.github.com/users/eggerdj/followers".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['following_url'] changed from "https://api.github.com/users/woodsp-ibm/following{/other_user}" to "https://api.github.com/users/eggerdj/following{/other_user}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['gists_url'] changed from "https://api.github.com/users/woodsp-ibm/gists{/gist_id}" to "https://api.github.com/users/eggerdj/gists{/gist_id}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['starred_url'] changed from "https://api.github.com/users/woodsp-ibm/starred{/owner}{/repo}" to "https://api.github.com/users/eggerdj/starred{/owner}{/repo}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['subscriptions_url'] changed from "https://api.github.com/users/woodsp-ibm/subscriptions" to "https://api.github.com/users/eggerdj/subscriptions".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['organizations_url'] changed from "https://api.github.com/users/woodsp-ibm/orgs" to "https://api.github.com/users/eggerdj/orgs".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['repos_url'] changed from "https://api.github.com/users/woodsp-ibm/repos" to "https://api.github.com/users/eggerdj/repos".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['events_url'] changed from "https://api.github.com/users/woodsp-ibm/events{/privacy}" to "https://api.github.com/users/eggerdj/events{/privacy}".
+Value of root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['received_events_url'] changed from "https://api.github.com/users/woodsp-ibm/received_events" to "https://api.github.com/users/eggerdj/received_events".
+Value of root['Covalent']['open_issues_count'] changed from 105 to 106.
+Value of root['Covalent']['uh_prs'][2]['number'] changed from 668 to 669.
+Value of root['Covalent']['uh_prs'][2]['title'] changed from "Fixes Reverse IP problem [unitaryhack]" to "[unitaryhack] Added Parity and Iris Classification".
+Value of root['Covalent']['uh_prs'][2]['created_at'] changed from "2022-06-16T19:43:05Z" to "2022-06-17T02:34:08Z".
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['FlamingPy']['uh_prs'][1]": { 'assignees': [],
+                                                               'closed_at': None,
+                                                               'created_at': '2022-06-17T10:36:08Z',
+                                                               'draft': False,
+                                                               'merged_at': None,
+                                                               'number': 89,
+                                                               'requested_reviewers': [ { 'avatar_url': 'https://avatars.githubusercontent.com/u/25132802?v=4',
+                                                                                          'events_url': 'https://api.github.com/users/nariman87/events{/privacy}',
+                                                                                          'followers_url': 'https://api.github.com/users/nariman87/followers',
+                                                                                          'following_url': 'https://api.github.com/users/nariman87/following{/other_user}',
+                                                                                          'gists_url': 'https://api.github.com/users/nariman87/gists{/gist_id}',
+                                                                                          'gravatar_id': '',
+                                                                                          'html_url': 'https://github.com/nariman87',
+                                                                                          'id': 25132802,
+                                                                                          'login': 'nariman87',
+                                                                                          'node_id': 'MDQ6VXNlcjI1MTMyODAy',
+                                                                                          'organizations_url': 'https://api.github.com/users/nariman87/orgs',
+                                                                                          'received_events_url': 'https://api.github.com/users/nariman87/received_events',
+                                                                                          'repos_url': 'https://api.github.com/users/nariman87/repos',
+                                                                                          'site_admin': False,
+                                                                                          'starred_url': 'https://api.github.com/users/nariman87/starred{/owner}{/repo}',
+                                                                                          'subscriptions_url': 'https://api.github.com/users/nariman87/subscriptions',
+                                                                                          'type': 'User',
+                                                                                          'url': 'https://api.github.com/users/nariman87'},
+                                                                                        { 'avatar_url': 'https://avatars.githubusercontent.com/u/52462375?v=4',
+                                                                                          'events_url': 'https://api.github.com/users/maxtremblay/events{/privacy}',
+                                                                                          'followers_url': 'https://api.github.com/users/maxtremblay/followers',
+                                                                                          'following_url': 'https://api.github.com/users/maxtremblay/following{/other_user}',
+                                                                                          'gists_url': 'https://api.github.com/users/maxtremblay/gists{/gist_id}',
+                                                                                          'gravatar_id': '',
+                                                                                          'html_url': 'https://github.com/maxtremblay',
+                                                                                          'id': 52462375,
+                                                                                          'login': 'maxtremblay',
+                                                                                          'node_id': 'MDQ6VXNlcjUyNDYyMzc1',
+                                                                                          'organizations_url': 'https://api.github.com/users/maxtremblay/orgs',
+                                                                                          'received_events_url': 'https://api.github.com/users/maxtremblay/received_events',
+                                                                                          'repos_url': 'https://api.github.com/users/maxtremblay/repos',
+                                                                                          'site_admin': False,
+                                                                                          'starred_url': 'https://api.github.com/users/maxtremblay/starred{/owner}{/repo}',
+                                                                                          'subscriptions_url': 'https://api.github.com/users/maxtremblay/subscriptions',
+                                                                                          'type': 'User',
+                                                                                          'url': 'https://api.github.com/users/maxtremblay'},
+                                                                                        { 'avatar_url': 'https://avatars.githubusercontent.com/u/57886357?v=4',
+                                                                                          'events_url': 'https://api.github.com/users/ilan-tz/events{/privacy}',
+                                                                                          'followers_url': 'https://api.github.com/users/ilan-tz/followers',
+                                                                                          'following_url': 'https://api.github.com/users/ilan-tz/following{/other_user}',
+                                                                                          'gists_url': 'https://api.github.com/users/ilan-tz/gists{/gist_id}',
+                                                                                          'gravatar_id': '',
+                                                                                          'html_url': 'https://github.com/ilan-tz',
+                                                                                          'id': 57886357,
+                                                                                          'login': 'ilan-tz',
+                                                                                          'node_id': 'MDQ6VXNlcjU3ODg2MzU3',
+                                                                                          'organizations_url': 'https://api.github.com/users/ilan-tz/orgs',
+                                                                                          'received_events_url': 'https://api.github.com/users/ilan-tz/received_events',
+                                                                                          'repos_url': 'https://api.github.com/users/ilan-tz/repos',
+                                                                                          'site_admin': False,
+                                                                                          'starred_url': 'https://api.github.com/users/ilan-tz/starred{/owner}{/repo}',
+                                                                                          'subscriptions_url': 'https://api.github.com/users/ilan-tz/subscriptions',
+                                                                                          'type': 'User',
+                                                                                          'url': 'https://api.github.com/users/ilan-tz'}],
+                                                               'state': 'open',
+                                                               'title': '[unitaryhack] '
+                                                                        'Added '
+                                                                        'local '
+                                                                        'complementation '
+                                                                        'function '
+                                                                        'to '
+                                                                        'EGraph '
+                                                                        'class'},
+                           "root['Qiskit']['uh_prs'][2]['requested_reviewers'][7]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/39517270?v=4',
+                                                                                      'events_url': 'https://api.github.com/users/nkanazawa1989/events{/privacy}',
+                                                                                      'followers_url': 'https://api.github.com/users/nkanazawa1989/followers',
+                                                                                      'following_url': 'https://api.github.com/users/nkanazawa1989/following{/other_user}',
+                                                                                      'gists_url': 'https://api.github.com/users/nkanazawa1989/gists{/gist_id}',
+                                                                                      'gravatar_id': '',
+                                                                                      'html_url': 'https://github.com/nkanazawa1989',
+                                                                                      'id': 39517270,
+                                                                                      'login': 'nkanazawa1989',
+                                                                                      'node_id': 'MDQ6VXNlcjM5NTE3Mjcw',
+                                                                                      'organizations_url': 'https://api.github.com/users/nkanazawa1989/orgs',
+                                                                                      'received_events_url': 'https://api.github.com/users/nkanazawa1989/received_events',
+                                                                                      'repos_url': 'https://api.github.com/users/nkanazawa1989/repos',
+                                                                                      'site_admin': False,
+                                                                                      'starred_url': 'https://api.github.com/users/nkanazawa1989/starred{/owner}{/repo}',
+                                                                                      'subscriptions_url': 'https://api.github.com/users/nkanazawa1989/subscriptions',
+                                                                                      'type': 'User',
+                                                                                      'url': 'https://api.github.com/users/nkanazawa1989'},
+                           "root['Qiskit']['uh_prs'][2]['requested_reviewers'][8]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/40241007?v=4',
+                                                                                      'events_url': 'https://api.github.com/users/woodsp-ibm/events{/privacy}',
+                                                                                      'followers_url': 'https://api.github.com/users/woodsp-ibm/followers',
+                                                                                      'following_url': 'https://api.github.com/users/woodsp-ibm/following{/other_user}',
+                                                                                      'gists_url': 'https://api.github.com/users/woodsp-ibm/gists{/gist_id}',
+                                                                                      'gravatar_id': '',
+                                                                                      'html_url': 'https://github.com/woodsp-ibm',
+                                                                                      'id': 40241007,
+                                                                                      'login': 'woodsp-ibm',
+                                                                                      'node_id': 'MDQ6VXNlcjQwMjQxMDA3',
+                                                                                      'organizations_url': 'https://api.github.com/users/woodsp-ibm/orgs',
+                                                                                      'received_events_url': 'https://api.github.com/users/woodsp-ibm/received_events',
+                                                                                      'repos_url': 'https://api.github.com/users/woodsp-ibm/repos',
+                                                                                      'site_admin': False,
+                                                                                      'starred_url': 'https://api.github.com/users/woodsp-ibm/starred{/owner}{/repo}',
+                                                                                      'subscriptions_url': 'https://api.github.com/users/woodsp-ibm/subscriptions',
+                                                                                      'type': 'User',
+                                                                                      'url': 'https://api.github.com/users/woodsp-ibm'}},
+  'iterable_item_removed': { "root['Covalent']['uh_prs'][2]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/23229840?v=4',
+                                                                                          'events_url': 'https://api.github.com/users/mshkanth/events{/privacy}',
+                                                                                          'followers_url': 'https://api.github.com/users/mshkanth/followers',
+                                                                                          'following_url': 'https://api.github.com/users/mshkanth/following{/other_user}',
+                                                                                          'gists_url': 'https://api.github.com/users/mshkanth/gists{/gist_id}',
+                                                                                          'gravatar_id': '',
+                                                                                          'html_url': 'https://github.com/mshkanth',
+                                                                                          'id': 23229840,
+                                                                                          'login': 'mshkanth',
+                                                                                          'node_id': 'MDQ6VXNlcjIzMjI5ODQw',
+                                                                                          'organizations_url': 'https://api.github.com/users/mshkanth/orgs',
+                                                                                          'received_events_url': 'https://api.github.com/users/mshkanth/received_events',
+                                                                                          'repos_url': 'https://api.github.com/users/mshkanth/repos',
+                                                                                          'site_admin': False,
+                                                                                          'starred_url': 'https://api.github.com/users/mshkanth/starred{/owner}{/repo}',
+                                                                                          'subscriptions_url': 'https://api.github.com/users/mshkanth/subscriptions',
+                                                                                          'type': 'User',
+                                                                                          'url': 'https://api.github.com/users/mshkanth'},
+                             "root['Covalent']['uh_prs'][2]['requested_reviewers'][1]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/54540812?v=4',
+                                                                                          'events_url': 'https://api.github.com/users/Prasy12/events{/privacy}',
+                                                                                          'followers_url': 'https://api.github.com/users/Prasy12/followers',
+                                                                                          'following_url': 'https://api.github.com/users/Prasy12/following{/other_user}',
+                                                                                          'gists_url': 'https://api.github.com/users/Prasy12/gists{/gist_id}',
+                                                                                          'gravatar_id': '',
+                                                                                          'html_url': 'https://github.com/Prasy12',
+                                                                                          'id': 54540812,
+                                                                                          'login': 'Prasy12',
+                                                                                          'node_id': 'MDQ6VXNlcjU0NTQwODEy',
+                                                                                          'organizations_url': 'https://api.github.com/users/Prasy12/orgs',
+                                                                                          'received_events_url': 'https://api.github.com/users/Prasy12/received_events',
+                                                                                          'repos_url': 'https://api.github.com/users/Prasy12/repos',
+                                                                                          'site_admin': False,
+                                                                                          'starred_url': 'https://api.github.com/users/Prasy12/starred{/owner}{/repo}',
+                                                                                          'subscriptions_url': 'https://api.github.com/users/Prasy12/subscriptions',
+                                                                                          'type': 'User',
+                                                                                          'url': 'https://api.github.com/users/Prasy12'},
+                             "root['Pulser']['uh_prs'][0]": { 'assignees': [],
+                                                              'closed_at': None,
+                                                              'created_at': '2022-06-05T10:46:12Z',
+                                                              'draft': False,
+                                                              'merged_at': None,
+                                                              'number': 376,
+                                                              'requested_reviewers': [ ],
+                                                              'state': 'open',
+                                                              'title': 'Add '
+                                                                       'sphinx '
+                                                                       'typehints '
+                                                                       'auto '
+                                                                       'generation '
+                                                                       '[unitaryhack]'}},
+  'type_changes': { "root['Pulser']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                    'new_value': '2022-06-17T09:05:15Z',
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None},
+                    "root['Pulser']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                    'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/29920212?v=4',
+                                                                                   'events_url': 'https://api.github.com/users/HGSilveri/events{/privacy}',
+                                                                                   'followers_url': 'https://api.github.com/users/HGSilveri/followers',
+                                                                                   'following_url': 'https://api.github.com/users/HGSilveri/following{/other_user}',
+                                                                                   'gists_url': 'https://api.github.com/users/HGSilveri/gists{/gist_id}',
+                                                                                   'gravatar_id': '',
+                                                                                   'html_url': 'https://github.com/HGSilveri',
+                                                                                   'id': 29920212,
+                                                                                   'login': 'HGSilveri',
+                                                                                   'node_id': 'MDQ6VXNlcjI5OTIwMjEy',
+                                                                                   'organizations_url': 'https://api.github.com/users/HGSilveri/orgs',
+                                                                                   'received_events_url': 'https://api.github.com/users/HGSilveri/received_events',
+                                                                                   'repos_url': 'https://api.github.com/users/HGSilveri/repos',
+                                                                                   'site_admin': False,
+                                                                                   'starred_url': 'https://api.github.com/users/HGSilveri/starred{/owner}{/repo}',
+                                                                                   'subscriptions_url': 'https://api.github.com/users/HGSilveri/subscriptions',
+                                                                                   'type': 'User',
+                                                                                   'url': 'https://api.github.com/users/HGSilveri'},
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 106,
+                                                                 'old_value': 105},
+                      "root['Covalent']['uh_prs'][2]['created_at']": { 'new_value': '2022-06-17T02:34:08Z',
+                                                                       'old_value': '2022-06-16T19:43:05Z'},
+                      "root['Covalent']['uh_prs'][2]['number']": { 'new_value': 669,
+                                                                   'old_value': 668},
+                      "root['Covalent']['uh_prs'][2]['title']": { 'new_value': '[unitaryhack] '
+                                                                               'Added '
+                                                                               'Parity '
+                                                                               'and '
+                                                                               'Iris '
+                                                                               'Classification',
+                                                                  'old_value': 'Fixes '
+                                                                               'Reverse '
+                                                                               'IP '
+                                                                               'problem '
+                                                                               '[unitaryhack]'},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 15,
+                                                                  'old_value': 14},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 76,
+                                                              'old_value': 75},
+                      "root['Pulser']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                  'old_value': 'open'},
+                      "root['Pulser']['open_issues_count']": { 'new_value': 20,
+                                                               'old_value': 22},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 76,
+                                                                      'old_value': 75},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 822,
+                                                               'old_value': 821},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/6814928?v=4',
+                                                                                               'old_value': 'https://avatars.githubusercontent.com/u/16138150?v=4'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['events_url']": { 'new_value': 'https://api.github.com/users/ikkoham/events{/privacy}',
+                                                                                               'old_value': 'https://api.github.com/users/manoelmarques/events{/privacy}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['followers_url']": { 'new_value': 'https://api.github.com/users/ikkoham/followers',
+                                                                                                  'old_value': 'https://api.github.com/users/manoelmarques/followers'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['following_url']": { 'new_value': 'https://api.github.com/users/ikkoham/following{/other_user}',
+                                                                                                  'old_value': 'https://api.github.com/users/manoelmarques/following{/other_user}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['gists_url']": { 'new_value': 'https://api.github.com/users/ikkoham/gists{/gist_id}',
+                                                                                              'old_value': 'https://api.github.com/users/manoelmarques/gists{/gist_id}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['html_url']": { 'new_value': 'https://github.com/ikkoham',
+                                                                                             'old_value': 'https://github.com/manoelmarques'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['id']": { 'new_value': 6814928,
+                                                                                       'old_value': 16138150},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['login']": { 'new_value': 'ikkoham',
+                                                                                          'old_value': 'manoelmarques'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['node_id']": { 'new_value': 'MDQ6VXNlcjY4MTQ5Mjg=',
+                                                                                            'old_value': 'MDQ6VXNlcjE2MTM4MTUw'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['organizations_url']": { 'new_value': 'https://api.github.com/users/ikkoham/orgs',
+                                                                                                      'old_value': 'https://api.github.com/users/manoelmarques/orgs'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['received_events_url']": { 'new_value': 'https://api.github.com/users/ikkoham/received_events',
+                                                                                                        'old_value': 'https://api.github.com/users/manoelmarques/received_events'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['repos_url']": { 'new_value': 'https://api.github.com/users/ikkoham/repos',
+                                                                                              'old_value': 'https://api.github.com/users/manoelmarques/repos'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['starred_url']": { 'new_value': 'https://api.github.com/users/ikkoham/starred{/owner}{/repo}',
+                                                                                                'old_value': 'https://api.github.com/users/manoelmarques/starred{/owner}{/repo}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/ikkoham/subscriptions',
+                                                                                                      'old_value': 'https://api.github.com/users/manoelmarques/subscriptions'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][2]['url']": { 'new_value': 'https://api.github.com/users/ikkoham',
+                                                                                        'old_value': 'https://api.github.com/users/manoelmarques'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/16138150?v=4',
+                                                                                               'old_value': 'https://avatars.githubusercontent.com/u/28284230?v=4'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['events_url']": { 'new_value': 'https://api.github.com/users/manoelmarques/events{/privacy}',
+                                                                                               'old_value': 'https://api.github.com/users/jyu00/events{/privacy}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['followers_url']": { 'new_value': 'https://api.github.com/users/manoelmarques/followers',
+                                                                                                  'old_value': 'https://api.github.com/users/jyu00/followers'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['following_url']": { 'new_value': 'https://api.github.com/users/manoelmarques/following{/other_user}',
+                                                                                                  'old_value': 'https://api.github.com/users/jyu00/following{/other_user}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['gists_url']": { 'new_value': 'https://api.github.com/users/manoelmarques/gists{/gist_id}',
+                                                                                              'old_value': 'https://api.github.com/users/jyu00/gists{/gist_id}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['html_url']": { 'new_value': 'https://github.com/manoelmarques',
+                                                                                             'old_value': 'https://github.com/jyu00'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['id']": { 'new_value': 16138150,
+                                                                                       'old_value': 28284230},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['login']": { 'new_value': 'manoelmarques',
+                                                                                          'old_value': 'jyu00'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['node_id']": { 'new_value': 'MDQ6VXNlcjE2MTM4MTUw',
+                                                                                            'old_value': 'MDQ6VXNlcjI4Mjg0MjMw'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['organizations_url']": { 'new_value': 'https://api.github.com/users/manoelmarques/orgs',
+                                                                                                      'old_value': 'https://api.github.com/users/jyu00/orgs'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['received_events_url']": { 'new_value': 'https://api.github.com/users/manoelmarques/received_events',
+                                                                                                        'old_value': 'https://api.github.com/users/jyu00/received_events'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['repos_url']": { 'new_value': 'https://api.github.com/users/manoelmarques/repos',
+                                                                                              'old_value': 'https://api.github.com/users/jyu00/repos'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['starred_url']": { 'new_value': 'https://api.github.com/users/manoelmarques/starred{/owner}{/repo}',
+                                                                                                'old_value': 'https://api.github.com/users/jyu00/starred{/owner}{/repo}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/manoelmarques/subscriptions',
+                                                                                                      'old_value': 'https://api.github.com/users/jyu00/subscriptions'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][3]['url']": { 'new_value': 'https://api.github.com/users/manoelmarques',
+                                                                                        'old_value': 'https://api.github.com/users/jyu00'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/28284230?v=4',
+                                                                                               'old_value': 'https://avatars.githubusercontent.com/u/38065505?v=4'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['events_url']": { 'new_value': 'https://api.github.com/users/jyu00/events{/privacy}',
+                                                                                               'old_value': 'https://api.github.com/users/eggerdj/events{/privacy}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['followers_url']": { 'new_value': 'https://api.github.com/users/jyu00/followers',
+                                                                                                  'old_value': 'https://api.github.com/users/eggerdj/followers'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['following_url']": { 'new_value': 'https://api.github.com/users/jyu00/following{/other_user}',
+                                                                                                  'old_value': 'https://api.github.com/users/eggerdj/following{/other_user}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['gists_url']": { 'new_value': 'https://api.github.com/users/jyu00/gists{/gist_id}',
+                                                                                              'old_value': 'https://api.github.com/users/eggerdj/gists{/gist_id}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['html_url']": { 'new_value': 'https://github.com/jyu00',
+                                                                                             'old_value': 'https://github.com/eggerdj'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['id']": { 'new_value': 28284230,
+                                                                                       'old_value': 38065505},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['login']": { 'new_value': 'jyu00',
+                                                                                          'old_value': 'eggerdj'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['node_id']": { 'new_value': 'MDQ6VXNlcjI4Mjg0MjMw',
+                                                                                            'old_value': 'MDQ6VXNlcjM4MDY1NTA1'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['organizations_url']": { 'new_value': 'https://api.github.com/users/jyu00/orgs',
+                                                                                                      'old_value': 'https://api.github.com/users/eggerdj/orgs'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['received_events_url']": { 'new_value': 'https://api.github.com/users/jyu00/received_events',
+                                                                                                        'old_value': 'https://api.github.com/users/eggerdj/received_events'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['repos_url']": { 'new_value': 'https://api.github.com/users/jyu00/repos',
+                                                                                              'old_value': 'https://api.github.com/users/eggerdj/repos'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['starred_url']": { 'new_value': 'https://api.github.com/users/jyu00/starred{/owner}{/repo}',
+                                                                                                'old_value': 'https://api.github.com/users/eggerdj/starred{/owner}{/repo}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/jyu00/subscriptions',
+                                                                                                      'old_value': 'https://api.github.com/users/eggerdj/subscriptions'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][4]['url']": { 'new_value': 'https://api.github.com/users/jyu00',
+                                                                                        'old_value': 'https://api.github.com/users/eggerdj'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/31178928?v=4',
+                                                                                               'old_value': 'https://avatars.githubusercontent.com/u/39517270?v=4'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['events_url']": { 'new_value': 'https://api.github.com/users/t-imamichi/events{/privacy}',
+                                                                                               'old_value': 'https://api.github.com/users/nkanazawa1989/events{/privacy}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['followers_url']": { 'new_value': 'https://api.github.com/users/t-imamichi/followers',
+                                                                                                  'old_value': 'https://api.github.com/users/nkanazawa1989/followers'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['following_url']": { 'new_value': 'https://api.github.com/users/t-imamichi/following{/other_user}',
+                                                                                                  'old_value': 'https://api.github.com/users/nkanazawa1989/following{/other_user}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['gists_url']": { 'new_value': 'https://api.github.com/users/t-imamichi/gists{/gist_id}',
+                                                                                              'old_value': 'https://api.github.com/users/nkanazawa1989/gists{/gist_id}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['html_url']": { 'new_value': 'https://github.com/t-imamichi',
+                                                                                             'old_value': 'https://github.com/nkanazawa1989'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['id']": { 'new_value': 31178928,
+                                                                                       'old_value': 39517270},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['login']": { 'new_value': 't-imamichi',
+                                                                                          'old_value': 'nkanazawa1989'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['node_id']": { 'new_value': 'MDQ6VXNlcjMxMTc4OTI4',
+                                                                                            'old_value': 'MDQ6VXNlcjM5NTE3Mjcw'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['organizations_url']": { 'new_value': 'https://api.github.com/users/t-imamichi/orgs',
+                                                                                                      'old_value': 'https://api.github.com/users/nkanazawa1989/orgs'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['received_events_url']": { 'new_value': 'https://api.github.com/users/t-imamichi/received_events',
+                                                                                                        'old_value': 'https://api.github.com/users/nkanazawa1989/received_events'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['repos_url']": { 'new_value': 'https://api.github.com/users/t-imamichi/repos',
+                                                                                              'old_value': 'https://api.github.com/users/nkanazawa1989/repos'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['starred_url']": { 'new_value': 'https://api.github.com/users/t-imamichi/starred{/owner}{/repo}',
+                                                                                                'old_value': 'https://api.github.com/users/nkanazawa1989/starred{/owner}{/repo}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/t-imamichi/subscriptions',
+                                                                                                      'old_value': 'https://api.github.com/users/nkanazawa1989/subscriptions'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][5]['url']": { 'new_value': 'https://api.github.com/users/t-imamichi',
+                                                                                        'old_value': 'https://api.github.com/users/nkanazawa1989'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/38065505?v=4',
+                                                                                               'old_value': 'https://avatars.githubusercontent.com/u/40241007?v=4'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['events_url']": { 'new_value': 'https://api.github.com/users/eggerdj/events{/privacy}',
+                                                                                               'old_value': 'https://api.github.com/users/woodsp-ibm/events{/privacy}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['followers_url']": { 'new_value': 'https://api.github.com/users/eggerdj/followers',
+                                                                                                  'old_value': 'https://api.github.com/users/woodsp-ibm/followers'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['following_url']": { 'new_value': 'https://api.github.com/users/eggerdj/following{/other_user}',
+                                                                                                  'old_value': 'https://api.github.com/users/woodsp-ibm/following{/other_user}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['gists_url']": { 'new_value': 'https://api.github.com/users/eggerdj/gists{/gist_id}',
+                                                                                              'old_value': 'https://api.github.com/users/woodsp-ibm/gists{/gist_id}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['html_url']": { 'new_value': 'https://github.com/eggerdj',
+                                                                                             'old_value': 'https://github.com/woodsp-ibm'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['id']": { 'new_value': 38065505,
+                                                                                       'old_value': 40241007},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['login']": { 'new_value': 'eggerdj',
+                                                                                          'old_value': 'woodsp-ibm'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['node_id']": { 'new_value': 'MDQ6VXNlcjM4MDY1NTA1',
+                                                                                            'old_value': 'MDQ6VXNlcjQwMjQxMDA3'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['organizations_url']": { 'new_value': 'https://api.github.com/users/eggerdj/orgs',
+                                                                                                      'old_value': 'https://api.github.com/users/woodsp-ibm/orgs'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['received_events_url']": { 'new_value': 'https://api.github.com/users/eggerdj/received_events',
+                                                                                                        'old_value': 'https://api.github.com/users/woodsp-ibm/received_events'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['repos_url']": { 'new_value': 'https://api.github.com/users/eggerdj/repos',
+                                                                                              'old_value': 'https://api.github.com/users/woodsp-ibm/repos'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['starred_url']": { 'new_value': 'https://api.github.com/users/eggerdj/starred{/owner}{/repo}',
+                                                                                                'old_value': 'https://api.github.com/users/woodsp-ibm/starred{/owner}{/repo}'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/eggerdj/subscriptions',
+                                                                                                      'old_value': 'https://api.github.com/users/woodsp-ibm/subscriptions'},
+                      "root['Qiskit']['uh_prs'][2]['requested_reviewers'][6]['url']": { 'new_value': 'https://api.github.com/users/eggerdj',
+                                                                                        'old_value': 'https://api.github.com/users/woodsp-ibm'},
+                      "root['QuNetSim']['open_issues_count']": { 'new_value': 15,
+                                                                 'old_value': 13},
+                      "root['scqubits']['open_issues_count']": { 'new_value': 12,
+                                                                 'old_value': 11},
+                      "root['scqubits']['subscribers_count']": { 'new_value': 12,
+                                                                 'old_value': 11}}}
