@@ -1,0 +1,323 @@
+Changes to unitaryHACK results
+updated 18/06/2022 00:14:55
+--------------------
+Item root['FlamingPy']['uh_prs'][1]['assignees'][0] added to iterable.
+Item root['FlamingPy']['uh_prs'][1]['requested_reviewers'][3] added to iterable.
+Item root['QuNetSim']['uh_prs'][0] added to iterable.
+Item root['Mitiq']['uh_prs'][0] added to iterable.
+Item root['PennyLane']['uh_prs'][2]['requested_reviewers'][0] removed from iterable.
+Item root['Covalent']['uh_prs'][2] removed from iterable.
+Type of root['FlamingPy']['bounties'][0]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-17T21:20:15Z".
+Type of root['FlamingPy']['bounties'][0]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'BestQuark', 'id': 52287586, 'node_id': 'MDQ6VXNlcjUyMjg3NTg2', 'avatar_url': 'https://avatars.githubusercontent.com/u/52287586?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/BestQuark', 'html_url': 'https://github.com/BestQuark', 'followers_url': 'https://api.github.com/users/BestQuark/followers', 'following_url': 'https://api.github.com/users/BestQuark/following{/other_user}', 'gists_url': 'https://api.github.com/users/BestQuark/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/BestQuark/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/BestQuark/subscriptions', 'organizations_url': 'https://api.github.com/users/BestQuark/orgs', 'repos_url': 'https://api.github.com/users/BestQuark/repos', 'events_url': 'https://api.github.com/users/BestQuark/events{/privacy}', 'received_events_url': 'https://api.github.com/users/BestQuark/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['Covalent']['bounties'][1]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-17T15:08:46Z".
+Type of root['Covalent']['bounties'][1]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'scottwn', 'id': 25555884, 'node_id': 'MDQ6VXNlcjI1NTU1ODg0', 'avatar_url': 'https://avatars.githubusercontent.com/u/25555884?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/scottwn', 'html_url': 'https://github.com/scottwn', 'followers_url': 'https://api.github.com/users/scottwn/followers', 'following_url': 'https://api.github.com/users/scottwn/following{/other_user}', 'gists_url': 'https://api.github.com/users/scottwn/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/scottwn/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/scottwn/subscriptions', 'organizations_url': 'https://api.github.com/users/scottwn/orgs', 'repos_url': 'https://api.github.com/users/scottwn/repos', 'events_url': 'https://api.github.com/users/scottwn/events{/privacy}', 'received_events_url': 'https://api.github.com/users/scottwn/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['QuTiP']['forks_count'] changed from 532 to 533.
+Value of root['QuTiP']['open_issues_count'] changed from 154 to 153.
+Value of root['Quantum Universal Education']['forks_count'] changed from 26 to 28.
+Value of root['Quantum Universal Education']['open_issues_count'] changed from 7 to 6.
+Value of root['PyZX']['forks_count'] changed from 67 to 68.
+Value of root['Orquestra Core']['open_issues_count'] changed from 1 to 3.
+Value of root['XACC']['forks_count'] changed from 61 to 62.
+Value of root['FlamingPy']['bounties'][0]['state'] changed from "open" to "closed".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['login'] changed from "maxtremblay" to "BestQuark".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['id'] changed from 52462375 to 52287586.
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['node_id'] changed from "MDQ6VXNlcjUyNDYyMzc1" to "MDQ6VXNlcjUyMjg3NTg2".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/52462375?v=4" to "https://avatars.githubusercontent.com/u/52287586?v=4".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['url'] changed from "https://api.github.com/users/maxtremblay" to "https://api.github.com/users/BestQuark".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['html_url'] changed from "https://github.com/maxtremblay" to "https://github.com/BestQuark".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['followers_url'] changed from "https://api.github.com/users/maxtremblay/followers" to "https://api.github.com/users/BestQuark/followers".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['following_url'] changed from "https://api.github.com/users/maxtremblay/following{/other_user}" to "https://api.github.com/users/BestQuark/following{/other_user}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['gists_url'] changed from "https://api.github.com/users/maxtremblay/gists{/gist_id}" to "https://api.github.com/users/BestQuark/gists{/gist_id}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['starred_url'] changed from "https://api.github.com/users/maxtremblay/starred{/owner}{/repo}" to "https://api.github.com/users/BestQuark/starred{/owner}{/repo}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['subscriptions_url'] changed from "https://api.github.com/users/maxtremblay/subscriptions" to "https://api.github.com/users/BestQuark/subscriptions".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['organizations_url'] changed from "https://api.github.com/users/maxtremblay/orgs" to "https://api.github.com/users/BestQuark/orgs".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['repos_url'] changed from "https://api.github.com/users/maxtremblay/repos" to "https://api.github.com/users/BestQuark/repos".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['events_url'] changed from "https://api.github.com/users/maxtremblay/events{/privacy}" to "https://api.github.com/users/BestQuark/events{/privacy}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['received_events_url'] changed from "https://api.github.com/users/maxtremblay/received_events" to "https://api.github.com/users/BestQuark/received_events".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['login'] changed from "ilan-tz" to "maxtremblay".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['id'] changed from 57886357 to 52462375.
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['node_id'] changed from "MDQ6VXNlcjU3ODg2MzU3" to "MDQ6VXNlcjUyNDYyMzc1".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/57886357?v=4" to "https://avatars.githubusercontent.com/u/52462375?v=4".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['url'] changed from "https://api.github.com/users/ilan-tz" to "https://api.github.com/users/maxtremblay".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['html_url'] changed from "https://github.com/ilan-tz" to "https://github.com/maxtremblay".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['followers_url'] changed from "https://api.github.com/users/ilan-tz/followers" to "https://api.github.com/users/maxtremblay/followers".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['following_url'] changed from "https://api.github.com/users/ilan-tz/following{/other_user}" to "https://api.github.com/users/maxtremblay/following{/other_user}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['gists_url'] changed from "https://api.github.com/users/ilan-tz/gists{/gist_id}" to "https://api.github.com/users/maxtremblay/gists{/gist_id}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['starred_url'] changed from "https://api.github.com/users/ilan-tz/starred{/owner}{/repo}" to "https://api.github.com/users/maxtremblay/starred{/owner}{/repo}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['subscriptions_url'] changed from "https://api.github.com/users/ilan-tz/subscriptions" to "https://api.github.com/users/maxtremblay/subscriptions".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['organizations_url'] changed from "https://api.github.com/users/ilan-tz/orgs" to "https://api.github.com/users/maxtremblay/orgs".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['repos_url'] changed from "https://api.github.com/users/ilan-tz/repos" to "https://api.github.com/users/maxtremblay/repos".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['events_url'] changed from "https://api.github.com/users/ilan-tz/events{/privacy}" to "https://api.github.com/users/maxtremblay/events{/privacy}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['received_events_url'] changed from "https://api.github.com/users/ilan-tz/received_events" to "https://api.github.com/users/maxtremblay/received_events".
+Value of root['KQCircuits']['forks_count'] changed from 30 to 31.
+Value of root['KQCircuits']['open_issues_count'] changed from 6 to 8.
+Value of root['QuNetSim']['open_issues_count'] changed from 15 to 16.
+Value of root['Yao']['open_issues_count'] changed from 31 to 29.
+Value of root['PennyLane']['open_issues_count'] changed from 221 to 217.
+Value of root['Mitiq']['forks_count'] changed from 91 to 92.
+Value of root['PyQIR']['open_issues_count'] changed from 19 to 20.
+Value of root['Covalent']['bounties'][1]['state'] changed from "open" to "closed".
+Value of root['Covalent']['uh_prs'][1]['number'] changed from 663 to 669.
+Value of root['Covalent']['uh_prs'][1]['title'] changed from "Fix error when parsing electron positional arguments in workflows [unitaryhack]" to "[unitaryhack] Added Parity and Iris Classification".
+Value of root['Covalent']['uh_prs'][1]['created_at'] changed from "2022-06-15T18:30:53Z" to "2022-06-17T02:34:08Z".
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['FlamingPy']['uh_prs'][1]['assignees'][0]": 'smtsjhr',
+                           "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][3]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/57886357?v=4',
+                                                                                         'events_url': 'https://api.github.com/users/ilan-tz/events{/privacy}',
+                                                                                         'followers_url': 'https://api.github.com/users/ilan-tz/followers',
+                                                                                         'following_url': 'https://api.github.com/users/ilan-tz/following{/other_user}',
+                                                                                         'gists_url': 'https://api.github.com/users/ilan-tz/gists{/gist_id}',
+                                                                                         'gravatar_id': '',
+                                                                                         'html_url': 'https://github.com/ilan-tz',
+                                                                                         'id': 57886357,
+                                                                                         'login': 'ilan-tz',
+                                                                                         'node_id': 'MDQ6VXNlcjU3ODg2MzU3',
+                                                                                         'organizations_url': 'https://api.github.com/users/ilan-tz/orgs',
+                                                                                         'received_events_url': 'https://api.github.com/users/ilan-tz/received_events',
+                                                                                         'repos_url': 'https://api.github.com/users/ilan-tz/repos',
+                                                                                         'site_admin': False,
+                                                                                         'starred_url': 'https://api.github.com/users/ilan-tz/starred{/owner}{/repo}',
+                                                                                         'subscriptions_url': 'https://api.github.com/users/ilan-tz/subscriptions',
+                                                                                         'type': 'User',
+                                                                                         'url': 'https://api.github.com/users/ilan-tz'},
+                           "root['Mitiq']['uh_prs'][0]": { 'assignees': [],
+                                                           'closed_at': None,
+                                                           'created_at': '2022-06-17T21:14:23Z',
+                                                           'draft': False,
+                                                           'merged_at': None,
+                                                           'number': 1360,
+                                                           'requested_reviewers': [ { 'avatar_url': 'https://avatars.githubusercontent.com/u/82074193?v=4',
+                                                                                      'events_url': 'https://api.github.com/users/Misty-W/events{/privacy}',
+                                                                                      'followers_url': 'https://api.github.com/users/Misty-W/followers',
+                                                                                      'following_url': 'https://api.github.com/users/Misty-W/following{/other_user}',
+                                                                                      'gists_url': 'https://api.github.com/users/Misty-W/gists{/gist_id}',
+                                                                                      'gravatar_id': '',
+                                                                                      'html_url': 'https://github.com/Misty-W',
+                                                                                      'id': 82074193,
+                                                                                      'login': 'Misty-W',
+                                                                                      'node_id': 'MDQ6VXNlcjgyMDc0MTkz',
+                                                                                      'organizations_url': 'https://api.github.com/users/Misty-W/orgs',
+                                                                                      'received_events_url': 'https://api.github.com/users/Misty-W/received_events',
+                                                                                      'repos_url': 'https://api.github.com/users/Misty-W/repos',
+                                                                                      'site_admin': False,
+                                                                                      'starred_url': 'https://api.github.com/users/Misty-W/starred{/owner}{/repo}',
+                                                                                      'subscriptions_url': 'https://api.github.com/users/Misty-W/subscriptions',
+                                                                                      'type': 'User',
+                                                                                      'url': 'https://api.github.com/users/Misty-W'}],
+                                                           'state': 'open',
+                                                           'title': '[unitaryhack] '
+                                                                    'Added '
+                                                                    'qiskit '
+                                                                    'backends '
+                                                                    'and '
+                                                                    'tested'},
+                           "root['QuNetSim']['uh_prs'][0]": { 'assignees': [],
+                                                              'closed_at': None,
+                                                              'created_at': '2022-06-17T13:52:31Z',
+                                                              'draft': True,
+                                                              'merged_at': None,
+                                                              'number': 139,
+                                                              'requested_reviewers': [ ],
+                                                              'state': 'open',
+                                                              'title': 'Multiple '
+                                                                       'queues '
+                                                                       '(one '
+                                                                       'per '
+                                                                       'connection) '
+                                                                       '[unitaryhack]'}},
+  'iterable_item_removed': { "root['Covalent']['uh_prs'][2]": { 'assignees': [],
+                                                                'closed_at': None,
+                                                                'created_at': '2022-06-17T02:34:08Z',
+                                                                'draft': False,
+                                                                'merged_at': None,
+                                                                'number': 669,
+                                                                'requested_reviewers': [ ],
+                                                                'state': 'open',
+                                                                'title': '[unitaryhack] '
+                                                                         'Added '
+                                                                         'Parity '
+                                                                         'and '
+                                                                         'Iris '
+                                                                         'Classification'},
+                             "root['PennyLane']['uh_prs'][2]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/6364575?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/albi3ro/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/albi3ro/followers',
+                                                                                           'following_url': 'https://api.github.com/users/albi3ro/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/albi3ro/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/albi3ro',
+                                                                                           'id': 6364575,
+                                                                                           'login': 'albi3ro',
+                                                                                           'node_id': 'MDQ6VXNlcjYzNjQ1NzU=',
+                                                                                           'organizations_url': 'https://api.github.com/users/albi3ro/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/albi3ro/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/albi3ro/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/albi3ro/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/albi3ro/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/albi3ro'}},
+  'type_changes': { "root['Covalent']['bounties'][1]['closed_at']": { 'new_type': <class 'str'>,
+                                                                      'new_value': '2022-06-17T15:08:46Z',
+                                                                      'old_type': <class 'NoneType'>,
+                                                                      'old_value': None},
+                    "root['Covalent']['bounties'][1]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                      'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/25555884?v=4',
+                                                                                     'events_url': 'https://api.github.com/users/scottwn/events{/privacy}',
+                                                                                     'followers_url': 'https://api.github.com/users/scottwn/followers',
+                                                                                     'following_url': 'https://api.github.com/users/scottwn/following{/other_user}',
+                                                                                     'gists_url': 'https://api.github.com/users/scottwn/gists{/gist_id}',
+                                                                                     'gravatar_id': '',
+                                                                                     'html_url': 'https://github.com/scottwn',
+                                                                                     'id': 25555884,
+                                                                                     'login': 'scottwn',
+                                                                                     'node_id': 'MDQ6VXNlcjI1NTU1ODg0',
+                                                                                     'organizations_url': 'https://api.github.com/users/scottwn/orgs',
+                                                                                     'received_events_url': 'https://api.github.com/users/scottwn/received_events',
+                                                                                     'repos_url': 'https://api.github.com/users/scottwn/repos',
+                                                                                     'site_admin': False,
+                                                                                     'starred_url': 'https://api.github.com/users/scottwn/starred{/owner}{/repo}',
+                                                                                     'subscriptions_url': 'https://api.github.com/users/scottwn/subscriptions',
+                                                                                     'type': 'User',
+                                                                                     'url': 'https://api.github.com/users/scottwn'},
+                                                                      'old_type': <class 'NoneType'>,
+                                                                      'old_value': None},
+                    "root['FlamingPy']['bounties'][0]['closed_at']": { 'new_type': <class 'str'>,
+                                                                       'new_value': '2022-06-17T21:20:15Z',
+                                                                       'old_type': <class 'NoneType'>,
+                                                                       'old_value': None},
+                    "root['FlamingPy']['bounties'][0]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                       'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/52287586?v=4',
+                                                                                      'events_url': 'https://api.github.com/users/BestQuark/events{/privacy}',
+                                                                                      'followers_url': 'https://api.github.com/users/BestQuark/followers',
+                                                                                      'following_url': 'https://api.github.com/users/BestQuark/following{/other_user}',
+                                                                                      'gists_url': 'https://api.github.com/users/BestQuark/gists{/gist_id}',
+                                                                                      'gravatar_id': '',
+                                                                                      'html_url': 'https://github.com/BestQuark',
+                                                                                      'id': 52287586,
+                                                                                      'login': 'BestQuark',
+                                                                                      'node_id': 'MDQ6VXNlcjUyMjg3NTg2',
+                                                                                      'organizations_url': 'https://api.github.com/users/BestQuark/orgs',
+                                                                                      'received_events_url': 'https://api.github.com/users/BestQuark/received_events',
+                                                                                      'repos_url': 'https://api.github.com/users/BestQuark/repos',
+                                                                                      'site_admin': False,
+                                                                                      'starred_url': 'https://api.github.com/users/BestQuark/starred{/owner}{/repo}',
+                                                                                      'subscriptions_url': 'https://api.github.com/users/BestQuark/subscriptions',
+                                                                                      'type': 'User',
+                                                                                      'url': 'https://api.github.com/users/BestQuark'},
+                                                                       'old_type': <class 'NoneType'>,
+                                                                       'old_value': None}},
+  'values_changed': { "root['Covalent']['bounties'][1]['state']": { 'new_value': 'closed',
+                                                                    'old_value': 'open'},
+                      "root['Covalent']['uh_prs'][1]['created_at']": { 'new_value': '2022-06-17T02:34:08Z',
+                                                                       'old_value': '2022-06-15T18:30:53Z'},
+                      "root['Covalent']['uh_prs'][1]['number']": { 'new_value': 669,
+                                                                   'old_value': 663},
+                      "root['Covalent']['uh_prs'][1]['title']": { 'new_value': '[unitaryhack] '
+                                                                               'Added '
+                                                                               'Parity '
+                                                                               'and '
+                                                                               'Iris '
+                                                                               'Classification',
+                                                                  'old_value': 'Fix '
+                                                                               'error '
+                                                                               'when '
+                                                                               'parsing '
+                                                                               'electron '
+                                                                               'positional '
+                                                                               'arguments '
+                                                                               'in '
+                                                                               'workflows '
+                                                                               '[unitaryhack]'},
+                      "root['FlamingPy']['bounties'][0]['state']": { 'new_value': 'closed',
+                                                                     'old_value': 'open'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/52287586?v=4',
+                                                                                                  'old_value': 'https://avatars.githubusercontent.com/u/52462375?v=4'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['events_url']": { 'new_value': 'https://api.github.com/users/BestQuark/events{/privacy}',
+                                                                                                  'old_value': 'https://api.github.com/users/maxtremblay/events{/privacy}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['followers_url']": { 'new_value': 'https://api.github.com/users/BestQuark/followers',
+                                                                                                     'old_value': 'https://api.github.com/users/maxtremblay/followers'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['following_url']": { 'new_value': 'https://api.github.com/users/BestQuark/following{/other_user}',
+                                                                                                     'old_value': 'https://api.github.com/users/maxtremblay/following{/other_user}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['gists_url']": { 'new_value': 'https://api.github.com/users/BestQuark/gists{/gist_id}',
+                                                                                                 'old_value': 'https://api.github.com/users/maxtremblay/gists{/gist_id}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['html_url']": { 'new_value': 'https://github.com/BestQuark',
+                                                                                                'old_value': 'https://github.com/maxtremblay'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['id']": { 'new_value': 52287586,
+                                                                                          'old_value': 52462375},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['login']": { 'new_value': 'BestQuark',
+                                                                                             'old_value': 'maxtremblay'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['node_id']": { 'new_value': 'MDQ6VXNlcjUyMjg3NTg2',
+                                                                                               'old_value': 'MDQ6VXNlcjUyNDYyMzc1'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['organizations_url']": { 'new_value': 'https://api.github.com/users/BestQuark/orgs',
+                                                                                                         'old_value': 'https://api.github.com/users/maxtremblay/orgs'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['received_events_url']": { 'new_value': 'https://api.github.com/users/BestQuark/received_events',
+                                                                                                           'old_value': 'https://api.github.com/users/maxtremblay/received_events'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['repos_url']": { 'new_value': 'https://api.github.com/users/BestQuark/repos',
+                                                                                                 'old_value': 'https://api.github.com/users/maxtremblay/repos'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['starred_url']": { 'new_value': 'https://api.github.com/users/BestQuark/starred{/owner}{/repo}',
+                                                                                                   'old_value': 'https://api.github.com/users/maxtremblay/starred{/owner}{/repo}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/BestQuark/subscriptions',
+                                                                                                         'old_value': 'https://api.github.com/users/maxtremblay/subscriptions'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['url']": { 'new_value': 'https://api.github.com/users/BestQuark',
+                                                                                           'old_value': 'https://api.github.com/users/maxtremblay'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/52462375?v=4',
+                                                                                                  'old_value': 'https://avatars.githubusercontent.com/u/57886357?v=4'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['events_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/events{/privacy}',
+                                                                                                  'old_value': 'https://api.github.com/users/ilan-tz/events{/privacy}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['followers_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/followers',
+                                                                                                     'old_value': 'https://api.github.com/users/ilan-tz/followers'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['following_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/following{/other_user}',
+                                                                                                     'old_value': 'https://api.github.com/users/ilan-tz/following{/other_user}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['gists_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/gists{/gist_id}',
+                                                                                                 'old_value': 'https://api.github.com/users/ilan-tz/gists{/gist_id}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['html_url']": { 'new_value': 'https://github.com/maxtremblay',
+                                                                                                'old_value': 'https://github.com/ilan-tz'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['id']": { 'new_value': 52462375,
+                                                                                          'old_value': 57886357},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['login']": { 'new_value': 'maxtremblay',
+                                                                                             'old_value': 'ilan-tz'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['node_id']": { 'new_value': 'MDQ6VXNlcjUyNDYyMzc1',
+                                                                                               'old_value': 'MDQ6VXNlcjU3ODg2MzU3'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['organizations_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/orgs',
+                                                                                                         'old_value': 'https://api.github.com/users/ilan-tz/orgs'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['received_events_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/received_events',
+                                                                                                           'old_value': 'https://api.github.com/users/ilan-tz/received_events'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['repos_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/repos',
+                                                                                                 'old_value': 'https://api.github.com/users/ilan-tz/repos'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['starred_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/starred{/owner}{/repo}',
+                                                                                                   'old_value': 'https://api.github.com/users/ilan-tz/starred{/owner}{/repo}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/maxtremblay/subscriptions',
+                                                                                                         'old_value': 'https://api.github.com/users/ilan-tz/subscriptions'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][2]['url']": { 'new_value': 'https://api.github.com/users/maxtremblay',
+                                                                                           'old_value': 'https://api.github.com/users/ilan-tz'},
+                      "root['KQCircuits']['forks_count']": { 'new_value': 31,
+                                                             'old_value': 30},
+                      "root['KQCircuits']['open_issues_count']": { 'new_value': 8,
+                                                                   'old_value': 6},
+                      "root['Mitiq']['forks_count']": { 'new_value': 92,
+                                                        'old_value': 91},
+                      "root['Orquestra Core']['open_issues_count']": { 'new_value': 3,
+                                                                       'old_value': 1},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 217,
+                                                                  'old_value': 221},
+                      "root['PyQIR']['open_issues_count']": { 'new_value': 20,
+                                                              'old_value': 19},
+                      "root['PyZX']['forks_count']": { 'new_value': 68,
+                                                       'old_value': 67},
+                      "root['QuNetSim']['open_issues_count']": { 'new_value': 16,
+                                                                 'old_value': 15},
+                      "root['QuTiP']['forks_count']": { 'new_value': 533,
+                                                        'old_value': 532},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 153,
+                                                              'old_value': 154},
+                      "root['Quantum Universal Education']['forks_count']": { 'new_value': 28,
+                                                                              'old_value': 26},
+                      "root['Quantum Universal Education']['open_issues_count']": { 'new_value': 6,
+                                                                                    'old_value': 7},
+                      "root['XACC']['forks_count']": { 'new_value': 62,
+                                                       'old_value': 61},
+                      "root['Yao']['open_issues_count']": { 'new_value': 29,
+                                                            'old_value': 31}}}
