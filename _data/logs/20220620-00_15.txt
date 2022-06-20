@@ -1,0 +1,18 @@
+Changes to unitaryHACK results
+updated 20/06/2022 00:15:24
+--------------------
+Value of root['PyZX']['subscribers_count'] changed from 20 to 21.
+Value of root['Yao']['open_issues_count'] changed from 25 to 26.
+Value of root['PennyLane']['forks_count'] changed from 382 to 383.
+Value of root['PennyLane']['open_issues_count'] changed from 217 to 218.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['PennyLane']['forks_count']": { 'new_value': 383,
+                                                            'old_value': 382},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 218,
+                                                                  'old_value': 217},
+                      "root['PyZX']['subscribers_count']": { 'new_value': 21,
+                                                             'old_value': 20},
+                      "root['Yao']['open_issues_count']": { 'new_value': 26,
+                                                            'old_value': 25}}}
