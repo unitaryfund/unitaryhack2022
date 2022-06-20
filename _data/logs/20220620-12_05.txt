@@ -1,0 +1,62 @@
+Changes to unitaryHACK results
+updated 20/06/2022 12:05:42
+--------------------
+Item root['KQCircuits']['uh_prs'][0] added to iterable.
+Item root['KQCircuits']['uh_prs'][1] added to iterable.
+Value of root['Pulser']['forks_count'] changed from 31 to 32.
+Value of root['QuTiP']['forks_count'] changed from 533 to 534.
+Value of root['PennyLane']['forks_count'] changed from 383 to 382.
+Value of root['PennyLane']['open_issues_count'] changed from 218 to 219.
+Value of root['Qiskit']['open_issues_count'] changed from 822 to 823.
+Value of root['NetKet']['open_issues_count'] changed from 90 to 93.
+Value of root['Covalent']['open_issues_count'] changed from 103 to 112.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['KQCircuits']['uh_prs'][0]": { 'assignees': [],
+                                                                'closed_at': None,
+                                                                'created_at': '2022-06-17T12:33:57Z',
+                                                                'draft': False,
+                                                                'merged_at': None,
+                                                                'number': 17,
+                                                                'requested_reviewers': [ ],
+                                                                'state': 'open',
+                                                                'title': '[unitaryhack] '
+                                                                         'Update '
+                                                                         'GUI '
+                                                                         'workflow '
+                                                                         'for '
+                                                                         'the '
+                                                                         'current '
+                                                                         'version '
+                                                                         'of '
+                                                                         'KLayout'},
+                           "root['KQCircuits']['uh_prs'][1]": { 'assignees': [],
+                                                                'closed_at': None,
+                                                                'created_at': '2022-06-17T17:21:56Z',
+                                                                'draft': False,
+                                                                'merged_at': None,
+                                                                'number': 18,
+                                                                'requested_reviewers': [ ],
+                                                                'state': 'open',
+                                                                'title': '[unitaryhack] '
+                                                                         'Fixes '
+                                                                         'links '
+                                                                         'to '
+                                                                         'files '
+                                                                         'in '
+                                                                         'Documentation. '}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 112,
+                                                                 'old_value': 103},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 93,
+                                                               'old_value': 90},
+                      "root['PennyLane']['forks_count']": { 'new_value': 382,
+                                                            'old_value': 383},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 219,
+                                                                  'old_value': 218},
+                      "root['Pulser']['forks_count']": { 'new_value': 32,
+                                                         'old_value': 31},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 823,
+                                                               'old_value': 822},
+                      "root['QuTiP']['forks_count']": { 'new_value': 534,
+                                                        'old_value': 533}}}
