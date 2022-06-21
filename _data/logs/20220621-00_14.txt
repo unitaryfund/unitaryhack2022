@@ -1,0 +1,167 @@
+Changes to unitaryHACK results
+updated 21/06/2022 00:14:53
+--------------------
+Item root['QuNetSim']['uh_prs'][1] added to iterable.
+Item root['QuTiP']['uh_prs'][0] removed from iterable.
+Item root['scqubits']['uh_prs'][0] removed from iterable.
+Type of root['QuTiP']['bounties'][2]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-20T15:03:55Z".
+Type of root['QuTiP']['bounties'][2]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'hodgestar', 'id': 165551, 'node_id': 'MDQ6VXNlcjE2NTU1MQ==', 'avatar_url': 'https://avatars.githubusercontent.com/u/165551?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/hodgestar', 'html_url': 'https://github.com/hodgestar', 'followers_url': 'https://api.github.com/users/hodgestar/followers', 'following_url': 'https://api.github.com/users/hodgestar/following{/other_user}', 'gists_url': 'https://api.github.com/users/hodgestar/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/hodgestar/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/hodgestar/subscriptions', 'organizations_url': 'https://api.github.com/users/hodgestar/orgs', 'repos_url': 'https://api.github.com/users/hodgestar/repos', 'events_url': 'https://api.github.com/users/hodgestar/events{/privacy}', 'received_events_url': 'https://api.github.com/users/hodgestar/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['scqubits']['bounties'][2]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-20T22:44:13Z".
+Type of root['scqubits']['bounties'][2]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'petergthatsme', 'id': 4156234, 'node_id': 'MDQ6VXNlcjQxNTYyMzQ=', 'avatar_url': 'https://avatars.githubusercontent.com/u/4156234?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/petergthatsme', 'html_url': 'https://github.com/petergthatsme', 'followers_url': 'https://api.github.com/users/petergthatsme/followers', 'following_url': 'https://api.github.com/users/petergthatsme/following{/other_user}', 'gists_url': 'https://api.github.com/users/petergthatsme/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/petergthatsme/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/petergthatsme/subscriptions', 'organizations_url': 'https://api.github.com/users/petergthatsme/orgs', 'repos_url': 'https://api.github.com/users/petergthatsme/repos', 'events_url': 'https://api.github.com/users/petergthatsme/events{/privacy}', 'received_events_url': 'https://api.github.com/users/petergthatsme/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['QuTiP']['bounties'][2]['state'] changed from "open" to "closed".
+Value of root['QuTiP']['forks_count'] changed from 534 to 533.
+Value of root['FlamingPy']['forks_count'] changed from 10 to 11.
+Value of root['FlamingPy']['open_issues_count'] changed from 15 to 16.
+Value of root['scqubits']['bounties'][2]['state'] changed from "open" to "closed".
+Value of root['scqubits']['open_issues_count'] changed from 12 to 10.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 76 to 84.
+Value of root['QuNetSim']['open_issues_count'] changed from 16 to 14.
+Value of root['QuNetSim']['uh_prs'][0]['number'] changed from 139 to 138.
+Value of root['QuNetSim']['uh_prs'][0]['title'] changed from "Multiple queues (one per connection) [unitaryhack]" to "Deprecated `add_data_qubit` to `add_qubit` [unitaryhack]".
+Value of root['QuNetSim']['uh_prs'][0]['created_at'] changed from "2022-06-17T13:52:31Z" to "2022-06-17T08:34:59Z".
+Value of root['QuNetSim']['uh_prs'][0]['draft'] changed from True to False.
+Value of root['PennyLane']['forks_count'] changed from 382 to 383.
+Value of root['PennyLane']['open_issues_count'] changed from 219 to 223.
+Value of root['Qiskit']['open_issues_count'] changed from 823 to 825.
+Value of root['NetKet']['open_issues_count'] changed from 93 to 90.
+Value of root['Covalent']['open_issues_count'] changed from 112 to 115.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['QuNetSim']['uh_prs'][1]": { 'assignees': [],
+                                                              'closed_at': None,
+                                                              'created_at': '2022-06-17T13:52:31Z',
+                                                              'draft': False,
+                                                              'merged_at': None,
+                                                              'number': 139,
+                                                              'requested_reviewers': [ ],
+                                                              'state': 'open',
+                                                              'title': 'Multiple '
+                                                                       'queues '
+                                                                       '(one '
+                                                                       'per '
+                                                                       'connection) '
+                                                                       '[unitaryhack]'}},
+  'iterable_item_removed': { "root['QuTiP']['uh_prs'][0]": { 'assignees': [],
+                                                             'closed_at': None,
+                                                             'created_at': '2022-06-10T03:35:18Z',
+                                                             'draft': False,
+                                                             'merged_at': None,
+                                                             'number': 1927,
+                                                             'requested_reviewers': [ ],
+                                                             'state': 'open',
+                                                             'title': '[unitaryhack] '
+                                                                      'Add '
+                                                                      'towncrier '
+                                                                      'for '
+                                                                      'managing '
+                                                                      'the '
+                                                                      'changelog'},
+                             "root['scqubits']['uh_prs'][0]": { 'assignees': [],
+                                                                'closed_at': None,
+                                                                'created_at': '2022-06-04T08:07:40Z',
+                                                                'draft': False,
+                                                                'merged_at': None,
+                                                                'number': 135,
+                                                                'requested_reviewers': [ ],
+                                                                'state': 'open',
+                                                                'title': '[unitaryhack] '
+                                                                         'Font '
+                                                                         'scaling '
+                                                                         'in '
+                                                                         'labels '
+                                                                         'of '
+                                                                         'plot.matrix2d()'}},
+  'type_changes': { "root['QuTiP']['bounties'][2]['closed_at']": { 'new_type': <class 'str'>,
+                                                                   'new_value': '2022-06-20T15:03:55Z',
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['QuTiP']['bounties'][2]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                   'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/165551?v=4',
+                                                                                  'events_url': 'https://api.github.com/users/hodgestar/events{/privacy}',
+                                                                                  'followers_url': 'https://api.github.com/users/hodgestar/followers',
+                                                                                  'following_url': 'https://api.github.com/users/hodgestar/following{/other_user}',
+                                                                                  'gists_url': 'https://api.github.com/users/hodgestar/gists{/gist_id}',
+                                                                                  'gravatar_id': '',
+                                                                                  'html_url': 'https://github.com/hodgestar',
+                                                                                  'id': 165551,
+                                                                                  'login': 'hodgestar',
+                                                                                  'node_id': 'MDQ6VXNlcjE2NTU1MQ==',
+                                                                                  'organizations_url': 'https://api.github.com/users/hodgestar/orgs',
+                                                                                  'received_events_url': 'https://api.github.com/users/hodgestar/received_events',
+                                                                                  'repos_url': 'https://api.github.com/users/hodgestar/repos',
+                                                                                  'site_admin': False,
+                                                                                  'starred_url': 'https://api.github.com/users/hodgestar/starred{/owner}{/repo}',
+                                                                                  'subscriptions_url': 'https://api.github.com/users/hodgestar/subscriptions',
+                                                                                  'type': 'User',
+                                                                                  'url': 'https://api.github.com/users/hodgestar'},
+                                                                   'old_type': <class 'NoneType'>,
+                                                                   'old_value': None},
+                    "root['scqubits']['bounties'][2]['closed_at']": { 'new_type': <class 'str'>,
+                                                                      'new_value': '2022-06-20T22:44:13Z',
+                                                                      'old_type': <class 'NoneType'>,
+                                                                      'old_value': None},
+                    "root['scqubits']['bounties'][2]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                      'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/4156234?v=4',
+                                                                                     'events_url': 'https://api.github.com/users/petergthatsme/events{/privacy}',
+                                                                                     'followers_url': 'https://api.github.com/users/petergthatsme/followers',
+                                                                                     'following_url': 'https://api.github.com/users/petergthatsme/following{/other_user}',
+                                                                                     'gists_url': 'https://api.github.com/users/petergthatsme/gists{/gist_id}',
+                                                                                     'gravatar_id': '',
+                                                                                     'html_url': 'https://github.com/petergthatsme',
+                                                                                     'id': 4156234,
+                                                                                     'login': 'petergthatsme',
+                                                                                     'node_id': 'MDQ6VXNlcjQxNTYyMzQ=',
+                                                                                     'organizations_url': 'https://api.github.com/users/petergthatsme/orgs',
+                                                                                     'received_events_url': 'https://api.github.com/users/petergthatsme/received_events',
+                                                                                     'repos_url': 'https://api.github.com/users/petergthatsme/repos',
+                                                                                     'site_admin': False,
+                                                                                     'starred_url': 'https://api.github.com/users/petergthatsme/starred{/owner}{/repo}',
+                                                                                     'subscriptions_url': 'https://api.github.com/users/petergthatsme/subscriptions',
+                                                                                     'type': 'User',
+                                                                                     'url': 'https://api.github.com/users/petergthatsme'},
+                                                                      'old_type': <class 'NoneType'>,
+                                                                      'old_value': None}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 115,
+                                                                 'old_value': 112},
+                      "root['FlamingPy']['forks_count']": { 'new_value': 11,
+                                                            'old_value': 10},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 16,
+                                                                  'old_value': 15},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 90,
+                                                               'old_value': 93},
+                      "root['PennyLane']['forks_count']": { 'new_value': 383,
+                                                            'old_value': 382},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 223,
+                                                                  'old_value': 219},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 84,
+                                                                      'old_value': 76},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 825,
+                                                               'old_value': 823},
+                      "root['QuNetSim']['open_issues_count']": { 'new_value': 14,
+                                                                 'old_value': 16},
+                      "root['QuNetSim']['uh_prs'][0]['created_at']": { 'new_value': '2022-06-17T08:34:59Z',
+                                                                       'old_value': '2022-06-17T13:52:31Z'},
+                      "root['QuNetSim']['uh_prs'][0]['draft']": { 'new_value': False,
+                                                                  'old_value': True},
+                      "root['QuNetSim']['uh_prs'][0]['number']": { 'new_value': 138,
+                                                                   'old_value': 139},
+                      "root['QuNetSim']['uh_prs'][0]['title']": { 'new_value': 'Deprecated '
+                                                                               '`add_data_qubit` '
+                                                                               'to '
+                                                                               '`add_qubit` '
+                                                                               '[unitaryhack]',
+                                                                  'old_value': 'Multiple '
+                                                                               'queues '
+                                                                               '(one '
+                                                                               'per '
+                                                                               'connection) '
+                                                                               '[unitaryhack]'},
+                      "root['QuTiP']['bounties'][2]['state']": { 'new_value': 'closed',
+                                                                 'old_value': 'open'},
+                      "root['QuTiP']['forks_count']": { 'new_value': 533,
+                                                        'old_value': 534},
+                      "root['scqubits']['bounties'][2]['state']": { 'new_value': 'closed',
+                                                                    'old_value': 'open'},
+                      "root['scqubits']['open_issues_count']": { 'new_value': 10,
+                                                                 'old_value': 12}}}
