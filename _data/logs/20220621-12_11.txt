@@ -1,0 +1,36 @@
+Changes to unitaryHACK results
+updated 21/06/2022 12:11:24
+--------------------
+Value of root['QuTiP']['forks_count'] changed from 533 to 534.
+Value of root['Orquestra Core']['forks_count'] changed from 4 to 6.
+Value of root['FlamingPy']['forks_count'] changed from 11 to 12.
+Value of root['FlamingPy']['open_issues_count'] changed from 16 to 15.
+Value of root['PyQrack']['forks_count'] changed from 3 to 5.
+Value of root['Mitiq']['open_issues_count'] changed from 76 to 78.
+Value of root['Qiskit']['open_issues_count'] changed from 825 to 829.
+Value of root['Qrack']['forks_count'] changed from 22 to 24.
+Value of root['NetKet']['open_issues_count'] changed from 90 to 89.
+Value of root['Covalent']['open_issues_count'] changed from 115 to 119.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 119,
+                                                                 'old_value': 115},
+                      "root['FlamingPy']['forks_count']": { 'new_value': 12,
+                                                            'old_value': 11},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 15,
+                                                                  'old_value': 16},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 78,
+                                                              'old_value': 76},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 89,
+                                                               'old_value': 90},
+                      "root['Orquestra Core']['forks_count']": { 'new_value': 6,
+                                                                 'old_value': 4},
+                      "root['PyQrack']['forks_count']": { 'new_value': 5,
+                                                          'old_value': 3},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 829,
+                                                               'old_value': 825},
+                      "root['Qrack']['forks_count']": { 'new_value': 24,
+                                                        'old_value': 22},
+                      "root['QuTiP']['forks_count']": { 'new_value': 534,
+                                                        'old_value': 533}}}
