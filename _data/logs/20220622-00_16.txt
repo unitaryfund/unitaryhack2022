@@ -1,0 +1,138 @@
+Changes to unitaryHACK results
+updated 22/06/2022 00:16:42
+--------------------
+Value of root['Qrack']['open_issues_count'] changed from 12 to 13.
+Value of root['FlamingPy']['open_issues_count'] changed from 15 to 13.
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['login'] changed from "nariman87" to "sduquemesa".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['id'] changed from 25132802 to 675763.
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['node_id'] changed from "MDQ6VXNlcjI1MTMyODAy" to "MDQ6VXNlcjY3NTc2Mw==".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/25132802?v=4" to "https://avatars.githubusercontent.com/u/675763?v=4".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['url'] changed from "https://api.github.com/users/nariman87" to "https://api.github.com/users/sduquemesa".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['html_url'] changed from "https://github.com/nariman87" to "https://github.com/sduquemesa".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['followers_url'] changed from "https://api.github.com/users/nariman87/followers" to "https://api.github.com/users/sduquemesa/followers".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['following_url'] changed from "https://api.github.com/users/nariman87/following{/other_user}" to "https://api.github.com/users/sduquemesa/following{/other_user}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['gists_url'] changed from "https://api.github.com/users/nariman87/gists{/gist_id}" to "https://api.github.com/users/sduquemesa/gists{/gist_id}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['starred_url'] changed from "https://api.github.com/users/nariman87/starred{/owner}{/repo}" to "https://api.github.com/users/sduquemesa/starred{/owner}{/repo}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['subscriptions_url'] changed from "https://api.github.com/users/nariman87/subscriptions" to "https://api.github.com/users/sduquemesa/subscriptions".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['organizations_url'] changed from "https://api.github.com/users/nariman87/orgs" to "https://api.github.com/users/sduquemesa/orgs".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['repos_url'] changed from "https://api.github.com/users/nariman87/repos" to "https://api.github.com/users/sduquemesa/repos".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['events_url'] changed from "https://api.github.com/users/nariman87/events{/privacy}" to "https://api.github.com/users/sduquemesa/events{/privacy}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['received_events_url'] changed from "https://api.github.com/users/nariman87/received_events" to "https://api.github.com/users/sduquemesa/received_events".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['login'] changed from "BestQuark" to "nariman87".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['id'] changed from 52287586 to 25132802.
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['node_id'] changed from "MDQ6VXNlcjUyMjg3NTg2" to "MDQ6VXNlcjI1MTMyODAy".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['avatar_url'] changed from "https://avatars.githubusercontent.com/u/52287586?v=4" to "https://avatars.githubusercontent.com/u/25132802?v=4".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['url'] changed from "https://api.github.com/users/BestQuark" to "https://api.github.com/users/nariman87".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['html_url'] changed from "https://github.com/BestQuark" to "https://github.com/nariman87".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['followers_url'] changed from "https://api.github.com/users/BestQuark/followers" to "https://api.github.com/users/nariman87/followers".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['following_url'] changed from "https://api.github.com/users/BestQuark/following{/other_user}" to "https://api.github.com/users/nariman87/following{/other_user}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['gists_url'] changed from "https://api.github.com/users/BestQuark/gists{/gist_id}" to "https://api.github.com/users/nariman87/gists{/gist_id}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['starred_url'] changed from "https://api.github.com/users/BestQuark/starred{/owner}{/repo}" to "https://api.github.com/users/nariman87/starred{/owner}{/repo}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['subscriptions_url'] changed from "https://api.github.com/users/BestQuark/subscriptions" to "https://api.github.com/users/nariman87/subscriptions".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['organizations_url'] changed from "https://api.github.com/users/BestQuark/orgs" to "https://api.github.com/users/nariman87/orgs".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['repos_url'] changed from "https://api.github.com/users/BestQuark/repos" to "https://api.github.com/users/nariman87/repos".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['events_url'] changed from "https://api.github.com/users/BestQuark/events{/privacy}" to "https://api.github.com/users/nariman87/events{/privacy}".
+Value of root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['received_events_url'] changed from "https://api.github.com/users/BestQuark/received_events" to "https://api.github.com/users/nariman87/received_events".
+Value of root['Qiskit']['open_issues_count'] changed from 829 to 821.
+Value of root['Qiskit']['subscribers_count'] changed from 220 to 219.
+Value of root['Covalent']['open_issues_count'] changed from 119 to 122.
+Value of root['Pulser']['open_issues_count'] changed from 20 to 21.
+Value of root['Orquestra Core']['open_issues_count'] changed from 3 to 1.
+Value of root['Metriq']['open_issues_count'] changed from 59 to 58.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 84 to 85.
+Value of root['QuTiP']['open_issues_count'] changed from 153 to 152.
+Value of root['PyQIR']['open_issues_count'] changed from 20 to 17.
+Value of root['scqubits']['open_issues_count'] changed from 10 to 11.
+Value of root['scqubits']['subscribers_count'] changed from 12 to 11.
+Value of root['toqito']['open_issues_count'] changed from 23 to 21.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 122,
+                                                                 'old_value': 119},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 13,
+                                                                  'old_value': 15},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/675763?v=4',
+                                                                                                  'old_value': 'https://avatars.githubusercontent.com/u/25132802?v=4'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['events_url']": { 'new_value': 'https://api.github.com/users/sduquemesa/events{/privacy}',
+                                                                                                  'old_value': 'https://api.github.com/users/nariman87/events{/privacy}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['followers_url']": { 'new_value': 'https://api.github.com/users/sduquemesa/followers',
+                                                                                                     'old_value': 'https://api.github.com/users/nariman87/followers'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['following_url']": { 'new_value': 'https://api.github.com/users/sduquemesa/following{/other_user}',
+                                                                                                     'old_value': 'https://api.github.com/users/nariman87/following{/other_user}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['gists_url']": { 'new_value': 'https://api.github.com/users/sduquemesa/gists{/gist_id}',
+                                                                                                 'old_value': 'https://api.github.com/users/nariman87/gists{/gist_id}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['html_url']": { 'new_value': 'https://github.com/sduquemesa',
+                                                                                                'old_value': 'https://github.com/nariman87'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['id']": { 'new_value': 675763,
+                                                                                          'old_value': 25132802},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['login']": { 'new_value': 'sduquemesa',
+                                                                                             'old_value': 'nariman87'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['node_id']": { 'new_value': 'MDQ6VXNlcjY3NTc2Mw==',
+                                                                                               'old_value': 'MDQ6VXNlcjI1MTMyODAy'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['organizations_url']": { 'new_value': 'https://api.github.com/users/sduquemesa/orgs',
+                                                                                                         'old_value': 'https://api.github.com/users/nariman87/orgs'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['received_events_url']": { 'new_value': 'https://api.github.com/users/sduquemesa/received_events',
+                                                                                                           'old_value': 'https://api.github.com/users/nariman87/received_events'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['repos_url']": { 'new_value': 'https://api.github.com/users/sduquemesa/repos',
+                                                                                                 'old_value': 'https://api.github.com/users/nariman87/repos'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['starred_url']": { 'new_value': 'https://api.github.com/users/sduquemesa/starred{/owner}{/repo}',
+                                                                                                   'old_value': 'https://api.github.com/users/nariman87/starred{/owner}{/repo}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/sduquemesa/subscriptions',
+                                                                                                         'old_value': 'https://api.github.com/users/nariman87/subscriptions'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][0]['url']": { 'new_value': 'https://api.github.com/users/sduquemesa',
+                                                                                           'old_value': 'https://api.github.com/users/nariman87'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['avatar_url']": { 'new_value': 'https://avatars.githubusercontent.com/u/25132802?v=4',
+                                                                                                  'old_value': 'https://avatars.githubusercontent.com/u/52287586?v=4'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['events_url']": { 'new_value': 'https://api.github.com/users/nariman87/events{/privacy}',
+                                                                                                  'old_value': 'https://api.github.com/users/BestQuark/events{/privacy}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['followers_url']": { 'new_value': 'https://api.github.com/users/nariman87/followers',
+                                                                                                     'old_value': 'https://api.github.com/users/BestQuark/followers'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['following_url']": { 'new_value': 'https://api.github.com/users/nariman87/following{/other_user}',
+                                                                                                     'old_value': 'https://api.github.com/users/BestQuark/following{/other_user}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['gists_url']": { 'new_value': 'https://api.github.com/users/nariman87/gists{/gist_id}',
+                                                                                                 'old_value': 'https://api.github.com/users/BestQuark/gists{/gist_id}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['html_url']": { 'new_value': 'https://github.com/nariman87',
+                                                                                                'old_value': 'https://github.com/BestQuark'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['id']": { 'new_value': 25132802,
+                                                                                          'old_value': 52287586},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['login']": { 'new_value': 'nariman87',
+                                                                                             'old_value': 'BestQuark'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['node_id']": { 'new_value': 'MDQ6VXNlcjI1MTMyODAy',
+                                                                                               'old_value': 'MDQ6VXNlcjUyMjg3NTg2'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['organizations_url']": { 'new_value': 'https://api.github.com/users/nariman87/orgs',
+                                                                                                         'old_value': 'https://api.github.com/users/BestQuark/orgs'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['received_events_url']": { 'new_value': 'https://api.github.com/users/nariman87/received_events',
+                                                                                                           'old_value': 'https://api.github.com/users/BestQuark/received_events'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['repos_url']": { 'new_value': 'https://api.github.com/users/nariman87/repos',
+                                                                                                 'old_value': 'https://api.github.com/users/BestQuark/repos'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['starred_url']": { 'new_value': 'https://api.github.com/users/nariman87/starred{/owner}{/repo}',
+                                                                                                   'old_value': 'https://api.github.com/users/BestQuark/starred{/owner}{/repo}'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['subscriptions_url']": { 'new_value': 'https://api.github.com/users/nariman87/subscriptions',
+                                                                                                         'old_value': 'https://api.github.com/users/BestQuark/subscriptions'},
+                      "root['FlamingPy']['uh_prs'][1]['requested_reviewers'][1]['url']": { 'new_value': 'https://api.github.com/users/nariman87',
+                                                                                           'old_value': 'https://api.github.com/users/BestQuark'},
+                      "root['Metriq']['open_issues_count']": { 'new_value': 58,
+                                                               'old_value': 59},
+                      "root['Orquestra Core']['open_issues_count']": { 'new_value': 1,
+                                                                       'old_value': 3},
+                      "root['Pulser']['open_issues_count']": { 'new_value': 21,
+                                                               'old_value': 20},
+                      "root['PyQIR']['open_issues_count']": { 'new_value': 17,
+                                                              'old_value': 20},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 85,
+                                                                      'old_value': 84},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 821,
+                                                               'old_value': 829},
+                      "root['Qiskit']['subscribers_count']": { 'new_value': 219,
+                                                               'old_value': 220},
+                      "root['Qrack']['open_issues_count']": { 'new_value': 13,
+                                                              'old_value': 12},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 152,
+                                                              'old_value': 153},
+                      "root['scqubits']['open_issues_count']": { 'new_value': 11,
+                                                                 'old_value': 10},
+                      "root['scqubits']['subscribers_count']": { 'new_value': 11,
+                                                                 'old_value': 12},
+                      "root['toqito']['open_issues_count']": { 'new_value': 21,
+                                                               'old_value': 23}}}
