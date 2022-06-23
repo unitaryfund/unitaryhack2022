@@ -1,0 +1,43 @@
+Changes to unitaryHACK results
+updated 23/06/2022 12:05:20
+--------------------
+Item root['QuNetSim']['uh_prs'][1]['requested_reviewers'][0] added to iterable.
+Value of root['Qiskit']['forks_count'] changed from 1679 to 1680.
+Value of root['Qiskit']['open_issues_count'] changed from 815 to 808.
+Value of root['quantumalgorithms.org']['forks_count'] changed from 38 to 39.
+Value of root['Covalent']['open_issues_count'] changed from 125 to 128.
+Value of root['Mitiq']['open_issues_count'] changed from 78 to 79.
+Value of root['KQCircuits']['forks_count'] changed from 31 to 33.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['QuNetSim']['uh_prs'][1]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/1194245?v=4',
+                                                                                        'events_url': 'https://api.github.com/users/stephendiadamo/events{/privacy}',
+                                                                                        'followers_url': 'https://api.github.com/users/stephendiadamo/followers',
+                                                                                        'following_url': 'https://api.github.com/users/stephendiadamo/following{/other_user}',
+                                                                                        'gists_url': 'https://api.github.com/users/stephendiadamo/gists{/gist_id}',
+                                                                                        'gravatar_id': '',
+                                                                                        'html_url': 'https://github.com/stephendiadamo',
+                                                                                        'id': 1194245,
+                                                                                        'login': 'stephendiadamo',
+                                                                                        'node_id': 'MDQ6VXNlcjExOTQyNDU=',
+                                                                                        'organizations_url': 'https://api.github.com/users/stephendiadamo/orgs',
+                                                                                        'received_events_url': 'https://api.github.com/users/stephendiadamo/received_events',
+                                                                                        'repos_url': 'https://api.github.com/users/stephendiadamo/repos',
+                                                                                        'site_admin': False,
+                                                                                        'starred_url': 'https://api.github.com/users/stephendiadamo/starred{/owner}{/repo}',
+                                                                                        'subscriptions_url': 'https://api.github.com/users/stephendiadamo/subscriptions',
+                                                                                        'type': 'User',
+                                                                                        'url': 'https://api.github.com/users/stephendiadamo'}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 128,
+                                                                 'old_value': 125},
+                      "root['KQCircuits']['forks_count']": { 'new_value': 33,
+                                                             'old_value': 31},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 79,
+                                                              'old_value': 78},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1680,
+                                                         'old_value': 1679},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 808,
+                                                               'old_value': 815},
+                      "root['quantumalgorithms.org']['forks_count']": { 'new_value': 39,
+                                                                        'old_value': 38}}}
