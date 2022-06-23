@@ -1,0 +1,77 @@
+Changes to unitaryHACK results
+updated 23/06/2022 00:13:32
+--------------------
+Item root['Metriq']['bounties'][6]['assignees'][1] added to iterable.
+Type of root['Metriq']['bounties'][6]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-22T21:06:57Z".
+Type of root['Metriq']['bounties'][6]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'WrathfulSpatula', 'id': 2674693, 'node_id': 'MDQ6VXNlcjI2NzQ2OTM=', 'avatar_url': 'https://avatars.githubusercontent.com/u/2674693?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/WrathfulSpatula', 'html_url': 'https://github.com/WrathfulSpatula', 'followers_url': 'https://api.github.com/users/WrathfulSpatula/followers', 'following_url': 'https://api.github.com/users/WrathfulSpatula/following{/other_user}', 'gists_url': 'https://api.github.com/users/WrathfulSpatula/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/WrathfulSpatula/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/WrathfulSpatula/subscriptions', 'organizations_url': 'https://api.github.com/users/WrathfulSpatula/orgs', 'repos_url': 'https://api.github.com/users/WrathfulSpatula/repos', 'events_url': 'https://api.github.com/users/WrathfulSpatula/events{/privacy}', 'received_events_url': 'https://api.github.com/users/WrathfulSpatula/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['Qrack']['open_issues_count'] changed from 13 to 14.
+Value of root['FlamingPy']['forks_count'] changed from 12 to 13.
+Value of root['FlamingPy']['open_issues_count'] changed from 13 to 15.
+Value of root['Qiskit']['forks_count'] changed from 1680 to 1679.
+Value of root['Qiskit']['open_issues_count'] changed from 818 to 815.
+Value of root['quantumalgorithms.org']['open_issues_count'] changed from 9 to 10.
+Value of root['Covalent']['open_issues_count'] changed from 122 to 125.
+Value of root['Orquestra Core']['open_issues_count'] changed from 1 to 2.
+Value of root['Metriq']['bounties'][6]['state'] changed from "open" to "closed".
+Value of root['Metriq']['open_issues_count'] changed from 58 to 56.
+Value of root['Qiskit Nature']['forks_count'] changed from 131 to 132.
+Value of root['QuTiP']['open_issues_count'] changed from 152 to 153.
+Value of root['PyQrack']['open_issues_count'] changed from 2 to 1.
+Value of root['PyZX']['forks_count'] changed from 68 to 69.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Metriq']['bounties'][6]['assignees'][1]": 'WrathfulSpatula'},
+  'type_changes': { "root['Metriq']['bounties'][6]['closed_at']": { 'new_type': <class 'str'>,
+                                                                    'new_value': '2022-06-22T21:06:57Z',
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None},
+                    "root['Metriq']['bounties'][6]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                    'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/2674693?v=4',
+                                                                                   'events_url': 'https://api.github.com/users/WrathfulSpatula/events{/privacy}',
+                                                                                   'followers_url': 'https://api.github.com/users/WrathfulSpatula/followers',
+                                                                                   'following_url': 'https://api.github.com/users/WrathfulSpatula/following{/other_user}',
+                                                                                   'gists_url': 'https://api.github.com/users/WrathfulSpatula/gists{/gist_id}',
+                                                                                   'gravatar_id': '',
+                                                                                   'html_url': 'https://github.com/WrathfulSpatula',
+                                                                                   'id': 2674693,
+                                                                                   'login': 'WrathfulSpatula',
+                                                                                   'node_id': 'MDQ6VXNlcjI2NzQ2OTM=',
+                                                                                   'organizations_url': 'https://api.github.com/users/WrathfulSpatula/orgs',
+                                                                                   'received_events_url': 'https://api.github.com/users/WrathfulSpatula/received_events',
+                                                                                   'repos_url': 'https://api.github.com/users/WrathfulSpatula/repos',
+                                                                                   'site_admin': False,
+                                                                                   'starred_url': 'https://api.github.com/users/WrathfulSpatula/starred{/owner}{/repo}',
+                                                                                   'subscriptions_url': 'https://api.github.com/users/WrathfulSpatula/subscriptions',
+                                                                                   'type': 'User',
+                                                                                   'url': 'https://api.github.com/users/WrathfulSpatula'},
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 125,
+                                                                 'old_value': 122},
+                      "root['FlamingPy']['forks_count']": { 'new_value': 13,
+                                                            'old_value': 12},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 15,
+                                                                  'old_value': 13},
+                      "root['Metriq']['bounties'][6]['state']": { 'new_value': 'closed',
+                                                                  'old_value': 'open'},
+                      "root['Metriq']['open_issues_count']": { 'new_value': 56,
+                                                               'old_value': 58},
+                      "root['Orquestra Core']['open_issues_count']": { 'new_value': 2,
+                                                                       'old_value': 1},
+                      "root['PyQrack']['open_issues_count']": { 'new_value': 1,
+                                                                'old_value': 2},
+                      "root['PyZX']['forks_count']": { 'new_value': 69,
+                                                       'old_value': 68},
+                      "root['Qiskit Nature']['forks_count']": { 'new_value': 132,
+                                                                'old_value': 131},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1679,
+                                                         'old_value': 1680},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 815,
+                                                               'old_value': 818},
+                      "root['Qrack']['open_issues_count']": { 'new_value': 14,
+                                                              'old_value': 13},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 153,
+                                                              'old_value': 152},
+                      "root['quantumalgorithms.org']['open_issues_count']": { 'new_value': 10,
+                                                                              'old_value': 9}}}
