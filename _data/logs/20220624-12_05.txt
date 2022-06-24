@@ -1,0 +1,33 @@
+Changes to unitaryHACK results
+updated 24/06/2022 12:05:40
+--------------------
+Value of root['Qiskit']['forks_count'] changed from 1681 to 1682.
+Value of root['Qiskit']['open_issues_count'] changed from 805 to 806.
+Value of root['Qiskit']['subscribers_count'] changed from 218 to 217.
+Value of root['NetKet']['open_issues_count'] changed from 89 to 88.
+Value of root['Covalent']['forks_count'] changed from 19 to 18.
+Value of root['Covalent']['open_issues_count'] changed from 132 to 133.
+Value of root['Bloqade']['forks_count'] changed from 6 to 7.
+Value of root['Mitiq']['open_issues_count'] changed from 78 to 77.
+Value of root['QuTiP']['open_issues_count'] changed from 153 to 154.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Bloqade']['forks_count']": { 'new_value': 7,
+                                                          'old_value': 6},
+                      "root['Covalent']['forks_count']": { 'new_value': 18,
+                                                           'old_value': 19},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 133,
+                                                                 'old_value': 132},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 77,
+                                                              'old_value': 78},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 88,
+                                                               'old_value': 89},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1682,
+                                                         'old_value': 1681},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 806,
+                                                               'old_value': 805},
+                      "root['Qiskit']['subscribers_count']": { 'new_value': 217,
+                                                               'old_value': 218},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 154,
+                                                              'old_value': 153}}}
