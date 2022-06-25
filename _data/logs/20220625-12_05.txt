@@ -1,0 +1,18 @@
+Changes to unitaryHACK results
+updated 25/06/2022 12:05:00
+--------------------
+Value of root['PennyLane']['open_issues_count'] changed from 219 to 218.
+Value of root['Qiskit']['forks_count'] changed from 1683 to 1684.
+Value of root['Qiskit']['open_issues_count'] changed from 807 to 808.
+Value of root['Bloqade']['subscribers_count'] changed from 10 to 9.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Bloqade']['subscribers_count']": { 'new_value': 9,
+                                                                'old_value': 10},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 218,
+                                                                  'old_value': 219},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1684,
+                                                         'old_value': 1683},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 808,
+                                                               'old_value': 807}}}
