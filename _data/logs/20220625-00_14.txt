@@ -1,0 +1,27 @@
+Changes to unitaryHACK results
+updated 25/06/2022 00:14:40
+--------------------
+Value of root['PennyLane']['open_issues_count'] changed from 221 to 219.
+Value of root['Qiskit']['forks_count'] changed from 1682 to 1683.
+Value of root['Qiskit']['open_issues_count'] changed from 806 to 807.
+Value of root['NetKet']['open_issues_count'] changed from 88 to 89.
+Value of root['Qiskit IonQ']['open_issues_count'] changed from 5 to 6.
+Value of root['Mitiq']['open_issues_count'] changed from 77 to 76.
+Value of root['QuTiP']['open_issues_count'] changed from 154 to 155.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Mitiq']['open_issues_count']": { 'new_value': 76,
+                                                              'old_value': 77},
+                      "root['NetKet']['open_issues_count']": { 'new_value': 89,
+                                                               'old_value': 88},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 219,
+                                                                  'old_value': 221},
+                      "root['Qiskit IonQ']['open_issues_count']": { 'new_value': 6,
+                                                                    'old_value': 5},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1683,
+                                                         'old_value': 1682},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 807,
+                                                               'old_value': 806},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 155,
+                                                              'old_value': 154}}}
