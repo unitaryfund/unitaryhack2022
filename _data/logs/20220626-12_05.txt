@@ -1,0 +1,12 @@
+Changes to unitaryHACK results
+updated 26/06/2022 12:05:04
+--------------------
+Value of root['PennyLane']['open_issues_count'] changed from 218 to 219.
+Value of root['QuTiP']['open_issues_count'] changed from 155 to 154.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['PennyLane']['open_issues_count']": { 'new_value': 219,
+                                                                  'old_value': 218},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 154,
+                                                              'old_value': 155}}}
