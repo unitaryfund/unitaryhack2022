@@ -1,0 +1,12 @@
+Changes to unitaryHACK results
+updated 26/06/2022 00:17:48
+--------------------
+Value of root['PennyLane']['forks_count'] changed from 383 to 384.
+Value of root['Covalent']['open_issues_count'] changed from 133 to 134.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 134,
+                                                                 'old_value': 133},
+                      "root['PennyLane']['forks_count']": { 'new_value': 384,
+                                                            'old_value': 383}}}
