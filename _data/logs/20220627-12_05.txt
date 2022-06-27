@@ -1,0 +1,49 @@
+Changes to unitaryHACK results
+updated 27/06/2022 12:05:48
+--------------------
+Item root['KQCircuits']['uh_prs'][1]['requested_reviewers'][0] added to iterable.
+Item root['FlamingPy']['bounties'][1]['labels'][2] removed from iterable.
+Item root['FlamingPy']['bounties'][2]['labels'][2] removed from iterable.
+Item root['FlamingPy']['bounties'][3]['labels'][2] removed from iterable.
+Value of root['PennyLane']['open_issues_count'] changed from 219 to 220.
+Value of root['FlamingPy']['open_issues_count'] changed from 13 to 14.
+Value of root['Qiskit']['open_issues_count'] changed from 809 to 808.
+Value of root['Covalent']['open_issues_count'] changed from 133 to 134.
+Value of root['Pulser']['open_issues_count'] changed from 22 to 23.
+Value of root['Mitiq']['open_issues_count'] changed from 76 to 77.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['KQCircuits']['uh_prs'][1]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/83180458?v=4',
+                                                                                          'events_url': 'https://api.github.com/users/jkotilahti/events{/privacy}',
+                                                                                          'followers_url': 'https://api.github.com/users/jkotilahti/followers',
+                                                                                          'following_url': 'https://api.github.com/users/jkotilahti/following{/other_user}',
+                                                                                          'gists_url': 'https://api.github.com/users/jkotilahti/gists{/gist_id}',
+                                                                                          'gravatar_id': '',
+                                                                                          'html_url': 'https://github.com/jkotilahti',
+                                                                                          'id': 83180458,
+                                                                                          'login': 'jkotilahti',
+                                                                                          'node_id': 'MDQ6VXNlcjgzMTgwNDU4',
+                                                                                          'organizations_url': 'https://api.github.com/users/jkotilahti/orgs',
+                                                                                          'received_events_url': 'https://api.github.com/users/jkotilahti/received_events',
+                                                                                          'repos_url': 'https://api.github.com/users/jkotilahti/repos',
+                                                                                          'site_admin': False,
+                                                                                          'starred_url': 'https://api.github.com/users/jkotilahti/starred{/owner}{/repo}',
+                                                                                          'subscriptions_url': 'https://api.github.com/users/jkotilahti/subscriptions',
+                                                                                          'type': 'User',
+                                                                                          'url': 'https://api.github.com/users/jkotilahti'}},
+  'iterable_item_removed': { "root['FlamingPy']['bounties'][1]['labels'][2]": 'unitaryhack-bounty',
+                             "root['FlamingPy']['bounties'][2]['labels'][2]": 'unitaryhack-bounty',
+                             "root['FlamingPy']['bounties'][3]['labels'][2]": 'unitaryhack-bounty'},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 134,
+                                                                 'old_value': 133},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 14,
+                                                                  'old_value': 13},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 77,
+                                                              'old_value': 76},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 220,
+                                                                  'old_value': 219},
+                      "root['Pulser']['open_issues_count']": { 'new_value': 23,
+                                                               'old_value': 22},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 808,
+                                                               'old_value': 809}}}
