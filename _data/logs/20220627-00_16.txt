@@ -1,0 +1,34 @@
+Changes to unitaryHACK results
+updated 27/06/2022 00:16:28
+--------------------
+Item root['Qiskit']['uh_prs'][2]['requested_reviewers'][8] removed from iterable.
+Value of root['Qrack']['open_issues_count'] changed from 14 to 13.
+Value of root['Qiskit']['open_issues_count'] changed from 808 to 809.
+Value of root['Covalent']['open_issues_count'] changed from 134 to 133.
+
+Full Details:
+--------------------
+{ 'iterable_item_removed': { "root['Qiskit']['uh_prs'][2]['requested_reviewers'][8]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/40241007?v=4',
+                                                                                        'events_url': 'https://api.github.com/users/woodsp-ibm/events{/privacy}',
+                                                                                        'followers_url': 'https://api.github.com/users/woodsp-ibm/followers',
+                                                                                        'following_url': 'https://api.github.com/users/woodsp-ibm/following{/other_user}',
+                                                                                        'gists_url': 'https://api.github.com/users/woodsp-ibm/gists{/gist_id}',
+                                                                                        'gravatar_id': '',
+                                                                                        'html_url': 'https://github.com/woodsp-ibm',
+                                                                                        'id': 40241007,
+                                                                                        'login': 'woodsp-ibm',
+                                                                                        'node_id': 'MDQ6VXNlcjQwMjQxMDA3',
+                                                                                        'organizations_url': 'https://api.github.com/users/woodsp-ibm/orgs',
+                                                                                        'received_events_url': 'https://api.github.com/users/woodsp-ibm/received_events',
+                                                                                        'repos_url': 'https://api.github.com/users/woodsp-ibm/repos',
+                                                                                        'site_admin': False,
+                                                                                        'starred_url': 'https://api.github.com/users/woodsp-ibm/starred{/owner}{/repo}',
+                                                                                        'subscriptions_url': 'https://api.github.com/users/woodsp-ibm/subscriptions',
+                                                                                        'type': 'User',
+                                                                                        'url': 'https://api.github.com/users/woodsp-ibm'}},
+  'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 133,
+                                                                 'old_value': 134},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 809,
+                                                               'old_value': 808},
+                      "root['Qrack']['open_issues_count']": { 'new_value': 13,
+                                                              'old_value': 14}}}
