@@ -1,0 +1,169 @@
+Changes to unitaryHACK results
+updated 28/06/2022 00:17:23
+--------------------
+Item root['FlamingPy']['bounties'][1]['assignees'][0] added to iterable.
+Item root['FlamingPy']['bounties'][2]['assignees'][0] added to iterable.
+Item root['FlamingPy']['bounties'][2]['assignees'][1] added to iterable.
+Item root['FlamingPy']['uh_prs'][0]['assignees'][1] added to iterable.
+Item root['QuNetSim']['uh_prs'][0]['requested_reviewers'][0] added to iterable.
+Item root['KQCircuits']['uh_prs'][0] removed from iterable.
+Item root['KQCircuits']['uh_prs'][1] removed from iterable.
+Type of root['KQCircuits']['bounties'][2]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-27T19:00:02Z".
+Type of root['KQCircuits']['bounties'][2]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'jkotilahti', 'id': 83180458, 'node_id': 'MDQ6VXNlcjgzMTgwNDU4', 'avatar_url': 'https://avatars.githubusercontent.com/u/83180458?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jkotilahti', 'html_url': 'https://github.com/jkotilahti', 'followers_url': 'https://api.github.com/users/jkotilahti/followers', 'following_url': 'https://api.github.com/users/jkotilahti/following{/other_user}', 'gists_url': 'https://api.github.com/users/jkotilahti/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jkotilahti/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jkotilahti/subscriptions', 'organizations_url': 'https://api.github.com/users/jkotilahti/orgs', 'repos_url': 'https://api.github.com/users/jkotilahti/repos', 'events_url': 'https://api.github.com/users/jkotilahti/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jkotilahti/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['KQCircuits']['bounties'][6]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-27T13:46:31Z".
+Type of root['KQCircuits']['bounties'][6]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'jkotilahti', 'id': 83180458, 'node_id': 'MDQ6VXNlcjgzMTgwNDU4', 'avatar_url': 'https://avatars.githubusercontent.com/u/83180458?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/jkotilahti', 'html_url': 'https://github.com/jkotilahti', 'followers_url': 'https://api.github.com/users/jkotilahti/followers', 'following_url': 'https://api.github.com/users/jkotilahti/following{/other_user}', 'gists_url': 'https://api.github.com/users/jkotilahti/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/jkotilahti/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/jkotilahti/subscriptions', 'organizations_url': 'https://api.github.com/users/jkotilahti/orgs', 'repos_url': 'https://api.github.com/users/jkotilahti/repos', 'events_url': 'https://api.github.com/users/jkotilahti/events{/privacy}', 'received_events_url': 'https://api.github.com/users/jkotilahti/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['FlamingPy']['open_issues_count'] changed from 14 to 15.
+Value of root['Qiskit']['forks_count'] changed from 1684 to 1686.
+Value of root['Qiskit']['open_issues_count'] changed from 808 to 805.
+Value of root['Covalent']['open_issues_count'] changed from 134 to 137.
+Value of root['Bloqade']['open_issues_count'] changed from 39 to 40.
+Value of root['Mitiq']['open_issues_count'] changed from 77 to 76.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 85 to 86.
+Value of root['KQCircuits']['bounties'][2]['state'] changed from "open" to "closed".
+Value of root['KQCircuits']['bounties'][6]['state'] changed from "open" to "closed".
+Value of root['KQCircuits']['open_issues_count'] changed from 8 to 4.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['FlamingPy']['bounties'][1]['assignees'][0]": 'BestQuark',
+                           "root['FlamingPy']['bounties'][2]['assignees'][0]": 'Avhijit-codeboy',
+                           "root['FlamingPy']['bounties'][2]['assignees'][1]": 'soosub',
+                           "root['FlamingPy']['uh_prs'][0]['assignees'][1]": 'soosub',
+                           "root['QuNetSim']['uh_prs'][0]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/1194245?v=4',
+                                                                                        'events_url': 'https://api.github.com/users/stephendiadamo/events{/privacy}',
+                                                                                        'followers_url': 'https://api.github.com/users/stephendiadamo/followers',
+                                                                                        'following_url': 'https://api.github.com/users/stephendiadamo/following{/other_user}',
+                                                                                        'gists_url': 'https://api.github.com/users/stephendiadamo/gists{/gist_id}',
+                                                                                        'gravatar_id': '',
+                                                                                        'html_url': 'https://github.com/stephendiadamo',
+                                                                                        'id': 1194245,
+                                                                                        'login': 'stephendiadamo',
+                                                                                        'node_id': 'MDQ6VXNlcjExOTQyNDU=',
+                                                                                        'organizations_url': 'https://api.github.com/users/stephendiadamo/orgs',
+                                                                                        'received_events_url': 'https://api.github.com/users/stephendiadamo/received_events',
+                                                                                        'repos_url': 'https://api.github.com/users/stephendiadamo/repos',
+                                                                                        'site_admin': False,
+                                                                                        'starred_url': 'https://api.github.com/users/stephendiadamo/starred{/owner}{/repo}',
+                                                                                        'subscriptions_url': 'https://api.github.com/users/stephendiadamo/subscriptions',
+                                                                                        'type': 'User',
+                                                                                        'url': 'https://api.github.com/users/stephendiadamo'}},
+  'iterable_item_removed': { "root['KQCircuits']['uh_prs'][0]": { 'assignees': [ ],
+                                                                  'closed_at': None,
+                                                                  'created_at': '2022-06-17T12:33:57Z',
+                                                                  'draft': False,
+                                                                  'merged_at': None,
+                                                                  'number': 17,
+                                                                  'requested_reviewers': [ ],
+                                                                  'state': 'open',
+                                                                  'title': '[unitaryhack] '
+                                                                           'Update '
+                                                                           'GUI '
+                                                                           'workflow '
+                                                                           'for '
+                                                                           'the '
+                                                                           'current '
+                                                                           'version '
+                                                                           'of '
+                                                                           'KLayout'},
+                             "root['KQCircuits']['uh_prs'][1]": { 'assignees': [ ],
+                                                                  'closed_at': None,
+                                                                  'created_at': '2022-06-17T17:21:56Z',
+                                                                  'draft': False,
+                                                                  'merged_at': None,
+                                                                  'number': 18,
+                                                                  'requested_reviewers': [ { 'avatar_url': 'https://avatars.githubusercontent.com/u/83180458?v=4',
+                                                                                             'events_url': 'https://api.github.com/users/jkotilahti/events{/privacy}',
+                                                                                             'followers_url': 'https://api.github.com/users/jkotilahti/followers',
+                                                                                             'following_url': 'https://api.github.com/users/jkotilahti/following{/other_user}',
+                                                                                             'gists_url': 'https://api.github.com/users/jkotilahti/gists{/gist_id}',
+                                                                                             'gravatar_id': '',
+                                                                                             'html_url': 'https://github.com/jkotilahti',
+                                                                                             'id': 83180458,
+                                                                                             'login': 'jkotilahti',
+                                                                                             'node_id': 'MDQ6VXNlcjgzMTgwNDU4',
+                                                                                             'organizations_url': 'https://api.github.com/users/jkotilahti/orgs',
+                                                                                             'received_events_url': 'https://api.github.com/users/jkotilahti/received_events',
+                                                                                             'repos_url': 'https://api.github.com/users/jkotilahti/repos',
+                                                                                             'site_admin': False,
+                                                                                             'starred_url': 'https://api.github.com/users/jkotilahti/starred{/owner}{/repo}',
+                                                                                             'subscriptions_url': 'https://api.github.com/users/jkotilahti/subscriptions',
+                                                                                             'type': 'User',
+                                                                                             'url': 'https://api.github.com/users/jkotilahti'}],
+                                                                  'state': 'open',
+                                                                  'title': '[unitaryhack] '
+                                                                           'Fixes '
+                                                                           'links '
+                                                                           'to '
+                                                                           'files '
+                                                                           'in '
+                                                                           'Documentation. '}},
+  'type_changes': { "root['KQCircuits']['bounties'][2]['closed_at']": { 'new_type': <class 'str'>,
+                                                                        'new_value': '2022-06-27T19:00:02Z',
+                                                                        'old_type': <class 'NoneType'>,
+                                                                        'old_value': None},
+                    "root['KQCircuits']['bounties'][2]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                        'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/83180458?v=4',
+                                                                                       'events_url': 'https://api.github.com/users/jkotilahti/events{/privacy}',
+                                                                                       'followers_url': 'https://api.github.com/users/jkotilahti/followers',
+                                                                                       'following_url': 'https://api.github.com/users/jkotilahti/following{/other_user}',
+                                                                                       'gists_url': 'https://api.github.com/users/jkotilahti/gists{/gist_id}',
+                                                                                       'gravatar_id': '',
+                                                                                       'html_url': 'https://github.com/jkotilahti',
+                                                                                       'id': 83180458,
+                                                                                       'login': 'jkotilahti',
+                                                                                       'node_id': 'MDQ6VXNlcjgzMTgwNDU4',
+                                                                                       'organizations_url': 'https://api.github.com/users/jkotilahti/orgs',
+                                                                                       'received_events_url': 'https://api.github.com/users/jkotilahti/received_events',
+                                                                                       'repos_url': 'https://api.github.com/users/jkotilahti/repos',
+                                                                                       'site_admin': False,
+                                                                                       'starred_url': 'https://api.github.com/users/jkotilahti/starred{/owner}{/repo}',
+                                                                                       'subscriptions_url': 'https://api.github.com/users/jkotilahti/subscriptions',
+                                                                                       'type': 'User',
+                                                                                       'url': 'https://api.github.com/users/jkotilahti'},
+                                                                        'old_type': <class 'NoneType'>,
+                                                                        'old_value': None},
+                    "root['KQCircuits']['bounties'][6]['closed_at']": { 'new_type': <class 'str'>,
+                                                                        'new_value': '2022-06-27T13:46:31Z',
+                                                                        'old_type': <class 'NoneType'>,
+                                                                        'old_value': None},
+                    "root['KQCircuits']['bounties'][6]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                        'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/83180458?v=4',
+                                                                                       'events_url': 'https://api.github.com/users/jkotilahti/events{/privacy}',
+                                                                                       'followers_url': 'https://api.github.com/users/jkotilahti/followers',
+                                                                                       'following_url': 'https://api.github.com/users/jkotilahti/following{/other_user}',
+                                                                                       'gists_url': 'https://api.github.com/users/jkotilahti/gists{/gist_id}',
+                                                                                       'gravatar_id': '',
+                                                                                       'html_url': 'https://github.com/jkotilahti',
+                                                                                       'id': 83180458,
+                                                                                       'login': 'jkotilahti',
+                                                                                       'node_id': 'MDQ6VXNlcjgzMTgwNDU4',
+                                                                                       'organizations_url': 'https://api.github.com/users/jkotilahti/orgs',
+                                                                                       'received_events_url': 'https://api.github.com/users/jkotilahti/received_events',
+                                                                                       'repos_url': 'https://api.github.com/users/jkotilahti/repos',
+                                                                                       'site_admin': False,
+                                                                                       'starred_url': 'https://api.github.com/users/jkotilahti/starred{/owner}{/repo}',
+                                                                                       'subscriptions_url': 'https://api.github.com/users/jkotilahti/subscriptions',
+                                                                                       'type': 'User',
+                                                                                       'url': 'https://api.github.com/users/jkotilahti'},
+                                                                        'old_type': <class 'NoneType'>,
+                                                                        'old_value': None}},
+  'values_changed': { "root['Bloqade']['open_issues_count']": { 'new_value': 40,
+                                                                'old_value': 39},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 137,
+                                                                 'old_value': 134},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 15,
+                                                                  'old_value': 14},
+                      "root['KQCircuits']['bounties'][2]['state']": { 'new_value': 'closed',
+                                                                      'old_value': 'open'},
+                      "root['KQCircuits']['bounties'][6]['state']": { 'new_value': 'closed',
+                                                                      'old_value': 'open'},
+                      "root['KQCircuits']['open_issues_count']": { 'new_value': 4,
+                                                                   'old_value': 8},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 76,
+                                                              'old_value': 77},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 86,
+                                                                      'old_value': 85},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1686,
+                                                         'old_value': 1684},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 805,
+                                                               'old_value': 808}}}
