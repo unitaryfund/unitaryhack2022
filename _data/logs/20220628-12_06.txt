@@ -1,0 +1,24 @@
+Changes to unitaryHACK results
+updated 28/06/2022 12:06:18
+--------------------
+Value of root['PennyLane']['forks_count'] changed from 384 to 385.
+Value of root['FlamingPy']['open_issues_count'] changed from 15 to 14.
+Value of root['Qiskit']['forks_count'] changed from 1686 to 1687.
+Value of root['Covalent']['open_issues_count'] changed from 137 to 144.
+Value of root['Quantum Universal Education']['forks_count'] changed from 28 to 29.
+Value of root['Bloqade']['subscribers_count'] changed from 9 to 10.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Bloqade']['subscribers_count']": { 'new_value': 10,
+                                                                'old_value': 9},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 144,
+                                                                 'old_value': 137},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 14,
+                                                                  'old_value': 15},
+                      "root['PennyLane']['forks_count']": { 'new_value': 385,
+                                                            'old_value': 384},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1687,
+                                                         'old_value': 1686},
+                      "root['Quantum Universal Education']['forks_count']": { 'new_value': 29,
+                                                                              'old_value': 28}}}
