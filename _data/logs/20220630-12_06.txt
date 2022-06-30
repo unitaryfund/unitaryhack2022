@@ -1,0 +1,24 @@
+Changes to unitaryHACK results
+updated 30/06/2022 12:06:01
+--------------------
+Value of root['PennyLane']['forks_count'] changed from 385 to 386.
+Value of root['PennyLane']['open_issues_count'] changed from 221 to 223.
+Value of root['Qiskit']['forks_count'] changed from 1689 to 1690.
+Value of root['Qiskit']['open_issues_count'] changed from 821 to 823.
+Value of root['Covalent']['open_issues_count'] changed from 144 to 145.
+Value of root['Mitiq']['open_issues_count'] changed from 81 to 82.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 145,
+                                                                 'old_value': 144},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 82,
+                                                              'old_value': 81},
+                      "root['PennyLane']['forks_count']": { 'new_value': 386,
+                                                            'old_value': 385},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 223,
+                                                                  'old_value': 221},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1690,
+                                                         'old_value': 1689},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 823,
+                                                               'old_value': 821}}}
