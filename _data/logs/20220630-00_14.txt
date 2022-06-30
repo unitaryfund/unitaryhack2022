@@ -1,0 +1,130 @@
+Changes to unitaryHACK results
+updated 30/06/2022 00:14:40
+--------------------
+Item root['Pulser']['bounties'][0]['assignees'][0] added to iterable.
+Item root['Pulser']['bounties'][3]['assignees'][0] added to iterable.
+Item root['PennyLane']['uh_prs'][2]['requested_reviewers'][0] removed from iterable.
+Item root['PyQIR']['bounties'][3]['labels'][2] removed from iterable.
+Type of root['FlamingPy']['bounties'][3]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-29T14:50:00Z".
+Type of root['FlamingPy']['bounties'][3]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'nariman87', 'id': 25132802, 'node_id': 'MDQ6VXNlcjI1MTMyODAy', 'avatar_url': 'https://avatars.githubusercontent.com/u/25132802?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/nariman87', 'html_url': 'https://github.com/nariman87', 'followers_url': 'https://api.github.com/users/nariman87/followers', 'following_url': 'https://api.github.com/users/nariman87/following{/other_user}', 'gists_url': 'https://api.github.com/users/nariman87/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/nariman87/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/nariman87/subscriptions', 'organizations_url': 'https://api.github.com/users/nariman87/orgs', 'repos_url': 'https://api.github.com/users/nariman87/repos', 'events_url': 'https://api.github.com/users/nariman87/events{/privacy}', 'received_events_url': 'https://api.github.com/users/nariman87/received_events', 'type': 'User', 'site_admin': False}.
+Type of root['toqito']['bounties'][3]['closed_at'] changed from NoneType to str and value changed from None to "2022-06-29T17:47:59Z".
+Type of root['toqito']['bounties'][3]['closed_by'] changed from NoneType to dict and value changed from None to {'login': 'vprusso', 'id': 1562214, 'node_id': 'MDQ6VXNlcjE1NjIyMTQ=', 'avatar_url': 'https://avatars.githubusercontent.com/u/1562214?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/vprusso', 'html_url': 'https://github.com/vprusso', 'followers_url': 'https://api.github.com/users/vprusso/followers', 'following_url': 'https://api.github.com/users/vprusso/following{/other_user}', 'gists_url': 'https://api.github.com/users/vprusso/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/vprusso/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/vprusso/subscriptions', 'organizations_url': 'https://api.github.com/users/vprusso/orgs', 'repos_url': 'https://api.github.com/users/vprusso/repos', 'events_url': 'https://api.github.com/users/vprusso/events{/privacy}', 'received_events_url': 'https://api.github.com/users/vprusso/received_events', 'type': 'User', 'site_admin': False}.
+Value of root['PennyLane']['open_issues_count'] changed from 222 to 221.
+Value of root['FlamingPy']['bounties'][3]['state'] changed from "open" to "closed".
+Value of root['Qiskit']['forks_count'] changed from 1687 to 1689.
+Value of root['Qiskit']['open_issues_count'] changed from 819 to 821.
+Value of root['Covalent']['open_issues_count'] changed from 140 to 144.
+Value of root['Bloqade']['open_issues_count'] changed from 40 to 41.
+Value of root['Orquestra Core']['open_issues_count'] changed from 3 to 1.
+Value of root['Orquestra Core']['subscribers_count'] changed from 16 to 17.
+Value of root['Mitiq']['open_issues_count'] changed from 79 to 81.
+Value of root['Metriq']['open_issues_count'] changed from 57 to 54.
+Value of root['QuTiP']['open_issues_count'] changed from 150 to 149.
+Value of root['PyQrack']['open_issues_count'] changed from 1 to 2.
+Value of root['Yao']['open_issues_count'] changed from 27 to 26.
+Value of root['toqito']['bounties'][3]['state'] changed from "open" to "closed".
+Value of root['toqito']['open_issues_count'] changed from 21 to 19.
+
+Full Details:
+--------------------
+{ 'iterable_item_added': { "root['Pulser']['bounties'][0]['assignees'][0]": 'HGSilveri',
+                           "root['Pulser']['bounties'][3]['assignees'][0]": 'HGSilveri'},
+  'iterable_item_removed': { "root['PennyLane']['uh_prs'][2]['requested_reviewers'][0]": { 'avatar_url': 'https://avatars.githubusercontent.com/u/6364575?v=4',
+                                                                                           'events_url': 'https://api.github.com/users/albi3ro/events{/privacy}',
+                                                                                           'followers_url': 'https://api.github.com/users/albi3ro/followers',
+                                                                                           'following_url': 'https://api.github.com/users/albi3ro/following{/other_user}',
+                                                                                           'gists_url': 'https://api.github.com/users/albi3ro/gists{/gist_id}',
+                                                                                           'gravatar_id': '',
+                                                                                           'html_url': 'https://github.com/albi3ro',
+                                                                                           'id': 6364575,
+                                                                                           'login': 'albi3ro',
+                                                                                           'node_id': 'MDQ6VXNlcjYzNjQ1NzU=',
+                                                                                           'organizations_url': 'https://api.github.com/users/albi3ro/orgs',
+                                                                                           'received_events_url': 'https://api.github.com/users/albi3ro/received_events',
+                                                                                           'repos_url': 'https://api.github.com/users/albi3ro/repos',
+                                                                                           'site_admin': False,
+                                                                                           'starred_url': 'https://api.github.com/users/albi3ro/starred{/owner}{/repo}',
+                                                                                           'subscriptions_url': 'https://api.github.com/users/albi3ro/subscriptions',
+                                                                                           'type': 'User',
+                                                                                           'url': 'https://api.github.com/users/albi3ro'},
+                             "root['PyQIR']['bounties'][3]['labels'][2]": 'unitaryhack-bounty'},
+  'type_changes': { "root['FlamingPy']['bounties'][3]['closed_at']": { 'new_type': <class 'str'>,
+                                                                       'new_value': '2022-06-29T14:50:00Z',
+                                                                       'old_type': <class 'NoneType'>,
+                                                                       'old_value': None},
+                    "root['FlamingPy']['bounties'][3]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                       'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/25132802?v=4',
+                                                                                      'events_url': 'https://api.github.com/users/nariman87/events{/privacy}',
+                                                                                      'followers_url': 'https://api.github.com/users/nariman87/followers',
+                                                                                      'following_url': 'https://api.github.com/users/nariman87/following{/other_user}',
+                                                                                      'gists_url': 'https://api.github.com/users/nariman87/gists{/gist_id}',
+                                                                                      'gravatar_id': '',
+                                                                                      'html_url': 'https://github.com/nariman87',
+                                                                                      'id': 25132802,
+                                                                                      'login': 'nariman87',
+                                                                                      'node_id': 'MDQ6VXNlcjI1MTMyODAy',
+                                                                                      'organizations_url': 'https://api.github.com/users/nariman87/orgs',
+                                                                                      'received_events_url': 'https://api.github.com/users/nariman87/received_events',
+                                                                                      'repos_url': 'https://api.github.com/users/nariman87/repos',
+                                                                                      'site_admin': False,
+                                                                                      'starred_url': 'https://api.github.com/users/nariman87/starred{/owner}{/repo}',
+                                                                                      'subscriptions_url': 'https://api.github.com/users/nariman87/subscriptions',
+                                                                                      'type': 'User',
+                                                                                      'url': 'https://api.github.com/users/nariman87'},
+                                                                       'old_type': <class 'NoneType'>,
+                                                                       'old_value': None},
+                    "root['toqito']['bounties'][3]['closed_at']": { 'new_type': <class 'str'>,
+                                                                    'new_value': '2022-06-29T17:47:59Z',
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None},
+                    "root['toqito']['bounties'][3]['closed_by']": { 'new_type': <class 'dict'>,
+                                                                    'new_value': { 'avatar_url': 'https://avatars.githubusercontent.com/u/1562214?v=4',
+                                                                                   'events_url': 'https://api.github.com/users/vprusso/events{/privacy}',
+                                                                                   'followers_url': 'https://api.github.com/users/vprusso/followers',
+                                                                                   'following_url': 'https://api.github.com/users/vprusso/following{/other_user}',
+                                                                                   'gists_url': 'https://api.github.com/users/vprusso/gists{/gist_id}',
+                                                                                   'gravatar_id': '',
+                                                                                   'html_url': 'https://github.com/vprusso',
+                                                                                   'id': 1562214,
+                                                                                   'login': 'vprusso',
+                                                                                   'node_id': 'MDQ6VXNlcjE1NjIyMTQ=',
+                                                                                   'organizations_url': 'https://api.github.com/users/vprusso/orgs',
+                                                                                   'received_events_url': 'https://api.github.com/users/vprusso/received_events',
+                                                                                   'repos_url': 'https://api.github.com/users/vprusso/repos',
+                                                                                   'site_admin': False,
+                                                                                   'starred_url': 'https://api.github.com/users/vprusso/starred{/owner}{/repo}',
+                                                                                   'subscriptions_url': 'https://api.github.com/users/vprusso/subscriptions',
+                                                                                   'type': 'User',
+                                                                                   'url': 'https://api.github.com/users/vprusso'},
+                                                                    'old_type': <class 'NoneType'>,
+                                                                    'old_value': None}},
+  'values_changed': { "root['Bloqade']['open_issues_count']": { 'new_value': 41,
+                                                                'old_value': 40},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 144,
+                                                                 'old_value': 140},
+                      "root['FlamingPy']['bounties'][3]['state']": { 'new_value': 'closed',
+                                                                     'old_value': 'open'},
+                      "root['Metriq']['open_issues_count']": { 'new_value': 54,
+                                                               'old_value': 57},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 81,
+                                                              'old_value': 79},
+                      "root['Orquestra Core']['open_issues_count']": { 'new_value': 1,
+                                                                       'old_value': 3},
+                      "root['Orquestra Core']['subscribers_count']": { 'new_value': 17,
+                                                                       'old_value': 16},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 221,
+                                                                  'old_value': 222},
+                      "root['PyQrack']['open_issues_count']": { 'new_value': 2,
+                                                                'old_value': 1},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1689,
+                                                         'old_value': 1687},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 821,
+                                                               'old_value': 819},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 149,
+                                                              'old_value': 150},
+                      "root['Yao']['open_issues_count']": { 'new_value': 26,
+                                                            'old_value': 27},
+                      "root['toqito']['bounties'][3]['state']": { 'new_value': 'closed',
+                                                                  'old_value': 'open'},
+                      "root['toqito']['open_issues_count']": { 'new_value': 19,
+                                                               'old_value': 21}}}
