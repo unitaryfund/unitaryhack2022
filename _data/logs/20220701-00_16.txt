@@ -1,0 +1,77 @@
+Changes to unitaryHACK results
+updated 01/07/2022 00:16:49
+--------------------
+Item root['KQCircuits']['bounties'][0]['labels'][2] removed from iterable.
+Value of root['PennyLane']['forks_count'] changed from 386 to 387.
+Value of root['PennyLane']['open_issues_count'] changed from 223 to 225.
+Value of root['PennyLane']['subscribers_count'] changed from 53 to 54.
+Value of root['Qrack']['open_issues_count'] changed from 13 to 14.
+Value of root['FlamingPy']['open_issues_count'] changed from 14 to 15.
+Value of root['Qiskit']['forks_count'] changed from 1690 to 1691.
+Value of root['Qiskit']['open_issues_count'] changed from 823 to 824.
+Value of root['Qiskit']['subscribers_count'] changed from 217 to 218.
+Value of root['Covalent']['open_issues_count'] changed from 145 to 154.
+Value of root['Bloqade']['open_issues_count'] changed from 41 to 42.
+Value of root['Mitiq']['open_issues_count'] changed from 82 to 81.
+Value of root['Qiskit Nature']['forks_count'] changed from 135 to 136.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 86 to 87.
+Value of root['QuTiP']['open_issues_count'] changed from 149 to 148.
+Value of root['PyQIR']['forks_count'] changed from 13 to 14.
+Value of root['scqubits']['open_issues_count'] changed from 11 to 12.
+Value of root['KQCircuits']['bounties'][1]['labels'][0] changed from "FEM" to "good first issue".
+Value of root['KQCircuits']['bounties'][1]['labels'][1] changed from "geometry" to "FEM".
+Value of root['KQCircuits']['bounties'][1]['labels'][2] changed from "unitaryhack-bounty" to "geometry".
+Value of root['KQCircuits']['bounties'][4]['labels'][1] changed from "unitaryhack-bounty" to "good first issue".
+Value of root['KQCircuits']['bounties'][5]['labels'][1] changed from "unitaryhack-bounty" to "good first issue".
+
+Full Details:
+--------------------
+{ 'iterable_item_removed': { "root['KQCircuits']['bounties'][0]['labels'][2]": 'unitaryhack-bounty'},
+  'values_changed': { "root['Bloqade']['open_issues_count']": { 'new_value': 42,
+                                                                'old_value': 41},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 154,
+                                                                 'old_value': 145},
+                      "root['FlamingPy']['open_issues_count']": { 'new_value': 15,
+                                                                  'old_value': 14},
+                      "root['KQCircuits']['bounties'][1]['labels'][0]": { 'new_value': 'good '
+                                                                                       'first '
+                                                                                       'issue',
+                                                                          'old_value': 'FEM'},
+                      "root['KQCircuits']['bounties'][1]['labels'][1]": { 'new_value': 'FEM',
+                                                                          'old_value': 'geometry'},
+                      "root['KQCircuits']['bounties'][1]['labels'][2]": { 'new_value': 'geometry',
+                                                                          'old_value': 'unitaryhack-bounty'},
+                      "root['KQCircuits']['bounties'][4]['labels'][1]": { 'new_value': 'good '
+                                                                                       'first '
+                                                                                       'issue',
+                                                                          'old_value': 'unitaryhack-bounty'},
+                      "root['KQCircuits']['bounties'][5]['labels'][1]": { 'new_value': 'good '
+                                                                                       'first '
+                                                                                       'issue',
+                                                                          'old_value': 'unitaryhack-bounty'},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 81,
+                                                              'old_value': 82},
+                      "root['PennyLane']['forks_count']": { 'new_value': 387,
+                                                            'old_value': 386},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 225,
+                                                                  'old_value': 223},
+                      "root['PennyLane']['subscribers_count']": { 'new_value': 54,
+                                                                  'old_value': 53},
+                      "root['PyQIR']['forks_count']": { 'new_value': 14,
+                                                        'old_value': 13},
+                      "root['Qiskit Nature']['forks_count']": { 'new_value': 136,
+                                                                'old_value': 135},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 87,
+                                                                      'old_value': 86},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1691,
+                                                         'old_value': 1690},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 824,
+                                                               'old_value': 823},
+                      "root['Qiskit']['subscribers_count']": { 'new_value': 218,
+                                                               'old_value': 217},
+                      "root['Qrack']['open_issues_count']": { 'new_value': 14,
+                                                              'old_value': 13},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 148,
+                                                              'old_value': 149},
+                      "root['scqubits']['open_issues_count']": { 'new_value': 12,
+                                                                 'old_value': 11}}}
