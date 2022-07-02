@@ -1,0 +1,12 @@
+Changes to unitaryHACK results
+updated 02/07/2022 12:04:56
+--------------------
+Value of root['NetKet']['forks_count'] changed from 138 to 137.
+Value of root['Covalent']['open_issues_count'] changed from 155 to 156.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 156,
+                                                                 'old_value': 155},
+                      "root['NetKet']['forks_count']": { 'new_value': 137,
+                                                         'old_value': 138}}}
