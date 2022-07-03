@@ -1,0 +1,12 @@
+Changes to unitaryHACK results
+updated 03/07/2022 12:05:24
+--------------------
+Value of root['Qiskit']['forks_count'] changed from 1691 to 1690.
+Value of root['Covalent']['open_issues_count'] changed from 154 to 152.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 152,
+                                                                 'old_value': 154},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1690,
+                                                         'old_value': 1691}}}
