@@ -1,0 +1,18 @@
+Changes to unitaryHACK results
+updated 03/07/2022 00:17:16
+--------------------
+Value of root['Qiskit']['forks_count'] changed from 1690 to 1691.
+Value of root['NetKet']['subscribers_count'] changed from 24 to 25.
+Value of root['Covalent']['open_issues_count'] changed from 156 to 154.
+Value of root['QuTiP']['open_issues_count'] changed from 145 to 143.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 154,
+                                                                 'old_value': 156},
+                      "root['NetKet']['subscribers_count']": { 'new_value': 25,
+                                                               'old_value': 24},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1691,
+                                                         'old_value': 1690},
+                      "root['QuTiP']['open_issues_count']": { 'new_value': 143,
+                                                              'old_value': 145}}}
