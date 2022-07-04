@@ -1,0 +1,30 @@
+Changes to unitaryHACK results
+updated 04/07/2022 12:15:35
+--------------------
+Value of root['Qiskit']['forks_count'] changed from 1690 to 1692.
+Value of root['Qiskit']['open_issues_count'] changed from 831 to 829.
+Value of root['quantumalgorithms.org']['forks_count'] changed from 39 to 38.
+Value of root['Covalent']['forks_count'] changed from 18 to 17.
+Value of root['Covalent']['open_issues_count'] changed from 152 to 154.
+Value of root['Pulser']['open_issues_count'] changed from 24 to 25.
+Value of root['Metriq']['forks_count'] changed from 1 to 0.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 87 to 86.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Covalent']['forks_count']": { 'new_value': 17,
+                                                           'old_value': 18},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 154,
+                                                                 'old_value': 152},
+                      "root['Metriq']['forks_count']": { 'new_value': 0,
+                                                         'old_value': 1},
+                      "root['Pulser']['open_issues_count']": { 'new_value': 25,
+                                                               'old_value': 24},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 86,
+                                                                      'old_value': 87},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1692,
+                                                         'old_value': 1690},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 829,
+                                                               'old_value': 831},
+                      "root['quantumalgorithms.org']['forks_count']": { 'new_value': 38,
+                                                                        'old_value': 39}}}
