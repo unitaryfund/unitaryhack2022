@@ -1,0 +1,42 @@
+Changes to unitaryHACK results
+updated 05/07/2022 00:15:07
+--------------------
+Value of root['PennyLane']['open_issues_count'] changed from 225 to 224.
+Value of root['Qrack']['forks_count'] changed from 24 to 23.
+Value of root['Qiskit']['open_issues_count'] changed from 829 to 827.
+Value of root['Covalent']['open_issues_count'] changed from 154 to 153.
+Value of root['Pulser']['open_issues_count'] changed from 25 to 24.
+Value of root['Mitiq']['open_issues_count'] changed from 79 to 80.
+Value of root['Qiskit Nature']['forks_count'] changed from 136 to 135.
+Value of root['QuTiP']['forks_count'] changed from 535 to 534.
+Value of root['PyQrack']['forks_count'] changed from 5 to 4.
+Value of root['Yao']['open_issues_count'] changed from 26 to 25.
+Value of root['toqito']['forks_count'] changed from 31 to 30.
+Value of root['KQCircuits']['forks_count'] changed from 33 to 32.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 153,
+                                                                 'old_value': 154},
+                      "root['KQCircuits']['forks_count']": { 'new_value': 32,
+                                                             'old_value': 33},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 80,
+                                                              'old_value': 79},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 224,
+                                                                  'old_value': 225},
+                      "root['Pulser']['open_issues_count']": { 'new_value': 24,
+                                                               'old_value': 25},
+                      "root['PyQrack']['forks_count']": { 'new_value': 4,
+                                                          'old_value': 5},
+                      "root['Qiskit Nature']['forks_count']": { 'new_value': 135,
+                                                                'old_value': 136},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 827,
+                                                               'old_value': 829},
+                      "root['Qrack']['forks_count']": { 'new_value': 23,
+                                                        'old_value': 24},
+                      "root['QuTiP']['forks_count']": { 'new_value': 534,
+                                                        'old_value': 535},
+                      "root['Yao']['open_issues_count']": { 'new_value': 25,
+                                                            'old_value': 26},
+                      "root['toqito']['forks_count']": { 'new_value': 30,
+                                                         'old_value': 31}}}
