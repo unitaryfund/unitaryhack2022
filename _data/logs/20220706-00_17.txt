@@ -1,0 +1,33 @@
+Changes to unitaryHACK results
+updated 06/07/2022 00:17:20
+--------------------
+Value of root['PennyLane']['open_issues_count'] changed from 224 to 225.
+Value of root['Qiskit']['forks_count'] changed from 1694 to 1695.
+Value of root['Covalent']['open_issues_count'] changed from 154 to 157.
+Value of root['Mitiq']['open_issues_count'] changed from 82 to 81.
+Value of root['Metriq']['open_issues_count'] changed from 54 to 55.
+Value of root['Qiskit Nature']['forks_count'] changed from 135 to 136.
+Value of root['Qiskit Nature']['open_issues_count'] changed from 86 to 88.
+Value of root['PyZX']['forks_count'] changed from 69 to 70.
+Value of root['PyZX']['open_issues_count'] changed from 15 to 16.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Covalent']['open_issues_count']": { 'new_value': 157,
+                                                                 'old_value': 154},
+                      "root['Metriq']['open_issues_count']": { 'new_value': 55,
+                                                               'old_value': 54},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 81,
+                                                              'old_value': 82},
+                      "root['PennyLane']['open_issues_count']": { 'new_value': 225,
+                                                                  'old_value': 224},
+                      "root['PyZX']['forks_count']": { 'new_value': 70,
+                                                       'old_value': 69},
+                      "root['PyZX']['open_issues_count']": { 'new_value': 16,
+                                                             'old_value': 15},
+                      "root['Qiskit Nature']['forks_count']": { 'new_value': 136,
+                                                                'old_value': 135},
+                      "root['Qiskit Nature']['open_issues_count']": { 'new_value': 88,
+                                                                      'old_value': 86},
+                      "root['Qiskit']['forks_count']": { 'new_value': 1695,
+                                                         'old_value': 1694}}}
