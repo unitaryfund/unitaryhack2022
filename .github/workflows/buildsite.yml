@@ -4,8 +4,6 @@ on:
     inputs: {}
   push:
     branches: [ main ]
-  schedule:
-    - cron: '0 0,12 * * *' # runs 2x a day
 
 jobs:
   update_data:
