@@ -1,0 +1,24 @@
+Changes to unitaryHACK results
+updated 06/07/2022 20:32:47
+--------------------
+Value of root['Qiskit']['open_issues_count'] changed from 831 to 834.
+Value of root['Covalent']['open_issues_count'] changed from 159 to 160.
+Value of root['Bloqade']['open_issues_count'] changed from 38 to 39.
+Value of root['Mitiq']['open_issues_count'] changed from 82 to 79.
+Value of root['Metriq']['open_issues_count'] changed from 55 to 56.
+Value of root['scqubits']['forks_count'] changed from 49 to 50.
+
+Full Details:
+--------------------
+{ 'values_changed': { "root['Bloqade']['open_issues_count']": { 'new_value': 39,
+                                                                'old_value': 38},
+                      "root['Covalent']['open_issues_count']": { 'new_value': 160,
+                                                                 'old_value': 159},
+                      "root['Metriq']['open_issues_count']": { 'new_value': 56,
+                                                               'old_value': 55},
+                      "root['Mitiq']['open_issues_count']": { 'new_value': 79,
+                                                              'old_value': 82},
+                      "root['Qiskit']['open_issues_count']": { 'new_value': 834,
+                                                               'old_value': 831},
+                      "root['scqubits']['forks_count']": { 'new_value': 50,
+                                                           'old_value': 49}}}
